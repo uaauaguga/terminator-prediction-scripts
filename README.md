@@ -8,7 +8,30 @@ Code for "A Conserved, Protective Stem Loop Structure Irrespective of Rho Factor
   - `run/get-folding-energy.sh`: Get folding energy of upstream sequence of transcript 3' ends, and random sequences
   
 - Data augmentation of traning instances
-  
+  - `run/hmmsearch.sh`: Identify homolog of genes with experimentally supported terminator in at least 3 phyla
+  - Assign hitted genes to clusters
+  ```{bash}
+  for i in {0..9};do jsub "scripts/gene-assignment.py $i";done
+  ```
+  - Get candidate intervals and extract candidate sequences, and group by genes and clades for motif discovery
+  ```{bash}
+  run/get-candidate-intervals.py
+  for i in {0..9};do "bedtools getfasta -name -s -fi otus.combined.${i}.fa -fo ${i}.fa -bed output/candidate-intervals/${i}.bed > log/get.sequence.${i}.log 2>&1";done
+  run/group-candidate-sequence-by-genes.py
+  ```
+  - `run/run-cmfinder.sh`: run motif discovery with cmfinder
+  - `run/motif-filtering.sh`: discard redundant motifs, MSA with few sequence / few structure
+  - `run/run-cmsearch.sh`: search other gene clusters
+  - `run/count-hits-by-genes.sh`: count hits of each motif to other genes
+  - `run/get-selected-motifs.sh`: further filtering
+  - model calibration and search original sequences
+  ```{bash}
+  run/reformat-cm.sh
+  run/cailbrate-cm.sh
+  run/align-back.sh
+  scripts/get-back-align-coverage.py
+  ```
+  - `run/prepare-data-1212.py`: prepare dataset for training
   
 - Performance evaluation  
 
@@ -25,10 +48,12 @@ scripts/triplet-training.py --encoder-config config/RNA.encoder.medium.json --tr
   - `run/term-encoding.sh`: Get the numeric embedding
   
 - Analysis putative rho binding sites
+  - `run/search-rho-domain.sh`: homolog search of rho proteins
   - `run/extract-terminators-flanking-sequences.sh`: extract sequence flanking putative primary TES
   
   
 - Analysis of AMR genes
+  - `run/run-amrfinder-GEMs.sh`: scan AMR genes with amrfinder
 
   
   

@@ -1,0 +1,1484 @@
+NC_003210.1	156	157	chromosomal replication initiation protein	1643	+	.|>	inf,161	concordant	unassigned	.|NP_463534.1
+NC_003210.1	1844	1845	DNA polymerase III subunit beta	10	+	>|>	172,22	concordant	leader	NP_463534.1|NP_463535.1
+NC_003210.1	4611	4612	YaaA protein	153	+	>|>	148,32	concordant	leader	NP_463536.1|NP_463537.1
+NC_003210.1	10697	10698	cardiolipin synthase	26	+	>|>	105,30	concordant	leader	NP_463540.1|NP_463541.1
+NC_003210.1	12875	12876	mevalonate kinase	67	+	>|>	100,42	concordant	leader	NP_463542.1|NP_463543.1
+NC_003210.1	16024	16025	AA3-600 quinol oxidase subunit II	11	+	>|>	151,194	concordant	orphan	NP_463545.1|NP_463546.1
+NC_003210.1	21619	21620	beta-glucosidase	22	+	<|>	194,32	concordant	leader	NP_463550.1|NP_463551.1
+NC_003210.1	23976	23977	hypothetical protein	108	-	<|>	24,217	concordant	leader	NP_463552.1|NP_463553.1
+NC_003210.1	24147	24148	transcriptional regulator GntR family	26	+	<|>	195,46	concordant	leader	NP_463552.1|NP_463553.1
+NC_003210.1	28964	28965	PTS system- beta-glucosides specific enzyme IIABC	90	+	>|>	70,135	concordant	downstream	NP_463559.1|NP_463560.1
+NC_003210.1	28964	28965	rli71		-	>|>	70,135	discordant	downstream	NP_463559.1|NP_463560.1
+NC_003210.1	31064	31065	similar microcin C7 self-immunity protein MccF	7	+	>|>	61,23	concordant	leader	NP_463560.1|NP_463561.1
+NC_003210.1	32161	32162	hypothetical protein	664	+	>|>	199,35	concordant	leader	NP_463561.1|NP_463562.1
+NC_003210.1	34484	34485	LacI family transcription regulator	5	-	<|>	33,169	concordant	leader	NP_463564.1|NP_463565.1
+NC_003210.1	34595	34596	xylose repressor	5	+	<|>	144,58	concordant	leader	NP_463564.1|NP_463565.1
+NC_003210.1	40639	40640	putrescine carbamoyltransferase	74	+	>|>	170,65	concordant	leader	NP_463568.1|NP_463569.1
+NC_003210.1	45300	45301	agmatine deiminase	125	+	>|>	78,24	concordant	leader	NP_463572.1|NP_463573.1
+NC_003210.1	47300	47301	similar DedA protein	17	+	>|>	71,34	concordant	leader	NP_463574.1|NP_463575.1
+NC_003210.1	48066	48067	arginine deiminase	11	+	>|>	73,7	concordant	leader	NP_463575.1|NP_463576.1
+NC_003210.1	49453	49454	30S ribosomal protein S6	158	+	>|>	148,131	concordant	orphan	NP_463576.1|NP_463577.1
+NC_003210.1	49914	49915	highly single-strand binding protein SSB	210	+	>|>	37,19	concordant	leader	NP_463577.1|NP_463578.1
+NC_003210.1	50483	50484	30S ribosomal protein S18	105	+	>|>	14,30	concordant	downstream	NP_463578.1|NP_463579.1
+NC_003210.1	50876	50877	hypothetical protein	83	+	>|>	124,30	concordant	leader	NP_463579.1|NP_463580.1
+NC_003210.1	51762	51763	putative accessory gene regulator protein	13018	+	>|>	245,12	concordant	leader	NP_463580.1|NP_463581.1
+NC_003210.1	52607	52608	sensor histidine kinase AgrC from Staphylococcus	24	+	>|>	74,22	concordant	leader	NP_463582.1|NP_463583.1
+NC_003210.1	54791	54792	YybT protein	42	+	>|>	120,47	concordant	leader	NP_463584.1|NP_463585.1
+NC_003210.1	58835	58836	adenylosuccinate synthetase	645	+	>|>	198,61	concordant	leader	NP_463587.1|NP_463588.1
+NC_003210.1	60463	60464	a small heat shock protein of Clostridium acetobutylicum	28	+	>|>	275,42	concordant	leader	NP_463588.1|NP_463589.1
+NC_003210.1	77597	77598	rli115		+	>|>	192,265	concordant	orphan	NP_463604.1|NP_463605.1
+NC_003210.1	77830	77831	hypothetical protein	41	+	>|>	425,32	concordant	leader	NP_463604.1|NP_463605.1
+NC_003210.1	81548	81549	hypothetical protein	37	-	<|>	19,112	concordant	leader	NP_463610.1|NP_463611.1
+NC_003210.1	81629	81630	phosphoglycerate dehydrogenase	325	+	<|>	100,31	concordant	leader	NP_463610.1|NP_463611.1
+NC_003210.1	82705	82706	tRNA-Lys	1985	+	>|>	89,253	concordant	downstream	NP_463611.1|NP_463612.1
+NC_003210.1	87782	87783	oxidoreductases	5	-	<|>	53,338	concordant	leader	NP_463617.1|NP_463618.1
+NC_003210.1	103156	103157	hypothetical protein	7	+	>|>	129,47	concordant	leader	NP_463627.1|NP_463628.1
+NC_003210.1	104111	104112	PTS system mannose-specific- factor IIAB	54	+	>|>	276,22	concordant	leader	NP_463628.1|NP_463629.1
+NC_003210.1	106955	106956	hypothetical protein	46	+	>|>	94,32	concordant	leader	NP_463631.1|NP_463632.1
+NC_003210.1	107478	107479	hypothetical protein	37	+	>|>	102,20	concordant	leader	NP_463632.1|NP_463633.1
+NC_003210.1	108208	108209	transcription regulator	5	-	<|>	1,111	concordant	leader	NP_463634.1|NP_463635.1
+NC_003210.1	109321	109322	hypothetical protein	742	+	>|>	66,27	concordant	leader	NP_463636.1|NP_463637.1
+NC_003210.1	109866	109867	highly chitinase B	508	+	>|>	147,146	concordant	orphan	NP_463637.1|NP_463638.1
+NC_003210.1	112359	112360	transcription regulator	38	+	>|>	77,26	concordant	leader	NP_463638.1|NP_463639.1
+NC_003210.1	116938	116939	transcriptional regulatory proteins- AraC family	27	+	<|>	110,33	concordant	leader	NP_463641.1|NP_463642.1
+NC_003210.1	119045	119046	hypothetical protein	31	+	>|>	90,17	concordant	leader	NP_463643.1|NP_463644.1
+NC_003210.1	121152	121153	protein gp35 from Bacteriophage A118	8	-	genic	0	concordant	gene:inside	NP_463647.1
+NC_003210.1	121471	121472	putative repressor C1 from lactococcal bacteriophage Tuc2009	164	-	<|>	25,192	concordant	leader	NP_463647.1|NP_463648.1
+NC_003210.1	121570	121571	Antigen D	7	+	<|>	124,93	concordant	leader	NP_463647.1|NP_463648.1
+NC_003210.1	122577	122578	antigen B	148	+	>|>	58,220	concordant	downstream	NP_463649.1|NP_463650.1
+NC_003210.1	123196	123197	antigen A	47	+	>|>	10,3	concordant	leader	NP_463650.1|NP_463651.1
+NC_003210.1	133827	133828	5-nucleotidase- putative peptidoglycan bound protein LPXTG motif	140	-	<|>	55,133	concordant	leader	NP_463663.1|NP_463664.1
+NC_003210.1	133908	133909	hypothetical protein	80	+	<|>	136,52	concordant	leader	NP_463663.1|NP_463664.1
+NC_003210.1	136332	136333	inosine 5-monophosphate dehydrogenase	26	-	<|>	43,136	concordant	leader	NP_463665.1|NP_463666.1
+NC_003210.1	136438	136439	E. coli YjdI protein	157	+	<|>	149,30	concordant	leader	NP_463665.1|NP_463666.1
+NC_003210.1	136710	136711	E. coli YjdJ protein	6	+	>|>	9,3	concordant	leader	NP_463666.1|NP_463667.1
+NC_003210.1	137100	137101	oligopeptide ABC transport system substrate-binding proteins	636	+	>|>	109,222	concordant	downstream	NP_463667.1|NP_463668.1
+NC_003210.1	141013	141014	hypothetical protein	6	+	>|>	161,38	concordant	leader	NP_463670.1|NP_463671.1
+NC_003210.1	143795	143796	rli116		+	>|>	74,190	concordant	downstream	NP_463675.1|YP_008475626.1
+NC_003210.1	145571	145572	rli117		+	>|>	12,297	concordant	downstream	NP_463679.1|NP_463680.1
+NC_003210.1	150037	150038	oligopeptide ABC transporter-binding protein	16	-	<|>	29,194	concordant	leader	NP_463685.1|NP_463686.1
+NC_003210.1	153586	153587	ATP dependent helicase	89	+	<|>	259,21	concordant	leader	NP_463689.1|NP_463690.1
+NC_003210.1	155968	155969	hypothetical protein	50	+	>|>	22,24	concordant	downstream	NP_463690.1|NP_463691.1
+NC_003210.1	162292	162293	hypothetical protein	31	-	<|>	43,174	concordant	leader	NP_463694.1|NP_463695.1
+NC_003210.1	162441	162442	DNA polymerase III subunit delta	161	+	<|>	192,25	concordant	leader	NP_463694.1|NP_463695.1
+NC_003210.1	166995	166996	AbrB transcription regulatory protein	24	-	<|>	25,90	concordant	leader	NP_463701.1|NP_463702.1
+NC_003210.1	167060	167061	glucose uptake protein	260	+	<|>	90,25	concordant	leader	NP_463701.1|NP_463702.1
+NC_003210.1	169473	169474	internalin proteins- putative peptidoglycan bound protein LPXTG motif	20	+	>|>	204,36	concordant	leader	NP_463703.1|NP_463704.1
+NC_003210.1	174793	174794	glucose uptake protein	113	+	<|>	238,40	concordant	leader	NP_463706.1|NP_463707.1
+NC_003210.1	175736	175737	methionyl-tRNA synthetase	108	+	>|>	43,29	concordant	leader	NP_463707.1|NP_463708.1
+NC_003210.1	177865	177866	xylose repressor	6	+	>|>	106,58	concordant	leader	NP_463708.1|NP_463709.1
+NC_003210.1	189598	189599	hypothetical protein	24	+	>|>	71,26	concordant	leader	NP_463715.1|NP_463716.1
+NC_003210.1	190668	190669	YabE protein	233	+	>|>	271,21	concordant	leader	NP_463716.1|NP_463717.1
+NC_003210.1	191988	191989	YabF protein	26	+	>|>	73,29	concordant	leader	NP_463717.1|NP_463718.1
+NC_003210.1	193576	193577	Veg protein	255	+	>|>	104,16	concordant	leader	NP_463719.1|NP_463720.1
+NC_003210.1	193960	193961	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	43	+	>|>	111,28	concordant	leader	NP_463720.1|NP_463721.1
+NC_003210.1	195727	195728	pur operon repressor	11	+	>|>	99,65	concordant	leader	NP_463722.1|NP_463723.1
+NC_003210.1	196729	196730	hypothetical protein	4	+	>|>	119,56	concordant	leader	NP_463723.1|NP_463724.1
+NC_003210.1	199775	199776	rli118		+	>|>	367,318	concordant	orphan	NP_463726.1|NP_463727.1
+NC_003210.1	199957	199958	SpoV	11927	+	>|>	549,136	concordant	orphan	NP_463726.1|NP_463727.1
+NC_003210.1	200410	200411	rli72		+	>|>	9,111	concordant	downstream	NP_463727.1|NP_463728.1
+NC_003210.1	200410	200411	SpoG	7785	-	>|>	9,111	discordant	downstream	NP_463727.1|NP_463728.1
+NC_003210.1	200942	200943	rli73		+	>|>	113,274	concordant	downstream	NP_463728.1|NP_463729.1
+NC_003210.1	201185	201186	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase-glucosamine-1-phosphate acetyltransferase	65	+	>|>	356,31	concordant	leader	NP_463728.1|NP_463729.1
+NC_003210.1	204467	204468	listeriolysin positive regulatory protein	42	-	<|<	115,156	concordant	leader	NP_463731.1|NP_463732.1
+NC_003210.1	205604	205605	phosphatidylinositol-specific phospholipase c	6	-	<|>	28,214	concordant	leader	NP_463732.1|NP_463733.1
+NC_003210.1	205686	205687	listeriolysin O precursor	470	+	<|>	110,132	discordant	leader	NP_463732.1|NP_463733.1
+NC_003210.1	207589	207590	Zinc metalloproteinase precursor	14	+	>|>	182,149	concordant	orphan	NP_463733.1|NP_463734.1
+NC_003210.1	209321	209322	actin-assembly inducing protein precursor	24	+	>|>	51,148	concordant	downstream	NP_463734.1|NP_463735.1
+NC_003210.1	209321	209322	rli74		-	>|>	51,148	discordant	downstream	NP_463734.1|NP_463735.1
+NC_003210.1	213694	213695	hypothetical P	33	-	<|<	27,40	concordant	leader	NP_463739.1|NP_463740.1
+NC_003210.1	214429	214430	hypothetical P	380	-	<|<	21,56	concordant	leader	NP_463740.1|NP_463741.1
+NC_003210.1	215458	215459	L-lactate dehydrogenase	3633	-	<|>	32,262	concordant	leader	NP_463741.1|NP_463742.1
+NC_003210.1	215587	215588	rli119		-	<|>	161,133	discordant	orphan	NP_463741.1|NP_463742.1
+NC_003210.1	215689	215690	50S ribosomal protein L25-general stress protein Ctc	680	+	<|>	263,31	concordant	leader	NP_463741.1|NP_463742.1
+NC_003210.1	216417	216418	hypothetical protein	222	+	>|>	74,16	concordant	leader	NP_463742.1|NP_463743.1
+NC_003210.1	217060	217061	peptidyl-tRNA hydrolase	21	+	>|>	43,64	concordant	downstream	NP_463743.1|NP_463744.1
+NC_003210.1	217779	217780	transcription-repair coupling factor	63	+	>|>	95,20	concordant	leader	NP_463744.1|NP_463745.1
+NC_003210.1	223422	223423	DivIC protein	346	+	>|>	162,67	concordant	leader	NP_463747.1|NP_463748.1
+NC_003210.1	223995	223996	hypothetical protein	30	+	>|>	120,31	concordant	leader	NP_463748.1|NP_463749.1
+NC_003210.1	224473	224474	hypothetical protein	76	+	>|>	19,88	concordant	downstream	NP_463749.1|NP_463750.1
+NC_003210.1	226546	226547	rli120		+	>|>	39,307	concordant	downstream	NP_463750.1|NP_463751.1
+NC_003210.1	226640	226641	highly cell division protein ftsH	30	+	>|>	133,213	concordant	orphan	NP_463750.1|NP_463751.1
+NC_003210.1	229013	229014	pantothenate kinase	10	+	>|>	85,31	concordant	leader	NP_463751.1|NP_463752.1
+NC_003210.1	230808	230809	highly cysteine synthase	489	+	>|>	85,31	concordant	leader	NP_463753.1|NP_463754.1
+NC_003210.1	231884	231885	LhrC-1		+	>|>	119,777	concordant	downstream	NP_463754.1|NP_463755.1
+NC_003210.1	232086	232087	LhrC-2		+	>|>	321,575	concordant	orphan	NP_463754.1|NP_463755.1
+NC_003210.1	232289	232290	LhrC-3		+	>|>	524,372	concordant	orphan	NP_463754.1|NP_463755.1
+NC_003210.1	232492	232493	LhrC-4		+	>|>	727,169	concordant	orphan	NP_463754.1|NP_463755.1
+NC_003210.1	232644	232645	dihydropteroate synthases	342	+	>|>	879,17	concordant	leader	NP_463754.1|NP_463755.1
+NC_003210.1	235489	235490	lysyl-tRNA synthetase	1521	+	>|>	81,34	concordant	leader	NP_463758.1|NP_463759.1
+NC_003210.1	237236	237237	16S rRNA	23	+	>|>	217,11318	concordant	orphan	NP_463759.1|NP_463760.1
+NC_003210.1	248502	248503	CtsR  repressor  of transcription class III stress genes	18	+	>|>	11483,52	concordant	leader	NP_463759.1|NP_463760.1
+NC_003210.1	250591	250592	endopeptidase Clp ATP-binding chain C	9	+	genic	0	concordant	gene:5'	NP_463763.1
+NC_003210.1	253178	253179	DNA repair protein RadA	88	+	>|>	125,21	concordant	leader	NP_463763.1|NP_463764.1
+NC_003210.1	254641	254642	YacL protein	185	+	>|>	69,65	concordant	leader	NP_463764.1|NP_463765.1
+NC_003210.1	258552	258553	serine O-acetyltransferase	26	+	>|>	95,303	concordant	downstream	NP_463768.1|NP_463769.1
+NC_003210.1	262064	262065	Yacp protein	24	+	genic	0	concordant	gene:5'	NP_463773.1
+NC_003210.1	263306	263307	50S ribosomal protein L33	240	+	>|>	45,59	concordant	downstream	NP_463774.1|NP_463775.1
+NC_003210.1	263754	263755	transcription antitermination protein NusG	47	+	>|>	41,89	concordant	downstream	NP_463776.1|NP_463777.1
+NC_003210.1	264945	264946	50S ribosomal protein L11	310	+	>|>	44,83	concordant	downstream	NP_463778.1|NP_463779.1
+NC_003210.1	266237	266238	50S ribosomal protein L10	475	+	>|>	55,193	concordant	downstream	NP_463780.1|NP_463781.1
+NC_003210.1	267503	267504	repressor penicilinase repressor	60	+	>|>	132,26	concordant	leader	NP_463782.1|NP_463783.1
+NC_003210.1	270348	270349	hypothetical protein	136	+	>|>	92,23	concordant	leader	NP_463786.1|NP_463787.1
+NC_003210.1	271014	271015	rli24		+	>|>	38,309	concordant	downstream	NP_463787.1|NP_463788.1
+NC_003210.1	272765	272766	DNA-directed RNA polymerase subunit beta	472	+	>|>	264,237	concordant	orphan	NP_463788.1|NP_463789.1
+NC_003210.1	280392	280393	hypothetical protein	15	+	>|>	60,17	concordant	leader	NP_463790.1|NP_463791.1
+NC_003210.1	280989	280990	phospho-beta-glucosidase	58	+	>|>	35,31	concordant	leader	NP_463791.1|NP_463792.1
+NC_003210.1	284308	284309	internalin H	190	+	>|>	82,56	concordant	leader	NP_463793.1|NP_463794.1
+NC_003210.1	284308	284309	internalin H	190	-	>|>	82,56	discordant	leader	NP_463793.1|NP_463794.1
+NC_003210.1	287826	287827	succinyl-diaminopimelate desuccinylase	2050	+	>|>	109,26	concordant	leader	NP_463795.1|NP_463796.1
+NC_003210.1	289119	289120	transcriptional regulators	265	+	>|>	128,19	concordant	leader	NP_463796.1|NP_463797.1
+NC_003210.1	290567	290568	phosphoglycerate mutase	175	+	>|>	47,25	concordant	leader	NP_463798.1|NP_463799.1
+NC_003210.1	295324	295325	highly phospho-beta-glucosidase	29	-	<|<	44,76	concordant	leader	NP_463802.1|NP_463803.1
+NC_003210.1	296241	296242	YxeH protein	55	-	<|>	29,107	concordant	leader	NP_463803.1|NP_463804.1
+NC_003210.1	296320	296321	hypothetical protein	98	+	<|>	108,28	concordant	leader	NP_463803.1|NP_463804.1
+NC_003210.1	297658	297659	hypothetical protein	9	-	<|<	108,151	concordant	leader	NP_463805.1|NP_463806.1
+NC_003210.1	299514	299515	hypothetical protein	5	-	<|>	25,92	concordant	leader	NP_463807.1|NP_463808.1
+NC_003210.1	299570	299571	oxidoreductase	83	+	<|>	81,36	concordant	leader	NP_463807.1|NP_463808.1
+NC_003210.1	301747	301748	sugar ABC transporter- ATP-binding protein	126	-	<|>	31,260	concordant	leader	NP_463809.1|NP_463810.1
+NC_003210.1	301975	301976	anaerobic ribonucleoside triphosphate reductase	294	+	<|>	259,32	concordant	leader	NP_463809.1|NP_463810.1
+NC_003210.1	306578	306579	hypothetical protein	127	-	<|<	25,65	concordant	leader	NP_463813.1|NP_463814.1
+NC_003210.1	309385	309386	putative lipoprotein	311	-	<|>	231,152	discordant	orphan	NP_463816.1|NP_463817.1
+NC_003210.1	309510	309511	transaminase	28	+	<|>	356,27	concordant	leader	NP_463816.1|NP_463817.1
+NC_003210.1	310794	310795	two-component response regulator	214	+	>|>	76,137	concordant	downstream	NP_463817.1|NP_463818.1
+NC_003210.1	311796	311797	two-component sensor histidine kinase	3	+	>|>	152,33	concordant	leader	NP_463818.1|NP_463819.1
+NC_003210.1	315916	315917	YycJ protein	29	+	>|>	94,28	concordant	leader	NP_463821.1|NP_463822.1
+NC_003210.1	316838	316839	heat-shock protein htrA serine protease	184	+	>|>	64,34	concordant	leader	NP_463822.1|NP_463823.1
+NC_003210.1	318784	318785	rli146		+	>|>	410,264	concordant	orphan	NP_463823.1|NP_463824.1
+NC_003210.1	319024	319025	rRNA large subunit methyltransferase	179	+	>|>	650,24	concordant	leader	NP_463823.1|NP_463824.1
+NC_003210.1	324033	324034	transcriptional antiterminator BglG family	8	-	<|<	29,70	concordant	leader	NP_463828.1|NP_463829.1
+NC_003210.1	327476	327477	PTS beta-glucoside-specific enzyme IIA component	37	-	<|>	23,144	concordant	leader	NP_463832.1|NP_463833.1
+NC_003210.1	327586	327587	hypothetical protein	11	+	<|>	133,34	concordant	leader	NP_463832.1|NP_463833.1
+NC_003210.1	327889	327890	putaive secreted- lysin rich protein	227	+	genic	0	concordant	gene:3'	NP_463833.1
+NC_003210.1	328662	328663	hypothetical protein	53	+	>|>	168,38	concordant	leader	NP_463834.1|NP_463835.1
+NC_003210.1	333492	333493	hypothetical protein	12	+	>|>	805,41	concordant	leader	NP_463838.1|NP_463839.1
+NC_003210.1	340093	340094	thiamin biosynthesis protein	638	+	>|>	39,184	concordant	downstream	NP_463844.1|NP_463845.1
+NC_003210.1	344771	344772	rli76		-	<|<	136,78	concordant	downstream	NP_463849.1|NP_463850.1
+NC_003210.1	346317	346318	hypothetical protein	8	+	<|>	269,59	concordant	leader	NP_463850.1|NP_463851.1
+NC_003210.1	348463	348464	hypothetical protein	9	-	<|>	36,122	concordant	leader	NP_463853.1|NP_463854.1
+NC_003210.1	348568	348569	hypothetical protein	8	+	<|>	141,17	concordant	leader	NP_463853.1|NP_463854.1
+NC_003210.1	349222	349223	transcriptional regulators	30	+	>|>	158,103	concordant	leader	NP_463854.1|NP_463855.1
+NC_003210.1	351361	351362	cell surface proteins LPXTG motif	122	+	>|>	98,97	concordant	leader	NP_463856.1|NP_463857.1
+NC_003210.1	356552	356553	transposase	47	+	>|>	230,14	concordant	leader	NP_463858.1|NP_463859.1
+NC_003210.1	366465	366466	hypothetical protein	90	+	>|>	194,42	concordant	leader	NP_463863.1|NP_463864.1
+NC_003210.1	367218	367219	hypothetical P	6	+	>|>	187,29	concordant	leader	NP_463864.1|NP_463865.1
+NC_003210.1	371093	371094	hypothetical P	141	-	<|<	30,36	concordant	leader	NP_463871.1|NP_463872.1
+NC_003210.1	378820	378821	phosphotransferase (mannnose) - specific family component IIA	16	-	<|>	40,143	concordant	leader	NP_463881.1|NP_463882.1
+NC_003210.1	378924	378925	regulatory protein DeoR family	143	+	<|>	144,39	concordant	leader	NP_463881.1|NP_463882.1
+NC_003210.1	381805	381806	fatty-acid--CoA ligase	227	-	<|>	27,210	concordant	leader	NP_463884.1|NP_463885.1
+NC_003210.1	381961	381962	fumarate reductase flavoprotein subunit	3027	+	<|>	183,54	concordant	leader	NP_463884.1|NP_463885.1
+NC_003210.1	383659	383660	oxidoreductase	59	+	>|>	124,50	concordant	leader	NP_463885.1|NP_463886.1
+NC_003210.1	384883	384884	PTS system- enzyme IIA component	8	+	>|>	158,42	concordant	leader	NP_463886.1|NP_463887.1
+NC_003210.1	388707	388708	rli26		-	<|<	30,99	concordant	leader	YP_008475627.1|NP_463891.1
+NC_003210.1	389759	389760	hypothetical	32	-	<|<	43,53	concordant	leader	NP_463892.1|NP_463893.1
+NC_003210.1	395573	395574	hypothetical protein	80	+	>|>	45,28	concordant	leader	NP_463897.1|NP_463898.1
+NC_003210.1	396169	396170	YeeI protein	119	+	>|>	59,38	concordant	leader	NP_463898.1|NP_463899.1
+NC_003210.1	396936	396937	hypothetical P	53	+	>|>	10,27	concordant	downstream	NP_463899.1|NP_463900.1
+NC_003210.1	398079	398080	GntR transcription reg ulator	34	-	<|>	27,130	concordant	leader	NP_463901.1|NP_463902.1
+NC_003210.1	401367	401368	hypothetical protein	119	+	>|>	69,18	concordant	leader	NP_463904.1|NP_463905.1
+NC_003210.1	402595	402596	putative transcription regulator	13	-	<|>	57,45	concordant	leader	NP_463906.1|NP_463907.1
+NC_003210.1	402605	402606	hypothetical protein	55	+	<|>	67,35	concordant	leader	NP_463906.1|NP_463907.1
+NC_003210.1	406585	406586	IolA methylmalonate-semialdehyde dehydrogenase IolA	16	+	<|>	145,51	concordant	leader	NP_463912.1|NP_463913.1
+NC_003210.1	411958	411959	YhdG protein	139	+	>|>	99,33	concordant	leader	NP_463916.1|NP_463917.1
+NC_003210.1	412423	412424	hypothetical protein	15	+	>|>	61,33	concordant	leader	NP_463917.1|NP_463918.1
+NC_003210.1	413992	413993	low temperature requirement protein A	2	-	<|>	29,102	concordant	leader	NP_463919.1|NP_463920.1
+NC_003210.1	414058	414059	uracil-DNA glycosylase	47	+	<|>	95,36	concordant	leader	NP_463919.1|NP_463920.1
+NC_003210.1	414897	414898	hypothetical protein	10	+	>|>	138,30	concordant	leader	NP_463920.1|NP_463921.1
+NC_003210.1	416774	416775	L. monocytogenes extracellular P60 protein	207	+	>|>	123,21	concordant	leader	NP_463923.1|NP_463924.1
+NC_003210.1	418795	418796	pyrroline-5-carboxylate reductase	29	-	<|>	33,95	concordant	leader	NP_463926.1|NP_463927.1
+NC_003210.1	418869	418870	hypothetical protein	52	+	<|>	107,21	concordant	leader	NP_463926.1|NP_463927.1
+NC_003210.1	419509	419510	phosphotransferase system enzyme IIA	2131	+	>|>	137,34	concordant	leader	NP_463927.1|NP_463928.1
+NC_003210.1	426163	426164	hypothetical protein	46	+	>|>	100,26	concordant	leader	NP_463932.1|NP_463933.1
+NC_003210.1	427071	427072	phosphate transport protein	6	+	>|>	77,32	concordant	leader	NP_463934.1|NP_463935.1
+NC_003210.1	428551	428552	hypothetical protein	13	+	>|>	45,24	concordant	leader	NP_463936.1|NP_463937.1
+NC_003210.1	434817	434818	rli27		+	<|<	73,127	discordant	leader	NP_463940.1|NP_463941.1
+NC_003210.1	435846	435847	hypothetical protein	215	-	<|>	30,314	concordant	leader	NP_463941.1|NP_463942.1
+NC_003210.1	436132	436133	hypothetical protein	121	+	<|>	316,28	concordant	leader	NP_463941.1|NP_463942.1
+NC_003210.1	437438	437439	endo-1-4-beta-xylanase	5380	+	>|>	251,43	concordant	leader	NP_463943.1|NP_463944.1
+NC_003210.1	438981	438982	putative transcription regulator	7	+	>|>	100,27	concordant	leader	NP_463944.1|NP_463945.1
+NC_003210.1	439999	440000	hypothetical protein	49	-	<|<	24,56	concordant	leader	NP_463947.1|NP_463948.1
+NC_003210.1	440653	440654	hypothetical protein	9	-	<|>	44,104	concordant	leader	NP_463948.1|NP_463949.1
+NC_003210.1	440729	440730	hypothetical protein	9	+	<|>	120,28	concordant	leader	NP_463948.1|NP_463949.1
+NC_003210.1	443870	443871	RNA polymerase factor sigma C	22	-	<|<	20,160	concordant	leader	NP_463952.1|NP_463953.1
+NC_003210.1	444918	444919	Staphylococcus xylosus glucose uptake protein	9	-	<|>	31,130	concordant	leader	NP_463953.1|NP_463954.1
+NC_003210.1	445030	445031	transcription antiterminator BglG family	35	+	<|>	143,18	concordant	leader	NP_463953.1|NP_463954.1
+NC_003210.1	452461	452462	transcriptional regulator LysR family	6	-	<|>	56,62	concordant	leader	NP_463959.1|NP_463960.1
+NC_003210.1	452497	452498	acetyltransferase	93	+	<|>	92,26	concordant	leader	NP_463959.1|NP_463960.1
+NC_003210.1	454324	454325	internalin A	10	+	>|>	472,209	concordant	orphan	NP_463961.1|NP_463962.1
+NC_003210.1	457012	457013	internalin B	41	+	>|>	77,8	concordant	leader	NP_463962.1|NP_463963.1
+NC_003210.1	469543	469544	hypothetical protein	18	+	<|>	107,31	concordant	leader	NP_463968.1|NP_463969.1
+NC_003210.1	472187	472188	penicillin-binding protein D-alanyl-D-alanine carboxypeptidase	53	-	<|>	30,142	concordant	leader	NP_463970.1|NP_463971.1
+NC_003210.1	472311	472312	hypothetical protein	3	+	<|>	154,18	concordant	leader	NP_463970.1|NP_463971.1
+NC_003210.1	472755	472756	LytR transcription regulator LytR	1053	+	>|>	112,25	concordant	leader	NP_463971.1|NP_463972.1
+NC_003210.1	476901	476902	transcription regulator	9	+	>|>	186,58	concordant	leader	NP_463973.1|NP_463974.1
+NC_003210.1	483139	483140	hypothetical protein	455	+	>|>	272,26	concordant	leader	YP_008475628.1|NP_463978.1
+NC_003210.1	485399	485400	hypothetical protein	89	-	<|<	25,93	concordant	leader	NP_463980.1|NP_463981.1
+NC_003210.1	489801	489802	YeaC	18	-	<|>	53,103	concordant	leader	NP_463983.1|NP_463984.1
+NC_003210.1	489887	489888	hypothetical protein	40	+	<|>	139,17	concordant	leader	NP_463983.1|NP_463984.1
+NC_003210.1	491595	491596	permeases	10	+	>|>	96,38	concordant	leader	NP_463984.1|NP_463985.1
+NC_003210.1	495786	495787	rli121		+	>|>	226,594	concordant	orphan	NP_463987.1|NP_463988.1
+NC_003210.1	502780	502781	hypothetical protein	50	+	<|>	121,118	concordant	leader	NP_463994.1|NP_463995.1
+NC_003210.1	506334	506335	weakly site-specific DNA-methyltransferase	97	+	>|>	112,33	concordant	leader	NP_463998.1|NP_463999.1
+NC_003210.1	507068	507069	rli78		+	>|>	72,654	concordant	downstream	NP_463999.1|NP_464000.1
+NC_003210.1	507161	507162	rli122		-	>|>	165,561	discordant	orphan	NP_463999.1|NP_464000.1
+NC_003210.1	507372	507373	rli28		-	>|>	376,350	discordant	orphan	NP_463999.1|NP_464000.1
+NC_003210.1	507544	507545	hypothetical protein	23	+	>|>	548,178	concordant	orphan	NP_463999.1|NP_464000.1
+NC_003210.1	507632	507633	rli29		-	>|>	636,90	discordant	leader	NP_463999.1|NP_464000.1
+NC_003210.1	509222	509223	hypothetical protein	6	+	>|>	490,177	concordant	orphan	NP_464000.1|NP_464001.1
+NC_003210.1	513287	513288	oxetanocin A resistance protein oxrB	7	-	<|>	20,716	concordant	leader	NP_464004.1|NP_464005.1
+NC_003210.1	513848	513849	putative secreted protein	105	+	<|>	581,155	concordant	orphan	NP_464004.1|NP_464005.1
+NC_003210.1	514655	514656	putative secreted protein	5	+	>|>	275,25	concordant	leader	NP_464005.1|NP_464006.1
+NC_003210.1	516050	516051	putative transcriptional regulator	8	+	>|>	301,25	concordant	leader	NP_464007.1|NP_464008.1
+NC_003210.1	516722	516723	myosin-cross-reactive antigen	123	+	>|>	87,23	concordant	leader	NP_464008.1|NP_464009.1
+NC_003210.1	518564	518565	ribosomal RNA large subunit methyltransferase N	27	+	>|>	119,32	concordant	leader	NP_464009.1|NP_464010.1
+NC_003210.1	519759	519760	hypothetical protein	584	+	>|>	60,29	concordant	leader	NP_464010.1|NP_464011.1
+NC_003210.1	520378	520379	heme-degrading monooxygenase IsdG	449	+	>|>	111,47	concordant	leader	NP_464011.1|NP_464012.1
+NC_003210.1	520927	520928	hypothetical protein	12	+	>|>	137,33	concordant	leader	NP_464012.1|NP_464013.1
+NC_003210.1	521574	521575	50S ribosomal protein L32	1201	+	>|>	39,26	concordant	leader	NP_464013.1|NP_464014.1
+NC_003210.1	521825	521826	hypothetical protein	45	+	>|>	55,37	concordant	leader	NP_464014.1|NP_464015.1
+NC_003210.1	523642	523643	NADH:flavin oxidoreductase	4	+	<|>	122,76	concordant	leader	NP_464016.1|NP_464017.1
+NC_003210.1	526728	526729	3-dehydroquinate dehydratase	40	+	>|>	41,25	concordant	leader	NP_464018.1|NP_464019.1
+NC_003210.1	530486	530487	weakly esterase	157	+	<|>	164,28	concordant	leader	NP_464021.1|NP_464022.1
+NC_003210.1	531148	531149	rli65		+	>|>	41,145	concordant	downstream	NP_464022.1|NP_464023.1
+NC_003210.1	531199	531200	transmembrane protein	10	+	>|>	92,94	concordant	downstream	NP_464022.1|NP_464023.1
+NC_003210.1	536169	536170	transcription antiterminator BglG family	7	+	>|>	92,17	concordant	leader	NP_464028.1|NP_464029.1
+NC_003210.1	543169	543170	phosphoribosyl pyrophosphate synthetase	391	+	>|>	108,32	concordant	leader	NP_464036.1|NP_464037.1
+NC_003210.1	544238	544239	rliB		+	>|>	102,684	concordant	downstream	NP_464037.1|NP_464038.1
+NC_003210.1	544883	544884	hypothetical protein	25	+	>|>	747,39	concordant	leader	NP_464037.1|NP_464038.1
+NC_003210.1	545583	545584	hypothetical protein	3	+	>|>	83,25	concordant	leader	NP_464038.1|NP_464039.1
+NC_003210.1	547162	547163	weakly transcription regulator	148	-	<|>	25,357	concordant	leader	NP_464041.1|NP_464042.1
+NC_003210.1	549409	549410	hypothetical protein	227	+	>|>	73,28	concordant	leader	NP_464042.1|NP_464043.1
+NC_003210.1	552417	552418	phosphoglycerate mutase	16	-	<|<	136,145	concordant	orphan	NP_464045.1|NP_464046.1
+NC_003210.1	552417	552418	rli52		+	<|<	136,145	discordant	orphan	NP_464045.1|NP_464046.1
+NC_003210.1	552949	552950	hypothetical protein	4	-	<|>	19,128	concordant	leader	NP_464046.1|NP_464047.1
+NC_003210.1	553040	553041	multidrug resistance protein	34	+	<|>	110,37	concordant	leader	NP_464046.1|NP_464047.1
+NC_003210.1	554571	554572	transcription regulator	8	+	>|>	79,52	concordant	leader	NP_464047.1|NP_464048.1
+NC_003210.1	557042	557043	6-phospho-beta-glucosidase	13	-	<|>	67,135	concordant	leader	NP_464049.1|NP_464050.1
+NC_003210.1	557162	557163	transcription regulator	15	+	<|>	187,15	concordant	leader	NP_464049.1|NP_464050.1
+NC_003210.1	558025	558026	YybC protein	5	+	>|>	96,11	concordant	leader	NP_464050.1|NP_464051.1
+NC_003210.1	560253	560254	putative sulfate transporter	4	-	<|>	67,189	concordant	leader	NP_464052.1|NP_464053.1
+NC_003210.1	560402	560403	hypothetical protein	266	+	<|>	216,40	concordant	leader	NP_464052.1|NP_464053.1
+NC_003210.1	562733	562734	transmembrane protein	27	+	<|>	175,55	concordant	leader	NP_464054.1|NP_464055.1
+NC_003210.1	569978	569979	hypothetical protein	32	+	>|>	31,29	concordant	leader	NP_464059.1|NP_464060.1
+NC_003210.1	570890	570891	ACT domain-containing protein	250	+	>|>	53,25	concordant	leader	NP_464060.1|NP_464061.1
+NC_003210.1	573598	573599	transcription regulator LacI family	48	-	<|>	31,141	concordant	leader	NP_464063.1|NP_464064.1
+NC_003210.1	573697	573698	6-phospho-beta-glucosidase	64	+	<|>	130,42	concordant	leader	NP_464063.1|NP_464064.1
+NC_003210.1	575152	575153	allantoate amidohydrolase	19	+	>|>	91,13	concordant	leader	NP_464064.1|NP_464065.1
+NC_003210.1	578699	578700	tagatose 1-6-diphosphate aldolase	356	-	<|>	52,186	concordant	leader	NP_464067.1|NP_464068.1
+NC_003210.1	578860	578861	penicillin-binding protein	22	+	<|>	213,25	concordant	leader	NP_464067.1|NP_464068.1
+NC_003210.1	581083	581084	ABC transporter binding protein	44	-	<|<	45,66	concordant	leader	NP_464069.1|NP_464070.1
+NC_003210.1	586023	586024	DeoR transcriptional regulator	8	-	<|>	62,305	concordant	leader	NP_464075.1|NP_464076.1
+NC_003210.1	592069	592070	hypothetical protein	982	-	<|>	23,187	concordant	leader	NP_464081.1|NP_464082.1
+NC_003210.1	592218	592219	NADH-dependent butanol dehydrogenase	120	+	<|>	172,38	concordant	leader	NP_464081.1|NP_464082.1
+NC_003210.1	593447	593448	di-tripeptide transporter	11	+	>|>	10,80	concordant	downstream	NP_464082.1|NP_464083.1
+NC_003210.1	595106	595107	phosphoglycerate mutase	139	+	>|>	101,28	concordant	leader	NP_464083.1|NP_464084.1
+NC_003210.1	597649	597650	hypothetical protein	23	-	<|>	30,370	concordant	leader	NP_464086.1|NP_464087.1
+NC_003210.1	597806	597807	rli31		+	<|>	187,213	discordant	orphan	NP_464086.1|NP_464087.1
+NC_003210.1	597815	597816	hypothetical protein	300	+	<|>	196,204	discordant	orphan	NP_464086.1|NP_464087.1
+NC_003210.1	600476	600477	glutamate dehydrogenase	50	-	<|<	133,360	concordant	orphan	NP_464088.1|NP_464089.1
+NC_003210.1	600750	600751	rli32		-	<|<	407,86	concordant	downstream	NP_464088.1|NP_464089.1
+NC_003210.1	607326	607327	histidinol-phosphatase	235	+	<|>	107,45	concordant	leader	NP_464097.1|NP_464098.1
+NC_003210.1	608504	608505	methyltransferase	43	-	<|>	25,52	concordant	leader	NP_464099.1|NP_464100.1
+NC_003210.1	611100	611101	hypothetical protein	359	-	<|>	177,139	discordant	orphan	NP_464101.1|NP_464102.1
+NC_003210.1	611216	611217	beta-glucosidase	77	+	<|>	293,23	concordant	leader	NP_464101.1|NP_464102.1
+NC_003210.1	612653	612654	transcription regulator GntR family	120	+	>|>	20,24	concordant	downstream	NP_464102.1|NP_464103.1
+NC_003210.1	616604	616605	hypothetical protein	1068	-	<|>	28,137	concordant	leader	NP_464106.1|NP_464107.1
+NC_003210.1	616703	616704	hypothetical protein	385	+	<|>	127,38	concordant	leader	NP_464106.1|NP_464107.1
+NC_003210.1	620456	620457	invasion associated secreted endopeptidase	424	-	<|>	77,348	concordant	leader	NP_464110.1|NP_464111.1
+NC_003210.1	620788	620789	preprotein translocase subunit SecA	177	+	<|>	409,16	concordant	leader	NP_464110.1|NP_464111.1
+NC_003210.1	623204	623205	hypothetical protein	56	+	>|>	70,46	concordant	leader	NP_464111.1|NP_464112.1
+NC_003210.1	629058	629059	DNA photolyase	32	+	>|>	88,29	concordant	leader	NP_464115.1|NP_464116.1
+NC_003210.1	630494	630495	hypothetical protein	23	+	>|>	4,134	concordant	downstream	NP_464116.1|NP_464117.1
+NC_003210.1	633652	633653	hypothetical protein	104	+	>|>	72,56	concordant	leader	NP_464119.1|NP_464120.1
+NC_003210.1	634434	634435	transport proteins formate	43	+	>|>	184,44	concordant	leader	NP_464120.1|NP_464121.1
+NC_003210.1	637940	637941	O-acetylhomoserine sulfhydrylase	81	-	<|>	224,224	concordant	orphan	NP_464123.1|NP_464124.1
+NC_003210.1	638100	638101	hypothetical protein	384	+	<|>	384,64	concordant	leader	NP_464123.1|NP_464124.1
+NC_003210.1	639512	639513	transcription regulator CRP-FNR family	25	-	<|<	31,45	concordant	leader	NP_464125.1|YP_008475631.1
+NC_003210.1	640232	640233	hypothetical protein	59	+	<|>	127,67	concordant	leader	YP_008475631.1|NP_464126.1
+NC_003210.1	642372	642373	weakly transcription regulator	36	+	>|>	65,41	concordant	leader	NP_464128.1|NP_464129.1
+NC_003210.1	643366	643367	hypothetical protein	9	-	<|<	19,33	concordant	leader	NP_464130.1|NP_464131.1
+NC_003210.1	643771	643772	YvlA protein	16	-	<|<	28,119	concordant	leader	NP_464131.1|NP_464132.1
+NC_003210.1	645261	645262	hypothetical protein	28	-	<|>	31,135	concordant	leader	NP_464132.1|NP_464133.1
+NC_003210.1	645363	645364	MarR regulator family	60	+	<|>	133,33	concordant	leader	NP_464132.1|NP_464133.1
+NC_003210.1	649494	649495	phage shock P E. coli	149	+	>|>	91,25	concordant	leader	NP_464135.1|NP_464136.1
+NC_003210.1	651656	651657	internalin proteins - putative peptidoglycan bound protein LPXTG motif	3	-	<|<	24,137	concordant	leader	NP_464137.1|NP_464138.1
+NC_003210.1	652450	652451	azoreductase	32	-	<|>	31,138	concordant	leader	NP_464138.1|NP_464139.1
+NC_003210.1	652568	652569	transcription regulator MarR family	20	+	<|>	149,20	concordant	leader	NP_464138.1|NP_464139.1
+NC_003210.1	654059	654060	hypothetical protein	50	+	>|>	78,18	concordant	leader	NP_464140.1|NP_464141.1
+NC_003210.1	654881	654882	hypothetical protein	3	-	<|>	32,75	concordant	leader	NP_464142.1|NP_464143.1
+NC_003210.1	657269	657270	hypothetical protein	21	-	<|<	27,53	concordant	leader	NP_464144.1|NP_464145.1
+NC_003210.1	658492	658493	protein kinase	97	-	<|>	28,79	concordant	leader	NP_464145.1|NP_464146.1
+NC_003210.1	658549	658550	hypothetical protein	10	+	<|>	85,22	concordant	leader	NP_464145.1|NP_464146.1
+NC_003210.1	659058	659059	hypothetical protein	42	+	>|>	32,24	concordant	leader	NP_464146.1|NP_464147.1
+NC_003210.1	660381	660382	hypothetical protein	87	+	>|>	70,16	concordant	leader	NP_464148.1|NP_464149.1
+NC_003210.1	662186	662187	hypothetical protein	43	-	<|<	16,70	concordant	leader	NP_464152.1|NP_464153.1
+NC_003210.1	663985	663986	hypothetical protein	107	-	<|>	50,256	concordant	leader	NP_464153.1|NP_464154.1
+NC_003210.1	669062	669063	hypothetical protein	43	+	>|>	73,23	concordant	leader	NP_464154.1|NP_464155.1
+NC_003210.1	669389	669390	hypothetical protein	13	+	>|>	29,33	concordant	downstream	NP_464155.1|NP_464156.1
+NC_003210.1	677616	677617	tRNA-Ser	147	-	>|>	222,877	discordant	orphan	NP_464164.1|NP_464165.1
+NC_003210.1	679724	679725	a transcription regulator surface protein PAg negative regulator par	22	+	>|>	602,38	concordant	leader	NP_464165.1|NP_464166.1
+NC_003210.1	680335	680336	oxidoreductase	203	+	>|>	40,24	concordant	leader	NP_464166.1|NP_464167.1
+NC_003210.1	681412	681413	heavy metal-transporting ATPase	63	+	>|>	136,130	concordant	orphan	NP_464167.1|NP_464168.1
+NC_003210.1	683502	683503	hypothetical protein	203	+	>|>	80,16	concordant	leader	NP_464168.1|NP_464169.1
+NC_003210.1	684361	684362	putative transaldolase	79	+	>|>	115,28	concordant	leader	NP_464169.1|NP_464170.1
+NC_003210.1	686954	686955	hypothetical protein	19	-	<|>	52,183	concordant	leader	NP_464171.1|NP_464172.1
+NC_003210.1	687113	687114	amino acid transporter	20	+	<|>	211,24	concordant	leader	NP_464171.1|NP_464172.1
+NC_003210.1	688593	688594	hypothetical protein	77	+	>|>	65,25	concordant	leader	NP_464172.1|NP_464173.1
+NC_003210.1	689860	689861	hypothetical protein	22	-	<|>	36,62	concordant	leader	NP_464174.1|NP_464175.1
+NC_003210.1	694299	694300	transcription regulator	6	+	>|>	29,17	concordant	leader	NP_464177.1|NP_464178.1
+NC_003210.1	696433	696434	hypothetical protein	30	-	<|>	18,172	concordant	leader	NP_464180.1|NP_464181.1
+NC_003210.1	696575	696576	hypothetical protein	3229	+	<|>	160,30	concordant	leader	NP_464180.1|NP_464181.1
+NC_003210.1	698235	698236	hypothetical protein	22	-	<|>	39,81	concordant	leader	NP_464183.1|NP_464184.1
+NC_003210.1	698302	698303	hypothetical protein	29	+	<|>	106,14	concordant	leader	NP_464183.1|NP_464184.1
+NC_003210.1	700478	700479	transposases	11	+	<|>	173,58	concordant	leader	NP_464186.1|NP_464187.1
+NC_003210.1	702984	702985	hypothetical protein	22	-	<|>	31,143	concordant	leader	NP_464190.1|NP_464191.1
+NC_003210.1	703100	703101	acetyl transferase	498	+	<|>	147,27	concordant	leader	NP_464190.1|NP_464191.1
+NC_003210.1	704423	704424	ABC transporter ATP-binding protein	62	+	>|>	86,28	concordant	leader	NP_464193.1|NP_464194.1
+NC_003210.1	705287	705288	putative ABC transporter- permease protein	12	+	genic	0	concordant	gene:inside	NP_464194.1
+NC_003210.1	706268	706269	oxidoreductase	42	+	>|>	119,139	concordant	downstream	NP_464195.1|NP_464196.1
+NC_003210.1	707578	707579	hypothetical protein	196	+	>|>	93,33	concordant	leader	NP_464197.1|NP_464198.1
+NC_003210.1	708618	708619	rli33-2		+	>|>	399,515	concordant	orphan	NP_464198.1|NP_464199.1
+NC_003210.1	709104	709105	hypothetical protein	31	+	>|>	885,29	concordant	leader	NP_464198.1|NP_464199.1
+NC_003210.1	710795	710796	hypothetical protein	109	-	<|>	47,325	concordant	leader	NP_464201.1|NP_464202.1
+NC_003210.1	724848	724849	flagellin	1239	+	>|>	191,47	concordant	leader	NP_464216.1|NP_464217.1
+NC_003210.1	725982	725983	chemotaxis response regulator CheY	36	+	>|>	224,51	concordant	leader	NP_464217.1|NP_464218.1
+NC_003210.1	737221	737222	hypothetical protein	17	+	>|>	60,47	concordant	leader	NP_464229.1|NP_464230.1
+NC_003210.1	749950	749951	hypothetical protein	46	+	>|>	88,34	concordant	leader	NP_464245.1|NP_464246.1
+NC_003210.1	751476	751477	putative fibronectin-binding protein	44	-	<|>	150,121	discordant	leader	NP_464248.1|NP_464249.1
+NC_003210.1	751557	751558	pyruvate oxidase	115	+	<|>	231,40	concordant	leader	NP_464248.1|NP_464249.1
+NC_003210.1	753463	753464	metyl-accepting chemotaxis protein	7	+	>|>	136,26	concordant	leader	NP_464249.1|NP_464250.1
+NC_003210.1	756315	756316	peptidoglycan binding protein	146	-	<|>	25,178	concordant	leader	NP_464252.1|NP_464253.1
+NC_003210.1	756425	756426	hypothetical protein	3560	+	<|>	135,68	concordant	leader	NP_464252.1|NP_464253.1
+NC_003210.1	756738	756739	glucosamine--fructose-6-phosphate aminotransferase	18	+	genic	0	concordant	gene:5'	NP_464254.1
+NC_003210.1	758636	758637	riboflavin kinase - FAD synthase	28	+	>|>	94,19	concordant	leader	NP_464254.1|NP_464255.1
+NC_003210.1	759447	759448	hypothetical protein	8	+	>|>	52,31	concordant	leader	NP_464255.1|NP_464256.1
+NC_003210.1	760425	760426	hypothetical protein	1526	+	>|>	116,29	concordant	leader	NP_464257.1|NP_464258.1
+NC_003210.1	771715	771716	putative transcription regulator	2	-	<|>	31,233	concordant	leader	NP_464267.1|NP_464268.1
+NC_003210.1	777182	777183	hypothetical protein	27	+	>|>	81,26	concordant	leader	NP_464274.1|NP_464275.1
+NC_003210.1	781067	781068	hypothetical protein	16	+	>|>	80,35	concordant	leader	NP_464281.1|NP_464282.1
+NC_003210.1	787038	787039	rli80		+	>|>	47,281	concordant	downstream	NP_464288.1|NP_464289.1
+NC_003210.1	788610	788611	hypothetical protein	23	+	>|>	35,31	concordant	leader	NP_464289.1|NP_464290.1
+NC_003210.1	797219	797220	transcriptional regulator LacI family	41	-	<|>	27,133	concordant	leader	NP_464297.1|NP_464298.1
+NC_003210.1	797329	797330	hypothetical protein	36	+	<|>	137,23	concordant	leader	NP_464297.1|NP_464298.1
+NC_003210.1	798109	798110	transcription regulator	16	+	>|>	5,31	concordant	downstream	NP_464298.1|NP_464299.1
+NC_003210.1	799851	799852	alcohol dehydrogenase	42	-	<|>	35,144	concordant	leader	NP_464300.1|NP_464301.1
+NC_003210.1	799931	799932	hypothetical protein	452	+	<|>	115,64	concordant	leader	NP_464300.1|NP_464301.1
+NC_003210.1	802227	802228	transcription regulator repressor	13	-	<|>	26,128	concordant	leader	NP_464303.1|NP_464304.1
+NC_003210.1	802327	802328	hypothetical protein	198	+	<|>	126,28	concordant	leader	NP_464303.1|NP_464304.1
+NC_003210.1	803123	803124	hypothetical protein	78	+	>|>	385,77	concordant	leader	NP_464304.1|NP_464305.1
+NC_003210.1	804249	804250	hypothetical protein	347	-	<|>	38,132	concordant	leader	NP_464306.1|NP_464307.1
+NC_003210.1	807287	807288	mannose-specific phosphotransferase system PTS component IIB	14	-	genic	0	concordant	gene:inside	NP_464311.1
+NC_003210.1	807886	807887	mannose-specific phosphotransferase system PTS component IIA	156	-	<|<	198,89	concordant	downstream	NP_464311.1|NP_464312.1
+NC_003210.1	810955	810956	acyl-carrier protein phosphodiesterase and to NADPH dehydrogenase	135	+	<|>	164,29	concordant	leader	NP_464312.1|NP_464313.1
+NC_003210.1	811739	811740	amino acid transporter	60	+	>|>	120,73	concordant	leader	NP_464313.1|NP_464314.1
+NC_003210.1	813305	813306	hypothetical protein	1030	+	>|>	117,145	concordant	downstream	NP_464314.1|NP_464315.1
+NC_003210.1	819325	819326	transcription regulator EbsC from Enterococcus faecalis	12	-	<|>	61,63	concordant	leader	NP_464317.1|NP_464318.1
+NC_003210.1	819360	819361	hypothetical protein	2386	+	<|>	96,28	concordant	leader	NP_464317.1|NP_464318.1
+NC_003210.1	820120	820121	conserved hypothetical protein	55	+	>|>	82,24	concordant	leader	NP_464318.1|NP_464319.1
+NC_003210.1	821796	821797	conserved hypothetical protein	3	-	<|<	26,89	concordant	leader	NP_464320.1|NP_464321.1
+NC_003210.1	822573	822574	YwnB protein	299	-	<|<	47,37	concordant	downstream	NP_464321.1|NP_464322.1
+NC_003210.1	823560	823561	hypothetical protein	55	-	<|<	30,77	concordant	leader	NP_464322.1|NP_464323.1
+NC_003210.1	824207	824208	hypothetical protein	395	-	<|>	40,215	concordant	leader	NP_464323.1|NP_464324.1
+NC_003210.1	824407	824408	hypothetical protein	367	+	<|>	240,15	concordant	leader	NP_464323.1|NP_464324.1
+NC_003210.1	826710	826711	lysine-specific permease	36	-	<|<	315,41	concordant	downstream	NP_464325.1|NP_464326.1
+NC_003210.1	827541	827542	hypothetical protein	184	-	<|>	29,124	concordant	leader	NP_464326.1|NP_464327.1
+NC_003210.1	827652	827653	YqkB protein	58	+	<|>	140,13	concordant	leader	NP_464326.1|NP_464327.1
+NC_003210.1	830228	830229	weakly GTP-pyrophosphokinase	24	+	>|>	121,30	concordant	leader	NP_464328.1|NP_464329.1
+NC_003210.1	830998	830999	putative Na+-H+ antiporter	11	+	>|>	102,26	concordant	leader	NP_464329.1|NP_464330.1
+NC_003210.1	834105	834106	hypothetical protein	10	-	<|>	30,181	concordant	leader	NP_464332.1|NP_464333.1
+NC_003210.1	838720	838721	carbonic anhydrase	112	+	>|>	100,30	concordant	leader	NP_464337.1|NP_464338.1
+NC_003210.1	839493	839494	hypothetical protein	222	+	>|>	42,26	concordant	leader	NP_464338.1|NP_464339.1
+NC_003210.1	840166	840167	fructokinases	1125	+	>|>	105,33	concordant	leader	NP_464339.1|NP_464340.1
+NC_003210.1	841125	841126	oxidoreductases	37	+	>|>	54,31	concordant	leader	NP_464340.1|NP_464341.1
+NC_003210.1	842275	842276	transcription regulators	10	+	>|>	190,37	concordant	leader	NP_464341.1|NP_464342.1
+NC_003210.1	843748	843749	E. coli PhnB protein	166	-	<|>	25,200	concordant	leader	NP_464344.1|NP_464345.1
+NC_003210.1	847526	847527	some similarity to acatyltransferases	12	+	>|>	85,25	concordant	leader	NP_464346.1|NP_464347.1
+NC_003210.1	849288	849289	oxydoreductases	150	+	<|>	96,25	concordant	leader	NP_464349.1|NP_464350.1
+NC_003210.1	852664	852665	transport protein	115	+	>|>	160,39	concordant	leader	NP_464352.1|NP_464353.1
+NC_003210.1	854428	854429	transposases	47	+	>|>	91,14	concordant	leader	NP_464353.1|NP_464354.1
+NC_003210.1	855722	855723	highly pyruvate-flavodoxin oxidoreductase	1274	+	>|>	142,36	concordant	leader	NP_464355.1|NP_464356.1
+NC_003210.1	859521	859522	rli36		-	>|<	116,134	discordant	downstream	NP_464356.1|NP_464357.1
+NC_003210.1	861644	861645	highly fructose-1-6-bisphosphatase	5	-	<|<	28,86	concordant	leader	NP_464357.1|NP_464358.1
+NC_003210.1	862938	862939	rli123		+	<|>	297,383	discordant	orphan	NP_464358.1|NP_464359.1
+NC_003210.1	867026	867027	phosphate-starvation-inducible protein PsiE	7	-	<|>	37,136	concordant	leader	NP_464363.1|YP_008475632.1
+NC_003210.1	868950	868951	sugar phosphate antiporter	3	+	>|>	151,144	concordant	orphan	YP_008475632.1|NP_464364.1
+NC_003210.1	872436	872437	hypothetical protein	83	-	<|>	27,179	concordant	leader	NP_464366.1|NP_464367.1
+NC_003210.1	872588	872589	cation calcium transporting ATPase	267	+	<|>	179,27	concordant	leader	NP_464366.1|NP_464367.1
+NC_003210.1	882292	882293	YsdA	85	-	<|>	44,35	concordant	leader	NP_464369.1|NP_464370.1
+NC_003210.1	882302	882303	hypothetical protein	53	+	<|>	54,25	concordant	leader	NP_464369.1|NP_464370.1
+NC_003210.1	882759	882760	YxjH and YxjG proteins	53	+	>|>	55,202	concordant	downstream	NP_464370.1|NP_464371.1
+NC_003210.1	884150	884151	excinuclease ABC- chain C UvrC	8	+	>|>	86,19	concordant	leader	NP_464371.1|NP_464372.1
+NC_003210.1	885371	885372	Glutamine ABC transporter binding and transport protein	90	+	>|>	102,68	concordant	leader	NP_464372.1|NP_464373.1
+NC_003210.1	889995	889996	hypothetical protein	681	+	<|>	494,73	concordant	leader	NP_464375.1|NP_464376.1
+NC_003210.1	890392	890393	hypothetical protein	500	+	>|>	178,46	concordant	leader	NP_464376.1|NP_464377.1
+NC_003210.1	891250	891251	transcription regulator TetR-AcrR family	14	+	>|>	54,26	concordant	leader	NP_464377.1|NP_464378.1
+NC_003210.1	892638	892639	D-alanyl-alanine synthetase A	24	+	>|>	127,23	concordant	leader	NP_464380.1|NP_464381.1
+NC_003210.1	895210	895211	carboxylesterase	22	+	genic	0	concordant	gene:3'	NP_464382.1
+NC_003210.1	897053	897054	transcription regulator lacI family	76	-	<|>	26,219	concordant	leader	NP_464384.1|NP_464385.1
+NC_003210.1	897222	897223	putative sugar ABC transporter- periplasmic sugar-binding protein	5	+	<|>	195,50	concordant	leader	NP_464384.1|NP_464385.1
+NC_003210.1	905685	905686	rli81		+	>|>	176,276	concordant	orphan	NP_464391.1|NP_464392.1
+NC_003210.1	907526	907527	rli37		+	>|>	3,127	concordant	downstream	NP_464392.1|YP_008475633.1
+NC_003210.1	907913	907914	hypothetical protein	2	+	>|>	84,65	concordant	leader	YP_008475633.1|NP_464393.1
+NC_003210.1	909145	909146	hypothetical protein	27	+	<|>	90,13	concordant	leader	NP_464394.1|NP_464395.1
+NC_003210.1	910942	910943	rli82		-	<|>	73,55	concordant	leader	NP_464397.1|NP_464398.1
+NC_003210.1	910944	910945	YtcD protein	14	-	<|>	75,53	concordant	leader	NP_464397.1|NP_464398.1
+NC_003210.1	918993	918994	wall associated protein precursor LPXTG motif	381	+	>|>	92,26	concordant	leader	NP_464405.1|NP_464406.1
+NC_003210.1	921040	921041	YdbS protein	24	+	<|>	113,21	concordant	leader	NP_464407.1|NP_464408.1
+NC_003210.1	923124	923125	protoporphyrinogen oxidase	584	+	>|>	113,36	concordant	leader	NP_464409.1|NP_464410.1
+NC_003210.1	926193	926194	YdcD protein	8882	+	>|>	171,35	concordant	leader	NP_464412.1|NP_464413.1
+NC_003210.1	927079	927080	highly positive regulator of sigma-B activity	37	+	>|>	222,30	concordant	leader	NP_464414.1|NP_464415.1
+NC_003210.1	928738	928739	highly serine phosphatase RsbU	13	+	genic	0	concordant	gene:5'	NP_464418.1
+NC_003210.1	929863	929864	anti-anti-sigma factor antagonist of RsbW	1245	+	>|>	122,28	concordant	leader	NP_464418.1|NP_464419.1
+NC_003210.1	932139	932140	transport proteins	32	+	>|>	90,117	concordant	downstream	NP_464422.1|NP_464423.1
+NC_003210.1	933931	933932	hypothetical protein	44	+	>|>	50,27	concordant	leader	NP_464423.1|NP_464424.1
+NC_003210.1	936645	936646	tRNA-Asn	28	+	>|>	43,340	concordant	downstream	NP_464425.1|YP_008475634.1
+NC_003210.1	936729	936730	tRNA-Ser	102	+	>|>	127,256	concordant	downstream	NP_464425.1|YP_008475634.1
+NC_003210.1	937176	937177	hypothetical protein	58	+	>|>	30,25	concordant	leader	YP_008475634.1|NP_464426.1
+NC_003210.1	939062	939063	transcription regulator GntR family	1599	+	>|>	38,43	concordant	downstream	NP_464427.1|NP_464428.1
+NC_003210.1	940017	940018	tRNA-Glu	374	+	>|>	199,298	concordant	orphan	NP_464428.1|NP_464429.1
+NC_003210.1	940116	940117	tRNA-Asp	600321	+	>|>	298,199	concordant	orphan	NP_464428.1|NP_464429.1
+NC_003210.1	940274	940275	hypothetical protein	78	+	>|>	456,41	concordant	leader	NP_464428.1|NP_464429.1
+NC_003210.1	940783	940784	hypothetical protein	436	+	>|>	88,26	concordant	leader	NP_464429.1|NP_464430.1
+NC_003210.1	941565	941566	hypothetical protein	328	+	>|>	82,49	concordant	leader	NP_464430.1|NP_464431.1
+NC_003210.1	942065	942066	glutathione reductase	576	+	genic	0	concordant	gene:inside	NP_464431.1
+NC_003210.1	943497	943498	phosphoglycerate mutase	98	+	>|>	1,28	concordant	downstream	NP_464432.1|NP_464433.1
+NC_003210.1	945410	945411	membrane proteins	39	-	<|>	32,109	concordant	leader	NP_464434.1|NP_464435.1
+NC_003210.1	945496	945497	GntR regulator - (transcription) family	181	+	<|>	118,23	concordant	leader	NP_464434.1|NP_464435.1
+NC_003210.1	947047	947048	hypothetical protein	855	+	>|>	30,53	concordant	downstream	NP_464436.1|NP_464437.1
+NC_003210.1	947678	947679	transporters formate	1267	+	>|>	75,39	concordant	leader	NP_464437.1|NP_464438.1
+NC_003210.1	948706	948707	succinate semialdehyde dehydrogenase	915	+	>|>	177,47	concordant	leader	NP_464438.1|NP_464439.1
+NC_003210.1	950338	950339	PTS system IIB component	523	+	>|>	119,24	concordant	leader	NP_464439.1|NP_464440.1
+NC_003210.1	955824	955825	rli53		+	>|>	85,206	concordant	downstream	NP_464444.1|NP_464445.1
+NC_003210.1	957691	957692	YcgR protein	5	+	>|>	90,32	concordant	leader	NP_464445.1|NP_464446.1
+NC_003210.1	959665	959666	pantothenate kinase	58	+	>|>	44,45	concordant	downstream	NP_464447.1|NP_464448.1
+NC_003210.1	960712	960713	ABC transporter- ATP-binding protein N-terminal part	122	+	>|>	82,35	concordant	leader	NP_464448.1|NP_464449.1
+NC_003210.1	965360	965361	hypothetical protein	37	-	<|>	106,152	concordant	leader	NP_464452.1|NP_464453.1
+NC_003210.1	966227	966228	sortase	37	+	>|>	92,17	concordant	leader	NP_464453.1|NP_464454.1
+NC_003210.1	966999	967000	YhfI protein	163	+	>|>	87,29	concordant	leader	NP_464454.1|NP_464455.1
+NC_003210.1	969454	969455	hypothetical protein	8	-	<|<	31,94	concordant	leader	NP_464457.1|NP_464458.1
+NC_003210.1	970656	970657	sugar transferase	161	-	<|>	161,380	concordant	orphan	NP_464458.1|NP_464459.1
+NC_003210.1	970867	970868	tRNA-Gly	3397	+	<|>	372,169	concordant	orphan	NP_464458.1|NP_464459.1
+NC_003210.1	970975	970976	YhbA protein	9	+	<|>	480,61	concordant	leader	NP_464458.1|NP_464459.1
+NC_003210.1	972184	972185	CspR protein- rRNA methylase homolog	8	+	>|>	9,12	concordant	downstream	NP_464459.1|NP_464460.1
+NC_003210.1	973704	973705	hypothetical P	1194	-	<|<	35,53	concordant	leader	NP_464462.1|NP_464463.1
+NC_003210.1	974989	974990	hypothetical protein	267	-	<|<	15,81	concordant	leader	NP_464464.1|NP_464465.1
+NC_003210.1	978885	978886	HSP90 family protein	81	-	<|>	30,173	concordant	leader	NP_464467.1|NP_464468.1
+NC_003210.1	979023	979024	non-heme iron-binding ferritin	17738	+	<|>	168,35	concordant	leader	NP_464467.1|NP_464468.1
+NC_003210.1	979722	979723	YneR protein	196	+	>|>	194,39	concordant	leader	NP_464468.1|NP_464469.1
+NC_003210.1	980160	980161	ComEC protein and to ComEA	4	+	>|>	97,16	concordant	leader	NP_464469.1|NP_464470.1
+NC_003210.1	981621	981622	LhrC-5		+	>|<	78,121	concordant	downstream	NP_464471.1|NP_464472.1
+NC_003210.1	983679	983680	transcription regulator	7	-	<|>	34,88	concordant	leader	NP_464473.1|NP_464474.1
+NC_003210.1	983748	983749	hypothetical protein	85	+	<|>	103,19	concordant	leader	NP_464473.1|NP_464474.1
+NC_003210.1	986592	986593	hypothetical protein	10	-	<|>	29,129	concordant	leader	NP_464476.1|NP_464477.1
+NC_003210.1	986694	986695	hypothetical protein	630	+	<|>	131,27	concordant	leader	NP_464476.1|NP_464477.1
+NC_003210.1	987250	987251	hypothetical protein	2522	+	>|>	71,23	concordant	leader	NP_464477.1|NP_464478.1
+NC_003210.1	987604	987605	hypothetical protein	31	+	>|>	104,130	concordant	downstream	NP_464478.1|NP_464479.1
+NC_003210.1	989027	989028	N-acetylglucosamine-6P-phosphate deacetylase EC 3.5.1.25	10	+	>|>	118,71	concordant	leader	NP_464480.1|NP_464481.1
+NC_003210.1	991781	991782	undacaprenyl-phosphate N-acetylglucosaminyltransferase	15	+	>|>	92,28	concordant	leader	NP_464483.1|NP_464484.1
+NC_003210.1	992947	992948	proteases	1255	+	>|>	83,30	concordant	leader	NP_464484.1|NP_464485.1
+NC_003210.1	995131	995132	epitope LemA	200	+	>|>	6,78	concordant	downstream	NP_464486.1|NP_464487.1
+NC_003210.1	997682	997683	YjbH protein	6	-	<|<	126,112	concordant	downstream	NP_464489.1|NP_464490.1
+NC_003210.1	998898	998899	hypothetical protein	31	-	<|>	36,123	concordant	leader	NP_464491.1|NP_464492.1
+NC_003210.1	998978	998979	YjbM protein	71	+	<|>	116,43	concordant	leader	NP_464491.1|NP_464492.1
+NC_003210.1	1001467	1001468	enoyl-acyl carrier protein reductase	634	+	>|>	43,35	concordant	leader	NP_464494.1|NP_464495.1
+NC_003210.1	1003609	1003610	DltD protein for D-alanine esterification of lipoteichoic acid and wall teichoic acid	7	-	genic	0	concordant	gene:3'	NP_464497.1
+NC_003210.1	1006810	1006811	D-alanine--polyphosphoribitol ligase subunit 1	20	-	<|>	243,148	discordant	orphan	NP_464499.1|NP_464500.1
+NC_003210.1	1006917	1006918	ribose-5-phosphate isomerase A	125	+	<|>	350,41	concordant	leader	NP_464499.1|NP_464500.1
+NC_003210.1	1008937	1008938	YjcH protein	39	-	<|>	59,160	concordant	leader	NP_464502.1|NP_464503.1
+NC_003210.1	1009058	1009059	branched-chain amino acid aminotransferase	835	+	<|>	180,39	concordant	leader	NP_464502.1|NP_464503.1
+NC_003210.1	1010237	1010238	daunorubicin resistance ATP-binding proteins	39	+	>|>	121,75	concordant	leader	NP_464503.1|NP_464504.1
+NC_003210.1	1013356	1013357	efflux transporter	71	-	<|>	22,118	concordant	leader	NP_464506.1|NP_464507.1
+NC_003210.1	1013446	1013447	glucanase and peptidase	296	+	<|>	112,28	concordant	leader	NP_464506.1|NP_464507.1
+NC_003210.1	1015135	1015136	weakly two-component response regulator	20	+	>|>	117,17	concordant	leader	NP_464508.1|NP_464509.1
+NC_003210.1	1017841	1017842	peptide chain release factor 3	100	+	>|>	54,28	concordant	leader	NP_464512.1|NP_464513.1
+NC_003210.1	1019517	1019518	regulatory proteins MarR family	69	+	>|>	80,27	concordant	leader	NP_464513.1|NP_464514.1
+NC_003210.1	1021442	1021443	hypothetical protein	43	+	>|>	60,222	concordant	downstream	NP_464515.1|NP_464516.1
+NC_003210.1	1022521	1022522	hypothetical protein	186	+	>|>	90,13	concordant	leader	NP_464516.1|NP_464517.1
+NC_003210.1	1025156	1025157	hypothetical protein	200	-	<|<	28,2	concordant	downstream	NP_464519.1|NP_464520.1
+NC_003210.1	1026349	1026350	methylated-DNA-protein-cystein methyltransferase	61	+	<|>	160,26	concordant	leader	NP_464520.1|NP_464521.1
+NC_003210.1	1029110	1029111	ATP-dependent protease	9	-	<|<	66,97	concordant	leader	NP_464522.1|NP_464523.1
+NC_003210.1	1029852	1029853	hypothetical protein	93	-	<|>	34,112	concordant	leader	NP_464523.1|NP_464524.1
+NC_003210.1	1029948	1029949	hypothetical protein	7	+	<|>	130,16	concordant	leader	NP_464523.1|NP_464524.1
+NC_003210.1	1032253	1032254	phytoene dehydrogenase	41	-	<|<	25,79	concordant	leader	NP_464525.1|NP_464526.1
+NC_003210.1	1032628	1032629	YkvS	31	-	<|>	12,295	concordant	leader	NP_464526.1|NP_464527.1
+NC_003210.1	1032846	1032847	phosphocarrier protein HPr	2248	+	<|>	230,77	concordant	leader	NP_464526.1|NP_464527.1
+NC_003210.1	1034992	1034993	hypothetical protein	6	+	>|>	85,28	concordant	leader	NP_464528.1|NP_464529.1
+NC_003210.1	1038276	1038277	hypothetical protein	14	+	<|>	161,59	concordant	leader	NP_464531.1|NP_464532.1
+NC_003210.1	1038736	1038737	YkuJ protein	457	+	>|>	180,126	concordant	leader	NP_464532.1|NP_464533.1
+NC_003210.1	1039220	1039221	YkuL protein	82	+	>|>	125,76	concordant	leader	NP_464533.1|NP_464534.1
+NC_003210.1	1040644	1040645	tetrahydrodipicolinate succinylase	231	+	>|>	21,27	concordant	downstream	NP_464535.1|NP_464536.1
+NC_003210.1	1043515	1043516	YkuT protein	1097	-	<|>	66,305	concordant	leader	NP_464538.1|NP_464539.1
+NC_003210.1	1043739	1043740	highly glycine betaine ABC transporter ATP-binding protein	134	+	<|>	290,81	concordant	leader	NP_464538.1|NP_464539.1
+NC_003210.1	1046857	1046858	phosphotransferase system glucose-specific enzyme IIA	128	+	>|>	87,28	concordant	leader	NP_464541.1|NP_464542.1
+NC_003210.1	1047462	1047463	E. coli copper homeostasis protein CutC	374	+	>|>	86,27	concordant	leader	NP_464542.1|NP_464543.1
+NC_003210.1	1052472	1052473	hypothetical protein	1957	+	>|>	119,36	concordant	leader	NP_464548.1|NP_464549.1
+NC_003210.1	1057348	1057349	YkzG protein	61	-	<|>	73,412	concordant	leader	NP_464553.1|NP_464554.1
+NC_003210.1	1057621	1057622	rli124		-	<|>	346,139	discordant	orphan	NP_464553.1|NP_464554.1
+NC_003210.1	1057719	1057720	hypothetical protein	45	+	<|>	444,41	concordant	leader	NP_464553.1|NP_464554.1
+NC_003210.1	1059639	1059640	transcriptional regulator- LacI family	9	-	<|>	32,232	concordant	leader	NP_464555.1|NP_464556.1
+NC_003210.1	1070519	1070520	molybdenum ABC transporters permease	14	-	<|>	28,77	concordant	leader	NP_464565.1|NP_464566.1
+NC_003210.1	1070575	1070576	molybdate ABC transporter binding protein	22	+	<|>	84,21	concordant	leader	NP_464565.1|NP_464566.1
+NC_003210.1	1071419	1071420	molybdopterin biosynthesis protein moeA	58	+	>|>	53,42	concordant	leader	NP_464566.1|NP_464567.1
+NC_003210.1	1076875	1076876	MoeE   molybdopterin biosynthesis protein	57	-	<|>	18,113	concordant	leader	NP_464574.1|NP_464575.1
+NC_003210.1	1076964	1076965	YdfE protein	19	+	<|>	107,24	concordant	leader	NP_464574.1|NP_464575.1
+NC_003210.1	1078174	1078175	peptide deformylase	258	-	<|>	32,802	concordant	leader	NP_464576.1|NP_464577.1
+NC_003210.1	1078743	1078744	pdhA alpha sub pyruvate dehydrogenase E1 alpha subunit	11	+	<|>	601,233	concordant	orphan	NP_464576.1|NP_464577.1
+NC_003210.1	1081085	1081086	pdhC di-hydrolipoamide acetyltransferase	6	+	>|>	14,97	concordant	downstream	NP_464578.1|NP_464579.1
+NC_003210.1	1084371	1084372	hypothetical protein	37	+	>|>	147,41	concordant	leader	NP_464580.1|NP_464581.1
+NC_003210.1	1084826	1084827	L-lactate dehydrogenase	345	+	>|>	103,26	concordant	leader	NP_464581.1|NP_464582.1
+NC_003210.1	1086755	1086756	transcription response regulator	7	+	>|>	126,16	concordant	leader	NP_464584.1|NP_464585.1
+NC_003210.1	1092215	1092216	membrane and transport proteins	248	-	<|<	162,39	concordant	downstream	NP_464589.1|NP_464590.1
+NC_003210.1	1092896	1092897	YktB protein	28	-	<|>	28,103	concordant	leader	NP_464590.1|NP_464591.1
+NC_003210.1	1092974	1092975	extragenic suppressor protein SuhB and to myo-inositol-1or 4-monophosphatase	184	+	<|>	106,25	concordant	leader	NP_464590.1|NP_464591.1
+NC_003210.1	1093855	1093856	GTP-binding elongation factor	61	+	>|>	83,109	concordant	downstream	NP_464591.1|NP_464592.1
+NC_003210.1	1093855	1093856	rli84		-	>|>	83,109	discordant	downstream	NP_464591.1|NP_464592.1
+NC_003210.1	1095952	1095953	hypothetical protein	1829	+	>|>	150,22	concordant	leader	NP_464592.1|NP_464593.1
+NC_003210.1	1097132	1097133	YlaI protein	148	-	<|>	17,189	concordant	leader	NP_464594.1|NP_464595.1
+NC_003210.1	1097240	1097241	YlaN protein  depletion of this protein in Bacillus subtilis results in defects in cell morphology crystal structure of Staphylococcus protein shows homodimer putative ligand binding protein	288	+	<|>	125,81	concordant	leader	NP_464594.1|NP_464595.1
+NC_003210.1	1097738	1097739	cell-division protein RodA and FtsW	42	+	>|>	136,47	concordant	leader	NP_464595.1|NP_464596.1
+NC_003210.1	1099148	1099149	pyruvate carboxylase	411	+	>|>	161,117	concordant	leader	NP_464596.1|NP_464597.1
+NC_003210.1	1106006	1106007	autolysin EC 3.5.1.28 N-acetylmuramoyl-L-alanine amidase	76	+	>|>	143,34	concordant	leader	NP_464600.1|NP_464601.1
+NC_003210.1	1110601	1110602	putative UDP-glucose pyrophosphorylases	66	-	<|>	25,167	concordant	leader	NP_464603.1|NP_464604.1
+NC_003210.1	1110743	1110744	YfhO protein	932	+	<|>	167,25	concordant	leader	NP_464603.1|NP_464604.1
+NC_003210.1	1113735	1113736	minor teichoic acids biosynthesis protein GgaB	20	+	>|>	109,23	concordant	leader	NP_464604.1|NP_464605.1
+NC_003210.1	1121064	1121065	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	465	+	>|>	43,33	concordant	leader	NP_464610.1|NP_464611.1
+NC_003210.1	1126655	1126656	nicotinate phosphoribosyltransferase	20	+	>|>	161,48	concordant	leader	NP_464616.1|NP_464617.1
+NC_003210.1	1129898	1129899	GMP synthase	634	+	>|>	83,46	concordant	leader	NP_464620.1|NP_464621.1
+NC_003210.1	1136642	1136643	cadmium resistance protein	96	-	<|>	48,257	concordant	leader	NP_464625.1|NP_464626.1
+NC_003210.1	1137917	1137918	cadmium efflux system accessory proteins	17	-	<|<	50,79	concordant	leader	NP_464627.1|NP_464628.1
+NC_003210.1	1152549	1152550	rli38		+	<|>	75,460	discordant	leader	NP_464640.1|NP_464641.1
+NC_003210.1	1152963	1152964	regulatory proteins	88	+	<|>	489,46	concordant	leader	NP_464640.1|NP_464641.1
+NC_003210.1	1153822	1153823	hypothetical protein	18	+	>|>	40,25	concordant	leader	NP_464641.1|NP_464642.1
+NC_003210.1	1154671	1154672	rli125		-	>|<	468,192	concordant	orphan	NP_464642.1|NP_464643.1
+NC_003210.1	1157289	1157290	methylases	15	-	<|>	49,302	concordant	leader	NP_464644.1|NP_464645.1
+NC_003210.1	1159877	1159878	rli126		+	>|>	48,342	concordant	downstream	NP_464649.1|NP_464650.1
+NC_003210.1	1160115	1160116	hypothetical protein	508	+	>|>	286,104	concordant	leader	NP_464649.1|NP_464650.1
+NC_003210.1	1164117	1164118	ABC transporters- ATP-binding proteins	367	+	<|>	122,127	concordant	leader	NP_464655.1|NP_464656.1
+NC_003210.1	1167989	1167990	regulatory proteins	45	+	<|>	37,31	concordant	leader	NP_464658.1|NP_464659.1
+NC_003210.1	1172688	1172689	ATP-dependent Clp protease proteolytic subunit	563	-	<|<	41,108	concordant	leader	NP_464663.1|NP_464664.1
+NC_003210.1	1173620	1173621	uroporphyrin-III C-methyltransferase	14	+	<|>	70,22	concordant	leader	NP_464665.1|NP_464666.1
+NC_003210.1	1174216	1174217	Salmonella enterica PduS protein	6	+	>|>	95,24	concordant	leader	NP_464666.1|NP_464667.1
+NC_003210.1	1176272	1176273	Salmonelle enterica PduU protein	15	+	>|>	117,31	concordant	leader	NP_464668.1|NP_464669.1
+NC_003210.1	1181075	1181076	transcriptional regulator PocR	20	-	<|>	40,262	concordant	leader	NP_464675.1|NP_464676.1
+NC_003210.1	1198108	1198109	rli55		+	>|>	62,528	concordant	downstream	NP_464695.1|NP_464696.1
+NC_003210.1	1199848	1199849	rli56		+	>|>	73,202	concordant	downstream	NP_464696.1|NP_464697.1
+NC_003210.1	1215705	1215706	transcriptional regulator	701	-	<|>	27,287	concordant	leader	NP_464714.1|NP_464715.1
+NC_003210.1	1233398	1233399	hypothetical protein	21	-	genic	0	concordant	gene:inside	NP_464736.1
+NC_003210.1	1233840	1233841	hypothetical protein	9	-	<|>	26,63	concordant	leader	NP_464736.1|NP_464737.1
+NC_003210.1	1234437	1234438	hypothetical protein	50	+	>|>	4,27	concordant	downstream	NP_464737.1|NP_464738.1
+NC_003210.1	1235634	1235635	N-acetylmuramoyl-L-alanine amidase autolysin	155	+	>|>	305,35	concordant	leader	NP_464739.1|NP_464740.1
+NC_003210.1	1237909	1237910	endo-1-4-beta-glucanase and to aminopeptidase	465	+	>|>	88,24	concordant	leader	NP_464741.1|NP_464742.1
+NC_003210.1	1239035	1239036	rRNA methylase	6	+	>|>	23,3	concordant	leader	NP_464742.1|NP_464743.1
+NC_003210.1	1240230	1240231	hypothetical protein	15	-	<|>	30,127	concordant	leader	NP_464744.1|NP_464745.1
+NC_003210.1	1240345	1240346	hypothetical protein	74	+	<|>	145,12	concordant	leader	NP_464744.1|NP_464745.1
+NC_003210.1	1240764	1240765	phenylalanyl-tRNA synthetase subunit alpha	190	+	>|>	84,283	concordant	downstream	NP_464745.1|NP_464746.1
+NC_003210.1	1244641	1244642	ABC transporter- ATP-binding proteins	237	+	>|>	134,27	concordant	leader	NP_464747.1|NP_464748.1
+NC_003210.1	1248871	1248872	transcriptional regulator MarR family.	46	+	>|>	78,20	concordant	leader	NP_464749.1|NP_464750.1
+NC_003210.1	1252639	1252640	uracil-DNA glycosylase	81	+	>|>	80,27	concordant	leader	NP_464751.1|NP_464752.1
+NC_003210.1	1254325	1254326	ribonuclease HIII	6	-	<|>	21,133	concordant	leader	NP_464753.1|NP_464754.1
+NC_003210.1	1254419	1254420	YshA protein	274	+	<|>	115,39	concordant	leader	NP_464753.1|NP_464754.1
+NC_003210.1	1259502	1259503	thioredoxin	2359	+	>|>	54,27	concordant	leader	NP_464757.1|NP_464758.1
+NC_003210.1	1261879	1261880	aspartate kinase	179	+	>|>	152,37	concordant	leader	NP_464759.1|NP_464760.1
+NC_003210.1	1263784	1263785	glutamate racemase	659	+	<|>	104,44	concordant	leader	NP_464761.1|NP_464762.1
+NC_003210.1	1266040	1266041	YsnB protein	8	+	genic	0	concordant	gene:5'	NP_464765.1
+NC_003210.1	1266675	1266676	tRNA-Arg	1291	+	>|>	112,439	concordant	downstream	NP_464765.1|NP_464766.1
+NC_003210.1	1267080	1267081	hypothetical protein	236	+	>|>	517,34	concordant	leader	NP_464765.1|NP_464766.1
+NC_003210.1	1269158	1269159	YdeI protein	13	-	<|<	51,103	concordant	leader	NP_464767.1|NP_464768.1
+NC_003210.1	1269717	1269718	hypothetical protein	9	-	<|>	49,116	concordant	leader	NP_464768.1|NP_464769.1
+NC_003210.1	1269809	1269810	weakly phosphoglycerate mutase 1	144	+	<|>	141,24	concordant	leader	NP_464768.1|NP_464769.1
+NC_003210.1	1270832	1270833	ATP-dependent RNA helicase DEAD motif	21	+	<|>	108,16	concordant	leader	NP_464770.1|NP_464771.1
+NC_003210.1	1272592	1272593	rli86		+	>|>	44,124	concordant	downstream	NP_464772.1|NP_464773.1
+NC_003210.1	1272690	1272691	weakly 8-oxo-dGTPase mutT	5	+	>|>	142,26	concordant	leader	NP_464772.1|NP_464773.1
+NC_003210.1	1274835	1274836	regulator of the Fnr CRP family including PrfA	23	+	<|>	158,47	concordant	leader	NP_464775.1|NP_464776.1
+NC_003210.1	1275794	1275795	rli40		-	>|<	253,50	concordant	downstream	NP_464776.1|NP_464777.1
+NC_003210.1	1276834	1276835	YxkD protein	63	-	<|>	142,477	concordant	orphan	NP_464777.1|NP_464778.1
+NC_003210.1	1277206	1277207	rli41		-	<|>	514,105	discordant	leader	NP_464777.1|NP_464778.1
+NC_003210.1	1281244	1281245	PTS system trehalose specific enzyme IIBC	1450	-	<|>	40,76	concordant	leader	NP_464780.1|NP_464781.1
+NC_003210.1	1281306	1281307	hypothetical protein	110	+	<|>	102,14	concordant	leader	NP_464780.1|NP_464781.1
+NC_003210.1	1282301	1282302	hypothetical protein	1298	-	<|>	18,171	concordant	leader	NP_464782.1|NP_464783.1
+NC_003210.1	1282450	1282451	hypothetical protein	443	+	<|>	167,22	concordant	leader	NP_464782.1|NP_464783.1
+NC_003210.1	1284706	1284707	gamma-glutamyl phosphate reductase	7	-	genic	0	concordant	gene:inside	NP_464785.1
+NC_003210.1	1285503	1285504	gamma-glutamyl kinase	155	-	<|<	30,106	concordant	leader	NP_464785.1|NP_464786.1
+NC_003210.1	1286783	1286784	hypothetical protein	207	-	<|<	35,46	concordant	leader	NP_464786.1|NP_464787.1
+NC_003210.1	1287242	1287243	transcriptional regulator phage-related	10	-	<|>	18,133	concordant	leader	NP_464787.1|NP_464788.1
+NC_003210.1	1287341	1287342	transcriptional regulator	7	+	<|>	117,34	concordant	leader	NP_464787.1|NP_464788.1
+NC_003210.1	1289148	1289149	hypothetical protein	7	+	>|>	223,39	concordant	leader	NP_464790.1|NP_464791.1
+NC_003210.1	1290175	1290176	trigger factor	4013	+	>|>	50,65	concordant	downstream	NP_464791.1|NP_464792.1
+NC_003210.1	1291651	1291652	ATP-dependent protease ATP-binding subunit ClpX	117	+	>|>	128,58	concordant	leader	NP_464792.1|NP_464793.1
+NC_003210.1	1293062	1293063	type-I signal peptidase	59	+	>|>	94,25	concordant	leader	NP_464793.1|NP_464794.1
+NC_003210.1	1294331	1294332	signal peptidase I	62	+	>|>	74,28	concordant	leader	NP_464795.1|NP_464796.1
+NC_003210.1	1297706	1297707	DNA topoisomerase I	40	+	>|>	156,116	concordant	leader	NP_464799.1|NP_464800.1
+NC_003210.1	1301287	1301288	rli87		+	>|>	20,263	concordant	downstream	NP_464801.1|NP_464802.1
+NC_003210.1	1301532	1301533	integrase-recombinase	493	+	>|>	265,18	concordant	leader	NP_464801.1|NP_464802.1
+NC_003210.1	1305309	1305310	YneP protein	85	+	>|>	74,80	concordant	downstream	NP_464805.1|NP_464806.1
+NC_003210.1	1307640	1307641	YneS protein	11	-	<|>	36,122	concordant	leader	NP_464809.1|NP_464810.1
+NC_003210.1	1307739	1307740	YneT protein	733	+	<|>	135,23	concordant	leader	NP_464809.1|NP_464810.1
+NC_003210.1	1308288	1308289	DNA topoisomerase IV subunit B	189	+	>|>	119,62	concordant	leader	NP_464810.1|NP_464811.1
+NC_003210.1	1312837	1312838	S-ribosylhomocysteinase	856	+	>|>	64,19	concordant	leader	NP_464812.1|NP_464813.1
+NC_003210.1	1319544	1319545	acyltransferase to YrhL protein	16	-	<|>	81,132	concordant	leader	NP_464816.1|NP_464817.1
+NC_003210.1	1319651	1319652	glycerophosphodiester phosphodiesterase	10	+	<|>	188,25	concordant	leader	NP_464816.1|NP_464817.1
+NC_003210.1	1320429	1320430	rli88		+	>|>	55,178	concordant	downstream	NP_464817.1|NP_464818.1
+NC_003210.1	1322389	1322390	tRNA delta2-isopentenylpyrophosphate transferase	158	+	>|>	106,20	concordant	leader	NP_464818.1|NP_464819.1
+NC_003210.1	1323371	1323372	host factor-1 protein	1546	+	>|>	45,78	concordant	downstream	NP_464819.1|NP_464820.1
+NC_003210.1	1323771	1323772	YnbA protein	91	+	>|>	89,22	concordant	leader	NP_464820.1|NP_464821.1
+NC_003210.1	1326401	1326402	glutamine synthetase repressor	268	+	>|>	166,38	concordant	leader	NP_464822.1|NP_464823.1
+NC_003210.1	1328316	1328317	arsenic efflux pump protein	253	+	>|>	104,40	concordant	leader	NP_464824.1|NP_464825.1
+NC_003210.1	1330894	1330895	LexA repressor	629	-	<|>	34,123	concordant	leader	NP_464827.1|NP_464828.1
+NC_003210.1	1330981	1330982	cell division suppressor protein YneA	64	+	<|>	121,36	concordant	leader	NP_464827.1|NP_464828.1
+NC_003210.1	1331383	1331384	YnzC protein	15	+	>|>	37,55	concordant	downstream	NP_464828.1|NP_464829.1
+NC_003210.1	1331780	1331781	highly transketolase	239	+	>|>	115,32	concordant	leader	NP_464829.1|NP_464830.1
+NC_003210.1	1333997	1333998	YneF protein	1424	+	>|>	191,30	concordant	leader	NP_464830.1|NP_464831.1
+NC_003210.1	1339539	1339540	uridylate kinase	2698	+	<|>	241,52	concordant	leader	NP_464837.1|NP_464838.1
+NC_003210.1	1341068	1341069	undecaprenyl pyrophosphate synthase	9	+	>|>	192,38	concordant	leader	NP_464839.1|NP_464840.1
+NC_003210.1	1346927	1346928	DNA polymerase III PolC	10	+	>|>	82,23	concordant	leader	NP_464844.1|NP_464845.1
+NC_003210.1	1351334	1351335	conserved hypothetical protein- B. subtilis YlxS protein in Streptococcus pneumoniae this gene was found to be essential structure determination of the Streptococcus protein shows that it is similar to a number of other proteins	43	+	>|>	50,132	concordant	downstream	NP_464845.1|NP_464846.1
+NC_003210.1	1356314	1356315	ribosome-binding factor A	19	+	>|>	5,12	concordant	downstream	NP_464851.1|NP_464852.1
+NC_003210.1	1357722	1357723	highly riboflavin kinase and FAD synthase	163	+	>|>	40,30	concordant	leader	NP_464853.1|NP_464854.1
+NC_003210.1	1358748	1358749	30S ribosomal protein S15	2507	+	>|>	52,85	concordant	downstream	NP_464854.1|NP_464855.1
+NC_003210.1	1359249	1359250	polynucleotide phosphorylase-polyadenylase	1385	+	>|>	147,102	concordant	leader	NP_464855.1|NP_464856.1
+NC_003210.1	1362710	1362711	Probable GTPase engC 2	110	-	<|<	107,54	concordant	downstream	NP_464857.1|NP_464858.1
+NC_003210.1	1363265	1363266	YqzC protein	10	-	<|<	22,6	concordant	downstream	NP_464858.1|NP_464859.1
+NC_003210.1	1363661	1363662	YqzD protein	651	-	genic	0	concordant	gene:inside	YP_008475636.1
+NC_003210.1	1363782	1363783	50S ribosomal protein L33	5628	+	<|>	44,43	concordant	leader	YP_008475636.1|NP_464860.1
+NC_003210.1	1364641	1364642	yqgP	38	+	>|>	72,27	concordant	leader	NP_464861.1|NP_464862.1
+NC_003210.1	1366457	1366458	glucose kinase	10	+	genic	0	concordant	gene:5'	NP_464864.1
+NC_003210.1	1367537	1367538	YqgU protein	491	+	>|>	113,21	concordant	leader	NP_464864.1|NP_464865.1
+NC_003210.1	1372810	1372811	glycine cleavage system aminomethyltransferase T	141	+	<|>	335,204	concordant	orphan	NP_464872.1|NP_464873.1
+NC_003210.1	1377395	1377396	hypothetical protein	273	-	<|<	48,14	concordant	downstream	NP_464876.1|NP_464877.1
+NC_003210.1	1378688	1378689	YqhQ protein	6	-	<|>	29,151	concordant	leader	NP_464878.1|NP_464879.1
+NC_003210.1	1378779	1378780	aminopeptidase P	418	+	<|>	120,60	concordant	leader	NP_464878.1|NP_464879.1
+NC_003210.1	1379944	1379945	elongation factor P	56	+	>|>	44,59	concordant	downstream	NP_464879.1|NP_464880.1
+NC_003210.1	1380665	1380666	acetyl-CoA carboxylase subunit biotin carboxyl carrier subunit	263	+	>|>	105,54	concordant	leader	NP_464880.1|NP_464881.1
+NC_003210.1	1381201	1381202	acetyl-CoA carboxylase biotin carboxylase subunit	42	+	genic	0	concordant	gene:5'	NP_464882.1
+NC_003210.1	1383001	1383002	transcription antitermination protein NusB	20	+	>|>	26,5	concordant	leader	NP_464883.1|NP_464884.1
+NC_003210.1	1386904	1386905	cold shock protein	10639	+	>|>	90,109	concordant	downstream	NP_464888.1|NP_464889.1
+NC_003210.1	1387327	1387328	1-deoxy-D-xylulose-5-phosphate synthase	8	+	>|>	114,53	concordant	leader	NP_464889.1|NP_464890.1
+NC_003210.1	1390195	1390196	arginine repressor	547	+	>|>	165,26	concordant	leader	NP_464891.1|NP_464892.1
+NC_003210.1	1392436	1392437	phosphotransbutyrylase	43	+	>|>	52,77	concordant	downstream	NP_464893.1|NP_464894.1
+NC_003210.1	1399365	1399366	Rli11/sbrA		+	>|>	39,333	concordant	downstream	NP_464899.1|NP_464900.1
+NC_003210.1	1399616	1399617	rli42		-	>|>	290,82	discordant	leader	NP_464899.1|NP_464900.1
+NC_003210.1	1400862	1400863	6-phosphogluconate dehydrogenase	107	+	>|>	67,78	concordant	downstream	NP_464900.1|NP_464901.1
+NC_003210.1	1402510	1402511	two-component response regulator	353	+	>|>	152,39	concordant	leader	NP_464901.1|NP_464902.1
+NC_003210.1	1405892	1405893	hypothetical protein	25	-	<|<	34,52	concordant	leader	NP_464905.1|NP_464906.1
+NC_003210.1	1406255	1406256	acylphosphatase	108	-	<|>	30,110	concordant	leader	NP_464906.1|NP_464907.1
+NC_003210.1	1406338	1406339	hypothetical protein	51	+	<|>	113,27	concordant	leader	NP_464906.1|NP_464907.1
+NC_003210.1	1406643	1406644	isopentenyl pyrophosphate isomerase	6	+	genic	0	concordant	gene:inside	NP_464907.1
+NC_003210.1	1408878	1408879	hypothetical protein	207	-	<|>	61,191	concordant	leader	NP_464909.1|NP_464910.1
+NC_003210.1	1408992	1408993	hypothetical protein	15	+	<|>	175,77	concordant	leader	NP_464909.1|NP_464910.1
+NC_003210.1	1410076	1410077	DNA translocase	143	+	>|>	81,71	concordant	leader	NP_464910.1|NP_464911.1
+NC_003210.1	1413316	1413317	pyrroline-5-carboxylate reductase	7	-	<|>	23,329	concordant	leader	NP_464912.1|NP_464913.1
+NC_003210.1	1413513	1413514	CD4+ T cell-stimulating antigen- lipoprotein	2330	+	<|>	220,132	concordant	orphan	NP_464912.1|NP_464913.1
+NC_003210.1	1415034	1415035	sugar ABC transporter- ATP-binding protein	100	+	>|>	316,117	concordant	leader	NP_464913.1|NP_464914.1
+NC_003210.1	1418773	1418774	putative proteases	57	+	>|>	89,29	concordant	leader	NP_464916.1|NP_464917.1
+NC_003210.1	1421426	1421427	3-ketoacyl-acyl carrier protein reductase	230	+	>|>	65,27	concordant	leader	NP_464918.1|NP_464919.1
+NC_003210.1	1425339	1425340	recombinase A	455	+	>|>	194,79	concordant	leader	NP_464922.1|NP_464923.1
+NC_003210.1	1426598	1426599	phosphodiesterase	2687	+	>|>	134,167	concordant	orphan	NP_464923.1|NP_464924.1
+NC_003210.1	1428416	1428417	N-acetyltransferase	636	+	>|>	89,25	concordant	leader	NP_464924.1|NP_464925.1
+NC_003210.1	1430208	1430209	DNA mismatch repair protein MutS	90	+	>|>	82,28	concordant	leader	NP_464927.1|NP_464928.1
+NC_003210.1	1435565	1435566	pyruvate formate-lyase	346	+	>|>	357,69	concordant	leader	NP_464930.1|NP_464931.1
+NC_003210.1	1437880	1437881	pyruvate-formate lyase activating enzyme	17	+	>|>	15,62	concordant	downstream	NP_464931.1|NP_464932.1
+NC_003210.1	1439387	1439388	multidrug-efflux transporter	42	+	<|>	134,33	concordant	leader	NP_464933.1|NP_464934.1
+NC_003210.1	1445066	1445067	Acetyl-CoA:acetyltransferase	34	-	<|>	25,125	concordant	leader	NP_464939.1|NP_464940.1
+NC_003210.1	1451780	1451781	glycine betaine-carnitine-choline ABC transporter ATP-binding protein	19	+	<|>	184,32	concordant	leader	NP_464945.1|NP_464946.1
+NC_003210.1	1455215	1455216	hypothetical protein	365	-	<|<	39,100	concordant	leader	NP_464948.1|NP_464949.1
+NC_003210.1	1456686	1456687	manganese transport protein MntH	8475	-	<|<	25,88	concordant	leader	NP_464949.1|NP_464950.1
+NC_003210.1	1460291	1460292	glycine betaine-carnitine-choline ABC transporter ATP-binding protein	727	-	<|<	50,242	concordant	leader	NP_464953.1|NP_464954.1
+NC_003210.1	1461291	1461292	hypothetical protein	195	-	<|<	198,51	concordant	downstream	NP_464954.1|NP_464955.1
+NC_003210.1	1461743	1461744	hypothetical protein	40	-	<|>	18,122	concordant	leader	NP_464955.1|NP_464956.1
+NC_003210.1	1461813	1461814	ABC transporter ATP-binding protein	10	+	<|>	88,52	concordant	leader	NP_464955.1|NP_464956.1
+NC_003210.1	1464183	1464184	hypothetical protein	348	-	<|<	28,25	concordant	downstream	NP_464957.1|NP_464958.1
+NC_003210.1	1465564	1465565	glutathione reductase	255	-	<|<	16,73	concordant	leader	NP_464958.1|NP_464959.1
+NC_003210.1	1470560	1470561	aspartate-semialdehyde dehydrogenase	88	-	<|<	74,124	concordant	leader	NP_464962.1|NP_464963.1
+NC_003210.1	1472880	1472881	penicillin-binding protein	44	-	<|<	31,99	concordant	leader	NP_464963.1|NP_464964.1
+NC_003210.1	1473701	1473702	superoxide dismutase	80	-	<|>	114,187	concordant	leader	NP_464964.1|NP_464965.1
+NC_003210.1	1473829	1473830	rli127		-	<|>	242,59	discordant	leader	NP_464964.1|NP_464965.1
+NC_003210.1	1474773	1474774	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	27	+	>|>	85,28	concordant	leader	NP_464965.1|NP_464966.1
+NC_003210.1	1481183	1481184	putative manganese-dependent inorganic pyrophosphatase	21	-	<|<	12,4	concordant	downstream	NP_464973.1|NP_464974.1
+NC_003210.1	1482131	1482132	endonuclease IV	6	-	genic	0	concordant	gene:inside	NP_464975.1
+NC_003210.1	1483430	1483431	ATP-dependent RNA helicase- DEAD-box family deaD	134	-	<|>	28,118	concordant	leader	NP_464975.1|NP_464976.1
+NC_003210.1	1487659	1487660	RNA polymerase sigma factor RpoD	172	-	<|<	56,39	concordant	downstream	NP_464979.1|NP_464980.1
+NC_003210.1	1491082	1491083	hypothetical protein	118	-	<|<	30,4	concordant	downstream	NP_464982.1|NP_464983.1
+NC_003210.1	1494284	1494285	glycyl-tRNA synthetase subunit alpha	555	-	<|<	249,32	concordant	downstream	NP_464984.1|NP_464985.1
+NC_003210.1	1495106	1495107	DNA repair protein RecO	442	-	<|>	23,114	concordant	leader	NP_464985.1|NP_464986.1
+NC_003210.1	1495191	1495192	hypothetical protein	39	+	<|>	108,29	concordant	leader	NP_464985.1|NP_464986.1
+NC_003210.1	1500290	1500291	hypothetical protein	11	-	genic	0	concordant	gene:3'	NP_464992.1
+NC_003210.1	1501263	1501264	phosphate starvation induced protein PhoH	106	-	<|<	37,151	concordant	leader	NP_464992.1|NP_464993.1
+NC_003210.1	1502178	1502179	30S ribosomal protein S21	1812	-	<|<	125,73	concordant	downstream	NP_464994.1|NP_464995.1
+NC_003210.1	1504034	1504035	ribosomal protein L11 methyltransferase	51	-	<|<	71,2	concordant	downstream	NP_464996.1|NP_464997.1
+NC_003210.1	1505209	1505210	chaperone protein DnaJ	64	-	<|<	40,102	concordant	leader	NP_464997.1|NP_464998.1
+NC_003210.1	1507181	1507182	molecular chaperone DnaK	94	-	<|<	29,5	concordant	downstream	NP_464998.1|NP_464999.1
+NC_003210.1	1507812	1507813	heat shock protein GrpE	14	-	genic	0	concordant	gene:3'	NP_465000.1
+NC_003210.1	1508886	1508887	heat-inducible transcription repressor	438	-	<|<	46,101	concordant	leader	NP_465000.1|NP_465001.1
+NC_003210.1	1510185	1510186	coproporphyrinogen III oxidase	10	-	<|<	41,48	concordant	leader	NP_465001.1|NP_465002.1
+NC_003210.1	1511325	1511326	transcriptional regulator MerR family	6	+	<|>	64,49	concordant	leader	NP_465002.1|NP_465003.1
+NC_003210.1	1513732	1513733	GTP-binding protein LepA	362	-	<|>	49,184	concordant	leader	NP_465004.1|NP_465005.1
+NC_003210.1	1513843	1513844	30S ribosomal protein S20	3603	+	<|>	160,73	concordant	leader	NP_465004.1|NP_465005.1
+NC_003210.1	1515317	1515318	DNA polymerase III subunit delta	226	-	<|<	30,38	concordant	leader	NP_465006.1|NP_465007.1
+NC_003210.1	1518198	1518199	ComEB protein	186	-	<|<	26,46	concordant	leader	NP_465008.1|NP_465009.1
+NC_003210.1	1518863	1518864	integral membrane protein ComEA	3	-	<|<	17,86	concordant	leader	NP_465009.1|NP_465010.1
+NC_003210.1	1524026	1524027	hypothetical protein	348	-	<|>	35,127	concordant	leader	NP_465017.1|NP_465018.1
+NC_003210.1	1524125	1524126	oligopeptidase	21	+	<|>	134,28	concordant	leader	NP_465017.1|NP_465018.1
+NC_003210.1	1527409	1527410	hypothetical protein	6	-	<|<	39,12	concordant	downstream	NP_465020.1|NP_465021.1
+NC_003210.1	1527991	1527992	transcription elongation factor GreA	97	-	<|<	88,106	concordant	leader	NP_465021.1|NP_465022.1
+NC_003210.1	1528048	1528049	rli90		-	<|<	145,49	concordant	downstream	NP_465021.1|NP_465022.1
+NC_003210.1	1530553	1530554	hypothetical protein	18	-	<|>	30,173	concordant	leader	NP_465024.1|NP_465025.1
+NC_003210.1	1532431	1532432	hypothetical protein	365	-	<|<	31,61	concordant	leader	NP_465028.1|NP_465029.1
+NC_003210.1	1535250	1535251	alanyl-tRNA synthetase	1655	-	<|<	119,188	concordant	leader	NP_465029.1|NP_465030.1
+NC_003210.1	1537795	1537796	two-component response regulators	9	+	<|>	148,19	concordant	leader	NP_465031.1|NP_465032.1
+NC_003210.1	1543845	1543846	hypothetical protein	33	-	<|<	24,94	concordant	leader	NP_465036.1|NP_465037.1
+NC_003210.1	1545078	1545079	tRNA-specific 2-thiouridylase MnmA	9	-	genic	0	concordant	gene:3'	NP_465038.1
+NC_003210.1	1546269	1546270	iron-sulfur cofactor synthesis protein	34	-	<|<	48,338	concordant	leader	NP_465038.1|NP_465039.1
+NC_003210.1	1546531	1546532	ssrS / 6S		-	<|<	310,76	concordant	downstream	NP_465038.1|NP_465039.1
+NC_003210.1	1547909	1547910	recombination factor protein RarA	46	-	<|>	25,124	concordant	leader	NP_465039.1|NP_465040.1
+NC_003210.1	1547995	1547996	hypothetical protein	80	+	<|>	111,38	concordant	leader	NP_465039.1|NP_465040.1
+NC_003210.1	1548651	1548652	ammonium transporter NrgA	8	+	>|>	196,49	concordant	leader	NP_465040.1|NP_465041.1
+NC_003210.1	1552629	1552630	aspartyl-tRNA synthetase	7	-	<|<	1,2	concordant	leader	NP_465044.1|NP_465045.1
+NC_003210.1	1554209	1554210	histidyl-tRNA synthetase	113	-	<|>	301,150	discordant	orphan	NP_465045.1|NP_465046.1
+NC_003210.1	1554317	1554318	N-acetylmuramoyl-L-alanine amidase	227	+	<|>	409,42	concordant	leader	NP_465045.1|NP_465046.1
+NC_003210.1	1556177	1556178	D-tyrosyl-tRNATyr deacylase	12	-	genic	0	concordant	gene:3'	NP_465048.1
+NC_003210.1	1558443	1558444	pppGpp synthetase	16	-	<|<	80,126	concordant	leader	NP_465048.1|NP_465049.1
+NC_003210.1	1561450	1561451	single-stranded-DNA-specific exonuclease RecJ	2141	-	<|<	19,87	concordant	leader	NP_465050.1|NP_465051.1
+NC_003210.1	1561906	1561907	hypothetical protein	894	-	<|<	25,71	concordant	leader	NP_465051.1|NP_465052.1
+NC_003210.1	1564298	1564299	bifunctional preprotein translocase subunit SecD-SecF	9	-	<|<	57,44	concordant	downstream	NP_465052.1|NP_465053.1
+NC_003210.1	1564666	1564667	hypothetical protein	527	-	<|<	34,109	concordant	leader	NP_465053.1|NP_465054.1
+NC_003210.1	1565129	1565130	hypothetical protein	15	-	<|<	25,9	concordant	downstream	NP_465054.1|NP_465055.1
+NC_003210.1	1566303	1566304	queuine tRNA-ribosyltransferase	157	-	<|<	26,61	concordant	leader	NP_465055.1|NP_465056.1
+NC_003210.1	1569055	1569056	Holliday junction DNA helicase RuvA	219	-	<|<	31,93	concordant	leader	NP_465058.1|NP_465059.1
+NC_003210.1	1570102	1570103	L-lactate dehydrogenase	10	-	<|<	19,51	concordant	leader	NP_465059.1|NP_465060.1
+NC_003210.1	1570916	1570917	hypothetical protein	152	-	<|<	38,73	concordant	leader	NP_465060.1|NP_465061.1
+NC_003210.1	1573227	1573228	GTPase ObgE	51	-	<|<	34,126	concordant	leader	NP_465062.1|NP_465063.1
+NC_003210.1	1574912	1574913	glycerol kinase	33	-	<|<	66,9	concordant	downstream	NP_465063.1|NP_465064.1
+NC_003210.1	1575917	1575918	glycerol uptake facilitator	91	-	<|<	178,189	concordant	orphan	NP_465064.1|NP_465065.1
+NC_003210.1	1575917	1575918	rli91		+	<|<	178,189	discordant	orphan	NP_465064.1|NP_465065.1
+NC_003210.1	1575995	1575996	rli128		-	<|<	256,111	concordant	downstream	NP_465064.1|NP_465065.1
+NC_003210.1	1577162	1577163	50S ribosomal protein L21	26999	-	<|<	108,49	concordant	downstream	NP_465067.1|NP_465068.1
+NC_003210.1	1580137	1580138	septum formation inhibitor	378	-	<|<	33,145	concordant	leader	NP_465070.1|NP_465071.1
+NC_003210.1	1582815	1582816	rod shape-determining protein MreB	43	-	<|<	26,426	concordant	leader	NP_465073.1|NP_465074.1
+NC_003210.1	1589138	1589139	valyl-tRNA synthetase	483	-	<|<	287,36	concordant	downstream	NP_465077.1|NP_465078.1
+NC_003210.1	1594438	1594439	glutamyl-tRNA reductase	62	-	<|<	32,96	concordant	leader	NP_465082.1|NP_465083.1
+NC_003210.1	1595148	1595149	ribosome biogenesis GTP-binding protein YsxC	183	-	<|<	30,78	concordant	leader	NP_465083.1|NP_465084.1
+NC_003210.1	1597455	1597456	threonyl-tRNA synthetase	227	-	<|<	307,43	concordant	downstream	NP_465084.1|NP_465085.1
+NC_003210.1	1599835	1599836	chromosome replication initiation - membrane attachment protein DnaB	8	-	genic	0	concordant	gene:3'	NP_465087.1
+NC_003210.1	1600324	1600325	transcriptional regulator NrdR	274	-	<|<	47,31	concordant	downstream	NP_465087.1|NP_465088.1
+NC_003210.1	1604479	1604480	DNA polymerase I	10	-	<|<	33,133	concordant	leader	NP_465090.1|NP_465091.1
+NC_003210.1	1609957	1609958	pyruvate kinase	680	-	<|<	35,248	concordant	leader	NP_465095.1|NP_465096.1
+NC_003210.1	1611207	1611208	6-phosphofructokinase	788	-	<|<	43,241	concordant	leader	NP_465096.1|NP_465097.1
+NC_003210.1	1612429	1612430	acetyl-CoA carboxylase carboxyltransferase subunit alpha	86	-	genic	0	concordant	gene:inside	NP_465098.1
+NC_003210.1	1613300	1613301	acetyl-CoA carboxylase subunit beta	6	-	<|<	22,196	concordant	leader	NP_465098.1|NP_465099.1
+NC_003210.1	1613451	1613452	rli129		-	<|<	173,45	concordant	downstream	NP_465098.1|NP_465099.1
+NC_003210.1	1616849	1616850	highly DNA polymerase III alpha subunit DnaE	70	-	<|<	27,95	concordant	leader	NP_465099.1|NP_465100.1
+NC_003210.1	1619243	1619244	hypothetical protein	14	-	genic	0	concordant	gene:3'	NP_465102.1
+NC_003210.1	1619960	1619961	metal-dependent hydrolase	51	-	<|>	35,130	concordant	leader	NP_465102.1|NP_465103.1
+NC_003210.1	1620064	1620065	X-Pro dipeptidase	192	+	<|>	139,26	concordant	leader	NP_465102.1|NP_465103.1
+NC_003210.1	1622393	1622394	alanine dehydrogenase	499	-	<|>	52,189	concordant	leader	NP_465104.1|NP_465105.1
+NC_003210.1	1622547	1622548	hypothetical protein	2294	+	<|>	206,35	concordant	leader	NP_465104.1|NP_465105.1
+NC_003210.1	1625349	1625350	weakly site specific DNA-methyltransferase	109	-	<|<	36,155	concordant	leader	NP_465107.1|NP_465108.1
+NC_003210.1	1626031	1626032	thiol peroxidase	459	-	<|<	30,32	concordant	leader	NP_465108.1|NP_465109.1
+NC_003210.1	1627660	1627661	proteases	673	-	<|>	28,151	concordant	leader	NP_465110.1|NP_465111.1
+NC_003210.1	1627777	1627778	inorganic polyphosphate-ATP-NAD kinase	542	+	<|>	145,34	concordant	leader	NP_465110.1|NP_465111.1
+NC_003210.1	1633790	1633791	N-acetyl-gamma-glutamyl-phosphate reductase	19	-	<|<	32,142	concordant	leader	NP_465116.1|NP_465117.1
+NC_003210.1	1636313	1636314	iron-sulfur cofactor synthesis protein nifS	53	-	<|<	29,98	concordant	leader	NP_465118.1|NP_465119.1
+NC_003210.1	1638259	1638260	septation ring formation regulator EzrA	47	-	<|>	133,160	concordant	orphan	NP_465119.1|NP_465120.1
+NC_003210.1	1638390	1638391	hypothetical protein	741	+	<|>	264,29	concordant	leader	NP_465119.1|NP_465120.1
+NC_003210.1	1638942	1638943	30S ribosomal protein S4	14841	+	>|>	35,177	concordant	downstream	NP_465120.1|NP_465121.1
+NC_003210.1	1638942	1638943	rli92		-	>|>	35,177	discordant	downstream	NP_465120.1|NP_465121.1
+NC_003210.1	1640132	1640133	rli58		-	genic	0	concordant	gene:inside	YP_008475637.1
+NC_003210.1	1641120	1641121	hypothetical protein	819	-	<|<	117,163	concordant	leader	NP_465122.1|NP_465123.1
+NC_003210.1	1642826	1642827	tyrosyl-tRNA synthetase	521	-	<|<	284,38	concordant	downstream	NP_465123.1|NP_465124.1
+NC_003210.1	1643942	1643943	catabolite control protein A	189	-	<|<	71,163	concordant	leader	NP_465124.1|NP_465125.1
+NC_003210.1	1645227	1645228	bifunctional 3-deoxy-7-phosphoheptulonate synthase-chorismate mutase	198	-	<|<	37,184	concordant	leader	NP_465125.1|NP_465126.1
+NC_003210.1	1646515	1646516	hypothetical protein	725	-	<|>	103,153	concordant	leader	NP_465127.1|NP_465128.1
+NC_003210.1	1646622	1646623	aminopeptidase	59	+	<|>	210,46	concordant	leader	NP_465127.1|NP_465128.1
+NC_003210.1	1648407	1648408	2-cys peroxiredoxin	2551	-	<|<	42,103	concordant	leader	NP_465129.1|NP_465130.1
+NC_003210.1	1650023	1650024	UDP-N-acetylmuramate--L-alanine ligase	11	-	<|<	170,125	concordant	downstream	NP_465130.1|NP_465131.1
+NC_003210.1	1652527	1652528	DNA translocase	45	-	<|<	28,282	concordant	leader	NP_465131.1|NP_465132.1
+NC_003210.1	1653469	1653470	similar phenylalanyl-tRNA synthetase beta subunit	70	-	genic	0	concordant	gene:inside	NP_465133.1
+NC_003210.1	1654607	1654608	thioredoxin	19	-	<|<	29,83	concordant	leader	NP_465134.1|NP_465135.1
+NC_003210.1	1654910	1654911	hypothetical protein	6	-	genic	0	concordant	gene:3'	NP_465136.1
+NC_003210.1	1656003	1656004	aminopeptidase	457	-	<|>	29,169	concordant	leader	NP_465136.1|NP_465137.1
+NC_003210.1	1656112	1656113	hypothetical protein	279	+	<|>	138,60	concordant	leader	NP_465136.1|NP_465137.1
+NC_003210.1	1656843	1656844	hypothetical protein	337	-	<|<	75,59	concordant	downstream	NP_465138.1|NP_465139.1
+NC_003210.1	1658491	1658492	tRNA guanine-N7--methyltransferase	24	-	genic	0	concordant	gene:3'	NP_465141.1
+NC_003210.1	1659325	1659326	hypothetical protein	1297	-	<|<	78,131	concordant	leader	NP_465141.1|NP_465142.1
+NC_003210.1	1662555	1662556	D-amino acid aminotransferase	16	-	<|<	99,14	concordant	downstream	NP_465144.1|NP_465145.1
+NC_003210.1	1664010	1664011	dipeptidase PepV	1700	-	<|<	29,46	concordant	leader	NP_465145.1|NP_465146.1
+NC_003210.1	1664514	1664515	weakly E. coli MutT protein dGTP pyrophosphohydrolase	499	-	<|>	45,60	concordant	leader	NP_465146.1|NP_465147.1
+NC_003210.1	1667753	1667754	putative transporters	38	-	<|<	34,77	concordant	leader	NP_465149.1|NP_465150.1
+NC_003210.1	1669464	1669465	putative transporters	8	-	<|<	21,64	concordant	leader	NP_465150.1|NP_465151.1
+NC_003210.1	1669993	1669994	hypothetical protein	124	-	<|<	28,43	concordant	leader	NP_465151.1|NP_465152.1
+NC_003210.1	1672695	1672696	N-5-phosphoribosylanthranilate isomerase	16	-	genic	0	concordant	gene:inside	NP_465155.1
+NC_003210.1	1676916	1676917	anthranilate synthase component I	209	-	<|>	592,492	discordant	orphan	NP_465158.1|NP_465159.1
+NC_003210.1	1677286	1677287	bifunctional acetaldehyde-CoA-alcohol dehydrogenase	13562	+	<|>	962,122	concordant	leader	NP_465158.1|NP_465159.1
+NC_003210.1	1680115	1680116	hypothetical protein	11	+	>|>	107,16	concordant	leader	NP_465159.1|NP_465160.1
+NC_003210.1	1680618	1680619	similar to ABC transporter ATP-binding protein	18	+	>|>	59,25	concordant	leader	NP_465160.1|NP_465161.1
+NC_003210.1	1684479	1684480	hypothetical protein	164	-	<|<	18,83	concordant	leader	NP_465165.1|NP_465166.1
+NC_003210.1	1687305	1687306	aconitate hydratase	82	-	<|<	41,114	concordant	leader	NP_465166.1|NP_465167.1
+NC_003210.1	1688703	1688704	hypothetical protein	32	-	genic	0	concordant	gene:inside	NP_465169.1
+NC_003210.1	1691923	1691924	SNF2-type helicase	41	-	<|<	36,48	concordant	leader	NP_465169.1|NP_465170.1
+NC_003210.1	1696219	1696220	putative exonucleases SbcD	10	-	<|>	56,60	concordant	leader	NP_465171.1|NP_465172.1
+NC_003210.1	1696241	1696242	1-acylglycerol-3-phosphate O-acyltransferases	13	+	<|>	78,38	concordant	leader	NP_465171.1|NP_465172.1
+NC_003210.1	1697318	1697319	hypothetical protein	10	-	<|<	17,157	concordant	leader	NP_465173.1|NP_465174.1
+NC_003210.1	1698102	1698103	hypothetical protein	1888	-	<|<	112,62	concordant	downstream	NP_465174.1|NP_465175.1
+NC_003210.1	1702543	1702544	rli59		-	<|<	252,151	concordant	orphan	NP_465177.1|NP_465178.1
+NC_003210.1	1704003	1704004	putative cellsurface protein	16	-	<|<	180,614	concordant	orphan	NP_465179.1|NP_465180.1
+NC_003210.1	1705662	1705663	hypothetical protein	13	-	<|<	33,541	concordant	leader	NP_465181.1|NP_465182.1
+NC_003210.1	1708050	1708051	30S ribosomal protein S2	259	-	<|>	134,261	concordant	orphan	NP_465183.1|NP_465184.1
+NC_003210.1	1711555	1711556	leucyl-tRNA synthetase	538	-	<|>	288,116	discordant	leader	NP_465185.1|NP_465186.1
+NC_003210.1	1715146	1715147	asparagine synthetase	122	-	<|<	48,89	concordant	leader	NP_465188.1|NP_465189.1
+NC_003210.1	1716665	1716666	S-adenosylmethionine synthetase	1521	-	<|>	231,192	discordant	orphan	NP_465189.1|NP_465190.1
+NC_003210.1	1716818	1716819	hypothetical protein	49	+	<|>	384,39	concordant	leader	NP_465189.1|NP_465190.1
+NC_003210.1	1722390	1722391	peptidoglycan linked protein LPXTG	258	-	<|<	63,40	concordant	downstream	NP_465191.1|NP_465192.1
+NC_003210.1	1723380	1723381	L-lactate dehydrogenases	8	-	genic	0	concordant	gene:3'	NP_465193.1
+NC_003210.1	1723616	1723617	some similarity to hypothetical proteins	136	-	<|<	19,32	concordant	leader	NP_465193.1|NP_465194.1
+NC_003210.1	1727827	1727828	naphthoate synthase	7	-	genic	0	concordant	gene:3'	NP_465199.1
+NC_003210.1	1731806	1731807	menaquinone-specific isochorismate synthase	252	-	<|>	27,148	concordant	leader	NP_465201.1|NP_465202.1
+NC_003210.1	1731914	1731915	1-4-dihydroxy-2-naphthoate octaprenyltransferase	84	+	<|>	135,40	concordant	leader	NP_465201.1|NP_465202.1
+NC_003210.1	1739634	1739635	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	20	-	<|<	251,39	concordant	downstream	NP_465206.1|NP_465207.1
+NC_003210.1	1741083	1741084	tRNA-Glu	1225	-	<|<	235,7179	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741083	1741084	tRNA-Ser	1225	+	<|<	235,7179	discordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741231	1741232	tRNA-Asn	11	-	<|<	383,7031	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741271	1741272	tRNA-Ile	9	-	<|<	423,6991	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741463	1741464	tRNA-Gly	69	-	<|<	615,6799	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741463	1741464	tRNA-His	69	+	<|<	615,6799	discordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741729	1741730	tRNA-Asp	7	-	<|<	881,6533	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741853	1741854	tRNA-Met	7286	-	<|<	1005,6409	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741853	1741854	tRNA-Ser	7286	+	<|<	1005,6409	discordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1741998	1741999	tRNA-Met	517	-	<|<	1150,6264	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1742150	1742151	tRNA-Ala	1568	-	<|<	1302,6112	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1742150	1742151	tRNA-Met	1568	+	<|<	1302,6112	discordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1742476	1742477	tRNA-Leu	15	-	<|<	1628,5786	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1748059	1748060	16S rRNA	136	-	<|<	7211,203	concordant	orphan	NP_465207.1|NP_465208.1
+NC_003210.1	1748734	1748735	PerR Fur family transcription regulators Fur family- PerR in B. subtilis	667	-	<|<	26,57	concordant	leader	NP_465208.1|NP_465209.1
+NC_003210.1	1749762	1749763	glycerate dehydrogenases	195	-	<|>	30,115	concordant	leader	NP_465209.1|NP_465210.1
+NC_003210.1	1749850	1749851	glutamate-1-semialdehyde aminotransferase	269	+	<|>	118,27	concordant	leader	NP_465209.1|NP_465210.1
+NC_003210.1	1751221	1751222	hypothetical protein	29	+	>|>	46,61	concordant	downstream	NP_465210.1|NP_465211.1
+NC_003210.1	1752975	1752976	hypothetical protein	11362	-	<|<	36,119	concordant	leader	NP_465212.1|NP_465213.1
+NC_003210.1	1753878	1753879	enoyl-acyl carrier protein reductase	5	-	genic	0	concordant	gene:inside	NP_465214.1
+NC_003210.1	1755008	1755009	hypothetical protein	29	+	<|>	67,134	discordant	leader	NP_465214.1|NP_465215.1
+NC_003210.1	1755039	1755040	A-G-specific adenine glycosylase	85	-	<|>	98,103	concordant	leader	NP_465214.1|NP_465215.1
+NC_003210.1	1756906	1756907	hypothetical protein	29	-	genic	0	concordant	gene:inside	NP_465218.1
+NC_003210.1	1757689	1757690	recombination regulator RecX	147	-	<|>	17,81	concordant	leader	NP_465218.1|NP_465219.1
+NC_003210.1	1757748	1757749	CDP-abequose synthase	209	+	<|>	76,22	concordant	leader	NP_465218.1|NP_465219.1
+NC_003210.1	1762052	1762053	hypothetical protein	310	-	<|>	61,147	concordant	leader	NP_465221.1|NP_465222.1
+NC_003210.1	1762176	1762177	putative transmembrane proteins	29	+	<|>	185,23	concordant	leader	NP_465221.1|NP_465222.1
+NC_003210.1	1763772	1763773	ribosomal-protein-alanine N-acetyltransferase	309	-	<|>	22,168	concordant	leader	NP_465223.1|NP_465224.1
+NC_003210.1	1763895	1763896	some similarities to methyl-accepting chemotaxis proteins	11	+	<|>	145,45	concordant	leader	NP_465223.1|NP_465224.1
+NC_003210.1	1767319	1767320	similar to RNA methyltransferases	115	-	<|<	26,39	concordant	leader	NP_465228.1|NP_465229.1
+NC_003210.1	1767814	1767815	deoxyguanosine kinase-deoxyadenosine kinaseI subunit	566	+	<|>	76,31	concordant	leader	NP_465229.1|NP_465230.1
+NC_003210.1	1769456	1769457	hypothetical protein	21	+	<|>	68,22	concordant	leader	NP_465231.1|NP_465232.1
+NC_003210.1	1769524	1769525	transport proteins	3	-	genic	0	discordant	gene:inside	NP_465232.1
+NC_003210.1	1771434	1771435	methionine aminopeptidase	6507	-	<|>	29,159	concordant	leader	NP_465234.1|NP_465235.1
+NC_003210.1	1771523	1771524	putative flavodoxin	617	+	<|>	118,70	concordant	leader	NP_465234.1|NP_465235.1
+NC_003210.1	1772149	1772150	highly aminopeptidases	242	+	>|>	110,28	concordant	leader	NP_465235.1|NP_465236.1
+NC_003210.1	1774942	1774943	rod shape-determining protein MreB	11	+	>|>	170,48	concordant	leader	NP_465237.1|NP_465238.1
+NC_003210.1	1776877	1776878	hypothetical protein	7	-	<|<	49,32	concordant	downstream	NP_465239.1|NP_465240.1
+NC_003210.1	1777729	1777730	putative transcription regulators	76	+	<|>	152,33	concordant	leader	NP_465240.1|NP_465241.1
+NC_003210.1	1779542	1779543	hypothetical protein	58	-	<|<	61,171	concordant	leader	NP_465242.1|NP_465243.1
+NC_003210.1	1781139	1781140	phosphotransferase system PTS lichenan-specific enzyme IIA component	21	-	<|<	14,56	concordant	leader	NP_465244.1|NP_465245.1
+NC_003210.1	1781535	1781536	phosphotransferase system PTS lichenan-specific enzyme IIB component	30	-	<|<	32,125	concordant	leader	NP_465245.1|NP_465246.1
+NC_003210.1	1784366	1784367	transcriptional regulator NifA-NtrC family	204	-	<|<	28,106	concordant	leader	NP_465246.1|NP_465247.1
+NC_003210.1	1785822	1785823	ATP-dependent RNA helicases	51	-	<|<	25,18	concordant	downstream	NP_465247.1|NP_465248.1
+NC_003210.1	1788776	1788777	hypothetical protein	45	-	<|<	25,35	concordant	leader	NP_465251.1|NP_465252.1
+NC_003210.1	1789802	1789803	transcription regulators LacI family	28	-	<|<	26,22	concordant	downstream	NP_465252.1|NP_465253.1
+NC_003210.1	1806459	1806460	hypothetical protein	12	-	genic	0	concordant	gene:3'	NP_465262.1
+NC_003210.1	1807601	1807602	glycerol dehydrogenase	286	-	<|<	50,41	concordant	downstream	NP_465262.1|NP_465263.1
+NC_003210.1	1810065	1810066	amino acid glutamine ABC transporter- permease protein	111	-	<|<	307,91	concordant	downstream	NP_465265.1|NP_465266.1
+NC_003210.1	1815107	1815108	two-component response regulator	92	-	<|<	28,35	concordant	leader	NP_465270.1|NP_465271.1
+NC_003210.1	1817904	1817905	ABC transporter ATP-binding protein	23	-	<|<	26,102	concordant	leader	NP_465272.1|NP_465273.1
+NC_003210.1	1818544	1818545	hypothetical protein	73	-	<|>	29,195	concordant	leader	NP_465273.1|NP_465274.1
+NC_003210.1	1818663	1818664	shikimate kinase	11	+	<|>	148,76	concordant	leader	NP_465273.1|NP_465274.1
+NC_003210.1	1819829	1819830	hypothetical protein	88	-	<|<	32,303	concordant	leader	NP_465275.1|NP_465276.1
+NC_003210.1	1822299	1822300	hypothetical protein	9	-	<|<	27,121	concordant	leader	NP_465277.1|NP_465278.1
+NC_003210.1	1823418	1823419	putative lipid kinase	97	-	<|<	66,75	concordant	leader	NP_465278.1|NP_465279.1
+NC_003210.1	1826783	1826784	aspartyl-glutamyl-tRNA amidotransferase subunit C	88	-	<|<	80,45	concordant	downstream	NP_465281.1|NP_465282.1
+NC_003210.1	1829984	1829985	NAD-dependent DNA ligase LigA	9	-	genic	0	concordant	gene:3'	NP_465284.1
+NC_003210.1	1832212	1832213	ATP-dependent DNA helicase	36	-	<|<	36,29	concordant	downstream	NP_465284.1|NP_465285.1
+NC_003210.1	1832947	1832948	geranylgeranylglyceryl phosphate synthase-like protein	237	-	<|>	29,177	concordant	leader	NP_465285.1|NP_465286.1
+NC_003210.1	1835124	1835125	hypothetical protein	144	-	<|<	34,104	concordant	leader	NP_465288.1|NP_465289.1
+NC_003210.1	1847508	1847509	phosphoribosylaminoimidazole carboxylase ATPase subunit	15	-	genic	0	concordant	gene:inside	NP_465300.1
+NC_003210.1	1847994	1847995	phosphoribosylaminoimidazole carboxylase catalytic subunit	53	-	<|<	35,171	concordant	leader	NP_465300.1|NP_465301.1
+NC_003210.1	1848732	1848733	hypothetical protein	12	-	<|<	43,5344	concordant	leader	NP_465301.1|NP_465302.1
+NC_003210.1	1853947	1853948	16S rRNA	19	-	<|<	5258,129	concordant	orphan	NP_465301.1|NP_465302.1
+NC_003210.1	1855538	1855539	hypothetical protein	20	+	>|>	18,32	concordant	downstream	NP_465303.1|NP_465304.1
+NC_003210.1	1857209	1857210	peptidase T	1172	-	<|<	26,32	concordant	leader	NP_465305.1|NP_465306.1
+NC_003210.1	1857793	1857794	hypothetical protein	33	-	<|>	22,62	concordant	leader	NP_465306.1|NP_465307.1
+NC_003210.1	1857833	1857834	3-exo-deoxyribonuclease exoA	45	+	<|>	62,22	concordant	leader	NP_465306.1|NP_465307.1
+NC_003210.1	1859039	1859040	50S ribosomal protein L20	25	-	<|<	30,10	concordant	downstream	NP_465308.1|NP_465309.1
+NC_003210.1	1859806	1859807	translation initiation factor IF-3	21	-	<|<	20,393	concordant	leader	NP_465310.1|NP_465311.1
+NC_003210.1	1860017	1860018	LhrB /L20		-	<|<	231,182	concordant	orphan	NP_465310.1|NP_465311.1
+NC_003210.1	1861190	1861191	internalin C	13	-	<|<	101,716	concordant	leader	NP_465311.1|NP_465312.1
+NC_003210.1	1861533	1861534	rli43		-	<|<	444,373	concordant	orphan	NP_465311.1|NP_465312.1
+NC_003210.1	1862335	1862336	50S ribosomal protein L19	379	-	<|>	85,123	concordant	leader	NP_465312.1|NP_465313.1
+NC_003210.1	1862439	1862440	transcription regulator	44	+	<|>	189,19	concordant	leader	NP_465312.1|NP_465313.1
+NC_003210.1	1866331	1866332	hypothetical protein	69	-	<|<	24,4	concordant	downstream	NP_465319.1|NP_465320.1
+NC_003210.1	1867087	1867088	hypothetical protein	128	-	<|<	18,92	concordant	leader	NP_465320.1|NP_465321.1
+NC_003210.1	1867440	1867441	hypothetical protein	109	-	genic	0	concordant	gene:3'	NP_465322.1
+NC_003210.1	1867730	1867731	30S ribosomal protein S16	778	-	<|<	32,71	concordant	leader	NP_465322.1|NP_465323.1
+NC_003210.1	1872445	1872446	peptidoglycan binding protein	5	-	<|<	203,278	concordant	orphan	NP_465324.1|NP_465325.1
+NC_003210.1	1873646	1873647	protein-tyrosine phosphatase	7	-	<|<	27,117	concordant	leader	NP_465325.1|NP_465326.1
+NC_003210.1	1875478	1875479	putative DNA-binding protein	27	-	<|<	18,95	concordant	leader	NP_465327.1|NP_465328.1
+NC_003210.1	1880883	1880884	ribonuclease III	97	-	<|<	37,157	concordant	leader	NP_465330.1|NP_465331.1
+NC_003210.1	1881292	1881293	acyl carrier protein	3770	-	<|<	19,88	concordant	leader	NP_465331.1|NP_465332.1
+NC_003210.1	1884099	1884100	putative glycerol-3-phosphate acyltransferase PlsX	8	-	genic	0	concordant	gene:3'	NP_465335.1
+NC_003210.1	1884784	1884785	fatty acid biosynthesis transcriptional regulator	15	-	<|<	120,61	concordant	downstream	NP_465335.1|NP_465336.1
+NC_003210.1	1886912	1886913	ATP-dependent DNA helicase RecG	12	-	genic	0	concordant	gene:3'	NP_465337.1
+NC_003210.1	1887801	1887802	L-serine dehydratase	29	-	<|<	25,111	concordant	leader	NP_465337.1|NP_465338.1
+NC_003210.1	1890729	1890730	hypothetical protein	14	-	<|>	77,221	concordant	leader	NP_465340.1|NP_465341.1
+NC_003210.1	1890880	1890881	50S ribosomal protein L28	692	+	<|>	228,70	concordant	leader	NP_465340.1|NP_465341.1
+NC_003210.1	1893500	1893501	ribosome-associated GTPase	6	-	genic	0	concordant	gene:3'	NP_465345.1
+NC_003210.1	1898559	1898560	methionyl-tRNA formyltransferase	5	-	genic	0	concordant	gene:inside	NP_465349.1
+NC_003210.1	1902162	1902163	pantothenate metabolism flavoprotein homolog	3	-	<|<	37,118	concordant	leader	NP_465350.1|NP_465351.1
+NC_003210.1	1904056	1904057	conserved hypothetical protein	33	-	<|>	62,95	concordant	leader	NP_465353.1|NP_465354.1
+NC_003210.1	1904124	1904125	fibronectin binding proteins	2	+	<|>	130,27	concordant	leader	NP_465353.1|NP_465354.1
+NC_003210.1	1905918	1905919	short chain dehydrogenase	154	+	>|>	55,33	concordant	leader	NP_465354.1|NP_465355.1
+NC_003210.1	1912864	1912865	carbamoyl phosphate synthase large subunit	32	-	genic	0	concordant	gene:inside	NP_465361.1
+NC_003210.1	1917518	1917519	highly uracil permease	10	-	<|<	67,62	concordant	downstream	NP_465364.1|NP_465365.1
+NC_003210.1	1918261	1918262	bifunctional pyrimidine regulatory protein PyrR uracil phosphoribosyltransferase	35	-	<|>	130,101	discordant	leader	NP_465365.1|NP_465366.1
+NC_003210.1	1918339	1918340	hypothetical protein	18	+	<|>	208,23	concordant	leader	NP_465365.1|NP_465366.1
+NC_003210.1	1920977	1920978	lipoprotein signal peptidase	9	-	<|<	78,4	concordant	downstream	NP_465369.1|NP_465370.1
+NC_003210.1	1922326	1922327	hypothetical protein	103	-	<|>	62,112	concordant	leader	NP_465370.1|NP_465371.1
+NC_003210.1	1922416	1922417	multidrug efflux protein	99	+	<|>	152,22	concordant	leader	NP_465370.1|NP_465371.1
+NC_003210.1	1926390	1926391	metal cations ABC transporter- ATP-binding proteins	1781	-	<|<	69,91	concordant	leader	NP_465374.1|NP_465375.1
+NC_003210.1	1928481	1928482	carboxy-terminal processing proteinase	1352	-	<|<	57,97	concordant	leader	NP_465376.1|NP_465377.1
+NC_003210.1	1928816	1928817	putative mercuric ion binding proteins	9	-	genic	0	concordant	gene:3'	NP_465378.1
+NC_003210.1	1931342	1931343	hypothetical protein	83	-	<|<	24,99	concordant	leader	NP_465379.1|NP_465380.1
+NC_003210.1	1932302	1932303	similar to D-alanyl-D-alanine carboxypeptidases	10	-	<|<	37,21	concordant	downstream	NP_465380.1|NP_465381.1
+NC_003210.1	1933025	1933026	purine nucleoside phosphorylase	36	-	<|<	1,11	concordant	leader	NP_465381.1|NP_465382.1
+NC_003210.1	1933296	1933297	hypoyhetical protein	1022	-	<|<	27,36	concordant	leader	NP_465382.1|NP_465383.1
+NC_003210.1	1937630	1937631	hypothetical protein	31	-	<|>	28,152	concordant	leader	NP_465388.1|NP_465389.1
+NC_003210.1	1937743	1937744	hemolysinIII proteins- putative integral membrane protein	12	+	<|>	141,39	concordant	leader	NP_465388.1|NP_465389.1
+NC_003210.1	1943113	1943114	hypothetical protein	10	-	genic	0	concordant	gene:inside	NP_465394.1
+NC_003210.1	1944074	1944075	conserved hypothetical proteins- putative integral membrane protein	24	-	<|<	24,70	concordant	leader	NP_465394.1|NP_465395.1
+NC_003210.1	1946446	1946447	phosphoglucomutases	402	-	<|<	28,41	concordant	leader	NP_465396.1|NP_465397.1
+NC_003210.1	1947510	1947511	methyltransferases	14	-	genic	0	concordant	gene:inside	NP_465398.1
+NC_003210.1	1950789	1950790	putative ABC transporters ATP-binding protein	34	-	<|<	27,494	concordant	leader	NP_465400.1|NP_465401.1
+NC_003210.1	1951331	1951332	similar to formyl-tetrahydrofolate	7	-	genic	0	concordant	gene:inside	NP_465401.1
+NC_003210.1	1952580	1952581	formyl-tetrahydrofolate synthetase N-terminal part	21	-	<|<	17,140	concordant	leader	NP_465401.1|NP_465402.1
+NC_003210.1	1953179	1953180	manganese transport transcriptional regulator	705	-	<|>	31,333	concordant	leader	NP_465402.1|NP_465403.1
+NC_003210.1	1953389	1953390	cold shock P	11	+	<|>	241,123	concordant	leader	NP_465402.1|NP_465403.1
+NC_003210.1	1953805	1953806	RNase HI	79	+	>|>	93,30	concordant	leader	NP_465403.1|NP_465404.1
+NC_003210.1	1955153	1955154	5-3 exonuclease	222	-	<|<	27,51	concordant	leader	NP_465405.1|NP_465406.1
+NC_003210.1	1955507	1955508	30S ribosomal protein S14	33	-	<|<	34,90	concordant	leader	NP_465406.1|NP_465407.1
+NC_003210.1	1956705	1956706	chitinases	118	-	<|<	50,142	concordant	leader	NP_465407.1|NP_465408.1
+NC_003210.1	1958913	1958914	xanthine phosphoribosyltransferase	8	-	<|<	174,54	concordant	downstream	NP_465409.1|NP_465410.1
+NC_003210.1	1960504	1960505	probable thermostable carboxypeptidases	8	-	genic	0	concordant	gene:3'	NP_465411.1
+NC_003210.1	1962188	1962189	rnpB/RNase P		-	<|<	545,36	concordant	downstream	NP_465411.1|NP_465412.1
+NC_003210.1	1962619	1962620	hypothetical protein	433	-	<|<	54,78	concordant	leader	NP_465412.1|NP_465413.1
+NC_003210.1	1963635	1963636	hypothetical protein	18	-	<|>	31,216	concordant	leader	NP_465414.1|NP_465415.1
+NC_003210.1	1963808	1963809	Holliday junction-specific endonuclease	21	+	<|>	204,43	concordant	leader	NP_465414.1|NP_465415.1
+NC_003210.1	1968902	1968903	chromosome replication initiation protein	50	-	<|<	15,134	concordant	leader	NP_465419.1|NP_465420.1
+NC_003210.1	1971553	1971554	aspartate aminotransferase	12	-	genic	0	concordant	gene:3'	NP_465422.1
+NC_003210.1	1974992	1974993	bifunctional ATP-dependent DNA helicase-DNA polymerase III subunit epsilon	344	-	<|<	31,66	concordant	leader	NP_465423.1|NP_465424.1
+NC_003210.1	1977795	1977796	thioredoxin	47	-	<|<	16,132	concordant	leader	NP_465427.1|NP_465428.1
+NC_003210.1	1981691	1981692	hypothetical protein	47	-	<|>	58,82	concordant	leader	NP_465432.1|NP_465433.1
+NC_003210.1	1983773	1983774	oxidoreductases	119	-	<|>	38,282	concordant	leader	NP_465434.1|NP_465435.1
+NC_003210.1	1987345	1987346	hypothetical protein	33	+	genic	0	concordant	gene:3'	NP_465437.1
+NC_003210.1	1988137	1988138	malate dehydrogenase	12	+	>|>	90,21	concordant	leader	NP_465438.1|NP_465439.1
+NC_003210.1	1990978	1990979	pyruvate formate-lyase	918	+	>|>	167,68	concordant	leader	NP_465440.1|NP_465441.1
+NC_003210.1	1994660	1994661	hypothetical protein	30	-	<|<	24,90	concordant	leader	NP_465442.1|NP_465443.1
+NC_003210.1	1995477	1995478	hypothetical protein	46	-	<|<	44,42	concordant	downstream	NP_465443.1|NP_465444.1
+NC_003210.1	1996780	1996781	hypothetical protein	8	-	<|<	32,3	concordant	downstream	NP_465445.1|NP_465446.1
+NC_003210.1	1998065	1998066	hypothetical protein	109	-	<|<	29,102	concordant	leader	NP_465446.1|NP_465447.1
+NC_003210.1	2000601	2000602	prephenate dehydrogenase	6	-	genic	0	concordant	gene:3'	NP_465449.1
+NC_003210.1	2002076	2002077	chorismate mutase	9	-	genic	0	concordant	gene:inside	NP_465451.1
+NC_003210.1	2004381	2004382	chorismate synthase	677	-	<|<	71,133	concordant	leader	NP_465452.1|NP_465453.1
+NC_003210.1	2004982	2004983	nucleoside diphosphate kinase	7	-	genic	0	concordant	gene:3'	NP_465454.1
+NC_003210.1	2007488	2007489	heptaprenyl diphosphate synthase component I	112	-	<|<	33,26	concordant	downstream	NP_465456.1|NP_465457.1
+NC_003210.1	2008117	2008118	GTP cyclohydrolase I	593	-	<|<	34,201	concordant	leader	NP_465457.1|NP_465458.1
+NC_003210.1	2008616	2008617	non-specific DNA-binding protein HU	6998	-	<|<	23,389	concordant	leader	NP_465458.1|NP_465459.1
+NC_003210.1	2008871	2008872	rli130		-	<|<	278,134	concordant	orphan	NP_465458.1|NP_465459.1
+NC_003210.1	2010019	2010020	protein-tyrosine-serine phosphatase	109	-	<|<	34,69	concordant	leader	NP_465459.1|NP_465460.1
+NC_003210.1	2012478	2012479	GTP-binding protein EngA	321	-	<|<	41,103	concordant	leader	NP_465461.1|NP_465462.1
+NC_003210.1	2013928	2013929	30S ribosomal protein S1	37	-	<|<	202,157	concordant	orphan	NP_465462.1|NP_465463.1
+NC_003210.1	2016635	2016636	hypothetical protein	139	-	<|<	98,222	concordant	leader	NP_465465.1|NP_465466.1
+NC_003210.1	2019289	2019290	hypothetical protein	15	-	<|>	25,130	concordant	leader	NP_465467.1|NP_465468.1
+NC_003210.1	2019371	2019372	ferredoxin	7	+	<|>	107,48	concordant	leader	NP_465467.1|NP_465468.1
+NC_003210.1	2023928	2023929	two-component response regulator ResD	7	-	<|<	50,133	concordant	leader	NP_465472.1|NP_465473.1
+NC_003210.1	2027505	2027506	diaminopimelate decarboxylase	22	-	<|<	39,142	concordant	leader	NP_465476.1|NP_465477.1
+NC_003210.1	2030606	2030607	integrase-recombinase	104	-	<|<	16,137	concordant	leader	NP_465479.1|NP_465480.1
+NC_003210.1	2031263	2031264	transcriptional regulator Fur family	2569	-	<|<	68,174	concordant	leader	NP_465480.1|NP_465481.1
+NC_003210.1	2031354	2031355	rli131		-	<|<	159,83	concordant	downstream	NP_465480.1|NP_465481.1
+NC_003210.1	2033547	2033548	ferrichrome ABC transporter permease	15	-	<|<	63,39	concordant	downstream	NP_465482.1|NP_465483.1
+NC_003210.1	2034558	2034559	ferrichrome binding protein	6	-	<|>	31,134	concordant	leader	NP_465483.1|NP_465484.1
+NC_003210.1	2038875	2038876	ABC transporter- ATP-binding protein	439	-	<|<	36,565	concordant	leader	NP_465488.1|NP_465489.1
+NC_003210.1	2039087	2039088	rli44		+	<|<	248,353	discordant	orphan	NP_465488.1|NP_465489.1
+NC_003210.1	2039375	2039376	rli94		-	<|<	536,65	concordant	downstream	NP_465488.1|NP_465489.1
+NC_003210.1	2040024	2040025	hypothetical protein	113	-	<|>	27,249	concordant	leader	NP_465489.1|NP_465490.1
+NC_003210.1	2048547	2048548	DNA polymerase IV	48	-	<|<	34,75	concordant	leader	NP_465499.1|NP_465500.1
+NC_003210.1	2050364	2050365	hypothetical protein	41	-	<|>	26,274	concordant	leader	NP_465501.1|NP_465502.1
+NC_003210.1	2050510	2050511	glucose-6-phosphate 1-dehydrogenase	37	+	<|>	172,128	concordant	orphan	NP_465501.1|NP_465502.1
+NC_003210.1	2052203	2052204	hypothetical protein	221	+	>|>	90,29	concordant	leader	NP_465502.1|NP_465503.1
+NC_003210.1	2053832	2053833	hypothetical protein	197	-	<|>	32,660	concordant	leader	NP_465506.1|NP_465507.1
+NC_003210.1	2054162	2054163	rli60		+	<|>	362,330	concordant	orphan	NP_465506.1|NP_465507.1
+NC_003210.1	2065633	2065634	alpha-acetolactate decarboxylase	18	+	>|>	128,64	concordant	leader	NP_465515.1|NP_465516.1
+NC_003210.1	2067864	2067865	pyrimidine-nucleoside phosphorylase	204	-	<|<	109,22	concordant	downstream	NP_465517.1|NP_465518.1
+NC_003210.1	2068926	2068927	transcription regulators LacI family	24	-	<|<	30,50	concordant	leader	NP_465518.1|NP_465519.1
+NC_003210.1	2069675	2069676	deoxyribose-phosphate aldolase	374	-	<|<	28,34	concordant	leader	NP_465519.1|NP_465520.1
+NC_003210.1	2070682	2070683	transcription repressor of dra-nupC-pdp operon DeoR	6	-	<|<	26,71	concordant	leader	NP_465520.1|NP_465521.1
+NC_003210.1	2074903	2074904	PTS mannose-specific enzyme IIC component	13	-	<|<	2,21	concordant	leader	NP_465525.1|NP_465526.1
+NC_003210.1	2076920	2076921	transcription regulator GntR family	51	-	<|<	75,98	concordant	leader	NP_465528.1|NP_465529.1
+NC_003210.1	2078043	2078044	oxidoreductase	4	-	<|<	30,88	concordant	leader	NP_465529.1|NP_465530.1
+NC_003210.1	2079840	2079841	acetolactate synthase	233	-	<|<	12,186	concordant	leader	NP_465530.1|NP_465531.1
+NC_003210.1	2095179	2095180	major cold-shock protein	15761	-	<|<	103,186	concordant	leader	NP_465540.1|NP_465541.1
+NC_003210.1	2097094	2097095	diaminopimelate epimerase	113	-	<|<	31,81	concordant	leader	NP_465542.1|NP_465543.1
+NC_003210.1	2100218	2100219	isoleucyl-tRNA synthetase	90	-	<|<	278,5	concordant	downstream	NP_465543.1|NP_465544.1
+NC_003210.1	2100789	2100790	cell-division initiation protein septum placement	786	-	<|<	39,55	concordant	leader	NP_465544.1|NP_465545.1
+NC_003210.1	2109972	2109973	rli132		-	<|<	370,36	concordant	downstream	NP_465551.1|NP_465552.1
+NC_003210.1	2110820	2110821	hypothetical protein	38	-	<|<	36,88	concordant	leader	NP_465552.1|NP_465553.1
+NC_003210.1	2111682	2111683	hypothetical protein	12	-	<|<	3,1	concordant	downstream	NP_465554.1|NP_465555.1
+NC_003210.1	2113702	2113703	cell division protein FtsZ	40	-	<|<	36,31	concordant	downstream	NP_465556.1|NP_465557.1
+NC_003210.1	2115095	2115096	highly cell-division protein FtsA	81	-	<|<	82,285	concordant	leader	NP_465557.1|NP_465558.1
+NC_003210.1	2117347	2117348	undecaprenyldiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	16	-	genic	0	concordant	gene:inside	NP_465560.1
+NC_003210.1	2119822	2119823	phospho-N-acetylmuramoyl-pentapeptide-transferase	46	-	<|<	37,10	concordant	downstream	NP_465561.1|NP_465562.1
+NC_003210.1	2121367	2121368	UDP-N-acetylmuramoylalanyl-D-glutamate--2-6-diaminopimelate ligase	83	-	<|<	60,115	concordant	leader	NP_465562.1|NP_465563.1
+NC_003210.1	2123787	2123788	penicillin-binding protein 2B	7	-	genic	0	concordant	gene:inside	NP_465564.1
+NC_003210.1	2125516	2125517	cell division protein MraZ	1768	-	<|<	21,182	concordant	leader	NP_465566.1|NP_465567.1
+NC_003210.1	2126979	2126980	integral membrane proteins	5	-	<|>	34,82	concordant	leader	NP_465567.1|NP_465568.1
+NC_003210.1	2130103	2130104	2-dehydropantoate 2-reductase	74	-	<|<	26,124	concordant	leader	NP_465570.1|NP_465571.1
+NC_003210.1	2130422	2130423	50S ribosomal protein L32	4521	-	<|<	22,69	concordant	leader	NP_465571.1|NP_465572.1
+NC_003210.1	2131050	2131051	hypothetical protein	963	-	<|>	23,107	concordant	leader	NP_465572.1|NP_465573.1
+NC_003210.1	2131140	2131141	hypothetical protein	15	+	<|>	113,17	concordant	leader	NP_465572.1|NP_465573.1
+NC_003210.1	2132385	2132386	excinuclease ABC subunit A	41	+	>|>	56,26	concordant	leader	NP_465573.1|NP_465574.1
+NC_003210.1	2136824	2136825	hypothetical protein	828	-	<|<	29,68	concordant	leader	NP_465577.1|NP_465578.1
+NC_003210.1	2137678	2137679	hypothetical protein	195	-	<|<	25,23	concordant	downstream	NP_465579.1|NP_465580.1
+NC_003210.1	2138795	2138796	hypothetical protein	67	-	<|<	39,108	concordant	leader	NP_465580.1|NP_465581.1
+NC_003210.1	2139870	2139871	protoheme IX farnesyltransferase	975	-	<|>	62,175	concordant	leader	NP_465581.1|NP_465582.1
+NC_003210.1	2139966	2139967	heme O oxygenase	13	+	<|>	158,79	concordant	leader	NP_465581.1|NP_465582.1
+NC_003210.1	2141042	2141043	potassium channel subunit	5	+	>|>	80,28	concordant	leader	NP_465582.1|NP_465583.1
+NC_003210.1	2145127	2145128	large-conductance mechanosensitive channel	11	+	genic	0	concordant	gene:5'	NP_465588.1
+NC_003210.1	2145648	2145649	rli133		-	>|<	136,3	concordant	downstream	NP_465588.1|NP_465589.1
+NC_003210.1	2146068	2146069	hypothetical protein	6	-	<|<	25,20	concordant	downstream	NP_465589.1|NP_465590.1
+NC_003210.1	2147457	2147458	conjugated bile acid hydrolase	488	-	<|<	32,226	concordant	leader	NP_465591.1|NP_465592.1
+NC_003210.1	2149338	2149339	chaperonin GroEL	138	-	<|<	27,9	concordant	downstream	NP_465592.1|NP_465593.1
+NC_003210.1	2149700	2149701	co-chaperonin GroES	3526	-	<|>	69,167	concordant	leader	NP_465593.1|NP_465594.1
+NC_003210.1	2151510	2151511	redox-sensing transcriptional repressor Rex	566	-	<|>	78,233	concordant	leader	NP_465596.1|NP_465597.1
+NC_003210.1	2151605	2151606	rli134		-	<|>	173,138	discordant	orphan	NP_465596.1|NP_465597.1
+NC_003210.1	2151721	2151722	ABC transporter ATP-binding protein	9	+	<|>	289,22	concordant	leader	NP_465596.1|NP_465597.1
+NC_003210.1	2154765	2154766	rli45		+	>|<	87,457	concordant	downstream	NP_465598.1|NP_465599.2
+NC_003210.1	2155058	2155059	rli46		-	>|<	380,164	concordant	orphan	NP_465598.1|NP_465599.2
+NC_003210.1	2156741	2156742	ribosomal protein alanine acetyltransferase	8	-	genic	0	concordant	gene:inside	NP_465601.1
+NC_003210.1	2157868	2157869	hypothetical protein	306	-	<|<	25,80	concordant	leader	NP_465602.1|NP_465603.1
+NC_003210.1	2159114	2159115	hypothetical protein	67	-	<|<	21,109	concordant	leader	NP_465603.1|NP_465604.1
+NC_003210.1	2159635	2159636	hypothetical protein	16	-	<|<	32,61	concordant	leader	NP_465604.1|NP_465605.1
+NC_003210.1	2160505	2160506	camphor resistance protein CrcB	37	-	<|<	74,32	concordant	downstream	NP_465606.1|NP_465607.1
+NC_003210.1	2162187	2162188	tRNA-Leu	383	+	<|<	134,135	discordant	orphan	NP_465608.1|NP_465609.1
+NC_003210.1	2164041	2164042	peptidoglycan binding protein	53	-	<|<	31,64	concordant	leader	NP_465609.1|NP_465610.1
+NC_003210.1	2167978	2167979	transcription regulators	25	-	<|<	36,75	concordant	leader	NP_465612.1|NP_465613.1
+NC_003210.1	2169125	2169126	lipases	243	-	<|>	29,186	concordant	leader	NP_465613.1|NP_465614.1
+NC_003210.1	2172006	2172007	glycine betaine transporter BetL	179	+	>|>	107,61	concordant	leader	NP_465615.1|NP_465616.1
+NC_003210.1	2181269	2181270	transcriptional regulator GntR family and to aminotransferase MocR-like	9	-	<|>	67,59	concordant	leader	NP_465624.1|NP_465625.1
+NC_003210.1	2181293	2181294	pyridoxal biosynthesis lyase PdxS	864	+	<|>	91,35	concordant	leader	NP_465624.1|NP_465625.1
+NC_003210.1	2183832	2183833	phosphotransacetylase	1267	-	<|>	33,287	concordant	leader	NP_465627.1|NP_465628.1
+NC_003210.1	2184065	2184066	hypothetical protein	24	+	<|>	266,54	concordant	leader	NP_465627.1|NP_465628.1
+NC_003210.1	2187475	2187476	hypothetical protein	26	-	<|>	65,187	concordant	leader	NP_465630.1|NP_465631.1
+NC_003210.1	2191487	2191488	mannnose-6 phospate isomerase	42	-	<|<	43,37	concordant	downstream	NP_465634.1|NP_465635.1
+NC_003210.1	2192282	2192283	FMN-containing NADPH-linked nitro-flavin reductase	34	-	<|>	27,96	concordant	leader	NP_465635.1|NP_465636.1
+NC_003210.1	2192357	2192358	hypothetical protein	19	+	<|>	102,21	concordant	leader	NP_465635.1|NP_465636.1
+NC_003210.1	2192663	2192664	putative heme peroxidase	103	+	>|>	55,29	concordant	leader	NP_465636.1|NP_465637.1
+NC_003210.1	2193606	2193607	ABC transporter ATP-binding protein	28	+	>|>	159,38	concordant	leader	NP_465637.1|NP_465638.1
+NC_003210.1	2199221	2199222	phosphoglucosamine mutase	334	-	<|<	107,143	concordant	leader	NP_465642.1|NP_465643.1
+NC_003210.1	2201594	2201595	hypothetical protein	45	-	<|<	51,124	concordant	leader	NP_465644.1|NP_465645.1
+NC_003210.1	2208468	2208469	maltose-maltodextrin ABC-transporter binding protein	8	-	<|<	107,107	concordant	downstream	NP_465649.1|NP_465650.1
+NC_003210.1	2210380	2210381	maltogenic amylase	29	-	<|>	30,228	concordant	leader	NP_465650.1|NP_465651.1
+NC_003210.1	2210565	2210566	hypothetical protein	50	+	<|>	215,43	concordant	leader	NP_465650.1|NP_465651.1
+NC_003210.1	2212269	2212270	transcription regulator- LacI family	101	-	<|<	25,114	concordant	leader	NP_465652.1|NP_465653.1
+NC_003210.1	2212660	2212661	hypothetical protein	4350	-	<|<	41,557	concordant	leader	NP_465653.1|NP_465654.1
+NC_003210.1	2213213	2213214	rli135		-	<|<	594,4	concordant	downstream	NP_465653.1|NP_465654.1
+NC_003210.1	2215539	2215540	tRNA-Thr	76	+	<|<	499,514	discordant	orphan	NP_465654.1|NP_465655.1
+NC_003210.1	2215683	2215684	tRNA-Gln	19	+	<|<	643,370	discordant	orphan	NP_465654.1|NP_465655.1
+NC_003210.1	2215683	2215684	tRNA-Tyr	19	-	<|<	643,370	concordant	orphan	NP_465654.1|NP_465655.1
+NC_003210.1	2217207	2217208	hypothetical protein	66	+	<|>	465,14	concordant	leader	NP_465655.1|NP_465656.1
+NC_003210.1	2223297	2223298	ABC transporter ATP-binding protein	24	+	<|>	170,26	concordant	leader	NP_465662.1|NP_465663.1
+NC_003210.1	2226036	2226037	rli47		+	>|<	93,496	concordant	downstream	NP_465665.1|NP_465666.1
+NC_003210.1	2227229	2227230	hypothetical protein	144	-	<|>	32,182	concordant	leader	NP_465666.1|NP_465667.1
+NC_003210.1	2227381	2227382	weakly mannose-6-phosphate isomerase	17	+	<|>	184,30	concordant	leader	NP_465666.1|NP_465667.1
+NC_003210.1	2229963	2229964	transcription regulator GntR family	71	-	<|<	37,78	concordant	leader	NP_465668.1|NP_465669.1
+NC_003210.1	2231084	2231085	hypothetical protein	19	-	<|<	27,42	concordant	leader	NP_465669.1|NP_465670.1
+NC_003210.1	2232021	2232022	transcription regulator LysR family	6	-	<|>	41,65	concordant	leader	NP_465670.1|NP_465671.1
+NC_003210.1	2232066	2232067	hypothetical protein	8	+	<|>	86,20	concordant	leader	NP_465670.1|NP_465671.1
+NC_003210.1	2233134	2233135	hypothetical protein	10	+	>|>	41,15	concordant	leader	NP_465671.1|NP_465672.1
+NC_003210.1	2234183	2234184	hypothetical protein	41	-	<|>	26,173	concordant	leader	NP_465673.1|NP_465674.1
+NC_003210.1	2234333	2234334	hypothetical protein	168	+	<|>	176,23	concordant	leader	NP_465673.1|NP_465674.1
+NC_003210.1	2236807	2236808	ribonucleotide-diphosphate reductase subunit beta	39	-	<|<	20,36	concordant	leader	NP_465678.1|NP_465679.1
+NC_003210.1	2239295	2239296	ribonucleotide-diphosphate reductase subunit alpha	223	-	<|>	161,376	concordant	orphan	NP_465679.1|NP_465680.1
+NC_003210.1	2239295	2239296	rli96		+	<|>	161,376	discordant	orphan	NP_465679.1|NP_465680.1
+NC_003210.1	2239640	2239641	hypothetical protein	257	+	<|>	506,31	concordant	leader	NP_465679.1|NP_465680.1
+NC_003210.1	2242004	2242005	hypothetical protein	295	-	<|<	36,92	concordant	leader	NP_465681.1|NP_465682.1
+NC_003210.1	2242335	2242336	YwmG protein	21524	-	<|<	54,40	concordant	downstream	NP_465682.1|NP_465683.1
+NC_003210.1	2250321	2250322	hypothetical protein	734	-	<|>	22,109	concordant	leader	NP_465691.1|NP_465692.1
+NC_003210.1	2250407	2250408	glyoxalase I	888	+	<|>	108,23	concordant	leader	NP_465691.1|NP_465692.1
+NC_003210.1	2256451	2256452	sigma-54-dependent transcriptional activator	792	-	<|<	51,55	concordant	leader	NP_465697.1|NP_465698.1
+NC_003210.1	2257690	2257691	hypothetical protein	166	-	<|<	111,63	concordant	downstream	NP_465698.1|NP_465699.1
+NC_003210.1	2258569	2258570	3-ketoacyl-acyl-carrier-protein reductase	474	-	<|>	55,127	concordant	leader	NP_465699.1|NP_465700.1
+NC_003210.1	2259344	2259345	hypothetical protein	6	+	>|>	85,21	concordant	leader	NP_465700.1|NP_465701.1
+NC_003210.1	2274841	2274842	hypothetical protein	11	-	<|<	92,119	concordant	leader	NP_465710.1|NP_465711.1
+NC_003210.1	2275362	2275363	rli61		-	<|<	142,157	concordant	orphan	NP_465711.1|NP_465712.1
+NC_003210.1	2277354	2277355	oligoendopeptidase	59	-	<|<	30,43	concordant	leader	NP_465712.1|NP_465713.1
+NC_003210.1	2279350	2279351	adaptor protein	333	-	<|<	59,173	concordant	leader	NP_465714.1|NP_465715.1
+NC_003210.1	2280008	2280009	transcriptional regulator Spx	6	-	<|<	90,229	concordant	leader	NP_465715.1|NP_465716.1
+NC_003210.1	2280110	2280111	rli97		-	<|<	192,127	concordant	downstream	NP_465715.1|NP_465716.1
+NC_003210.1	2281231	2281232	oligopeptide ABC transporter ATP-binding protein	7	-	genic	0	concordant	gene:3'	NP_465717.1
+NC_003210.1	2282308	2282309	oligopeptide ABC transporter ATP-binding protein	8	-	genic	0	concordant	gene:3'	NP_465718.1
+NC_003210.1	2283353	2283354	oligopeptide ABC transporter permease	7	-	genic	0	concordant	gene:3'	NP_465719.1
+NC_003210.1	2286256	2286257	pheromone ABC transporter binding protein	1076	-	<|>	42,582	concordant	leader	NP_465720.1|NP_465721.1
+NC_003210.1	2286586	2286587	rli136		-	<|>	372,252	discordant	orphan	NP_465720.1|NP_465721.1
+NC_003210.1	2287220	2287221	tryptophanyl-tRNA synthetase	309	+	>|>	38,297	concordant	downstream	NP_465721.1|NP_465722.1
+NC_003210.1	2289016	2289017	hypothetical protein	6	-	genic	0	concordant	gene:inside	NP_465724.1
+NC_003210.1	2289451	2289452	transcription regulator	30	-	<|<	29,93	concordant	leader	NP_465724.1|NP_465725.1
+NC_003210.1	2290794	2290795	3-oxoacyl-acyl-carrier protein synthase	20	-	<|<	9,194	concordant	leader	NP_465725.1|NP_465726.1
+NC_003210.1	2291994	2291995	3-oxoacyl-acyl carrier protein synthase III	598	-	<|<	68,52	concordant	downstream	NP_465726.1|NP_465727.1
+NC_003210.1	2293286	2293287	rli137		+	<|>	113,210	discordant	leader	NP_465727.1|NP_465728.1
+NC_003210.1	2293472	2293473	hypothetical protein	8942	+	<|>	299,24	concordant	leader	NP_465727.1|NP_465728.1
+NC_003210.1	2294510	2294511	phosphoglyceromutase 1	112	-	<|<	47,44	concordant	downstream	NP_465729.1|NP_465730.1
+NC_003210.1	2297201	2297202	endopeptidase Clp ATP-binding chain B ClpB	46	-	<|<	47,102	concordant	leader	NP_465730.1|NP_465731.1
+NC_003210.1	2298007	2298008	hypothetical protein	221	-	<|<	27,85	concordant	leader	NP_465731.1|NP_465732.1
+NC_003210.1	2298888	2298889	hypothetical protein	11	-	<|<	26,38	concordant	leader	NP_465732.1|NP_465733.1
+NC_003210.1	2300202	2300203	hypothetical protein	47	-	<|<	26,131	concordant	leader	NP_465734.1|NP_465735.1
+NC_003210.1	2302385	2302386	uroporphyrinogen decarboxylase	189	-	<|>	65,132	concordant	leader	NP_465736.1|NP_465737.1
+NC_003210.1	2302473	2302474	hypothetical protein	489	+	<|>	153,44	concordant	leader	NP_465736.1|NP_465737.1
+NC_003210.1	2305044	2305045	ABC transporter ATP-binding protein	152	-	<|>	26,135	concordant	leader	NP_465739.1|NP_465740.1
+NC_003210.1	2305143	2305144	histidine triad HIT protein	15	+	<|>	125,36	concordant	leader	NP_465739.1|NP_465740.1
+NC_003210.1	2305532	2305533	hypothetical protein	103	+	genic	0	concordant	gene:inside	NP_465740.1
+NC_003210.1	2306124	2306125	hypothetical protein	26	+	>|>	131,52	concordant	leader	NP_465741.1|NP_465742.1
+NC_003210.1	2306786	2306787	post-translocation molecular chaperone	497	+	>|>	71,46	concordant	leader	NP_465742.1|NP_465743.1
+NC_003210.1	2308733	2308734	3-5 exoribonuclease YhaM	557	-	<|<	38,7	concordant	downstream	NP_465744.1|NP_465745.1
+NC_003210.1	2312727	2312728	hypothetical protein	5	-	<|<	32,111	concordant	leader	NP_465746.1|NP_465747.1
+NC_003210.1	2313227	2313228	hypothetical protein	713	-	<|<	36,46	concordant	leader	NP_465747.1|NP_465748.1
+NC_003210.1	2315895	2315896	fumarate hydratase	25	-	<|<	18,52	concordant	leader	NP_465749.1|NP_465750.1
+NC_003210.1	2317864	2317865	hypothetical protein	13	-	<|<	24,85	concordant	leader	NP_465752.1|NP_465753.1
+NC_003210.1	2320145	2320146	penicillin-binding protein	107	-	<|>	52,270	concordant	leader	NP_465753.1|NP_465754.1
+NC_003210.1	2320306	2320307	arsenate reductase	62	+	<|>	213,109	concordant	leader	NP_465753.1|NP_465754.1
+NC_003210.1	2321818	2321819	rli138		+	>|>	44,212	concordant	downstream	NP_465755.1|NP_465756.1
+NC_003210.1	2321830	2321831	hypothetical protein	103	+	>|>	56,200	concordant	downstream	NP_465755.1|NP_465756.1
+NC_003210.1	2321967	2321968	rli139		-	>|>	193,63	discordant	leader	NP_465755.1|NP_465756.1
+NC_003210.1	2333330	2333331	transcriptional regulators GntR family	127	-	<|<	48,44	concordant	downstream	NP_465765.1|NP_465766.1
+NC_003210.1	2333874	2333875	O6-methylguanine-DNA methyltransferase	154	-	<|>	18,128	concordant	leader	NP_465766.1|NP_465767.1
+NC_003210.1	2333985	2333986	methylphosphotriester-DNA alkyltransferase and transcriptional regulator	55	+	<|>	129,17	concordant	leader	NP_465766.1|NP_465767.1
+NC_003210.1	2337444	2337445	oxidoreductase	53	-	<|>	46,341	concordant	leader	NP_465771.1|NP_465772.1
+NC_003210.1	2337662	2337663	hypothetical protein	436	+	<|>	264,123	concordant	leader	NP_465771.1|NP_465772.1
+NC_003210.1	2343709	2343710	phosphoglucomutase	293	-	<|>	25,148	concordant	leader	NP_465777.1|NP_465778.1
+NC_003210.1	2345229	2345230	hypothetical protein	6	+	>|>	80,30	concordant	leader	NP_465778.1|NP_465779.1
+NC_003210.1	2346108	2346109	hypothetical protein	508	-	<|<	21,143	concordant	leader	NP_465780.1|NP_465781.1
+NC_003210.1	2346382	2346383	LhrA		-	genic	0	concordant	gene:inside	NP_465781.1
+NC_003210.1	2346807	2346808	hypothetical protein	54	-	<|>	24,127	concordant	leader	NP_465782.1|NP_465783.1
+NC_003210.1	2348569	2348570	hypothetical protein	437	-	<|<	31,34	concordant	leader	NP_465785.1|NP_465786.1
+NC_003210.1	2349446	2349447	hypothetical protein	9	-	<|>	91,28	concordant	leader	NP_465786.1|NP_465787.1
+NC_003210.1	2351324	2351325	hypothetical protein	12	-	<|<	25,59	concordant	leader	NP_465788.1|NP_465789.1
+NC_003210.1	2356350	2356351	ATP-dependent deoxyribonuclease subunit A	7	-	genic	0	concordant	gene:3'	NP_465792.1
+NC_003210.1	2359926	2359927	ATP-dependent deoxyribonuclease subunit B	43	-	<|<	129,21	concordant	downstream	NP_465792.1|NP_465793.2
+NC_003210.1	2360318	2360319	competence transcription factor ComK- N terminal part	6	+	<|>	15,116	concordant	leader	NP_465793.2|NP_465794.1
+NC_003210.1	2361155	2361156	hypothetical protein	5	-	<|>	15,426	concordant	leader	NP_465795.1|NP_465796.1
+NC_003210.1	2361329	2361330	rli98		+	<|>	189,252	discordant	orphan	NP_465795.1|NP_465796.1
+NC_003210.1	2361405	2361406	rli48		-	<|>	265,176	discordant	orphan	NP_465795.1|NP_465796.1
+NC_003210.1	2361870	2361871	protein gp30	62	+	>|>	80,26	concordant	leader	NP_465796.1|NP_465797.1
+NC_003210.1	2364439	2364440	rli62		-	<|<	180,314	concordant	orphan	NP_465801.1|NP_465802.1
+NC_003210.1	2364449	2364450	hypothetical protein	121	-	<|<	190,304	concordant	orphan	NP_465801.1|NP_465802.1
+NC_003210.1	2386992	2386993	rliG		-	<|<	313,53	concordant	downstream	NP_465826.1|NP_465827.1
+NC_003210.1	2395032	2395033	rli99		+	<|<	49,257	discordant	leader	NP_465844.1|NP_465845.1
+NC_003210.1	2395244	2395245	rli140		-	<|<	261,45	concordant	downstream	NP_465844.1|NP_465845.1
+NC_003210.1	2398564	2398565	transcription regulator	13	-	<|>	36,120	concordant	leader	NP_465852.1|NP_465853.1
+NC_003210.1	2398673	2398674	a putative repressor protein Bacteriophage A118	49	+	<|>	145,11	concordant	leader	NP_465852.1|NP_465853.1
+NC_003210.1	2399283	2399284	rli141		+	>|>	123,36	concordant	leader	NP_465853.1|YP_008475640.1
+NC_003210.1	2399430	2399431	gp33 Bacteriophage A118	1248	+	genic	0	concordant	gene:inside	YP_008475640.1
+NC_003210.1	2400246	2400247	gp32	13	+	>|>	4,17	concordant	downstream	NP_465854.1|NP_465855.1
+NC_003210.1	2403252	2403253	transcriptional regulator	1335	-	<|<	18,88	concordant	leader	NP_465857.1|NP_465858.1
+NC_003210.1	2406929	2406930	regulatory protein DeoR family	239	-	<|>	17,198	concordant	leader	NP_465860.1|NP_465861.1
+NC_003210.1	2407099	2407100	aminopeptidase C	11	+	<|>	187,28	concordant	leader	NP_465860.1|NP_465861.1
+NC_003210.1	2408909	2408910	hypothetical protein	93	-	<|<	17,57	concordant	leader	NP_465862.1|NP_465863.1
+NC_003210.1	2411039	2411040	carbohydrate kinases	129	-	<|<	47,86	concordant	leader	NP_465864.1|NP_465865.1
+NC_003210.1	2411849	2411850	16S pseudouridylate synthase	17	-	<|<	23,50	concordant	leader	NP_465865.1|NP_465866.1
+NC_003210.1	2418653	2418654	NADH-dependent FMN reductase	188	-	<|>	26,217	concordant	leader	NP_465874.1|NP_465875.1
+NC_003210.1	2421787	2421788	putative Na+-H+ antiporter	33	-	<|<	39,90	concordant	leader	NP_465876.1|NP_465877.1
+NC_003210.1	2424752	2424753	Similar to multidrug resistance protein	34	-	<|<	32,169	concordant	leader	NP_465878.1|NP_465879.1
+NC_003210.1	2424866	2424867	rli100		-	<|<	146,55	concordant	downstream	NP_465878.1|NP_465879.1
+NC_003210.1	2427017	2427018	N-acetylglucosamine-6-phosphate isomerase	53	-	<|<	17,27	concordant	leader	NP_465881.1|NP_465882.1
+NC_003210.1	2427915	2427916	hypothetical protein	54	-	<|<	26,94	concordant	leader	NP_465882.1|NP_465883.1
+NC_003210.1	2431355	2431356	hypothetical protein	80	-	<|>	60,332	concordant	leader	NP_465884.1|NP_465885.1
+NC_003210.1	2434901	2434902	hypothetical protein	14	-	<|<	36,121	concordant	leader	NP_465887.1|NP_465888.1
+NC_003210.1	2436190	2436191	S. pyogenes RofA regulatory protein	14	-	<|<	50,7177	concordant	leader	NP_465888.1|NP_465889.1
+NC_003210.1	2436786	2436787	tRNA-Cys	9809	-	<|<	646,6581	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2436786	2436787	tRNA-Gly	9809	+	<|<	646,6581	discordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2436966	2436967	tRNA-Gln	108	-	<|<	826,6401	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437054	2437055	tRNA-His	5506	-	<|<	914,6313	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437054	2437055	tRNA-Trp	5506	+	<|<	914,6313	discordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437200	2437201	tRNA-Tyr	672	-	<|<	1060,6167	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437323	2437324	tRNA-Asp	50	-	<|<	1183,6044	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437323	2437324	tRNA-Phe	50	+	<|<	1183,6044	discordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437745	2437746	tRNA-Glu	1565	-	<|<	1605,5622	concordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2437745	2437746	tRNA-Ser	1565	+	<|<	1605,5622	discordant	orphan	NP_465888.1|NP_465889.1
+NC_003210.1	2444146	2444147	transcription regulator DeoR family	97	-	<|<	21,84	concordant	leader	NP_465889.1|NP_465890.1
+NC_003210.1	2445618	2445619	glucose-6-phosphate isomerase	108	-	<|<	36,66	concordant	leader	NP_465890.1|NP_465891.1
+NC_003210.1	2446142	2446143	hypothetical protein	137	-	<|<	51,97	concordant	leader	NP_465891.1|NP_465892.1
+NC_003210.1	2446625	2446626	general stress protein 13	176	-	<|>	33,121	concordant	leader	NP_465892.1|NP_465893.1
+NC_003210.1	2446720	2446721	aminotransferase	982	+	<|>	128,26	concordant	leader	NP_465892.1|NP_465893.1
+NC_003210.1	2448037	2448038	putative ABC-transporter transmembrane subunit	11	+	>|>	125,14	concordant	leader	NP_465893.1|NP_465894.1
+NC_003210.1	2450232	2450233	phosphotransferase system PTS beta-glucoside-specific enzyme IIB component	2102	-	<|>	41,204	concordant	leader	NP_465896.1|NP_465897.1
+NC_003210.1	2450348	2450349	aspartate kinase	45	+	<|>	157,88	concordant	leader	NP_465896.1|NP_465897.1
+NC_003210.1	2452994	2452995	peptidyl-prolyl cis-trans isomerase	977	-	<|>	89,143	concordant	leader	NP_465899.1|NP_465900.1
+NC_003210.1	2452994	2452995	rli101		+	<|>	89,143	discordant	leader	NP_465899.1|NP_465900.1
+NC_003210.1	2454489	2454490	monovalent cation-H+ antiporter subunit A	10	+	>|>	141,205	concordant	orphan	NP_465900.1|NP_465901.1
+NC_003210.1	2454489	2454490	rli102		-	>|>	141,205	discordant	orphan	NP_465900.1|NP_465901.1
+NC_003210.1	2461120	2461121	YuxO protein	131	-	<|>	30,98	concordant	leader	NP_465908.1|NP_465909.1
+NC_003210.1	2461195	2461196	YuiD protein	93	+	<|>	105,23	concordant	leader	NP_465908.1|NP_465909.1
+NC_003210.1	2461772	2461773	hypothetical protein	19	+	>|>	81,30	concordant	leader	NP_465909.1|NP_465910.1
+NC_003210.1	2463909	2463910	YwqG protein	8	-	<|<	26,59	concordant	leader	NP_465911.1|NP_465912.1
+NC_003210.1	2465309	2465310	NADH dehydrogenase	25	-	<|>	130,320	concordant	orphan	NP_465912.1|NP_465913.1
+NC_003210.1	2465577	2465578	hypothetical thioredoxine reductase	6969	+	<|>	398,52	concordant	leader	NP_465912.1|NP_465913.1
+NC_003210.1	2466685	2466686	YhfK protein	129	+	>|>	61,27	concordant	leader	NP_465913.1|NP_465914.1
+NC_003210.1	2467982	2467983	YuzD protein	97	-	<|<	14,227	concordant	leader	NP_465916.1|NP_465917.1
+NC_003210.1	2472055	2472056	NifU protein	378	+	>|>	141,33	concordant	leader	NP_465919.1|NP_465920.1
+NC_003210.1	2472409	2472410	hypothetical protein	1674	+	>|>	85,28	concordant	leader	NP_465920.1|NP_465921.1
+NC_003210.1	2474290	2474291	hypothetical protein	22	-	<|<	18,18	concordant	downstream	NP_465922.1|NP_465923.1
+NC_003210.1	2475900	2475901	YutD protein	12	-	genic	0	concordant	gene:inside	NP_465926.1
+NC_003210.1	2477270	2477271	YunD protein	21	-	<|>	20,114	concordant	leader	NP_465926.1|NP_465927.1
+NC_003210.1	2477357	2477358	hypothetical protein	16	+	<|>	107,27	concordant	leader	NP_465926.1|NP_465927.1
+NC_003210.1	2479495	2479496	YunF protein	233	-	<|<	31,111	concordant	leader	NP_465929.1|NP_465930.1
+NC_003210.1	2479947	2479948	hypothetical protein	57	-	<|>	27,377	concordant	leader	NP_465930.1|NP_465931.1
+NC_003210.1	2480295	2480296	repressor protein	8	+	<|>	375,29	concordant	leader	NP_465930.1|NP_465931.1
+NC_003210.1	2481602	2481603	hypothetical protein	38	-	<|<	29,129	concordant	leader	NP_465933.1|NP_465934.1
+NC_003210.1	2483150	2483151	hypothetical protein	22	-	genic	0	concordant	gene:3'	NP_465935.1
+NC_003210.1	2483641	2483642	hypothetical protein	15	-	genic	0	concordant	gene:inside	NP_465936.1
+NC_003210.1	2484852	2484853	aminotransferase	30	-	genic	0	concordant	gene:inside	NP_465937.1
+NC_003210.1	2486952	2486953	ABC transporter- ATP-binding protein	296	-	<|>	32,308	concordant	leader	NP_465938.1|NP_465939.1
+NC_003210.1	2487194	2487195	hypothetical protein	10	+	<|>	274,66	concordant	leader	NP_465938.1|NP_465939.1
+NC_003210.1	2489267	2489268	conserved lipoprotein putative ABC transporter binding protein	62	-	<|<	59,6	concordant	downstream	NP_465940.1|NP_465941.1
+NC_003210.1	2491227	2491228	ABC transporter ATP-binding protein	96	-	<|<	261,57	concordant	downstream	NP_465942.1|NP_465943.1
+NC_003210.1	2492744	2492745	two-component sensor histidine kinase	29	-	genic	0	concordant	gene:inside	NP_465945.1
+NC_003210.1	2495318	2495319	glycine cleavage system protein H	44	-	genic	0	concordant	gene:3'	NP_465949.1
+NC_003210.1	2495688	2495689	hypothetical protein	373	-	<|<	27,129	concordant	leader	NP_465949.1|NP_465950.1
+NC_003210.1	2497054	2497055	cell division proteins RodA- FtsW	13	-	<|<	62,14	concordant	downstream	NP_465950.1|NP_465951.1
+NC_003210.1	2501182	2501183	FhuD ferrichrome ABC transporter fhuD precursor ferrichrome-binding protein	130	-	<|>	33,123	concordant	leader	NP_465954.1|NP_465955.1
+NC_003210.1	2501290	2501291	hypothetical protein	11289	+	<|>	141,15	concordant	leader	NP_465954.1|NP_465955.1
+NC_003210.1	2503838	2503839	highly glutamate decarboxylases	267	-	<|>	35,92	concordant	leader	NP_465957.1|NP_465958.1
+NC_003210.1	2505277	2505278	transcription antiterminator	52	-	<|>	121,147	concordant	leader	NP_465959.1|NP_465960.1
+NC_003210.1	2506469	2506470	hypothetical protein	5	+	<|>	100,24	concordant	leader	NP_465961.1|NP_465962.1
+NC_003210.1	2507268	2507269	hypothetical protein	7	-	<|<	19,37	concordant	leader	NP_465963.1|NP_465964.1
+NC_003210.1	2508225	2508226	transcription regulator	22	-	<|<	24,21	concordant	downstream	NP_465964.1|NP_465965.1
+NC_003210.1	2508840	2508841	hypothetical protein	6	-	<|<	25,151	concordant	leader	NP_465965.1|NP_465966.1
+NC_003210.1	2509430	2509431	hypothetical protein	8	-	<|<	20,930	concordant	leader	NP_465966.1|NP_465967.1
+NC_003210.1	2510220	2510221	ssrA/tmRNA		-	<|<	810,140	concordant	orphan	NP_465966.1|NP_465967.1
+NC_003210.1	2520443	2520444	SsrA-binding protein	18	-	genic	0	concordant	gene:3'	NP_465972.1
+NC_003210.1	2522824	2522825	exoribonuclease RNase-R	14	-	<|<	29,5	concordant	downstream	NP_465972.1|NP_465973.1
+NC_003210.1	2524101	2524102	preprotein translocase subunit SecG	351	-	<|<	34,66	concordant	leader	NP_465974.1|NP_465975.1
+NC_003210.1	2525004	2525005	carboxylesterase	251	-	<|<	94,89	concordant	downstream	NP_465975.1|NP_465976.1
+NC_003210.1	2525844	2525845	lipolytic enzyme	14	-	<|<	32,101	concordant	leader	NP_465976.1|NP_465977.1
+NC_003210.1	2526130	2526131	hypothetical protein	124	-	<|<	12,91	concordant	leader	NP_465977.1|NP_465978.1
+NC_003210.1	2527601	2527602	phosphopyruvate hydratase	562	-	<|<	88,48	concordant	downstream	NP_465978.1|NP_465979.1
+NC_003210.1	2532345	2532346	glyceraldehyde-3-phosphate dehydrogenase	10	-	<|<	26,6	concordant	downstream	NP_465982.1|NP_465983.1
+NC_003210.1	2533615	2533616	CggR hypothetical transcriptional regulator	755	-	<|<	218,224	concordant	orphan	NP_465983.1|NP_465984.1
+NC_003210.1	2533615	2533616	rli105		+	<|<	218,224	discordant	orphan	NP_465983.1|NP_465984.1
+NC_003210.1	2535243	2535244	RNA polymerase factor sigma-54	15	-	<|<	61,98	concordant	leader	NP_465984.1|NP_465985.1
+NC_003210.1	2536292	2536293	dipeptidases	2590	-	<|<	25,54	concordant	leader	NP_465985.1|NP_465986.1
+NC_003210.1	2539630	2539631	hypothetical protein	329	-	<|>	20,207	concordant	leader	NP_465988.1|NP_465989.1
+NC_003210.1	2539785	2539786	hypothetical protein	256	+	<|>	175,52	concordant	leader	NP_465988.1|NP_465989.1
+NC_003210.1	2541876	2541877	chitinase and chitin binding protein	208	-	<|>	20,137	concordant	leader	NP_465990.1|NP_465991.1
+NC_003210.1	2541971	2541972	ATP-dependent Clp protease proteolytic subunit	22	+	<|>	115,42	concordant	leader	NP_465990.1|NP_465991.1
+NC_003210.1	2544120	2544121	amino acid transporter	84	-	<|>	72,146	concordant	leader	NP_465992.1|NP_465993.1
+NC_003210.1	2549386	2549387	hypothetical protein	121	-	<|<	33,75	concordant	leader	NP_465997.1|NP_465998.1
+NC_003210.1	2552295	2552296	aldose 1-epimerase mutarotase	10	-	<|<	1,16	concordant	leader	NP_465999.1|NP_466000.1
+NC_003210.1	2553323	2553324	UDP-glucose 4-epimerase	236	-	<|<	29,90	concordant	leader	NP_466000.1|NP_466001.1
+NC_003210.1	2554415	2554416	thioredoxin reductase	470	-	<|<	43,36	concordant	downstream	NP_466001.1|NP_466002.1
+NC_003210.1	2555954	2555955	hypothetical protein	303	-	<|<	28,58	concordant	leader	NP_466002.1|NP_466003.1
+NC_003210.1	2556530	2556531	acetyltransferase	26	-	genic	0	concordant	gene:3'	NP_466004.1
+NC_003210.1	2559135	2559136	HPr kinase-phosphorylase	503	-	<|<	68,119	concordant	leader	NP_466006.1|NP_466007.1
+NC_003210.1	2561067	2561068	hypothetical protein	9	-	<|<	16,52	concordant	leader	NP_466009.1|NP_466010.1
+NC_003210.1	2562460	2562461	YvlB protein	14	-	<|<	79,130	concordant	leader	NP_466010.1|NP_466011.1
+NC_003210.1	2567548	2567549	excinuclease ABC subunit B	209	-	<|<	104,147	concordant	leader	NP_466012.1|NP_466013.1
+NC_003210.1	2568653	2568654	hypothetical protein	22	-	genic	0	concordant	gene:3'	NP_466015.1
+NC_003210.1	2569456	2569457	transcription regulator ArsR family	18	-	<|<	35,233	concordant	leader	NP_466016.1|NP_466017.1
+NC_003210.1	2569572	2569573	rli142		+	<|<	151,117	discordant	downstream	NP_466016.1|NP_466017.1
+NC_003210.1	2577580	2577581	two-component response phosphate regulator	13	-	<|<	35,115	concordant	leader	NP_466024.1|NP_466025.1
+NC_003210.1	2580377	2580378	cardiolipin synthase	140	-	<|<	31,92	concordant	leader	NP_466026.1|NP_466027.1
+NC_003210.1	2585032	2585033	rli143		-	<|<	292,212	concordant	orphan	NP_466030.1|NP_466031.1
+NC_003210.1	2586135	2586136	hypothetical protein	7	-	genic	0	concordant	gene:3'	NP_466032.1
+NC_003210.1	2589896	2589897	preprotein translocase subunit SecA	243	-	<|<	84,147	concordant	leader	NP_466033.1|NP_466034.1
+NC_003210.1	2590745	2590746	YvyD protein	10	-	<|<	139,56	concordant	downstream	NP_466034.1|NP_466035.1
+NC_003210.1	2592783	2592784	late competence protein comFA	13	-	<|<	14,181	concordant	leader	NP_466036.1|NP_466037.1
+NC_003210.1	2594650	2594651	two-component response regulator DegU	22	-	<|>	128,257	concordant	orphan	NP_466038.1|NP_466039.1
+NC_003210.1	2594785	2594786	rli106		-	<|>	263,122	discordant	leader	NP_466038.1|NP_466039.1
+NC_003210.1	2596237	2596238	LytR putative transcriptional regulator LytR	34	+	>|>	148,28	concordant	leader	NP_466040.1|NP_466041.1
+NC_003210.1	2600309	2600310	TagA protein involved in polyglycerol phosphate biosynthesis	28	-	<|<	28,98	concordant	leader	NP_466044.1|NP_466045.1
+NC_003210.1	2601270	2601271	hypothetical cell wall binding protein from B. subtilis	32	-	<|<	30,361	concordant	leader	NP_466045.1|NP_466046.1
+NC_003210.1	2603745	2603746	rod shape-determining protein MreB	1336	-	<|<	46,117	concordant	leader	NP_466048.1|NP_466049.1
+NC_003210.1	2605232	2605233	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	62	-	<|<	78,104	concordant	leader	NP_466049.1|NP_466050.1
+NC_003210.1	2606147	2606148	F0F1 ATP synthase subunit epsilon	7	-	genic	0	concordant	gene:3'	NP_466052.1
+NC_003210.1	2610621	2610622	F0F1 ATP synthase subunit delta	10	-	genic	0	concordant	gene:3'	NP_466056.1
+NC_003210.1	2611434	2611435	F0F1 ATP synthase subunit C	7	-	<|<	25,47	concordant	leader	NP_466057.1|NP_466058.1
+NC_003210.1	2612753	2612754	highly ATP synthase subunit i	138	-	<|<	151,43	concordant	downstream	NP_466059.1|YP_008475642.1
+NC_003210.1	2613300	2613301	rli63		-	<|<	334,134	concordant	orphan	YP_008475642.1|NP_466060.1
+NC_003210.1	2614691	2614692	UDP-N-acetylglucosamine 2-epimerase	12	-	genic	0	concordant	gene:3'	NP_466061.1
+NC_003210.1	2615356	2615357	uracil phosphoribosyltransferase	1612	-	<|<	36,101	concordant	leader	NP_466061.1|NP_466062.1
+NC_003210.1	2616751	2616752	serine hydroxymethyltransferase	230	-	<|<	53,83	concordant	leader	NP_466062.1|NP_466063.1
+NC_003210.1	2618303	2618304	yeast translation initiation protein	28	-	<|<	28,273	concordant	leader	NP_466064.1|NP_466065.1
+NC_003210.1	2621120	2621121	thymidine kinase	8	-	<|<	32,80	concordant	leader	NP_466067.1|NP_466068.1
+NC_003210.1	2624487	2624488	homoserine dehydrogenase	41	-	<|<	77,145	concordant	leader	NP_466070.1|NP_466071.1
+NC_003210.1	2624942	2624943	50S ribosomal protein L31 type B	4288	-	<|<	65,37	concordant	downstream	NP_466071.1|NP_466072.1
+NC_003210.1	2626397	2626398	glycosyl transferases	77	-	<|<	37,44	concordant	leader	NP_466073.1|NP_466074.1
+NC_003210.1	2629119	2629120	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	67	-	<|<	33,88	concordant	leader	NP_466075.1|NP_466076.1
+NC_003210.1	2632628	2632629	weakly human N-acetylglucosaminyl-phosphatidylinositol biosynthetic protein	21	-	<|<	43,278	concordant	leader	NP_466078.1|NP_466079.1
+NC_003210.1	2633862	2633863	fructose-1-6-bisphosphate aldolase	3496	-	<|<	102,67	concordant	downstream	NP_466079.1|NP_466080.1
+NC_003210.1	2634876	2634877	putative lipid kinase	56	-	<|>	27,290	concordant	leader	NP_466080.1|NP_466081.1
+NC_003210.1	2635114	2635115	autolysin- amidase	36	+	<|>	265,52	concordant	leader	NP_466080.1|NP_466081.1
+NC_003210.1	2639789	2639790	CTP synthetase	13	-	<|<	228,140	concordant	orphan	NP_466082.1|NP_466083.1
+NC_003210.1	2639789	2639790	rli108		+	<|<	228,140	discordant	orphan	NP_466082.1|NP_466083.1
+NC_003210.1	2640531	2640532	DNA-directed RNA polymerase subunit delta	75	-	<|<	66,300	concordant	leader	NP_466083.1|NP_466084.1
+NC_003210.1	2640819	2640820	rli144		-	<|<	354,12	concordant	downstream	NP_466083.1|NP_466084.1
+NC_003210.1	2642985	2642986	hypothetical protein	64	-	<|<	38,40	concordant	leader	NP_466085.1|NP_466086.1
+NC_003210.1	2643728	2643729	4-oxalocrotonate isomerase	136	+	<|>	50,24	concordant	leader	NP_466086.1|NP_466087.1
+NC_003210.1	2646361	2646362	hypothetical protein	144	-	<|<	216,102	concordant	downstream	NP_466089.1|NP_466090.1
+NC_003210.1	2648906	2648907	dipeptide ABC transporter dipeptide-binding protein	612	-	<|<	82,53	concordant	downstream	NP_466092.1|NP_466093.1
+NC_003210.1	2649599	2649600	hypothetical protein	10	-	genic	0	concordant	gene:3'	NP_466094.1
+NC_003210.1	2651771	2651772	zinc-binding dehydrogenase	25	-	<|<	16,81	concordant	leader	NP_466096.1|NP_466097.1
+NC_003210.1	2652148	2652149	hypothetical protein	143	-	<|<	24,25	concordant	leader	NP_466097.1|NP_466098.1
+NC_003210.1	2653123	2653124	cation transport protein efflux	83	-	<|<	39,87	concordant	leader	NP_466098.1|NP_466099.1
+NC_003210.1	2658887	2658888	hypothetical protein	254	-	<|>	37,78	concordant	leader	NP_466100.1|NP_466101.1
+NC_003210.1	2660210	2660211	rli49		+	genic	0	discordant	gene:inside	YP_008475643.1
+NC_003210.1	2662189	2662190	hypothetical protein	10	-	<|<	26,53	concordant	leader	NP_466104.1|NP_466105.1
+NC_003210.1	2664326	2664327	two-component response regulator	16	-	<|<	31,16	concordant	downstream	NP_466106.1|NP_466107.1
+NC_003210.1	2668692	2668693	formate dehydrogenase alpha chain	583	-	<|>	40,459	concordant	leader	NP_466109.1|NP_466110.1
+NC_003210.1	2668835	2668836	hypothetical protein	21	+	<|>	183,316	discordant	orphan	NP_466109.1|NP_466110.1
+NC_003210.1	2671562	2671563	drug-export proteins	11	-	<|<	40,61	concordant	leader	NP_466111.1|NP_466112.1
+NC_003210.1	2672736	2672737	transcription regulator TetR-AcrR family	326	-	<|<	226,5565	concordant	orphan	NP_466112.1|NP_466113.1
+NC_003210.1	2672736	2672737	tRNA-Thr	326	+	<|<	226,5565	discordant	orphan	NP_466112.1|NP_466113.1
+NC_003210.1	2679364	2679365	ATP binding proteins	13	-	<|>	35,234	concordant	leader	NP_466113.1|NP_466114.1
+NC_003210.1	2679571	2679572	GW repeat-containing surface protein	74	+	<|>	242,27	concordant	leader	NP_466113.1|NP_466114.1
+NC_003210.1	2682489	2682490	transcription regulators MerR family	143	-	<|<	28,94	concordant	leader	NP_466116.1|NP_466117.1
+NC_003210.1	2682993	2682994	hypothetical protein	229	-	<|>	51,193	concordant	leader	NP_466117.1|NP_466118.1
+NC_003210.1	2684647	2684648	30S ribosomal protein S9	13	-	<|<	5,17	concordant	leader	NP_466119.1|NP_466120.1
+NC_003210.1	2685233	2685234	50S ribosomal protein L13	3944	-	<|<	132,63	concordant	downstream	NP_466120.1|NP_466121.1
+NC_003210.1	2688557	2688558	cobalt transporter ATP-binding subunit	337	-	<|>	28,103	concordant	leader	NP_466124.1|NP_466125.1
+NC_003210.1	2689409	2689410	hypothetical protein	14	+	>|>	87,32	concordant	leader	NP_466125.1|NP_466126.1
+NC_003210.1	2691488	2691489	hypothetical protein	25	-	<|<	24,184	concordant	leader	NP_466127.1|NP_466128.1
+NC_003210.1	2693045	2693046	DNA-directed RNA polymerase subunit alpha	18	-	<|<	5,105	concordant	leader	NP_466129.1|NP_466130.1
+NC_003210.1	2693565	2693566	30S ribosomal protein S11	13	-	genic	0	concordant	gene:3'	NP_466131.1
+NC_003210.1	2693966	2693967	30S ribosomal protein S13	11	-	genic	0	concordant	gene:3'	NP_466132.1
+NC_003210.1	2694411	2694412	translation initiation factor IF-1	45	-	<|<	30,357	concordant	leader	NP_466133.1|NP_466134.1
+NC_003210.1	2694694	2694695	rli109		-	<|<	313,74	concordant	downstream	NP_466133.1|NP_466134.1
+NC_003210.1	2696805	2696806	preprotein translocase subunit SecY	12	-	genic	0	concordant	gene:inside	NP_466136.1
+NC_003210.1	2697251	2697252	50S ribosomal protein L15	47	-	<|<	41,15	concordant	downstream	NP_466136.1|NP_466137.1
+NC_003210.1	2697494	2697495	50S ribosomal protein L30	11	-	genic	0	concordant	gene:inside	NP_466138.1
+NC_003210.1	2697992	2697993	30S ribosomal protein S5	16	-	genic	0	concordant	gene:3'	NP_466139.1
+NC_003210.1	2698378	2698379	50S ribosomal protein L18	21	-	<|<	32,8	concordant	downstream	NP_466139.1|NP_466140.1
+NC_003210.1	2698949	2698950	50S ribosomal protein L6	13	-	<|<	27,4	concordant	downstream	NP_466140.1|NP_466141.1
+NC_003210.1	2699389	2699390	30S ribosomal protein S8	52	-	genic	0	concordant	gene:3'	NP_466142.1
+NC_003210.1	2699593	2699594	30S ribosomal protein S14	344	-	<|<	26,6	concordant	downstream	NP_466142.1|NP_466143.1
+NC_003210.1	2700167	2700168	50S ribosomal protein L5	21	-	genic	0	concordant	gene:3'	NP_466144.1
+NC_003210.1	2700955	2700956	50S ribosomal protein L14	118	-	<|<	73,7	concordant	downstream	NP_466145.1|NP_466146.1
+NC_003210.1	2701261	2701262	30S ribosomal protein S17	23	-	genic	0	concordant	gene:3'	NP_466147.1
+NC_003210.1	2701469	2701470	50S ribosomal protein L29	26	-	genic	0	concordant	gene:inside	NP_466148.1
+NC_003210.1	2702559	2702560	30S ribosomal protein S3	12	-	genic	0	concordant	gene:3'	NP_466150.1
+NC_003210.1	2702913	2702914	50S ribosomal protein L22	19	-	genic	0	concordant	gene:3'	NP_466151.1
+NC_003210.1	2703264	2703265	30S ribosomal protein S19	10	-	<|<	78,10	concordant	downstream	NP_466151.1|NP_466152.1
+NC_003210.1	2704138	2704139	50S ribosomal protein L2	7	-	<|<	31,10	concordant	downstream	NP_466152.1|NP_466153.1
+NC_003210.1	2704483	2704484	50S ribosomal protein L23	9	-	genic	0	concordant	gene:inside	NP_466154.1
+NC_003210.1	2705083	2705084	50S ribosomal protein L4	21	-	genic	0	concordant	gene:3'	NP_466155.1
+NC_003210.1	2706233	2706234	30S ribosomal protein S10	63	-	<|<	180,181	concordant	orphan	NP_466156.1|NP_466157.1
+NC_003210.1	2709393	2709394	conserved hypothetical lipoprotein	36	-	<|<	36,128	concordant	leader	NP_466159.1|NP_466160.1
+NC_003210.1	2710512	2710513	conserved lipoprotein	158095	-	<|>	92,356	concordant	leader	NP_466160.1|NP_466161.1
+NC_003210.1	2710794	2710795	NADH dehydrogenase	335	+	<|>	374,74	concordant	leader	NP_466160.1|NP_466161.1
+NC_003210.1	2712901	2712902	hypothetical protein	5	+	>|>	147,29	concordant	leader	NP_466161.1|NP_466162.1
+NC_003210.1	2718257	2718258	hypothetical protein	80	-	<|<	24,54	concordant	leader	NP_466167.1|YP_008475644.1
+NC_003210.1	2723640	2723641	mannitol-specific PTS enzyme IIA component	351	-	<|<	48,145	concordant	leader	NP_466173.1|NP_466174.1
+NC_003210.1	2725899	2725900	transcriptional antiterminator	387	-	<|<	48,108	concordant	leader	NP_466174.1|NP_466175.1
+NC_003210.1	2727267	2727268	elongation factor Tu	701	-	<|<	73,36	concordant	downstream	NP_466175.1|NP_466176.1
+NC_003210.1	2729448	2729449	elongation factor G	13	-	<|<	58,8	concordant	downstream	NP_466176.1|NP_466177.1
+NC_003210.1	2729961	2729962	30S ribosomal protein S7	9	-	genic	0	concordant	gene:3'	NP_466178.1
+NC_003210.1	2730505	2730506	30S ribosomal protein S12	720	-	<|<	135,58	concordant	downstream	NP_466178.1|NP_466179.1
+NC_003210.1	2732482	2732483	spermidine-spermine N1-acetyl transferase	144	-	<|<	28,106	concordant	leader	NP_466180.1|NP_466181.1
+NC_003210.1	2736457	2736458	rli111		+	<|<	56,139	discordant	leader	NP_466184.1|NP_466185.1
+NC_003210.1	2742974	2742975	BglG antiterminator ( transcriptional ) family	28	-	<|<	18,351	concordant	leader	NP_466190.1|NP_466191.1
+NC_003210.1	2744173	2744174	hypothetical P	1140	-	<|<	36,38	concordant	leader	NP_466191.1|NP_466192.1
+NC_003210.1	2744954	2744955	hypothetical P	49	-	<|<	16,30	concordant	leader	NP_466193.1|NP_466194.1
+NC_003210.1	2745808	2745809	transcription regulator	38	-	<|>	18,98	concordant	leader	NP_466194.1|NP_466195.1
+NC_003210.1	2745876	2745877	hypothetical protein	356	+	<|>	86,30	concordant	leader	NP_466194.1|NP_466195.1
+NC_003210.1	2746396	2746397	ribose-5-phosphate isomerase B	178	+	>|>	20,26	concordant	downstream	NP_466195.1|NP_466196.1
+NC_003210.1	2747032	2747033	hypothetical P	427	+	>|>	155,40	concordant	leader	NP_466196.1|NP_466197.1
+NC_003210.1	2757574	2757575	cellobiose II B phosphotransferase enzyme component	2805	+	<|>	310,31	concordant	leader	NP_466204.1|NP_466205.1
+NC_003210.1	2757953	2757954	cellobiose II C phosphotransferase enzyme component	11	+	>|>	43,92	concordant	downstream	NP_466205.1|NP_466206.1
+NC_003210.1	2760711	2760712	hypothetical protein	147	-	<|<	32,133	concordant	leader	NP_466208.1|NP_466209.1
+NC_003210.1	2766127	2766128	highly Mg2+ transport ATPase	394	-	<|<	50,79	concordant	leader	YP_008475645.1|NP_466212.1
+NC_003210.1	2766809	2766810	transcription regulator- TetR family	124	-	<|>	37,125	concordant	leader	NP_466212.1|NP_466213.1
+NC_003210.1	2766904	2766905	autolysin	666	+	<|>	132,30	concordant	leader	NP_466212.1|NP_466213.1
+NC_003210.1	2769305	2769306	hypothetical protein	310	-	<|<	33,75	concordant	leader	NP_466214.1|NP_466215.1
+NC_003210.1	2770040	2770041	thymidylate kinase	61	-	<|<	34,19	concordant	downstream	NP_466215.1|NP_466216.1
+NC_003210.1	2771465	2771466	lysine decarboxylase	38	-	<|>	27,157	concordant	leader	NP_466216.1|NP_466217.1
+NC_003210.1	2771592	2771593	dihydroxyacetone kinase subunit DhaK	149	+	<|>	154,30	concordant	leader	NP_466216.1|NP_466217.1
+NC_003210.1	2775617	2775618	aldo-keto reductase	85	+	>|>	95,26	concordant	leader	NP_466221.1|NP_466222.1
+NC_003210.1	2776817	2776818	YaaL protein	40	-	genic	0	concordant	gene:3'	NP_466224.1
+NC_003210.1	2777416	2777417	recombination protein RecR	14	-	<|<	29,80	concordant	leader	NP_466224.1|NP_466225.1
+NC_003210.1	2777838	2777839	YaaK protein	22	-	<|<	25,5	concordant	downstream	NP_466225.1|NP_466226.1
+NC_003210.1	2779616	2779617	highly DNA polymerase III gamma and tau subunits	268	-	<|<	34,293	concordant	leader	NP_466226.1|NP_466227.1
+NC_003210.1	2780402	2780403	hypothetical protein	8	-	genic	0	concordant	gene:3'	NP_466228.1
+NC_003210.1	2780816	2780817	hypothetical protein	147	-	<|<	19,116	concordant	leader	NP_466229.1|NP_466230.1
+NC_003210.1	2782512	2782513	PTS system- cellobiose-specific enzyme IIC	69	-	<|>	216,226	concordant	orphan	NP_466230.1|NP_466231.1
+NC_003210.1	2782704	2782705	hypothetical protein	4227	+	<|>	408,34	concordant	leader	NP_466230.1|NP_466231.1
+NC_003210.1	2782978	2782979	rli112		+	>|<	85,487	concordant	downstream	NP_466231.1|NP_466232.1
+NC_003210.1	2783264	2783265	rli50		-	>|<	371,201	concordant	orphan	NP_466231.1|NP_466232.1
+NC_003210.1	2784302	2784303	hypothetical protein	39	-	<|>	196,51	discordant	leader	NP_466232.1|NP_466233.1
+NC_003210.1	2784413	2784414	SRP		-	genic	0	discordant	gene:inside	NP_466233.1
+NC_003210.1	2784775	2784776	rli147		-	>|<	102,29	concordant	downstream	NP_466233.1|NP_466234.1
+NC_003210.1	2786344	2786345	highly gluconate kinase	39	-	<|<	26,90	concordant	leader	NP_466234.1|NP_466235.1
+NC_003210.1	2788388	2788389	pepdidoglycan bound protein	301	-	<|<	26,115	concordant	leader	NP_466236.1|NP_466237.1
+NC_003210.1	2791998	2791999	highly ABC transporter required for expression of cytochrome BD	15	-	genic	0	concordant	gene:inside	NP_466239.1
+NC_003210.1	2794580	2794581	highly cytochrome D ubiquinol oxidase subunit I	22	-	<|<	208,174	concordant	orphan	NP_466240.1|NP_466241.1
+NC_003210.1	2794741	2794742	rli145		-	<|<	369,13	concordant	downstream	NP_466240.1|NP_466241.1
+NC_003210.1	2795254	2795255	hypothetical protein	285	-	<|>	30,165	concordant	leader	NP_466241.1|NP_466242.1
+NC_003210.1	2795360	2795361	acetate-CoA ligase	132	+	<|>	136,59	concordant	leader	NP_466241.1|NP_466242.1
+NC_003210.1	2797782	2797783	putative 6-phosphogluconolactonase	41	-	<|>	25,55	concordant	leader	NP_466243.1|NP_466244.1
+NC_003210.1	2797806	2797807	merR-family transcriptional regulator	5	+	<|>	49,31	concordant	leader	NP_466243.1|NP_466244.1
+NC_003210.1	2798603	2798604	hypothetical protein	263	+	>|>	32,22	concordant	leader	NP_466244.1|NP_466245.1
+NC_003210.1	2799580	2799581	hypothetical protein	63	-	<|<	30,28	concordant	downstream	NP_466246.1|NP_466247.1
+NC_003210.1	2801459	2801460	transcription regulators	16	-	<|>	53,117	concordant	leader	NP_466248.1|NP_466249.1
+NC_003210.1	2801556	2801557	hypothetical protein	10	+	<|>	150,20	concordant	leader	NP_466248.1|NP_466249.1
+NC_003210.1	2804464	2804465	transcription regulator RpiR family	328	-	<|<	27,57	concordant	leader	NP_466253.1|NP_466254.1
+NC_003210.1	2805302	2805303	hypothetical protein	50	-	<|>	29,137	concordant	leader	NP_466254.1|NP_466255.1
+NC_003210.1	2805401	2805402	PTS system- fructose-specific IIABC component	9	+	<|>	128,38	concordant	leader	NP_466254.1|NP_466255.1
+NC_003210.1	2815361	2815362	conserved hypothetical protein hypothetical hemolysin	191	-	<|<	79,39	concordant	downstream	NP_466260.1|NP_466261.1
+NC_003210.1	2817597	2817598	drug-efflux transporters	105	-	<|<	27,90	concordant	leader	NP_466263.1|NP_466264.1
+NC_003210.1	2818736	2818737	putative translaldolase	313	-	<|<	39,104	concordant	leader	NP_466265.1|NP_466266.1
+NC_003210.1	2819818	2819819	ABC transporter ATP-binding protein	9	+	<|>	289,41	concordant	leader	NP_466266.1|NP_466267.1
+NC_003210.1	2823486	2823487	seryl-tRNA synthetase	160	-	<|<	292,43	concordant	downstream	NP_466269.1|NP_466270.1
+NC_003210.1	2823974	2823975	stress protein YdaG	361	-	<|>	26,104	concordant	leader	NP_466270.1|NP_466271.1
+NC_003210.1	2830247	2830248	hypothetical protein	78	+	>|>	240,36	concordant	leader	NP_466274.1|NP_466275.1
+NC_003210.1	2837807	2837808	ATP-dependent DNA helicases	296	-	<|<	25,136	concordant	leader	NP_466279.1|NP_466280.1
+NC_003210.1	2839573	2839574	inosine-monophosphate dehydrogenase	21	-	<|<	164,124	concordant	downstream	NP_466280.1|NP_466281.1
+NC_003210.1	2839573	2839574	rli113		+	<|<	164,124	discordant	downstream	NP_466280.1|NP_466281.1
+NC_003210.1	2840244	2840245	hypothetical protein	221	-	<|<	17,41	concordant	leader	NP_466281.1|NP_466282.1
+NC_003210.1	2842199	2842200	rliI		-	genic	0	discordant	gene:inside	YP_008475646.1
+NC_003210.1	2842362	2842363	beta-glucosidase	10	+	genic	0	concordant	gene:3'	YP_008475646.1
+NC_003210.1	2848360	2848361	hypothetical protein	565	-	<|<	26,45	concordant	leader	NP_466289.1|NP_466290.1
+NC_003210.1	2849576	2849577	hypothetical membrane protein	18	-	genic	0	concordant	gene:3'	NP_466291.1
+NC_003210.1	2850464	2850465	ABC transporter- ATP-binding protein	167	-	<|>	15,155	concordant	leader	NP_466291.1|NP_466292.1
+NC_003210.1	2857320	2857321	rli114		-	<|<	103,259	concordant	leader	NP_466295.1|NP_466296.1
+NC_003210.1	2857320	2857321	transcription antiterminator	32	+	<|<	103,259	discordant	leader	NP_466295.1|NP_466296.1
+NC_003210.1	2861280	2861281	efflux protein	10	+	<|>	460,143	concordant	orphan	NP_466298.1|NP_466299.1
+NC_003210.1	2864726	2864727	GTP-dependent nucleic acid-binding protein EngD	99	-	<|<	66,86	concordant	leader	NP_466301.1|NP_466302.1
+NC_003210.1	2871146	2871147	lichenan operon transcription antiterminator licR	99	-	<|<	40,171	concordant	leader	NP_466306.1|NP_466307.1
+NC_003210.1	2872846	2872847	catalase	95	-	<|<	63,85	concordant	leader	NP_466307.1|NP_466308.1
+NC_003210.1	2876803	2876804	transcription antiterminator	707	-	<|<	29,143	concordant	leader	NP_466310.1|NP_466311.1
+NC_003210.1	2877167	2877168	hypothetical protein	11	-	genic	0	concordant	gene:3'	NP_466312.1
+NC_003210.1	2878812	2878813	partition protein- ParA-like protein	271	-	<|<	48,176	concordant	leader	NP_466313.1|NP_466314.1
+NC_003210.1	2879769	2879770	hypothetical protein	421	-	<|<	23,136	concordant	leader	NP_466314.1|NP_466315.1
+NC_003210.1	2880301	2880302	hypothetical protein	25	-	genic	0	concordant	gene:inside	NP_466316.1
+NC_003210.1	2881138	2881139	DNA-binding protein Spo0J-like homolog YyaA	819	-	<|<	68,104	concordant	leader	NP_466316.1|NP_466317.1
+NC_003210.1	2887344	2887345	N-acetylmannosamine-6-phosphate 2-epimerase	10	-	<|<	48,154	concordant	leader	NP_466323.1|NP_466324.1
+NC_003210.1	2888321	2888322	16S rRNA methyltransferase GidB	17	-	<|<	107,46	concordant	downstream	NP_466324.1|YP_008475647.1
+NC_003210.1	2890699	2890700	hypothetical secreted protein	29	-	<|<	34,79	concordant	leader	NP_466327.1|NP_466328.1
+NC_003210.1	2892470	2892471	hypothetical secreted protein	17	-	<|<	34,125	concordant	leader	NP_466331.1|NP_466332.1
+NC_003210.1	2898403	2898404	transcriptional regulator	158	-	<|>	30,131	concordant	leader	NP_466336.1|NP_466337.1
+NC_003210.1	2898477	2898478	3-ketoacyl-acyl-carrier-protein reductase	25	+	<|>	104,57	concordant	leader	NP_466336.1|NP_466337.1
+NC_003210.1	2904445	2904446	carboxypeptidase	66	-	<|<	44,152	concordant	leader	NP_466341.1|NP_466342.1
+NC_003210.1	2906972	2906973	amino-terminal domain-containing protein	34	-	<|>	33,180	concordant	leader	NP_466342.1|NP_466343.1
+NC_003210.1	2913898	2913899	phosphoserine aminotransferase	16	-	<|<	213,158	concordant	orphan	NP_466347.1|NP_466348.1
+NC_003210.1	2915680	2915681	transcriptional regulator MarR family	20	-	<|<	40,63	concordant	leader	NP_466349.1|NP_466350.1
+NC_003210.1	2916111	2916112	hypothetical protein	974	-	<|>	15,179	concordant	leader	NP_466350.1|NP_466351.1
+NC_003210.1	2917279	2917280	thioredoxin	1599	-	<|<	14,109	concordant	leader	NP_466352.1|NP_466353.1
+NC_003210.1	2919237	2919238	hypothetical protein	99	-	genic	0	concordant	gene:inside	NP_466355.1
+NC_003210.1	2929120	2929121	weakly sucrose phosphorylase	18	-	<|>	31,194	concordant	leader	NP_466363.1|NP_466364.1
+NC_003210.1	2929260	2929261	transcriptional regulator	468	+	<|>	171,54	concordant	leader	NP_466363.1|NP_466364.1
+NC_003210.1	2933171	2933172	hypothetical protein	278	-	<|>	24,131	concordant	leader	NP_466366.1|NP_466367.1
+NC_003210.1	2933271	2933272	transmembrane efflux proteins	71	+	<|>	124,31	concordant	leader	NP_466366.1|NP_466367.1
+NC_003210.1	2940026	2940027	AraC-type regulatory protein	462	+	<|>	97,26	concordant	leader	NP_466372.1|NP_466373.1
+NC_003210.1	2942254	2942255	Jag protein	14	-	genic	0	concordant	gene:inside	NP_466376.1
+NC_003210.1	2943754	2943755	50S ribosomal protein L34	2643	-	<|<	52,116	concordant	leader	NP_466378.1|NP_466379.1
+NC_003210.1	2944379	2944380	hypothetical protein	25	-	<|.	39,inf	concordant	leader	NP_466379.1|.

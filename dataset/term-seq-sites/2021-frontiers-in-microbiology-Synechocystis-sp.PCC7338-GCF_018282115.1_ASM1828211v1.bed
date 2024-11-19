@@ -1,0 +1,487 @@
+NZ_CP054306.1	657	658	-	.	+	-	180	
+NZ_CP054306.1	1239	1240	-	.	+	-	136	
+NZ_CP054306.1	1522	1523	DUF5615 family PIN-like protein	.	-	>|	81	conflict
+NZ_CP054306.1	8813	8814	-	.	+	-	517	
+NZ_CP054306.1	13675	13676	-	.	-	-	344	
+NZ_CP054306.1	22917	22918	phosphoadenosine phosphosulfate reductase	.	+	>|	113	
+NZ_CP054306.1	23749	23750	-	.	+	-	584	
+NZ_CP054306.1	24191	24192	-	.	-	-	142	
+NZ_CP054306.1	26364	26365	transaldolase	.	+	>|	107	
+NZ_CP054306.1	31282	31283	thylakoid membrane photosystem I accumulation factor|hypothetical protein	.	-	>|<	19,73	
+NZ_CP054306.1	36153	36154	-	.	+	-	95	
+NZ_CP054306.1	39589	39590	-	.	+	-	682	
+NZ_CP054306.1	40199	40200	-	.	-	-	517	
+NZ_CP054306.1	41523	41524	-	.	-	-	982	
+NZ_CP054306.1	50896	50897	glutamate racemase	.	-	|<	113	
+NZ_CP054306.1	57209	57210	peptide ABC transporter substrate-binding protein	.	+	|<	50	conflict
+NZ_CP054306.1	61545	61546	peroxiredoxin	.	+	>|	2	
+NZ_CP054306.1	61607	61608	peroxiredoxin	.	+	>|	64	
+NZ_CP054306.1	61767	61768	transposase	.	+	|<	18	conflict
+NZ_CP054306.1	65146	65147	adenosylhomocysteinase	.	-	>|	45	conflict
+NZ_CP054306.1	65176	65177	adenosylhomocysteinase|RelA/SpoT family protein	.	+	>|<	75,122	
+NZ_CP054306.1	69731	69732	-	.	-	-	518	
+NZ_CP054306.1	69920	69921	-	.	-	-	329	
+NZ_CP054306.1	74364	74365	-	.	+	-	1166	
+NZ_CP054306.1	78246	78247	cytochrome B6	.	+	>|	64	
+NZ_CP054306.1	78304	78305	cytochrome B6	.	+	>|	122	
+NZ_CP054306.1	102005	102006	-	.	+	-	28	
+NZ_CP054306.1	105459	105460	aspartate aminotransferase family protein	.	-	|<	64	
+NZ_CP054306.1	109697	109698	-	.	+	-	135	
+NZ_CP054306.1	110423	110424	NAD-dependent epimerase/dehydratase family protein	.	-	|<	41	
+NZ_CP054306.1	120887	120888	-	.	-	-	68	
+NZ_CP054306.1	128273	128274	-	.	-	-	134	
+NZ_CP054306.1	130680	130681	IctB family putative bicarbonate transporter	.	-	|<	60	
+NZ_CP054306.1	134749	134750	hypothetical protein	.	-	|<	75	
+NZ_CP054306.1	137800	137801	-	.	-	-	292	
+NZ_CP054306.1	137934	137935	-	.	-	-	158	
+NZ_CP054306.1	138343	138344	-	.	+	-	259	
+NZ_CP054306.1	138692	138693	-	.	+	-	487	
+NZ_CP054306.1	139137	139138	phosphate acyltransferase PlsX	.	-	|<	42	
+NZ_CP054306.1	141086	141087	-	.	+	-	346	
+NZ_CP054306.1	162892	162893	type I glutamate--ammonia ligase	.	+	>|	99	
+NZ_CP054306.1	169383	169384	-	.	+	-	493	
+NZ_CP054306.1	178418	178419	photosystem II protein PsbQ	.	-	|<	55	
+NZ_CP054306.1	188347	188348	signal peptidase I	.	-	|<	83	
+NZ_CP054306.1	190242	190243	-	.	-	-	178	
+NZ_CP054306.1	190373	190374	-	.	+	-	10	
+NZ_CP054306.1	206761	206762	ATP synthase F1 subunit epsilon	.	+	>|	101	
+NZ_CP054306.1	209784	209785	Ni/Fe hydrogenase subunit alpha	.	+	|<	31	conflict
+NZ_CP054306.1	216826	216827	-	.	-	-	406	
+NZ_CP054306.1	217108	217109	hypothetical protein	.	+	|<	124	conflict
+NZ_CP054306.1	240721	240722	-	.	-	-	153	
+NZ_CP054306.1	245036	245037	-	.	+	-	128	
+NZ_CP054306.1	247051	247052	UbiX family flavin prenyltransferase	.	-	>|	110	conflict
+NZ_CP054306.1	256951	256952	translational GTPase TypA	.	+	>|	79	
+NZ_CP054306.1	268301	268302	fructose bisphosphate aldolase	.	-	|<	56	
+NZ_CP054306.1	274466	274467	-	.	-	-	152	
+NZ_CP054306.1	277345	277346	RNA-guided endonuclease TnpB family protein|NUDIX hydrolase	.	+	>|<	21,54	
+NZ_CP054306.1	277383	277384	RNA-guided endonuclease TnpB family protein|NUDIX hydrolase	.	+	>|<	59,16	
+NZ_CP054306.1	302118	302119	-	.	+	-	169	
+NZ_CP054306.1	303960	303961	-	.	-	-	176	
+NZ_CP054306.1	326608	326609	M23 family metallopeptidase	.	-	|<	88	
+NZ_CP054306.1	333221	333222	hypothetical protein	.	-	|<	61	
+NZ_CP054306.1	334504	334505	-	.	-	-	6	
+NZ_CP054306.1	336516	336517	phycocyanin subunit alpha	.	+	>|	47	
+NZ_CP054306.1	336552	336553	phycocyanin subunit alpha	.	+	>|	83	
+NZ_CP054306.1	338407	338408	phycobilisome linker polypeptide	.	+	>|	81	
+NZ_CP054306.1	338903	338904	serine--tRNA ligase	.	+	|<	34	conflict
+NZ_CP054306.1	339750	339751	-	.	+	-	569	
+NZ_CP054306.1	347735	347736	-	.	-	-	1015	
+NZ_CP054306.1	356946	356947	-	.	+	-	314	
+NZ_CP054306.1	360879	360880	-	.	+	-	1239	
+NZ_CP054306.1	368992	368993	-	.	-	-	209	
+NZ_CP054306.1	381057	381058	-	.	+	-	96	
+NZ_CP054306.1	381851	381852	-	.	+	-	147	
+NZ_CP054306.1	419533	419534	-	.	-	-	421	
+NZ_CP054306.1	426817	426818	hypothetical protein	.	-	|<	62	
+NZ_CP054306.1	426857	426858	hypothetical protein	.	-	|<	22	
+NZ_CP054306.1	431149	431150	aminopeptidase P N-terminal domain-containing protein|ATP-dependent Clp protease proteolytic subunit	.	-	>|<	115,97	
+NZ_CP054306.1	432913	432914	-	.	-	-	162	
+NZ_CP054306.1	470649	470650	peptidylprolyl isomerase	.	-	|<	70	
+NZ_CP054306.1	513456	513457	-	.	-	-	195	
+NZ_CP054306.1	514477	514478	-	.	+	-	273	
+NZ_CP054306.1	517414	517415	-	.	+	-	495	
+NZ_CP054306.1	531767	531768	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase	.	+	>|	67	
+NZ_CP054306.1	533005	533006	hypothetical protein|2-oxo acid dehydrogenase subunit E2	.	-	>|<	95,66	
+NZ_CP054306.1	540635	540636	cation-translocating P-type ATPase	.	+	>|	46	
+NZ_CP054306.1	546673	546674	ribosome-associated translation inhibitor RaiA	.	-	|<	61	
+NZ_CP054306.1	547408	547409	-	.	-	-	99	
+NZ_CP054306.1	548904	548905	-	.	-	-	201	
+NZ_CP054306.1	565414	565415	-	.	+	-	132	
+NZ_CP054306.1	573132	573133	type I methionyl aminopeptidase	.	-	|<	104	
+NZ_CP054306.1	577002	577003	hypothetical protein|diflavin flavoprotein	.	-	>|<	74,71	
+NZ_CP054306.1	577041	577042	hypothetical protein|diflavin flavoprotein	.	+	>|<	113,32	
+NZ_CP054306.1	590870	590871	-	.	-	-	35	
+NZ_CP054306.1	595939	595940	DevA family ABC transporter ATP-binding protein|ribulose bisphosphate carboxylase small subunit	.	-	>|<	8,67	
+NZ_CP054306.1	604843	604844	glutamate-1-semialdehyde 2%2C1-aminomutase	.	+	>|	40	
+NZ_CP054306.1	604910	604911	glutamate-1-semialdehyde 2%2C1-aminomutase	.	+	>|	107	
+NZ_CP054306.1	606366	606367	-	.	+	-	63	
+NZ_CP054306.1	610496	610497	ATP-dependent Clp protease ATP-binding subunit	.	+	>|	65	
+NZ_CP054306.1	639707	639708	-	.	+	-	317	
+NZ_CP054306.1	642463	642464	DUF2974 domain-containing protein|protochlorophyllide reductase	.	-	>|<	13,47	
+NZ_CP054306.1	669134	669135	N-acetyl-gamma-glutamyl-phosphate reductase|DEAD/DEAH box helicase	.	-	>|<	50,95	
+NZ_CP054306.1	687992	687993	-	.	-	-	532	
+NZ_CP054306.1	696309	696310	-	.	+	-	172	
+NZ_CP054306.1	698122	698123	hypothetical protein|NAD(P)H-quinone oxidoreductase subunit 5	.	-	>|<	57,107	
+NZ_CP054306.1	698238	698239	-	.	+	-	173	
+NZ_CP054306.1	698302	698303	-	.	+	-	237	
+NZ_CP054306.1	714126	714127	-	.	-	-	143	
+NZ_CP054306.1	723752	723753	elongation factor G|molecular chaperone HtpG	.	-	>|<	69,84	
+NZ_CP054306.1	724106	724107	-	.	+	-	423	
+NZ_CP054306.1	748141	748142	-	.	-	-	207	
+NZ_CP054306.1	751319	751320	argininosuccinate synthase	.	+	>|	103	
+NZ_CP054306.1	752791	752792	-	.	+	-	223	
+NZ_CP054306.1	756315	756316	-	.	-	-	507	
+NZ_CP054306.1	759404	759405	NAD-dependent epimerase/dehydratase	.	+	|<	9	conflict
+NZ_CP054306.1	763227	763228	-	.	+	-	16	
+NZ_CP054306.1	786232	786233	circadian clock KaiB family protein	.	+	|<	20	conflict
+NZ_CP054306.1	799250	799251	hypothetical protein	.	+	>|	102	
+NZ_CP054306.1	819303	819304	-	.	+	-	96	
+NZ_CP054306.1	824435	824436	-	.	-	-	397	
+NZ_CP054306.1	827301	827302	-	.	+	-	502	
+NZ_CP054306.1	844770	844771	tryptophan synthase subunit alpha	.	-	>|	104	conflict
+NZ_CP054306.1	845173	845174	DUF1622 domain-containing protein	.	+	|<	118	conflict
+NZ_CP054306.1	845481	845482	-	.	+	-	220	
+NZ_CP054306.1	857432	857433	DUF4335 domain-containing protein	.	-	>|	17	conflict
+NZ_CP054306.1	866760	866761	translation initiation factor IF-3	.	+	>|	88	
+NZ_CP054306.1	868388	868389	exopolysaccharide transport family protein	.	-	|<	118	
+NZ_CP054306.1	868458	868459	exopolysaccharide transport family protein	.	+	|<	48	conflict
+NZ_CP054306.1	871510	871511	-	.	+	-	158	
+NZ_CP054306.1	924798	924799	-	.	-	-	87	
+NZ_CP054306.1	932310	932311	ammonium transporter	.	-	|<	86	
+NZ_CP054306.1	936190	936191	universal stress protein|choice-of-anchor I family protein	.	+	>|<	97,21	
+NZ_CP054306.1	947437	947438	-	.	-	-	569	
+NZ_CP054306.1	957111	957112	-	.	+	-	152	
+NZ_CP054306.1	957656	957657	thioredoxin|asparaginase	.	+	>|<	70,92	
+NZ_CP054306.1	970520	970521	-	.	+	-	24	
+NZ_CP054306.1	971449	971450	universal stress protein|photosystem II reaction center protein PsbM	.	-	>|<	51,64	
+NZ_CP054306.1	971483	971484	universal stress protein|photosystem II reaction center protein PsbM	.	+	>|<	85,30	
+NZ_CP054306.1	974657	974658	-	.	-	-	36	
+NZ_CP054306.1	978225	978226	-	.	-	-	118	
+NZ_CP054306.1	978407	978408	-	.	-	-	263	
+NZ_CP054306.1	978632	978633	-	.	+	-	38	
+NZ_CP054306.1	981830	981831	photosystem I reaction center subunit PsaK	.	+	>|	80	
+NZ_CP054306.1	983399	983400	-	.	-	-	710	
+NZ_CP054306.1	1007732	1007733	-	.	-	-	540	
+NZ_CP054306.1	1010345	1010346	F0F1 ATP synthase subunit gamma	.	-	|<	53	
+NZ_CP054306.1	1011413	1011414	F0F1 ATP synthase subunit alpha	.	-	|<	61	
+NZ_CP054306.1	1014634	1014635	ATP synthase F0 subunit C	.	-	|<	82	
+NZ_CP054306.1	1015065	1015066	F0F1 ATP synthase subunit A	.	-	|<	90	
+NZ_CP054306.1	1022422	1022423	iron-sulfur cluster assembly accessory protein|DMT family transporter	.	+	>|<	94,4	
+NZ_CP054306.1	1042419	1042420	-	.	+	-	63	
+NZ_CP054306.1	1042990	1042991	hypothetical protein|photosystem II reaction center X protein	.	-	>|<	98,66	
+NZ_CP054306.1	1043031	1043032	photosystem II reaction center X protein	.	+	|<	25	conflict
+NZ_CP054306.1	1068089	1068090	-	.	+	-	426	
+NZ_CP054306.1	1074277	1074278	pentapeptide repeat-containing protein	.	+	>|	127	
+NZ_CP054306.1	1074848	1074849	-	.	+	-	173	
+NZ_CP054306.1	1074986	1074987	PspA/IM30 family protein	.	-	|<	99	
+NZ_CP054306.1	1075016	1075017	PspA/IM30 family protein	.	-	|<	69	
+NZ_CP054306.1	1076397	1076398	hypothetical protein	.	+	>|	61	
+NZ_CP054306.1	1084001	1084002	-	.	+	-	127	
+NZ_CP054306.1	1088978	1088979	-	.	-	-	27	
+NZ_CP054306.1	1104609	1104610	pyruvate%2C water dikinase	.	+	>|	93	
+NZ_CP054306.1	1122438	1122439	DUF561 domain-containing protein|1-deoxy-D-xylulose-5-phosphate synthase	.	+	>|<	108,82	
+NZ_CP054306.1	1122453	1122454	DUF561 domain-containing protein|1-deoxy-D-xylulose-5-phosphate synthase	.	-	>|<	123,67	
+NZ_CP054306.1	1126945	1126946	photosystem II reaction center protein J	.	+	>|	60	
+NZ_CP054306.1	1129480	1129481	-	.	+	-	88	
+NZ_CP054306.1	1153012	1153013	-	.	+	-	24	
+NZ_CP054306.1	1164508	1164509	-	.	+	-	812	
+NZ_CP054306.1	1181425	1181426	photosystem I reaction center subunit II	.	-	|<	102	
+NZ_CP054306.1	1181836	1181837	-	.	+	-	312	
+NZ_CP054306.1	1193462	1193463	-	.	-	-	206	
+NZ_CP054306.1	1207504	1207505	-	.	+	-	42	
+NZ_CP054306.1	1210945	1210946	-	.	-	-	293	
+NZ_CP054306.1	1217964	1217965	-	.	+	-	217	
+NZ_CP054306.1	1227704	1227705	-	.	+	-	194	
+NZ_CP054306.1	1245458	1245459	-	.	-	-	124	
+NZ_CP054306.1	1276814	1276815	-	.	-	-	21	
+NZ_CP054306.1	1280277	1280278	phycobilisome rod-core linker polypeptide	.	-	|<	73	
+NZ_CP054306.1	1321054	1321055	photosystem II q(b) protein	.	-	|<	66	
+NZ_CP054306.1	1324543	1324544	-	.	+	-	563	
+NZ_CP054306.1	1328624	1328625	magnesium-protoporphyrin IX monomethyl ester (oxidative) cyclase	.	+	>|	83	
+NZ_CP054306.1	1329272	1329273	-	.	-	-	357	
+NZ_CP054306.1	1329328	1329329	-	.	-	-	301	
+NZ_CP054306.1	1331197	1331198	-	.	+	-	297	
+NZ_CP054306.1	1343798	1343799	-	.	+	-	37	
+NZ_CP054306.1	1369761	1369762	-	.	-	-	140	
+NZ_CP054306.1	1373061	1373062	-	.	-	-	181	
+NZ_CP054306.1	1375014	1375015	-	.	+	-	174	
+NZ_CP054306.1	1386591	1386592	DUF6335 family protein	.	+	>|	107	
+NZ_CP054306.1	1397393	1397394	hypothetical protein|acyl-CoA desaturase	.	-	>|<	26,101	
+NZ_CP054306.1	1400720	1400721	-	.	+	-	451	
+NZ_CP054306.1	1407856	1407857	-	.	+	-	139	
+NZ_CP054306.1	1430810	1430811	glucosylglycerol 3-phosphatase	.	+	>|	25	
+NZ_CP054306.1	1437550	1437551	ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	.	+	>|	73	
+NZ_CP054306.1	1439536	1439537	ferredoxin:protochlorophyllide reductase (ATP-dependent) subunit N|DUF4278 domain-containing protein	.	+	>|<	85,30	
+NZ_CP054306.1	1442591	1442592	hypothetical protein	.	+	|<	12	conflict
+NZ_CP054306.1	1451316	1451317	phosphoglucomutase (alpha-D-glucose-1%2C6-bisphosphate-dependent)	.	-	|<	67	
+NZ_CP054306.1	1472029	1472030	photosystem I reaction center protein subunit XI	.	+	>|	61	
+NZ_CP054306.1	1480991	1480992	-	.	+	-	110	
+NZ_CP054306.1	1486841	1486842	-	.	-	-	385	
+NZ_CP054306.1	1494315	1494316	class II fructose-bisphosphatase	.	-	|<	93	
+NZ_CP054306.1	1500599	1500600	-	.	-	-	163	
+NZ_CP054306.1	1505706	1505707	peptidylprolyl isomerase	.	+	>|	61	
+NZ_CP054306.1	1516652	1516653	chaperonin GroEL	.	+	>|	105	
+NZ_CP054306.1	1523386	1523387	-	.	-	-	717	
+NZ_CP054306.1	1525036	1525037	aldehyde oxygenase (deformylating)	.	+	>|	76	
+NZ_CP054306.1	1528626	1528627	-	.	+	-	615	
+NZ_CP054306.1	1542249	1542250	-	.	+	-	235	
+NZ_CP054306.1	1556282	1556283	-	.	+	-	1509	
+NZ_CP054306.1	1557715	1557716	-	.	-	-	203	
+NZ_CP054306.1	1564153	1564154	-	.	-	-	148	
+NZ_CP054306.1	1564246	1564247	photosystem I reaction center subunit XII	.	-	|<	55	
+NZ_CP054306.1	1570961	1570962	c-type cytochrome biogenesis protein CcsB	.	+	>|	124	
+NZ_CP054306.1	1571611	1571612	Hsp20/alpha crystallin family protein	.	+	>|	80	
+NZ_CP054306.1	1573526	1573527	mechanosensitive ion channel	.	+	>|	107	
+NZ_CP054306.1	1575391	1575392	DUF4278 domain-containing protein|proton extrusion protein PcxA	.	+	>|<	103,9	
+NZ_CP054306.1	1585498	1585499	-	.	-	-	51	
+NZ_CP054306.1	1585570	1585571	-	.	+	-	123	
+NZ_CP054306.1	1592302	1592303	-	.	+	-	237	
+NZ_CP054306.1	1609268	1609269	helix-turn-helix domain-containing protein	.	+	>|	59	
+NZ_CP054306.1	1619290	1619291	-	.	-	-	163	
+NZ_CP054306.1	1621851	1621852	50S ribosomal protein L20|UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	.	+	>|<	97,11	
+NZ_CP054306.1	1639114	1639115	DUF433 domain-containing protein	.	-	|<	76	
+NZ_CP054306.1	1645059	1645060	decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase|glycosyltransferase	.	+	>|<	45,45	
+NZ_CP054306.1	1646641	1646642	-	.	+	-	296	
+NZ_CP054306.1	1654544	1654545	DUF1257 domain-containing protein	.	-	|<	104	
+NZ_CP054306.1	1656667	1656668	hypothetical protein	.	-	|<	54	
+NZ_CP054306.1	1667247	1667248	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase	.	-	|<	39	
+NZ_CP054306.1	1672166	1672167	-	.	+	-	195	
+NZ_CP054306.1	1684460	1684461	-	.	+	-	190	
+NZ_CP054306.1	1692923	1692924	RNA polymerase sigma factor RpoD	.	-	|<	78	
+NZ_CP054306.1	1695235	1695236	photosystem I reaction center subunit PsaK	.	+	>|	70	
+NZ_CP054306.1	1695540	1695541	-	.	+	-	258	
+NZ_CP054306.1	1700242	1700243	NifU family protein	.	+	>|	36	
+NZ_CP054306.1	1701758	1701759	elongation factor G	.	-	|<	59	
+NZ_CP054306.1	1715424	1715425	-	.	-	-	288	
+NZ_CP054306.1	1715648	1715649	DUF2605 family protein|NblA/ycf18 family protein	.	+	>|<	108,104	
+NZ_CP054306.1	1722353	1722354	-	.	+	-	837	
+NZ_CP054306.1	1734662	1734663	biosynthetic-type acetolactate synthase large subunit	.	+	>|	83	
+NZ_CP054306.1	1738122	1738123	-	.	-	-	258	
+NZ_CP054306.1	1758812	1758813	chlorophyll synthase ChlG|amino acid ABC transporter substrate-binding protein	.	-	>|<	43,105	
+NZ_CP054306.1	1762550	1762551	phasin family protein	.	-	>|	63	conflict
+NZ_CP054306.1	1762620	1762621	-	.	+	-	28	
+NZ_CP054306.1	1768493	1768494	-	.	-	-	82	
+NZ_CP054306.1	1769926	1769927	-	.	-	-	520	
+NZ_CP054306.1	1771970	1771971	-	.	+	-	325	
+NZ_CP054306.1	1774070	1774071	-	.	-	-	631	
+NZ_CP054306.1	1779081	1779082	photosystem I reaction center subunit IX	.	-	|<	89	
+NZ_CP054306.1	1779343	1779344	Photosystem I reaction center subunit III	.	-	|<	50	
+NZ_CP054306.1	1795977	1795978	-	.	+	-	379	
+NZ_CP054306.1	1797883	1797884	-	.	-	-	332	
+NZ_CP054306.1	1826243	1826244	allophycocyanin subunit beta	.	-	|<	112	
+NZ_CP054306.1	1839573	1839574	SWIM zinc finger family protein	.	+	|<	36	conflict
+NZ_CP054306.1	1841731	1841732	-	.	-	-	614	
+NZ_CP054306.1	1847417	1847418	hypothetical protein|recombination mediator RecR	.	+	>|<	99,26	
+NZ_CP054306.1	1853205	1853206	-	.	+	-	467	
+NZ_CP054306.1	1853586	1853587	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	96	
+NZ_CP054306.1	1858064	1858065	-	.	-	-	20	
+NZ_CP054306.1	1859741	1859742	-	.	+	-	119	
+NZ_CP054306.1	1867839	1867840	-	.	+	-	71	
+NZ_CP054306.1	1867891	1867892	-	.	+	-	19	
+NZ_CP054306.1	1877458	1877459	photosystem I iron-sulfur center protein PsaC	.	-	|<	96	
+NZ_CP054306.1	1877528	1877529	photosystem I iron-sulfur center protein PsaC	.	-	|<	26	
+NZ_CP054306.1	1884201	1884202	phycobilisome rod-core linker polypeptide	.	+	>|	34	
+NZ_CP054306.1	1884253	1884254	phycobilisome rod-core linker polypeptide	.	+	>|	86	
+NZ_CP054306.1	1885718	1885719	-	.	-	-	910	
+NZ_CP054306.1	1895068	1895069	GTP-binding protein|photosystem II manganese-stabilizing polypeptide	.	-	>|<	51,87	
+NZ_CP054306.1	1896657	1896658	hypothetical protein	.	-	>|	75	conflict
+NZ_CP054306.1	1901553	1901554	-	.	+	-	112	
+NZ_CP054306.1	1911175	1911176	-	.	-	-	158	
+NZ_CP054306.1	1946635	1946636	-	.	-	-	67	
+NZ_CP054306.1	1947411	1947412	translation initiation factor IF-2	.	-	|<	33	
+NZ_CP054306.1	1956888	1956889	phospholipid carrier-dependent glycosyltransferase	.	+	|<	1	conflict
+NZ_CP054306.1	1965703	1965704	-	.	+	-	50	
+NZ_CP054306.1	1973960	1973961	tryptophan synthase subunit beta	.	-	|<	120	
+NZ_CP054306.1	1992358	1992359	-	.	+	-	216	
+NZ_CP054306.1	2003210	2003211	ribulose-phosphate 3-epimerase|MoaD/ThiS family protein	.	+	>|<	112,40	
+NZ_CP054306.1	2017267	2017268	class I SAM-dependent methyltransferase	.	+	|<	123	conflict
+NZ_CP054306.1	2021453	2021454	-	.	-	-	135	
+NZ_CP054306.1	2033660	2033661	-	.	+	-	319	
+NZ_CP054306.1	2039630	2039631	transcriptional repressor LexA	.	-	|<	92	
+NZ_CP054306.1	2066421	2066422	IS630 family transposase|glutamate synthase large subunit	.	-	>|<	69,43	
+NZ_CP054306.1	2086030	2086031	-	.	-	-	194	
+NZ_CP054306.1	2109626	2109627	-	.	-	-	52	
+NZ_CP054306.1	2111014	2111015	photosystem II reaction center protein Ycf12	.	-	|<	58	
+NZ_CP054306.1	2127686	2127687	M61 family metallopeptidase	.	+	>|	69	
+NZ_CP054306.1	2129194	2129195	-	.	+	-	200	
+NZ_CP054306.1	2155445	2155446	-	.	+	-	145	
+NZ_CP054306.1	2158751	2158752	-	.	-	-	584	
+NZ_CP054306.1	2168076	2168077	-	.	-	-	391	
+NZ_CP054306.1	2181823	2181824	-	.	-	-	55	
+NZ_CP054306.1	2182666	2182667	-	.	-	-	133	
+NZ_CP054306.1	2210395	2210396	30S ribosomal protein S4	.	+	>|	48	
+NZ_CP054306.1	2216119	2216120	-	.	+	-	200	
+NZ_CP054306.1	2216173	2216174	-	.	+	-	254	
+NZ_CP054306.1	2222194	2222195	NADH-quinone oxidoreductase subunit J	.	+	>|	89	
+NZ_CP054306.1	2229057	2229058	-	.	+	-	742	
+NZ_CP054306.1	2230466	2230467	-	.	+	-	107	
+NZ_CP054306.1	2236492	2236493	-	.	+	-	226	
+NZ_CP054306.1	2236577	2236578	transketolase	.	+	>|	16	
+NZ_CP054306.1	2242324	2242325	nuclear transport factor 2 family protein	.	+	>|	117	
+NZ_CP054306.1	2249472	2249473	glycosyltransferase family 4 protein	.	-	>|	116	conflict
+NZ_CP054306.1	2251094	2251095	-	.	+	-	282	
+NZ_CP054306.1	2252062	2252063	-	.	+	-	15	
+NZ_CP054306.1	2261550	2261551	-	.	-	-	208	
+NZ_CP054306.1	2264936	2264937	HU family DNA-binding protein	.	+	>|	85	
+NZ_CP054306.1	2276237	2276238	aquaporin Z	.	-	|<	114	
+NZ_CP054306.1	2287916	2287917	-	.	-	-	222	
+NZ_CP054306.1	2289152	2289153	phytoene synthase	.	+	|<	61	conflict
+NZ_CP054306.1	2293326	2293327	Bax inhibitor-1/YccA family protein|DUF1816 domain-containing protein	.	+	>|<	111,103	
+NZ_CP054306.1	2320996	2320997	-	.	-	-	41	
+NZ_CP054306.1	2321066	2321067	-	.	-	-	111	
+NZ_CP054306.1	2325946	2325947	photosystem II reaction center protein I	.	-	|<	104	
+NZ_CP054306.1	2327276	2327277	-	.	+	-	37	
+NZ_CP054306.1	2354058	2354059	-	.	+	-	6	
+NZ_CP054306.1	2355919	2355920	iron uptake porin	.	+	>|	80	
+NZ_CP054306.1	2373737	2373738	-	.	-	-	137	
+NZ_CP054306.1	2375366	2375367	YifB family Mg chelatase-like AAA ATPase	.	+	|<	40	conflict
+NZ_CP054306.1	2390045	2390046	ammonium transporter	.	+	>|	124	
+NZ_CP054306.1	2398706	2398707	-	.	-	-	139	
+NZ_CP054306.1	2398892	2398893	AI-2E family transporter	.	+	|<	89	conflict
+NZ_CP054306.1	2412584	2412585	-	.	+	-	157	
+NZ_CP054306.1	2416757	2416758	-	.	-	-	811	
+NZ_CP054306.1	2433199	2433200	-	.	-	-	137	
+NZ_CP054306.1	2442539	2442540	-	.	-	-	227	
+NZ_CP054306.1	2445171	2445172	-	.	-	-	192	
+NZ_CP054306.1	2457601	2457602	-	.	+	-	133	
+NZ_CP054306.1	2462634	2462635	geranylgeranyl reductase	.	+	>|	60	
+NZ_CP054306.1	2480367	2480368	-	.	-	-	449	
+NZ_CP054306.1	2502828	2502829	-	.	-	-	218	
+NZ_CP054306.1	2514296	2514297	c-type cytochrome|DUF1823 family protein	.	+	>|<	76,4	
+NZ_CP054306.1	2517523	2517524	-	.	+	-	42	
+NZ_CP054306.1	2526543	2526544	-	.	+	-	192	
+NZ_CP054306.1	2527917	2527918	-	.	+	-	36	
+NZ_CP054306.1	2551236	2551237	B12-binding domain-containing radical SAM protein|hypothetical protein	.	+	>|<	80,9	
+NZ_CP054306.1	2552802	2552803	50S ribosomal protein L9	.	+	>|	36	
+NZ_CP054306.1	2552872	2552873	50S ribosomal protein L9	.	+	>|	106	
+NZ_CP054306.1	2564884	2564885	tetratricopeptide repeat protein	.	+	>|	71	
+NZ_CP054306.1	2568689	2568690	-	.	-	-	41	
+NZ_CP054306.1	2577371	2577372	-	.	+	-	269	
+NZ_CP054306.1	2579312	2579313	-	.	-	-	764	
+NZ_CP054306.1	2583832	2583833	-	.	-	-	141	
+NZ_CP054306.1	2585240	2585241	photosynthetic/respiratory NAD(P)H-quinone oxidoreductase subunit C	.	-	|<	83	
+NZ_CP054306.1	2589685	2589686	-	.	-	-	142	
+NZ_CP054306.1	2604714	2604715	carbamoyltransferase|DNA-directed RNA polymerase subunit gamma	.	-	>|<	24,68	
+NZ_CP054306.1	2638934	2638935	-	.	-	-	61	
+NZ_CP054306.1	2646505	2646506	-	.	-	-	35	
+NZ_CP054306.1	2667711	2667712	-	.	-	-	326	
+NZ_CP054306.1	2672980	2672981	PAS domain S-box protein	.	+	>|	31	
+NZ_CP054306.1	2681822	2681823	DNA-directed RNA polymerase subunit beta''	.	+	>|	101	
+NZ_CP054306.1	2718786	2718787	-	.	-	-	128	
+NZ_CP054306.1	2719964	2719965	-	.	-	-	207	
+NZ_CP054306.1	2720159	2720160	-	.	+	-	402	
+NZ_CP054306.1	2723386	2723387	elongation factor Tu	.	+	>|	89	
+NZ_CP054306.1	2723813	2723814	30S ribosomal protein S10	.	+	>|	60	
+NZ_CP054306.1	2743637	2743638	-	.	-	-	69	
+NZ_CP054306.1	2744455	2744456	-	.	+	-	300	
+NZ_CP054306.1	2747619	2747620	-	.	-	-	113	
+NZ_CP054306.1	2762634	2762635	-	.	-	-	42	
+NZ_CP054306.1	2767433	2767434	photosystem I core protein PsaB	.	+	>|	61	
+NZ_CP054306.1	2773458	2773459	-	.	+	-	7	
+NZ_CP054306.1	2775439	2775440	carbohydrate porin	.	+	>|	82	
+NZ_CP054306.1	2783507	2783508	sodium/glutamate symporter	.	-	>|	43	conflict
+NZ_CP054306.1	2784118	2784119	-	.	+	-	50	
+NZ_CP054306.1	2795917	2795918	GuaB3 family IMP dehydrogenase-related protein	.	+	>|	52	
+NZ_CP054306.1	2810641	2810642	PucC family protein|beta-ketoacyl-ACP reductase	.	-	>|<	2,60	
+NZ_CP054306.1	2818131	2818132	50S ribosomal protein L11 methyltransferase|phycobilisome linker polypeptide	.	-	>|<	11,66	
+NZ_CP054306.1	2821437	2821438	-	.	+	-	55	
+NZ_CP054306.1	2822745	2822746	-	.	+	-	4	
+NZ_CP054306.1	2830151	2830152	hypothetical protein	.	+	>|	41	
+NZ_CP054306.1	2831373	2831374	-	.	-	-	323	
+NZ_CP054306.1	2840062	2840063	-	.	-	-	1199	
+NZ_CP054306.1	2856994	2856995	DUF1816 domain-containing protein	.	+	>|	82	
+NZ_CP054306.1	2864162	2864163	NAD(P)H-quinone oxidoreductase subunit L	.	+	>|	67	
+NZ_CP054306.1	2871287	2871288	chaperonin GroEL	.	+	>|	80	
+NZ_CP054306.1	2884414	2884415	-	.	-	-	138	
+NZ_CP054306.1	2884485	2884486	single-stranded-DNA-specific exonuclease RecJ	.	+	|<	67	conflict
+NZ_CP054306.1	2897428	2897429	photosystem II reaction center protein PsbZ	.	-	|<	75	
+NZ_CP054306.1	2897968	2897969	M48 family metallopeptidase	.	-	|<	59	
+NZ_CP054306.1	2900401	2900402	30S ribosomal protein S1|DNA replication/repair protein RecF	.	+	>|<	94,57	
+NZ_CP054306.1	2927184	2927185	-	.	+	-	21	
+NZ_CP054306.1	2927528	2927529	hypothetical protein	.	-	>|	87	conflict
+NZ_CP054306.1	2934291	2934292	-	.	-	-	139	
+NZ_CP054306.1	2935948	2935949	50S ribosomal protein L28	.	-	|<	96	
+NZ_CP054306.1	2937897	2937898	heme oxygenase (biliverdin-producing)	.	+	>|	83	
+NZ_CP054306.1	2953414	2953415	hypothetical protein	.	-	|<	35	
+NZ_CP054306.1	2957912	2957913	-	.	-	-	137	
+NZ_CP054306.1	2958281	2958282	hypothetical protein	.	+	>|	83	
+NZ_CP054306.1	2959743	2959744	FUSC family protein	.	+	|<	17	conflict
+NZ_CP054306.1	2965824	2965825	YggT family protein	.	-	|<	112	
+NZ_CP054306.1	3004596	3004597	50S ribosomal protein L27	.	+	>|	52	
+NZ_CP054306.1	3011896	3011897	isoleucine--tRNA ligase|aldose epimerase	.	+	>|<	76,51	
+NZ_CP054306.1	3016315	3016316	DUF4281 domain-containing protein|Re/Si-specific NAD(P)(+) transhydrogenase subunit beta	.	-	>|<	76,61	
+NZ_CP054306.1	3021879	3021880	-	.	-	-	378	
+NZ_CP054306.1	3026732	3026733	type II toxin-antitoxin system PemK/MazF family toxin	.	+	>|	114	
+NZ_CP054306.1	3027281	3027282	-	.	+	-	663	
+NZ_CP054306.1	3031966	3031967	-	.	-	-	144	
+NZ_CP054306.1	3044978	3044979	-	.	+	-	382	
+NZ_CP054306.1	3054347	3054348	-	.	+	-	132	
+NZ_CP054306.1	3065414	3065415	-	.	+	-	36	
+NZ_CP054306.1	3084752	3084753	photosystem II protein Y	.	+	>|	84	
+NZ_CP054306.1	3107508	3107509	-	.	-	-	142	
+NZ_CP054306.1	3107605	3107606	hypothetical protein	.	-	|<	81	
+NZ_CP054306.1	3109240	3109241	-	.	+	-	55	
+NZ_CP054306.1	3109628	3109629	Calvin cycle protein CP12|DUF3143 domain-containing protein	.	+	>|<	109,53	
+NZ_CP054306.1	3109656	3109657	DUF3143 domain-containing protein	.	+	|<	25	conflict
+NZ_CP054306.1	3133130	3133131	-	.	+	-	31	
+NZ_CP054306.1	3137715	3137716	CDGSH iron-sulfur domain-containing protein|NYN domain-containing protein	.	+	>|<	100,122	
+NZ_CP054306.1	3146151	3146152	-	.	+	-	390	
+NZ_CP054306.1	3169963	3169964	heme-binding protein	.	+	>|	51	
+NZ_CP054306.1	3185774	3185775	-	.	-	-	242	
+NZ_CP054306.1	3186547	3186548	photosystem II reaction center protein PsbH	.	+	>|	91	
+NZ_CP054306.1	3198542	3198543	-	.	-	-	190	
+NZ_CP054306.1	3221960	3221961	-	.	+	-	667	
+NZ_CP054306.1	3224730	3224731	chlorophyll A-B binding protein	.	+	>|	123	
+NZ_CP054306.1	3233280	3233281	RNA-binding protein	.	-	|<	75	
+NZ_CP054306.1	3245349	3245350	-	.	-	-	207	
+NZ_CP054306.1	3245540	3245541	phosphatidate cytidylyltransferase	.	+	|<	16	conflict
+NZ_CP054306.1	3247191	3247192	glycogen/starch/alpha-glucan phosphorylase	.	-	|<	119	
+NZ_CP054306.1	3249397	3249398	-	.	+	-	956	
+NZ_CP054306.1	3250756	3250757	-	.	+	-	134	
+NZ_CP054306.1	3259691	3259692	serine hydroxymethyltransferase	.	+	>|	94	
+NZ_CP054306.1	3301479	3301480	molecular chaperone DnaK	.	+	>|	78	
+NZ_CP054306.1	3314228	3314229	-	.	-	-	417	
+NZ_CP054306.1	3318869	3318870	RNA-binding protein hfq	.	+	>|	6	
+NZ_CP054306.1	3319000	3319001	-	.	+	-	50	
+NZ_CP054306.1	3320331	3320332	-	.	-	-	410	
+NZ_CP054306.1	3322067	3322068	hypothetical protein	.	-	|<	60	
+NZ_CP054306.1	3330970	3330971	-	.	-	-	324	
+NZ_CP054306.1	3331085	3331086	-	.	-	-	209	
+NZ_CP054306.1	3338546	3338547	-	.	+	-	328	
+NZ_CP054306.1	3341363	3341364	-	.	-	-	137	
+NZ_CP054306.1	3343111	3343112	heme oxygenase (biliverdin-producing)	.	-	|<	52	
+NZ_CP054306.1	3355254	3355255	S1 RNA-binding domain-containing protein	.	-	>|	20	conflict
+NZ_CP054306.1	3357600	3357601	photosystem II q(b) protein	.	-	|<	66	
+NZ_CP054306.1	3362810	3362811	cytochrome b6-f complex subunit PetG	.	+	>|	105	
+NZ_CP054306.1	3366703	3366704	PH domain-containing protein	.	+	>|	60	
+NZ_CP054306.1	3368234	3368235	-	.	-	-	317	
+NZ_CP054306.1	3371080	3371081	-	.	+	-	159	
+NZ_CP054306.1	3371347	3371348	-	.	+	-	29	
+NZ_CP054306.1	3371918	3371919	-	.	+	-	274	
+NZ_CP054306.1	3378168	3378169	-	.	-	-	236	
+NZ_CP054306.1	3385746	3385747	ferredoxin PetF1	.	-	|<	78	
+NZ_CP054306.1	3388986	3388987	-	.	+	-	52	
+NZ_CP054306.1	3400787	3400788	-	.	-	-	82	
+NZ_CP054306.1	3401346	3401347	hypothetical protein|hypothetical protein	.	+	>|<	103,18	
+NZ_CP054306.1	3401706	3401707	-	.	+	-	297	
+NZ_CP054306.1	3402852	3402853	DUF309 domain-containing protein	.	-	>|	56	conflict
+NZ_CP054306.1	3402924	3402925	-	.	+	-	128	
+NZ_CP054306.1	3418723	3418724	phosphoribulokinase	.	-	|<	86	
+NZ_CP054306.1	3421638	3421639	FAD-binding oxidoreductase|Cof-type HAD-IIB family hydrolase	.	+	>|<	79,13	
+NZ_CP054306.1	3434603	3434604	-	.	+	-	111	
+NZ_CP054306.1	3439256	3439257	-	.	+	-	323	
+NZ_CP054306.1	3439959	3439960	AbrB family transcriptional regulator	.	-	|<	89	
+NZ_CP054306.1	3445575	3445576	extracellular solute-binding protein	.	-	>|	30	conflict
+NZ_CP054306.1	3446215	3446216	-	.	-	-	214	
+NZ_CP054306.1	3446257	3446258	-	.	-	-	172	
+NZ_CP054306.1	3446800	3446801	-	.	+	-	33	
+NZ_CP054306.1	3448142	3448143	DUF1517 domain-containing protein	.	+	>|	81	
+NZ_CP054306.1	3450550	3450551	-	.	-	-	152	
+NZ_CP054306.1	3451702	3451703	-	.	-	-	18	
+NZ_CP054306.1	3452012	3452013	-	.	-	-	328	
+NZ_CP054306.1	3452606	3452607	-	.	+	-	463	
+NZ_CP054306.1	3453018	3453019	RNA-guided endonuclease TnpB family protein	.	-	|<	51	
+NZ_CP054306.1	3453050	3453051	RNA-guided endonuclease TnpB family protein	.	-	|<	19	
+NZ_CP054306.1	3459833	3459834	hypothetical protein	.	-	|<	122	
+NZ_CP054306.1	3463855	3463856	hypothetical protein	.	-	|<	123	
+NZ_CP054306.1	3464778	3464779	-	.	-	-	645	
+NZ_CP054306.1	3475245	3475246	-	.	-	-	453	
+NZ_CP054306.1	3514198	3514199	-	.	-	-	61	
+NZ_CP054306.1	3517672	3517673	phosphoribosylglycinamide formyltransferase 2	.	-	>|	9	conflict
+NZ_CP054306.1	3528944	3528945	-	.	-	-	205	
+NZ_CP054306.1	3540224	3540225	-	.	-	-	90	
+NZ_CP054306.1	3566335	3566336	-	.	-	-	100	
+NZ_CP054306.1	3566949	3566950	sterol desaturase family protein	.	+	|<	110	conflict
+NZ_CP054306.1	3577338	3577339	ATP-dependent zinc metalloprotease FtsH2|LON peptidase substrate-binding domain-containing protein	.	+	>|<	69,26	
+NZ_CP054306.1	3583074	3583075	-	.	-	-	204	
+NZ_CP054306.1	3619730	3619731	sorbosone dehydrogenase family protein	.	-	>|	50	conflict
+NZ_CP054306.1	3628468	3628469	-	.	+	-	1306	
+NZ_CP054306.1	3637531	3637532	-	.	+	-	524	
+NZ_CP054306.1	3645406	3645407	-	.	+	-	275	
+NZ_CP054306.1	3645486	3645487	-	.	+	-	214	
+NZ_CP054306.1	3652203	3652204	photosystem II D2 protein (photosystem q(a) protein)	.	+	>|	109	
+NZ_CP054306.1	3664416	3664417	-	.	+	-	501	
+NZ_CP054306.1	3669351	3669352	trigger factor	.	-	|<	121	
+NZ_CP054306.1	3676956	3676957	hypothetical protein	.	+	>|	118	
+NZ_CP054306.1	3693456	3693457	-	.	-	-	47	

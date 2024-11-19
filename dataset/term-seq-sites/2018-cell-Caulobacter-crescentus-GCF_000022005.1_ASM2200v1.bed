@@ -1,0 +1,337 @@
+NC_011916.1	5319	5320	SSU ribosomal protein S20P	.	+	>|	85	
+NC_011916.1	7166	7167	chromosome replication initiator protein DnaA|alkylated DNA repair protein AlkB	.	+	>|<	59,3	
+NC_011916.1	10119	10120	chaperone protein DnaK	.	+	>|	60	
+NC_011916.1	30272	30273	TonB-dependent receptor	.	-	|<	64	
+NC_011916.1	35758	35759	polyribonucleotide nucleotidyltransferase	.	-	|<	65	
+NC_011916.1	49957	49958	-	.	-	-	174	
+NC_011916.1	76421	76422	multifunctional fatty acid oxidation complex subunit alpha FadJ	.	-	|<	55	
+NC_011916.1	76456	76457	multifunctional fatty acid oxidation complex subunit alpha FadJ	.	+	|<	20	conflict
+NC_011916.1	91338	91339	-	.	-	-	128	
+NC_011916.1	96456	96457	-	.	-	-	167	
+NC_011916.1	137186	137187	argininosuccinate synthase	.	-	|<	59	
+NC_011916.1	164589	164590	DNA polymerase III%2C beta chain	.	+	>|	59	
+NC_011916.1	169332	169333	DNA gyrase subunit B	.	+	>|	87	
+NC_011916.1	171821	171822	-	.	+	-	245	
+NC_011916.1	173024	173025	beta-barrel type 2 porin	.	+	>|	108	
+NC_011916.1	178165	178166	hypothetical protein|transglutaminase-like cysteine proteinase HvyA	.	+	>|<	76,86	
+NC_011916.1	178191	178192	hypothetical protein|transglutaminase-like cysteine proteinase HvyA	.	-	>|<	102,60	
+NC_011916.1	180855	180856	polysaccharide export protein	.	+	>|	55	
+NC_011916.1	211065	211066	LSU ribosomal protein L19P	.	-	|<	55	
+NC_011916.1	214264	214265	2OG-Fe(II) oxygenase superfamily protein	.	-	|<	55	
+NC_011916.1	227580	227581	TonB-dependent receptor	.	+	>|	55	
+NC_011916.1	232496	232497	-	.	+	-	117	
+NC_011916.1	233460	233461	SapC surface layer protein|YdeM-like hot dog superfamily protein	.	+	>|<	59,9	
+NC_011916.1	258746	258747	cyclohexanol dehydrogenase	.	-	>|	10	conflict
+NC_011916.1	267071	267072	aspartate-semialdehyde dehydrogenase	.	+	>|	45	
+NC_011916.1	270119	270120	adenosylhomocysteinase	.	-	|<	56	
+NC_011916.1	274904	274905	-	.	+	-	16	
+NC_011916.1	276325	276326	C4-dicarboxylate transport protein	.	-	|<	58	
+NC_011916.1	295016	295017	conserved hypothetical lipoprotein|2%2C3%2C4%2C5-tetrahydropyridine-2-carboxylate N-succinyltransferase	.	-	>|<	26,92	
+NC_011916.1	300984	300985	autotransporter outer membrane beta-barrel domain-containing protein	.	-	|<	63	
+NC_011916.1	323722	323723	protein tyrosine phosphatase CtpA|hypothetical protein	.	-	>|<	34,89	
+NC_011916.1	334285	334286	-	.	+	-	148	
+NC_011916.1	337868	337869	ExbD-family protein	.	-	|<	63	
+NC_011916.1	337906	337907	ExbD-family protein	.	+	|<	25	conflict
+NC_011916.1	339810	339811	FMN-binding nitroreductase family enzyme	.	+	|<	17	conflict
+NC_011916.1	350774	350775	TonB-dependent receptor	.	+	>|	56	
+NC_011916.1	352265	352266	-	.	-	-	162	
+NC_011916.1	354583	354584	succinyl-CoA synthetase alpha chain	.	-	>|	66	conflict
+NC_011916.1	361907	361908	dihydrolipoamide dehydrogenase	.	+	>|	89	
+NC_011916.1	362117	362118	hypothetical protein|methyl-accepting chemotaxis protein	.	-	>|<	30,100	
+NC_011916.1	368296	368297	primosomal protein N'|integral membrane protein	.	-	>|<	26,61	
+NC_011916.1	374935	374936	delta 3%2C5-delta2%2C4-dienoyl-CoA isomerase precursor	.	-	|<	40	
+NC_011916.1	380102	380103	deoxyhypusine synthase	.	-	|<	76	
+NC_011916.1	387515	387516	ATP synthase B chain	.	-	|<	60	
+NC_011916.1	415347	415348	acetolactate synthase|hypothetical protein	.	-	>|<	69,58	
+NC_011916.1	415383	415384	acetolactate synthase|hypothetical protein	.	+	>|<	105,22	
+NC_011916.1	431327	431328	fasciclin domain cell surface protein|hypothetical protein	.	+	>|<	59,6	
+NC_011916.1	435623	435624	aldehyde dehydrogenase|hypothetical protein	.	+	>|<	64,9	
+NC_011916.1	444831	444832	hypothetical protein	.	-	|<	57	
+NC_011916.1	458704	458705	TonB-dependent receptor|N-acetylglucosamine-6-phosphate deacetylase	.	+	>|<	66,16	
+NC_011916.1	464785	464786	N-acetyl-glucosamine/N-acetyl-chitin oligosaccharide outer membrane transporter nagA	.	+	>|	125	
+NC_011916.1	472971	472972	-	.	+	-	189	
+NC_011916.1	523143	523144	cytochrome c1|aspartate protease	.	+	>|<	58,10	
+NC_011916.1	525896	525897	GTP-binding protein%2C probable translation factor	.	-	|<	48	
+NC_011916.1	533075	533076	LSU ribosomal protein L25P	.	-	|<	64	
+NC_011916.1	543676	543677	-	.	+	-	149	
+NC_011916.1	556316	556317	DNA-directed RNA polymerase beta' chain	.	+	>|	112	
+NC_011916.1	582286	582287	mannonate dehydratase	.	-	|<	43	
+NC_011916.1	631798	631799	TonB-dependent receptor	.	-	|<	87	
+NC_011916.1	645629	645630	TonB-dependent receptor	.	+	>|	60	
+NC_011916.1	684407	684408	hypothetical protein|tetratricopeptide repeat family protein	.	-	>|<	20,32	
+NC_011916.1	684442	684443	hypothetical protein	.	+	>|	55	
+NC_011916.1	698499	698500	nitrate transport ATP-binding protein nrtD	.	+	>|	73	
+NC_011916.1	728787	728788	-	.	+	-	177	
+NC_011916.1	733806	733807	LSU ribosomal protein L1P	.	-	|<	75	
+NC_011916.1	747647	747648	PAS-family hybrid histidine kinase/receiver protein|CarD-family transcriptional regulator CdnL	.	-	>|<	13,56	
+NC_011916.1	758447	758448	LSU ribosomal protein L28P	.	+	>|	68	
+NC_011916.1	761862	761863	cold shock protein CspB	.	+	>|	43	
+NC_011916.1	762962	762963	hypothetical protein|hypothetical protein	.	-	>|<	90,62	
+NC_011916.1	773155	773156	-	.	-	-	262	
+NC_011916.1	777803	777804	type I secretion protein CdzA%2C transmembrane ATPase/peptidase	.	-	>|	28	conflict
+NC_011916.1	792402	792403	GumN superfamily protein|beta-barrel assembly machine (BAM) protein BamF	.	-	>|<	4,58	
+NC_011916.1	807383	807384	-	.	-	-	209	
+NC_011916.1	816021	816022	translation elongation factor P EF-P	.	-	>|	21	conflict
+NC_011916.1	816060	816061	translation elongation factor P EF-P	.	+	>|	60	
+NC_011916.1	825688	825689	TetR family transcriptional regulator	.	+	>|	45	
+NC_011916.1	837891	837892	GTP-binding protein TypA/BipA	.	-	|<	54	
+NC_011916.1	840218	840219	-	.	+	-	126	
+NC_011916.1	847992	847993	peptidoglycan-associated outer membrane lipoprotein	.	-	>|	89	conflict
+NC_011916.1	849968	849969	-	.	-	-	37	
+NC_011916.1	861339	861340	hypothetical protein	.	+	>|	55	
+NC_011916.1	868367	868368	chemotaxis protein cheW|ASC-1 homology domain protein	.	+	>|<	59,6	
+NC_011916.1	892859	892860	-	.	+	-	94	
+NC_011916.1	899321	899322	NAD(P)H:quinone oxidoreductase|hypothetical protein	.	+	>|<	103,34	
+NC_011916.1	901914	901915	flagellin FljN	.	+	>|	60	
+NC_011916.1	903110	903111	flagellin FljO|alpha-L-fucosidase	.	+	>|<	99,12	
+NC_011916.1	933448	933449	glucose/fructose transport protein	.	-	|<	78	
+NC_011916.1	955199	955200	-	.	+	-	20	
+NC_011916.1	970154	970155	-	.	+	-	159	
+NC_011916.1	997633	997634	hypothetical protein	.	+	>|	58	
+NC_011916.1	1054613	1054614	TonB-dependent outer membrane receptor	.	+	>|	59	
+NC_011916.1	1054946	1054947	signal peptide peptidase A	.	-	|<	55	
+NC_011916.1	1062105	1062106	ROS/MUCR transcriptional regulator MucR1|hybrid sensor histidine kinase/receiver protein	.	+	>|<	56,65	
+NC_011916.1	1068087	1068088	stress response protein CsbD|Selenocysteine lyase/Cysteine desulfurase	.	+	>|<	42,39	
+NC_011916.1	1081827	1081828	ROS/MUCR transcriptional regulator MucR2	.	-	>|	42	conflict
+NC_011916.1	1083005	1083006	ribokinase	.	-	|<	23	
+NC_011916.1	1086425	1086426	flagellar hook-basal body complex protein FliE|hypothetical protein	.	-	>|<	33,70	
+NC_011916.1	1100901	1100902	beta-glucosidase	.	-	|<	90	
+NC_011916.1	1108282	1108283	-	.	+	-	83	
+NC_011916.1	1128504	1128505	gamma-glutamyltranspeptidase	.	+	>|	72	
+NC_011916.1	1137211	1137212	TonB-dependent receptor	.	-	|<	55	
+NC_011916.1	1162852	1162853	S-layer protein rsaA	.	+	>|	80	
+NC_011916.1	1176308	1176309	-	.	+	-	199	
+NC_011916.1	1196286	1196287	hypothetical protein	.	+	|<	2	conflict
+NC_011916.1	1199013	1199014	hypothetical protein	.	-	|<	75	
+NC_011916.1	1199455	1199456	phenylalanyl-tRNA synthetase beta chain	.	-	|<	77	
+NC_011916.1	1203345	1203346	LSU ribosomal protein L20P	.	-	|<	66	
+NC_011916.1	1207367	1207368	translation initiation factor 3 (IF-3)	.	-	|<	56	
+NC_011916.1	1243292	1243293	conserved hypothetical cytosolic protein	.	+	>|	52	
+NC_011916.1	1247598	1247599	-	.	-	-	158	
+NC_011916.1	1261867	1261868	TonB-dependent outer membrane receptor	.	+	>|	58	
+NC_011916.1	1268375	1268376	transporter%2C major facilitator superfamily	.	+	>|	63	
+NC_011916.1	1305076	1305077	hypothetical protein	.	+	>|	61	
+NC_011916.1	1346460	1346461	putative cytosolic protein|BioF-family ceramide biosynthesis protein CcbF	.	-	>|<	13,56	
+NC_011916.1	1367519	1367520	amino acid permease	.	-	|<	87	
+NC_011916.1	1387157	1387158	class II aldolase and Adducin protein	.	+	>|	59	
+NC_011916.1	1420061	1420062	stalk-specific protein X	.	-	|<	56	
+NC_011916.1	1430985	1430986	hypothetical protein	.	+	>|	86	
+NC_011916.1	1445346	1445347	DNA-directed RNA polymerase alpha chain	.	+	>|	77	
+NC_011916.1	1445944	1445945	LSU ribosomal protein L17P	.	+	>|	57	
+NC_011916.1	1461334	1461335	-	.	+	-	136	
+NC_011916.1	1462101	1462102	hypothetical protein	.	+	>|	68	
+NC_011916.1	1468150	1468151	myo-inositol 2-dehydrogenase IdhA	.	-	|<	61	
+NC_011916.1	1477471	1477472	malonate-semialdehyde dehydrogenase IolA	.	+	>|	86	
+NC_011916.1	1485922	1485923	acyl-CoA dehydrogenase%2C short-chain specific	.	+	>|	70	
+NC_011916.1	1495397	1495398	pole-organizing protein popZ	.	+	>|	53	
+NC_011916.1	1498334	1498335	-	.	+	-	143	
+NC_011916.1	1500633	1500634	hypothetical protein|amidase family protein	.	-	>|<	29,65	
+NC_011916.1	1500670	1500671	hypothetical protein|amidase family protein	.	+	>|<	66,28	
+NC_011916.1	1503052	1503053	rRNA methylase|hypothetical protein	.	-	>|<	15,53	
+NC_011916.1	1515153	1515154	electron transfer flavoprotein-ubiquinone oxidoreductase FzeA	.	+	>|	41	
+NC_011916.1	1518498	1518499	peptidyl-prolyl cis-trans isomerase|ammonium transporter/methylammonium transporter	.	-	>|<	21,57	
+NC_011916.1	1518537	1518538	peptidyl-prolyl cis-trans isomerase|ammonium transporter/methylammonium transporter	.	+	>|<	60,18	
+NC_011916.1	1533698	1533699	methyltransferase	.	+	>|	55	
+NC_011916.1	1536063	1536064	5-aminolevulinic acid synthase|ROS/MUCR transcriptional regulator	.	-	>|<	50,48	
+NC_011916.1	1536096	1536097	5-aminolevulinic acid synthase|ROS/MUCR transcriptional regulator	.	+	>|<	83,15	
+NC_011916.1	1543607	1543608	K(+)-insensitive pyrophosphate energized proton pump|single domain receiver protein CleB	.	+	>|<	61,30	
+NC_011916.1	1544395	1544396	beta-barrel assembly machine (BAM) protein BamE	.	-	|<	62	
+NC_011916.1	1553875	1553876	SSU ribosomal protein S9P	.	+	>|	60	
+NC_011916.1	1571815	1571816	hypothetical protein	.	-	|<	56	
+NC_011916.1	1583311	1583312	OmpW family outer membrane cation channel	.	+	>|	69	
+NC_011916.1	1590815	1590816	-	.	+	-	53	
+NC_011916.1	1625728	1625729	NAD(P)H:FMN oxidoreductase family protein	.	-	|<	51	
+NC_011916.1	1632199	1632200	flagellar modification protein FlbA	.	-	|<	77	
+NC_011916.1	1635104	1635105	flagellar biosynthesis regulatory protein flaF	.	+	>|	92	
+NC_011916.1	1636127	1636128	flagellin fljL	.	+	>|	46	
+NC_011916.1	1637224	1637225	flagellin fljK	.	+	>|	45	
+NC_011916.1	1644247	1644248	single-strand DNA binding protein	.	+	>|	80	
+NC_011916.1	1645326	1645327	acetyltransferase	.	+	|<	27	conflict
+NC_011916.1	1679910	1679911	-	.	+	-	264	
+NC_011916.1	1682022	1682023	2-dehydro-3-deoxygluconokinase	.	+	>|	61	
+NC_011916.1	1690924	1690925	arsenic resistance protein arsH|glucose / sorbosone dehydrogenase	.	-	>|<	18,43	
+NC_011916.1	1698469	1698470	Glutathione-dependent formaldehyde-activating enzyme|phosphate-binding protein	.	-	>|<	19,51	
+NC_011916.1	1702291	1702292	TonB-dependent receptor	.	+	|<	64	conflict
+NC_011916.1	1722448	1722449	hypothetical protein	.	+	>|	59	
+NC_011916.1	1723162	1723163	glutathione S-transferase	.	-	>|	8	conflict
+NC_011916.1	1739177	1739178	SEDS-family peptidoglycan polymerase RodA	.	+	>|	39	
+NC_011916.1	1742152	1742153	DNA-directed RNA polymerase omega chain	.	+	>|	107	
+NC_011916.1	1840789	1840790	-	.	+	-	129	
+NC_011916.1	1852834	1852835	beta-barrel assembly machine (BAM) protein BamB	.	+	>|	77	
+NC_011916.1	1854657	1854658	EngA-subfamily GTPase protein|methyl-accepting chemotaxis protein	.	-	>|<	8,71	
+NC_011916.1	1866568	1866569	TonB-dependent outer membrane receptor	.	-	|<	65	
+NC_011916.1	1869206	1869207	LSU ribosomal protein L9P	.	-	|<	61	
+NC_011916.1	1877350	1877351	acyl carrier protein	.	+	>|	86	
+NC_011916.1	1898752	1898753	nucleoside diphosphate kinase	.	+	>|	62	
+NC_011916.1	1919897	1919898	LSU ribosomal protein L32P	.	+	>|	62	
+NC_011916.1	1923197	1923198	phosphopyruvate hydratase	.	+	>|	63	
+NC_011916.1	1987967	1987968	-	.	-	-	483	
+NC_011916.1	2024475	2024476	acyl-CoA dehydrogenase%2C short-chain specific	.	+	>|	98	
+NC_011916.1	2059844	2059845	-	.	-	-	142	
+NC_011916.1	2063244	2063245	-	.	-	-	270	
+NC_011916.1	2069766	2069767	ATP-dependent RNA helicase RhlB|capsular polysaccharide biosynthesis protein	.	+	>|<	57,18	
+NC_011916.1	2073740	2073741	GGDEF diguanylate cyclase DgcB	.	+	>|	60	
+NC_011916.1	2086244	2086245	alpha/beta hydrolase family protein|McrA-family restriction endonuclease	.	-	>|<	19,48	
+NC_011916.1	2086277	2086278	alpha/beta hydrolase family protein|McrA-family restriction endonuclease	.	+	>|<	52,15	
+NC_011916.1	2091999	2092000	bactofilin A BacA|peptide chain release factor 2 (RF-2)	.	-	>|<	20,58	
+NC_011916.1	2092034	2092035	bactofilin A BacA|peptide chain release factor 2 (RF-2)	.	+	>|<	55,23	
+NC_011916.1	2100225	2100226	ribonuclease E	.	+	>|	50	
+NC_011916.1	2106450	2106451	-	.	+	-	237	
+NC_011916.1	2112496	2112497	pentapeptide envelope resistance protein|aspartyl-tRNA synthetase	.	-	>|<	19,59	
+NC_011916.1	2112534	2112535	pentapeptide envelope resistance protein|aspartyl-tRNA synthetase	.	+	>|<	57,21	
+NC_011916.1	2124216	2124217	LexA repressor|PEP phosphonomutase related enzyme	.	+	>|<	69,2	
+NC_011916.1	2130169	2130170	citrate synthase|FlhB-like flagellar protein	.	+	>|<	56,2	
+NC_011916.1	2145171	2145172	translation elongation factor Ts (EF-Ts)	.	-	|<	78	
+NC_011916.1	2157085	2157086	-	.	-	-	211	
+NC_011916.1	2183812	2183813	ATP-dependent endopeptidase clp%2C ATP-binding subunit ClpX	.	-	|<	53	
+NC_011916.1	2186157	2186158	HAD-IB family hydrolase|ATP-dependent endopeptidase clp%2C proteolytic subunit ClpP	.	-	>|<	26,53	
+NC_011916.1	2186194	2186195	HAD-IB family hydrolase|ATP-dependent endopeptidase clp%2C proteolytic subunit ClpP	.	+	>|<	63,16	
+NC_011916.1	2186964	2186965	trigger factor chaperone	.	-	|<	56	
+NC_011916.1	2194330	2194331	glutamine synthetase	.	-	>|	24	conflict
+NC_011916.1	2194366	2194367	glutamine synthetase	.	+	>|	60	
+NC_011916.1	2196839	2196840	TonB-dependent receptor|ABM superfamily monooxygenase protein	.	+	>|<	58,20	
+NC_011916.1	2225015	2225016	IAA acetyltransferase|peptidoglycan binding endopeptidase DipM	.	-	>|<	8,36	
+NC_011916.1	2230747	2230748	hypothetical protein	.	-	>|	39	conflict
+NC_011916.1	2230784	2230785	hypothetical protein	.	+	>|	76	
+NC_011916.1	2242816	2242817	hypothetical protein	.	+	>|	122	
+NC_011916.1	2244875	2244876	NAD/NADH-dependent eicosanoid dehydrogenase	.	+	>|	90	
+NC_011916.1	2323237	2323238	nucleoside permease nupC	.	-	|<	62	
+NC_011916.1	2327928	2327929	multidrug resistance efflux pump	.	+	>|	63	
+NC_011916.1	2331491	2331492	long-chain fatty acid transport protein precursor|iron-sulfur cluster assembly/repair protein ApbC	.	+	>|<	57,61	
+NC_011916.1	2335981	2335982	hypothetical protein	.	+	>|	61	
+NC_011916.1	2353178	2353179	RcnB family protein	.	-	|<	52	
+NC_011916.1	2362405	2362406	acyl-CoA dehydrogenase	.	-	|<	45	
+NC_011916.1	2377906	2377907	ABC transporter ATP-binding protein	.	-	|<	62	
+NC_011916.1	2391046	2391047	PHB granule-associated protein%2C phasin2	.	-	|<	79	
+NC_011916.1	2393247	2393248	D-alanyl-D-alanine serine-type carboxypeptidase CrbA|aminotransferase class I family protein	.	+	>|<	84,28	
+NC_011916.1	2404500	2404501	hypothetical protein|isovaleryl-CoA dehydrogenase	.	+	>|<	92,17	
+NC_011916.1	2454908	2454909	EF hand domain protein	.	+	>|	55	
+NC_011916.1	2457436	2457437	hypothetical protein|TraB superfamily protein	.	-	>|<	6,57	
+NC_011916.1	2457886	2457887	-	.	+	-	456	
+NC_011916.1	2465750	2465751	hypothetical protein|Hsp33 family molecular chaperone	.	-	>|<	79,72	
+NC_011916.1	2465787	2465788	hypothetical protein|Hsp33 family molecular chaperone	.	+	>|<	116,35	
+NC_011916.1	2471020	2471021	cell cycle sigma 70 cofactor GcrA	.	+	>|	66	
+NC_011916.1	2477680	2477681	nonspecific lipid-transfer protein	.	-	|<	112	
+NC_011916.1	2481411	2481412	Hsp20 family protein|pentapeptide repeat-containing protein	.	+	>|<	75,4	
+NC_011916.1	2516966	2516967	TonB-dependent maltose outer membrane transporter malA	.	+	>|	62	
+NC_011916.1	2544236	2544237	-	.	-	-	370	
+NC_011916.1	2559900	2559901	transcriptional regulatory protein RtrB	.	+	>|	72	
+NC_011916.1	2575204	2575205	DUF2948 family protein	.	-	|<	47	
+NC_011916.1	2598387	2598388	nitropropane dioxygenase/trans-enoyl-CoA reductase family protein	.	-	|<	43	
+NC_011916.1	2667619	2667620	RcnB family protein|aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B	.	-	>|<	9,59	
+NC_011916.1	2672932	2672933	hypothetical protein|hypothetical protein	.	+	>|<	59,20	
+NC_011916.1	2692459	2692460	LSU ribosomal protein L33P|hypothetical protein	.	+	>|<	60,11	
+NC_011916.1	2702182	2702183	ATP-dependent clp protease ATP-binding subunit ClpA	.	+	>|	53	
+NC_011916.1	2725633	2725634	-	.	-	-	216	
+NC_011916.1	2727156	2727157	DNA-deoxyinosine glycosylase|MreB assembly inhibitor protein	.	-	>|<	2,60	
+NC_011916.1	2733155	2733156	phosphoribosylformylglycinamidine synthase I|hypothetical protein	.	+	>|<	105,1	
+NC_011916.1	2743667	2743668	SSU ribosomal protein S4P	.	-	|<	55	
+NC_011916.1	2755196	2755197	isocitrate dehydrogenase	.	+	>|	64	
+NC_011916.1	2758409	2758410	alanyl-tRNA synthetase	.	-	|<	63	
+NC_011916.1	2771525	2771526	cell division protein FtsZ	.	-	|<	53	
+NC_011916.1	2771562	2771563	cell division protein FtsZ	.	+	|<	16	conflict
+NC_011916.1	2773384	2773385	cell division protein FtsA	.	-	|<	92	
+NC_011916.1	2817378	2817379	RNA polymerase-binding protein DksA	.	-	|<	77	
+NC_011916.1	2861744	2861745	NADP-dependent malic enzyme|cold shock protein CspC	.	-	>|<	24,97	
+NC_011916.1	2861831	2861832	NADP-dependent malic enzyme|cold shock protein CspC	.	+	>|<	111,10	
+NC_011916.1	2884669	2884670	peptidase%2C M16 family|holdfast attachment protein HfaE	.	-	>|<	7,55	
+NC_011916.1	2884705	2884706	peptidase%2C M16 family|holdfast attachment protein HfaE	.	+	>|<	43,19	
+NC_011916.1	3012068	3012069	DnaJ-class molecular chaperone	.	-	|<	47	
+NC_011916.1	3043377	3043378	-	.	-	-	157	
+NC_011916.1	3066312	3066313	tetratricopeptide repeat-containing 2OG-Fe(II) oxygenase|TonB-dependent receptor	.	-	>|<	20,79	
+NC_011916.1	3082626	3082627	-	.	-	-	138	
+NC_011916.1	3088638	3088639	hypothetical protein	.	+	>|	92	
+NC_011916.1	3094169	3094170	-	.	+	-	191	
+NC_011916.1	3102091	3102092	transcription elongation factor greA	.	+	>|	76	
+NC_011916.1	3152545	3152546	cold shock protein CspA	.	-	|<	61	
+NC_011916.1	3185595	3185596	cytochrome c2	.	+	>|	58	
+NC_011916.1	3194248	3194249	-	.	-	-	138	
+NC_011916.1	3198464	3198465	type IV pilin protein pilA	.	-	|<	58	
+NC_011916.1	3257502	3257503	cytidine deaminase|TonB-dependent outer membrane receptor ChvT	.	+	>|<	53,72	
+NC_011916.1	3257519	3257520	cytidine deaminase|TonB-dependent outer membrane receptor ChvT	.	-	>|<	70,55	
+NC_011916.1	3265862	3265863	cobaltochelatase cobS subunit	.	+	>|	66	
+NC_011916.1	3267378	3267379	hypothetical protein	.	-	|<	105	
+NC_011916.1	3278881	3278882	cell cycle response regulator CtrA	.	-	|<	70	
+NC_011916.1	3285333	3285334	hypothetical protein	.	+	|<	115	conflict
+NC_011916.1	3288316	3288317	peroxidase/catalase katG	.	+	>|	100	
+NC_011916.1	3292196	3292197	RNA polymerase sigma factor rpoD	.	-	|<	53	
+NC_011916.1	3300950	3300951	-	.	+	-	151	
+NC_011916.1	3317762	3317763	transcriptional regulator xylR	.	-	>|	8	conflict
+NC_011916.1	3323549	3323550	protein translocase subunit secA|major facilitator superfamily transporter	.	+	>|<	86,15	
+NC_011916.1	3328649	3328650	SH3 domain protein|Abi (CAAX) family protease	.	+	>|<	126,107	
+NC_011916.1	3356555	3356556	RNA polymerase sigma factor RpoH|hypothetical protein	.	+	>|<	57,105	
+NC_011916.1	3389685	3389686	TonB-dependent receptor	.	-	|<	49	
+NC_011916.1	3418445	3418446	TonB-dependent receptor	.	+	>|	65	
+NC_011916.1	3426492	3426493	pectate lyase|type II toxin-antitoxin system PemK/MazF family toxin	.	-	>|<	7,114	
+NC_011916.1	3434827	3434828	TonB-dependent receptor	.	+	>|	51	
+NC_011916.1	3447480	3447481	2-oxoacid ferredoxin oxidoreductase Vor	.	-	|<	22	
+NC_011916.1	3451662	3451663	Lrp-family transcriptional regulator	.	+	>|	80	
+NC_011916.1	3469145	3469146	hypothetical protein|TonB-dependent outer membrane receptor	.	-	>|<	20,60	
+NC_011916.1	3478431	3478432	efflux RND transporter permease subunit|HWE/HisKA2 family histidine kinase	.	-	>|<	12,42	
+NC_011916.1	3484148	3484149	-	.	-	-	108	
+NC_011916.1	3486390	3486391	homoserine O-acetyltransferase metX1|transcription antitermination protein NusG	.	-	>|<	21,58	
+NC_011916.1	3486428	3486429	homoserine O-acetyltransferase metX1|transcription antitermination protein NusG	.	+	>|<	59,20	
+NC_011916.1	3502078	3502079	Acetyl-CoA carboxylase|VanZ superfamily protein	.	-	>|<	1,35	
+NC_011916.1	3509166	3509167	hypothetical protein	.	+	>|	96	
+NC_011916.1	3514461	3514462	cell division protein FtsH	.	-	|<	52	
+NC_011916.1	3530412	3530413	YebC/PmpR transcriptional regulator	.	-	|<	35	
+NC_011916.1	3537166	3537167	glyceraldehyde 3-phosphate dehydrogenase	.	+	>|	44	
+NC_011916.1	3541710	3541711	-	.	-	-	290	
+NC_011916.1	3551785	3551786	hypothetical protein	.	+	|<	79	conflict
+NC_011916.1	3557506	3557507	LSU ribosomal protein L31P	.	+	>|	64	
+NC_011916.1	3570317	3570318	DUF465 domain-containing protein|RNA polymerase-associated protein TrcR	.	-	>|<	21,60	
+NC_011916.1	3570357	3570358	DUF465 domain-containing protein|RNA polymerase-associated protein TrcR	.	+	>|<	61,20	
+NC_011916.1	3574348	3574349	SSU ribosomal protein S21P|ABC transporter permease	.	+	>|<	67,9	
+NC_011916.1	3579343	3579344	UrcA family protein|NAD(P)(+) transhydrogenase (Re/Si-specific) subunit beta	.	+	>|<	75,61	
+NC_011916.1	3597941	3597942	-	.	+	-	140	
+NC_011916.1	3624463	3624464	-	.	-	-	232	
+NC_011916.1	3649196	3649197	-	.	-	-	283	
+NC_011916.1	3663422	3663423	acyl-CoA dehydrogenase|peroxiredoxin	.	-	>|<	15,56	
+NC_011916.1	3670920	3670921	cytochrome c oxidase subunit III coxC	.	-	|<	53	
+NC_011916.1	3681107	3681108	di-/tripeptide transporter	.	+	|<	13	conflict
+NC_011916.1	3702549	3702550	ribosome silencing factor	.	+	>|	42	
+NC_011916.1	3702611	3702612	ribosome silencing factor	.	+	>|	104	
+NC_011916.1	3705687	3705688	S41 family peptidase|TonB-dependent receptor	.	-	>|<	31,54	
+NC_011916.1	3705724	3705725	S41 family peptidase|TonB-dependent receptor	.	+	>|<	68,17	
+NC_011916.1	3712684	3712685	esterase lipase family protein	.	-	>|	40	conflict
+NC_011916.1	3713016	3713017	hypothetical protein	.	-	|<	68	
+NC_011916.1	3713950	3713951	ATP synthase epsilon chain	.	-	|<	67	
+NC_011916.1	3723180	3723181	-	.	+	-	181	
+NC_011916.1	3727685	3727686	TonB-dependent receptor	.	-	|<	54	
+NC_011916.1	3731730	3731731	-	.	-	-	136	
+NC_011916.1	3731773	3731774	-	.	+	-	179	
+NC_011916.1	3741964	3741965	chemotaxis protein methyltransferase CheRIII|entericidin A/B family lipoprotein	.	-	>|<	5,55	
+NC_011916.1	3745831	3745832	anti-anti sigma factor/receiver protein PhyR	.	+	>|	58	
+NC_011916.1	3746584	3746585	ferritin-like superfamily protein	.	-	|<	57	
+NC_011916.1	3762671	3762672	outer membrane protein	.	-	|<	55	
+NC_011916.1	3773363	3773364	SCO1/SenC family protein	.	+	>|	75	
+NC_011916.1	3775665	3775666	zinc metalloprotease|hypothetical protein	.	+	>|<	56,9	
+NC_011916.1	3781372	3781373	-	.	-	-	164	
+NC_011916.1	3798240	3798241	-	.	-	-	267	
+NC_011916.1	3800181	3800182	succinate dehydrogenase iron-sulfur protein	.	-	|<	57	
+NC_011916.1	3815823	3815824	thioredoxin	.	+	>|	58	
+NC_011916.1	3829715	3829716	YdbL family protein|hypothetical protein	.	+	>|<	60,73	
+NC_011916.1	3833333	3833334	hypothetical protein	.	-	|<	54	
+NC_011916.1	3856017	3856018	alanine dehydrogenase|SpsF-family polysaccharide biosynthesis protein	.	-	>|<	21,75	
+NC_011916.1	3868638	3868639	peptidase%2C M16 family|large-conductance mechanosensitive channel	.	-	>|<	21,58	
+NC_011916.1	3868678	3868679	peptidase%2C M16 family|large-conductance mechanosensitive channel	.	+	>|<	61,18	
+NC_011916.1	3869631	3869632	SSU ribosomal protein S1P	.	-	|<	59	
+NC_011916.1	3876375	3876376	nitrogen regulatory IIA protein	.	-	|<	65	
+NC_011916.1	3884120	3884121	undecaprenyl diphosphatase	.	-	|<	60	
+NC_011916.1	3884160	3884161	undecaprenyl diphosphatase	.	+	|<	20	conflict
+NC_011916.1	3891387	3891388	glutamate synthase (NADPH) large chain GltB|PaaI thioesterase family protein	.	+	>|<	78,2	
+NC_011916.1	3909503	3909504	cysteine synthase	.	-	|<	101	
+NC_011916.1	3937814	3937815	malate dehydrogenase	.	-	|<	56	
+NC_011916.1	3945534	3945535	Bacterial BAX inhibitor (BI)-1/YccA-like protein|DUF2794 domain-containing protein	.	+	>|<	66,19	
+NC_011916.1	3946175	3946176	-	.	+	-	239	
+NC_011916.1	3946395	3946396	thioredoxin-like protein	.	+	|<	19	conflict
+NC_011916.1	3947261	3947262	aconitate hydratase	.	-	|<	58	
+NC_011916.1	3947298	3947299	aconitate hydratase	.	+	|<	21	conflict
+NC_011916.1	3955633	3955634	hypothetical protein	.	+	>|	35	
+NC_011916.1	3978048	3978049	intermediate filament-like cell shape determinant creS|SRPBCC family protein	.	+	>|<	61,21	
+NC_011916.1	3987332	3987333	-	.	+	-	36	
+NC_011916.1	4022225	4022226	protein translocase subunit secB|two-component response regulator cenR	.	-	>|<	22,40	
+NC_011916.1	4022262	4022263	protein translocase subunit secB|two-component response regulator cenR	.	+	>|<	59,3	
+NC_011916.1	4030431	4030432	DNA polymerase III%2C delta subunit|chromosome partitioning protein ParB	.	-	>|<	121,117	
+NC_011916.1	4038375	4038376	quinone oxidoreductase|transcription termination factor rho	.	-	>|<	25,57	
+NC_011916.1	4040776	4040777	-	.	+	-	137	

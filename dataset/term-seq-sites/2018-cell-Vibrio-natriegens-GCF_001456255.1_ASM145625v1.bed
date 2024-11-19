@@ -1,0 +1,1154 @@
+NZ_CP009977.1	5959	5960	CDP-diacylglycerol--serine O-phosphatidyltransferase	.	-	|<	54	
+NZ_CP009977.1	9948	9949	type I pantothenate kinase	.	-	|<	24	
+NZ_CP009977.1	12895	12896	elongation factor Tu	.	+	>|	93	
+NZ_CP009977.1	13175	13176	-	.	+	-	290	
+NZ_CP009977.1	16592	16593	50S ribosomal protein L7/L12	.	+	>|	66	
+NZ_CP009977.1	25154	25155	DNA-directed RNA polymerase subunit beta'|Rsd/AlgQ family anti-sigma factor	.	+	>|<	58,89	
+NZ_CP009977.1	25175	25176	DNA-directed RNA polymerase subunit beta'|Rsd/AlgQ family anti-sigma factor	.	-	>|<	79,68	
+NZ_CP009977.1	26711	26712	NAD(+) diphosphatase	.	-	>|	4	conflict
+NZ_CP009977.1	28073	28074	uroporphyrinogen decarboxylase	.	+	>|	47	
+NZ_CP009977.1	30422	30423	DUF416 family protein|hemolysin family protein	.	-	>|<	19,55	
+NZ_CP009977.1	30453	30454	DUF416 family protein|hemolysin family protein	.	+	>|<	50,24	
+NZ_CP009977.1	32169	32170	DNA-binding protein HU-alpha	.	+	>|	39	
+NZ_CP009977.1	32887	32888	DUF1481 domain-containing protein|phosphoribosylamine--glycine ligase	.	-	>|<	19,51	
+NZ_CP009977.1	32915	32916	DUF1481 domain-containing protein|phosphoribosylamine--glycine ligase	.	+	>|<	47,23	
+NZ_CP009977.1	56456	56457	methionine synthase|lysine-sensitive aspartokinase 3	.	-	>|<	13,51	
+NZ_CP009977.1	56488	56489	methionine synthase|lysine-sensitive aspartokinase 3	.	+	>|<	45,19	
+NZ_CP009977.1	59499	59500	alanine--glyoxylate aminotransferase family protein|PglL family O-oligosaccharyltransferase	.	-	>|<	13,38	
+NZ_CP009977.1	59531	59532	alanine--glyoxylate aminotransferase family protein|PglL family O-oligosaccharyltransferase	.	+	>|<	45,6	
+NZ_CP009977.1	64293	64294	UTP--glucose-1-phosphate uridylyltransferase GalU	.	-	|<	61	
+NZ_CP009977.1	66916	66917	single-stranded DNA-binding protein	.	+	>|	49	
+NZ_CP009977.1	73368	73369	pilus (MSHA type) biogenesis protein MshL	.	+	>|	125	
+NZ_CP009977.1	79450	79451	type II secretion system GspH family protein	.	+	>|	37	
+NZ_CP009977.1	86998	86999	rod shape-determining protein	.	+	>|	38	
+NZ_CP009977.1	96810	96811	metalloprotease TldD|PhoH family protein	.	+	>|<	51,23	
+NZ_CP009977.1	101738	101739	RNA polymerase-associated protein RapA|divalent metal cation transporter	.	+	>|<	52,37	
+NZ_CP009977.1	105199	105200	D-2-hydroxyacid dehydrogenase|ribosome-associated protein	.	-	>|<	16,51	
+NZ_CP009977.1	105232	105233	D-2-hydroxyacid dehydrogenase|ribosome-associated protein	.	+	>|<	49,18	
+NZ_CP009977.1	107252	107253	metalloprotease PmbA|magnesium transporter	.	-	>|<	21,58	
+NZ_CP009977.1	107292	107293	metalloprotease PmbA|magnesium transporter	.	+	>|<	61,18	
+NZ_CP009977.1	108895	108896	HPr family phosphocarrier protein	.	-	|<	15	
+NZ_CP009977.1	121254	121255	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	+	>|	58	
+NZ_CP009977.1	122071	122072	1-acylglycerol-3-phosphate O-acyltransferase|RidA family protein	.	-	>|<	20,56	
+NZ_CP009977.1	122104	122105	1-acylglycerol-3-phosphate O-acyltransferase|RidA family protein	.	+	>|<	53,23	
+NZ_CP009977.1	122587	122588	aspartate carbamoyltransferase regulatory subunit	.	-	|<	60	
+NZ_CP009977.1	125425	125426	arginine deiminase	.	-	|<	57	
+NZ_CP009977.1	127725	127726	ribonuclease E inhibitor RraB	.	+	>|	45	
+NZ_CP009977.1	129721	129722	valine--tRNA ligase	.	-	|<	77	
+NZ_CP009977.1	133327	133328	leucyl aminopeptidase	.	-	|<	41	
+NZ_CP009977.1	137254	137255	LPS export ABC transporter permease LptG|RDD family protein	.	-	>|<	3,30	
+NZ_CP009977.1	137287	137288	LPS export ABC transporter permease LptG	.	+	>|	36	
+NZ_CP009977.1	156355	156356	oxidative damage protection protein	.	-	|<	67	
+NZ_CP009977.1	159808	159809	DNA methylase	.	+	>|	55	
+NZ_CP009977.1	160787	160788	glutaminase B|radical SAM family heme chaperone HemW	.	-	>|<	25,54	
+NZ_CP009977.1	160821	160822	glutaminase B|radical SAM family heme chaperone HemW	.	+	>|<	59,20	
+NZ_CP009977.1	162654	162655	DUF4426 domain-containing protein	.	-	|<	116	
+NZ_CP009977.1	163266	163267	DUF167 family protein YggU	.	-	|<	10	
+NZ_CP009977.1	168059	168060	PilT/PilU family type 4a pilus ATPase|Holliday junction resolvase RuvX	.	-	>|<	23,43	
+NZ_CP009977.1	168090	168091	PilT/PilU family type 4a pilus ATPase|Holliday junction resolvase RuvX	.	+	>|<	54,12	
+NZ_CP009977.1	173959	173960	methionine adenosyltransferase	.	-	|<	52	
+NZ_CP009977.1	177523	177524	transketolase	.	+	>|	47	
+NZ_CP009977.1	180013	180014	phosphoglycerate kinase	.	+	>|	40	
+NZ_CP009977.1	181255	181256	class II fructose-bisphosphate aldolase	.	+	>|	51	
+NZ_CP009977.1	182565	182566	small-conductance mechanosensitive channel MscS|LysE/ArgO family amino acid transporter	.	+	>|<	52,64	
+NZ_CP009977.1	185254	185255	oxidative stress defense protein|phosphoglycerate dehydrogenase	.	-	>|<	23,44	
+NZ_CP009977.1	185286	185287	oxidative stress defense protein|phosphoglycerate dehydrogenase	.	+	>|<	55,12	
+NZ_CP009977.1	186729	186730	ribose-5-phosphate isomerase RpiA	.	-	|<	75	
+NZ_CP009977.1	191920	191921	FAD-dependent 2-octaprenylphenol hydroxylase|DUF1107 domain-containing protein	.	-	>|<	18,43	
+NZ_CP009977.1	191950	191951	FAD-dependent 2-octaprenylphenol hydroxylase|DUF1107 domain-containing protein	.	+	>|<	48,13	
+NZ_CP009977.1	192528	192529	-	.	-	-	275	
+NZ_CP009977.1	193152	193153	tRNA-modifying protein YgfZ	.	-	|<	117	
+NZ_CP009977.1	195049	195050	L-aspartate oxidase	.	-	|<	57	
+NZ_CP009977.1	198620	198621	sigma-E factor negative regulatory protein	.	+	>|	86	
+NZ_CP009977.1	202015	202016	translation elongation factor 4	.	+	>|	84	
+NZ_CP009977.1	204783	204784	GTPase Era	.	+	>|	67	
+NZ_CP009977.1	206708	206709	holo-ACP synthase|two-component sensor histidine kinase BarA	.	-	>|<	34,50	
+NZ_CP009977.1	206740	206741	holo-ACP synthase|two-component sensor histidine kinase BarA	.	+	>|<	66,18	
+NZ_CP009977.1	213615	213616	-	.	+	-	66	
+NZ_CP009977.1	217776	217777	phosphopyruvate hydratase	.	+	>|	66	
+NZ_CP009977.1	218006	218007	-	.	+	-	163	
+NZ_CP009977.1	224160	224161	RNA polymerase sigma factor RpoS|DNA mismatch repair protein MutS	.	-	>|<	16,59	
+NZ_CP009977.1	228644	228645	recombinase RecA	.	+	>|	51	
+NZ_CP009977.1	233639	233640	carbon storage regulator CsrA	.	+	>|	66	
+NZ_CP009977.1	246311	246312	S-ribosylhomocysteine lyase|CNNM domain-containing protein	.	-	>|<	32,53	
+NZ_CP009977.1	246341	246342	S-ribosylhomocysteine lyase|CNNM domain-containing protein	.	+	>|<	62,23	
+NZ_CP009977.1	252432	252433	50S ribosomal protein L19	.	+	>|	52	
+NZ_CP009977.1	252619	252620	DNA gyrase inhibitor YacG	.	-	|<	86	
+NZ_CP009977.1	258874	258875	carboxylating nicotinate-nucleotide diphosphorylase	.	-	|<	83	
+NZ_CP009977.1	260557	260558	1%2C6-anhydro-N-acetylmuramyl-L-alanine amidase AmpD	.	+	>|	75	
+NZ_CP009977.1	268026	268027	dihydrolipoyl dehydrogenase|TetR/AcrR family transcriptional regulator	.	+	>|<	54,71	
+NZ_CP009977.1	268050	268051	dihydrolipoyl dehydrogenase|TetR/AcrR family transcriptional regulator	.	-	>|<	78,47	
+NZ_CP009977.1	268081	268082	dihydrolipoyl dehydrogenase|TetR/AcrR family transcriptional regulator	.	+	>|<	109,16	
+NZ_CP009977.1	269597	269598	hypoxanthine phosphoribosyltransferase|carbonate dehydratase	.	-	>|<	38,51	
+NZ_CP009977.1	269631	269632	hypoxanthine phosphoribosyltransferase|carbonate dehydratase	.	+	>|<	72,17	
+NZ_CP009977.1	272318	272319	SulP family inorganic anion transporter	.	+	>|	52	
+NZ_CP009977.1	274287	274288	ABC transporter permease|pantoate--beta-alanine ligase	.	-	>|<	23,46	
+NZ_CP009977.1	274319	274320	ABC transporter permease|pantoate--beta-alanine ligase	.	+	>|<	55,14	
+NZ_CP009977.1	278907	278908	RNA polymerase-binding protein DksA	.	-	|<	46	
+NZ_CP009977.1	290490	290491	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase|glycerate kinase	.	-	>|<	16,62	
+NZ_CP009977.1	290525	290526	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase|glycerate kinase	.	+	>|<	51,27	
+NZ_CP009977.1	294812	294813	YacL family protein	.	+	>|	78	
+NZ_CP009977.1	297947	297948	-	.	+	-	259	
+NZ_CP009977.1	300556	300557	ABC transporter ATP-binding protein|phosphoglucomutase/phosphomannomutase family protein	.	-	>|<	20,86	
+NZ_CP009977.1	316022	316023	response regulator	.	+	|<	27	conflict
+NZ_CP009977.1	319628	319629	16S rRNA (guanine(1207)-N(2))-methyltransferase RsmC	.	-	|<	34	
+NZ_CP009977.1	322136	322137	glutamate-1-semialdehyde 2%2C1-aminomutase	.	-	|<	53	
+NZ_CP009977.1	324116	324117	iron-sulfur cluster insertion protein ErpA	.	+	>|	48	
+NZ_CP009977.1	328464	328465	peptidoglycan DD-metalloendopeptidase family protein	.	-	|<	48	
+NZ_CP009977.1	331164	331165	tyrosine--tRNA ligase	.	+	>|	46	
+NZ_CP009977.1	332469	332470	magnesium transporter	.	+	>|	83	
+NZ_CP009977.1	333932	333933	porin	.	-	|<	49	
+NZ_CP009977.1	336038	336039	transcription elongation factor GreA|ribosome assembly RNA-binding protein YhbY	.	-	>|<	29,48	
+NZ_CP009977.1	336068	336069	transcription elongation factor GreA|ribosome assembly RNA-binding protein YhbY	.	+	>|<	59,18	
+NZ_CP009977.1	339284	339285	ATP-dependent zinc metalloprotease FtsH	.	+	>|	46	
+NZ_CP009977.1	341540	341541	phosphoglucosamine mutase	.	+	>|	55	
+NZ_CP009977.1	342426	342427	-	.	+	-	84	
+NZ_CP009977.1	347320	347321	translation initiation factor IF-2	.	+	>|	96	
+NZ_CP009977.1	348725	348726	tRNA pseudouridine(55) synthase TruB	.	+	>|	47	
+NZ_CP009977.1	349150	349151	30S ribosomal protein S15	.	+	>|	54	
+NZ_CP009977.1	351651	351652	polyribonucleotide nucleotidyltransferase	.	+	>|	86	
+NZ_CP009977.1	352711	352712	lipoprotein NlpI	.	+	>|	30	
+NZ_CP009977.1	354290	354291	MATE family efflux transporter|U32 family peptidase	.	+	>|<	47,8	
+NZ_CP009977.1	359776	359777	N-acetyltransferase	.	+	>|	41	
+NZ_CP009977.1	362722	362723	peptide chain release factor 3	.	+	>|	83	
+NZ_CP009977.1	365299	365300	NupC/NupG family nucleoside CNT transporter	.	+	>|	76	
+NZ_CP009977.1	370321	370322	purine-nucleoside phosphorylase|YtjB family periplasmic protein	.	-	>|<	28,56	
+NZ_CP009977.1	370353	370354	purine-nucleoside phosphorylase|YtjB family periplasmic protein	.	+	>|<	60,24	
+NZ_CP009977.1	372122	372123	phosphoserine phosphatase	.	+	>|	68	
+NZ_CP009977.1	378317	378318	elongation factor G|LysR substrate-binding domain-containing protein	.	+	>|<	53,40	
+NZ_CP009977.1	395339	395340	tetratricopeptide repeat protein|glycosyltransferase family 2 protein	.	-	>|<	68,69	
+NZ_CP009977.1	395371	395372	tetratricopeptide repeat protein|glycosyltransferase family 2 protein	.	+	>|<	100,37	
+NZ_CP009977.1	408460	408461	porin family protein|gamma-glutamylcyclotransferase	.	-	>|<	21,12	
+NZ_CP009977.1	410433	410434	NnrS family protein|magnesium transporter	.	-	>|<	12,45	
+NZ_CP009977.1	413247	413248	DeoR/GlpR family transcriptional regulator	.	-	|<	56	
+NZ_CP009977.1	419955	419956	glycerophosphodiester phosphodiesterase|2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase	.	-	>|<	24,56	
+NZ_CP009977.1	423542	423543	YebG family protein	.	-	|<	46	
+NZ_CP009977.1	426014	426015	TDT family transporter|DUF3413 domain-containing protein	.	-	>|<	12,64	
+NZ_CP009977.1	437829	437830	exodeoxyribonuclease V subunit alpha|amino-acid N-acetyltransferase	.	+	>|<	37,3	
+NZ_CP009977.1	442551	442552	cysteine desulfurase sulfur acceptor subunit CsdE	.	+	>|	58	
+NZ_CP009977.1	443704	443705	cysteine desulfurase CsdA	.	-	|<	42	
+NZ_CP009977.1	446505	446506	outer membrane protein OmpK	.	-	|<	48	
+NZ_CP009977.1	450959	450960	ChrR family anti-sigma-E factor|MFS transporter	.	-	>|<	29,45	
+NZ_CP009977.1	452390	452391	peptidylprolyl isomerase	.	-	|<	35	
+NZ_CP009977.1	455361	455362	transcriptional regulator BolA	.	+	>|	49	
+NZ_CP009977.1	461679	461680	NADH:ubiquinone reductase (Na(+)-transporting) subunit F	.	+	>|	52	
+NZ_CP009977.1	467937	467938	YggN family protein	.	+	>|	46	
+NZ_CP009977.1	469550	469551	sodium-dependent transporter|DUF4250 domain-containing protein	.	-	>|<	21,61	
+NZ_CP009977.1	470152	470153	proline--tRNA ligase	.	-	|<	53	
+NZ_CP009977.1	475110	475111	AbgT family transporter|YaiI/YqxD family protein	.	-	>|<	25,46	
+NZ_CP009977.1	475140	475141	AbgT family transporter|YaiI/YqxD family protein	.	+	>|<	55,16	
+NZ_CP009977.1	476549	476550	-	.	+	-	386	
+NZ_CP009977.1	477494	477495	GNAT family N-acetyltransferase	.	-	>|	74	conflict
+NZ_CP009977.1	477523	477524	GNAT family N-acetyltransferase	.	+	>|	103	
+NZ_CP009977.1	483198	483199	type I methionyl aminopeptidase	.	-	|<	41	
+NZ_CP009977.1	485341	485342	30S ribosomal protein S2	.	+	>|	100	
+NZ_CP009977.1	486270	486271	translation elongation factor Ts	.	+	>|	52	
+NZ_CP009977.1	487807	487808	ribosome recycling factor	.	+	>|	57	
+NZ_CP009977.1	489489	489490	phosphatidate cytidylyltransferase	.	+	>|	32	
+NZ_CP009977.1	497648	497649	acyl-ACP--UDP-N-acetylglucosamine O-acyltransferase	.	+	>|	62	
+NZ_CP009977.1	504126	504127	acetyl-CoA carboxylase carboxyl transferase subunit alpha	.	+	>|	60	
+NZ_CP009977.1	506408	506409	nitrogen regulatory protein P-II	.	+	>|	64	
+NZ_CP009977.1	507227	507228	YIP1 family protein	.	-	|<	66	
+NZ_CP009977.1	511244	511245	ribonuclease HI	.	-	|<	113	
+NZ_CP009977.1	513894	513895	TIGR03503 family protein|SulP family inorganic anion transporter	.	+	>|<	32,60	
+NZ_CP009977.1	520202	520203	class II glutamine amidotransferase|phosphoribosylglycinamide formyltransferase	.	-	>|<	22,57	
+NZ_CP009977.1	520235	520236	class II glutamine amidotransferase|phosphoribosylglycinamide formyltransferase	.	+	>|<	55,24	
+NZ_CP009977.1	521027	521028	phosphoribosylformylglycinamidine cyclo-ligase	.	-	|<	55	
+NZ_CP009977.1	522969	522970	uracil phosphoribosyltransferase|uracil-xanthine permease family protein	.	-	>|<	40,56	
+NZ_CP009977.1	523000	523001	uracil phosphoribosyltransferase|uracil-xanthine permease family protein	.	+	>|<	71,25	
+NZ_CP009977.1	525954	525955	DUF2066 domain-containing protein|DUF2069 domain-containing protein	.	-	>|<	22,48	
+NZ_CP009977.1	525989	525990	DUF2066 domain-containing protein|DUF2069 domain-containing protein	.	+	>|<	57,13	
+NZ_CP009977.1	530533	530534	AI-2E family transporter|thioredoxin-dependent thiol peroxidase	.	-	>|<	54,61	
+NZ_CP009977.1	530566	530567	AI-2E family transporter|thioredoxin-dependent thiol peroxidase	.	+	>|<	87,28	
+NZ_CP009977.1	532942	532943	4-hydroxy-tetrahydrodipicolinate synthase	.	+	>|	50	
+NZ_CP009977.1	534007	534008	outer membrane protein assembly factor BamC|DUF2897 family protein	.	-	>|<	35,39	
+NZ_CP009977.1	534036	534037	outer membrane protein assembly factor BamC|DUF2897 family protein	.	+	>|<	64,10	
+NZ_CP009977.1	537126	537127	helix-turn-helix domain-containing protein|DUF4156 domain-containing protein	.	+	>|<	24,44	
+NZ_CP009977.1	539558	539559	Dyp-type peroxidase	.	+	>|	46	
+NZ_CP009977.1	542298	542299	flagellin	.	+	>|	90	
+NZ_CP009977.1	577997	577998	DUF2802 domain-containing protein	.	+	>|	30	
+NZ_CP009977.1	585371	585372	c-type cytochrome biogenesis protein CcmI	.	+	>|	85	
+NZ_CP009977.1	586291	586292	MlaA family lipoprotein|outer membrane protein transport protein	.	+	>|<	61,15	
+NZ_CP009977.1	587847	587848	outer membrane protein transport protein	.	-	|<	63	
+NZ_CP009977.1	589409	589410	DUF3379 domain-containing protein	.	-	|<	69	
+NZ_CP009977.1	591175	591176	-	.	+	-	344	
+NZ_CP009977.1	594964	594965	fatty acid oxidation complex subunit alpha FadJ|hypothetical protein	.	-	>|<	27,47	
+NZ_CP009977.1	599021	599022	phosphohistidine phosphatase SixA|endonuclease SmrB	.	-	>|<	20,61	
+NZ_CP009977.1	599049	599050	phosphohistidine phosphatase SixA|endonuclease SmrB	.	+	>|<	48,33	
+NZ_CP009977.1	600660	600661	50S ribosomal protein L3 N(5)-glutamine methyltransferase	.	+	>|	53	
+NZ_CP009977.1	608040	608041	-	.	+	-	181	
+NZ_CP009977.1	613075	613076	-	.	+	-	227	
+NZ_CP009977.1	618174	618175	aspartate-semialdehyde dehydrogenase	.	+	>|	50	
+NZ_CP009977.1	622324	622325	ATPase AAA	.	+	>|	34	
+NZ_CP009977.1	624435	624436	acetyl-CoA carboxylase%2C carboxyltransferase subunit beta	.	+	>|	102	
+NZ_CP009977.1	628379	628380	amidophosphoribosyltransferase|LysR family transcriptional regulator	.	-	>|<	20,92	
+NZ_CP009977.1	628413	628414	amidophosphoribosyltransferase|LysR family transcriptional regulator	.	+	>|<	54,58	
+NZ_CP009977.1	635624	635625	recombination mediator RecR|aquaporin Z	.	+	>|<	31,50	
+NZ_CP009977.1	639738	639739	mechanosensitive ion channel	.	+	>|	52	
+NZ_CP009977.1	639841	639842	alkaline phosphatase	.	-	|<	63	
+NZ_CP009977.1	641586	641587	hypothetical protein	.	-	|<	54	
+NZ_CP009977.1	643191	643192	23S rRNA (guanine(745)-N(1))-methyltransferase	.	-	|<	93	
+NZ_CP009977.1	644284	644285	D-hexose-6-phosphate mutarotase	.	-	|<	31	
+NZ_CP009977.1	645273	645274	type I glyceraldehyde-3-phosphate dehydrogenase	.	-	|<	63	
+NZ_CP009977.1	647191	647192	peptide-methionine (R)-S-oxide reductase MsrB	.	+	>|	112	
+NZ_CP009977.1	648407	648408	DUF1315 family protein|asparaginase	.	-	>|<	14,57	
+NZ_CP009977.1	648440	648441	DUF1315 family protein|asparaginase	.	+	>|<	47,24	
+NZ_CP009977.1	656478	656479	DNA topoisomerase III|SDR family oxidoreductase	.	-	>|<	2,107	
+NZ_CP009977.1	658368	658369	histone deacetylase|amino acid ABC transporter ATP-binding protein	.	+	>|<	48,13	
+NZ_CP009977.1	669523	669524	DUF3413 domain-containing protein	.	-	|<	52	
+NZ_CP009977.1	672768	672769	nucleoid-associated protein YejK	.	+	>|	51	
+NZ_CP009977.1	675525	675526	hypothetical protein|Na+/H+ antiporter NhaC	.	-	>|<	31,49	
+NZ_CP009977.1	678605	678606	aspartate-semialdehyde dehydrogenase	.	+	>|	51	
+NZ_CP009977.1	683630	683631	bifunctional acetaldehyde-CoA/alcohol dehydrogenase|SDR family oxidoreductase	.	+	>|<	91,63	
+NZ_CP009977.1	685155	685156	superoxide dismutase [Fe]	.	-	|<	62	
+NZ_CP009977.1	686479	686480	Grx4 family monothiol glutaredoxin	.	+	>|	59	
+NZ_CP009977.1	687142	687143	DsbA family protein|Na+/H+ antiporter family protein	.	-	>|<	16,70	
+NZ_CP009977.1	687174	687175	DsbA family protein|Na+/H+ antiporter family protein	.	+	>|<	48,38	
+NZ_CP009977.1	691001	691002	lactoylglutathione lyase	.	-	|<	64	
+NZ_CP009977.1	691032	691033	lactoylglutathione lyase	.	+	|<	33	conflict
+NZ_CP009977.1	701570	701571	excinuclease ABC subunit UvrB	.	-	>|	41	conflict
+NZ_CP009977.1	703628	703629	Hpt domain-containing protein|YvcK family protein	.	+	>|<	66,12	
+NZ_CP009977.1	707729	707730	molybdopterin synthase catalytic subunit MoaE	.	+	>|	66	
+NZ_CP009977.1	709986	709987	ABC transporter substrate-binding protein	.	+	>|	69	
+NZ_CP009977.1	713929	713930	murein tripeptide/oligopeptide ABC transporter ATP binding protein OppF	.	+	>|	59	
+NZ_CP009977.1	716454	716455	MgtC/SapB family protein|phosphate acetyltransferase	.	-	>|<	23,55	
+NZ_CP009977.1	718754	718755	acetate kinase	.	-	|<	37	
+NZ_CP009977.1	720846	720847	DUF412 domain-containing protein	.	+	>|	61	
+NZ_CP009977.1	727621	727622	sensor domain-containing diguanylate cyclase|tRNA dihydrouridine(16) synthase DusC	.	-	>|<	10,40	
+NZ_CP009977.1	729438	729439	SEC-C domain-containing protein|disulfide bond formation protein DsbB	.	-	>|<	31,48	
+NZ_CP009977.1	729468	729469	SEC-C domain-containing protein|disulfide bond formation protein DsbB	.	+	>|<	61,18	
+NZ_CP009977.1	733229	733230	fatty acid metabolism transcriptional regulator FadR|hypothetical protein	.	+	>|<	57,24	
+NZ_CP009977.1	734214	734215	methionine--tRNA ligase	.	-	|<	60	
+NZ_CP009977.1	738491	738492	uridine kinase	.	+	>|	71	
+NZ_CP009977.1	740698	740699	AsmA family protein|cob(I)yrinic acid a%2Cc-diamide adenosyltransferase	.	-	>|<	14,53	
+NZ_CP009977.1	742112	742113	SulP family inorganic anion transporter	.	-	|<	52	
+NZ_CP009977.1	742145	742146	SulP family inorganic anion transporter	.	+	|<	19	conflict
+NZ_CP009977.1	743986	743987	ribonuclease E	.	-	|<	61	
+NZ_CP009977.1	748765	748766	23S rRNA pseudouridine(955/2504/2580) synthase RluC|Maf-like protein	.	+	>|<	50,7	
+NZ_CP009977.1	754544	754545	acyl carrier protein	.	+	>|	38	
+NZ_CP009977.1	755942	755943	beta-ketoacyl-ACP synthase II	.	+	>|	92	
+NZ_CP009977.1	760224	760225	YchF/TatD family DNA exonuclease	.	+	>|	45	
+NZ_CP009977.1	762747	762748	hypothetical protein	.	+	>|	47	
+NZ_CP009977.1	764666	764667	PTS glucose transporter subunit IIBC	.	+	>|	50	
+NZ_CP009977.1	765349	765350	hypothetical protein|MetS family NSS transporter small subunit	.	+	>|<	58,14	
+NZ_CP009977.1	772547	772548	ROK family protein|error-prone DNA polymerase	.	+	>|<	67,31	
+NZ_CP009977.1	777835	777836	YciK family oxidoreductase	.	-	|<	58	
+NZ_CP009977.1	780014	780015	protease SohB	.	+	>|	58	
+NZ_CP009977.1	782674	782675	30S ribosomal protein S1	.	+	>|	46	
+NZ_CP009977.1	783179	783180	integration host factor subunit beta	.	+	>|	56	
+NZ_CP009977.1	785091	785092	lipopolysaccharide assembly protein LapB	.	+	>|	43	
+NZ_CP009977.1	785883	785884	orotidine-5'-phosphate decarboxylase	.	+	>|	64	
+NZ_CP009977.1	788173	788174	extracellular solute-binding protein|hypothetical protein	.	+	>|<	53,19	
+NZ_CP009977.1	793149	793150	glycosyltransferase family 39 protein|ABC-type transport auxiliary lipoprotein family protein	.	-	>|<	19,47	
+NZ_CP009977.1	837391	837392	DUF4250 domain-containing protein	.	+	>|	59	
+NZ_CP009977.1	840822	840823	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase|GspS/AspS pilotin family protein	.	-	>|<	12,107	
+NZ_CP009977.1	846261	846262	dicarboxylate/amino acid:cation symporter	.	-	|<	50	
+NZ_CP009977.1	850673	850674	tryptophan synthase subunit alpha	.	-	|<	55	
+NZ_CP009977.1	857327	857328	-	.	-	-	244	
+NZ_CP009977.1	859372	859373	L-threonylcarbamoyladenylate synthase|calcium-binding protein	.	+	>|<	51,37	
+NZ_CP009977.1	861417	861418	23S rRNA pseudouridine(2605) synthase RluB	.	-	>|	17	conflict
+NZ_CP009977.1	861449	861450	23S rRNA pseudouridine(2605) synthase RluB|HI1450 family dsDNA-mimic protein	.	+	>|<	49,100	
+NZ_CP009977.1	861500	861501	23S rRNA pseudouridine(2605) synthase RluB|HI1450 family dsDNA-mimic protein	.	-	>|<	100,49	
+NZ_CP009977.1	867025	867026	UvrY/SirA/GacA family response regulator transcription factor	.	+	>|	92	
+NZ_CP009977.1	869416	869417	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	.	+	>|	45	
+NZ_CP009977.1	875151	875152	saccharopine dehydrogenase family protein	.	+	>|	69	
+NZ_CP009977.1	876391	876392	carboxynorspermidine decarboxylase|transcriptional regulator	.	+	>|<	60,26	
+NZ_CP009977.1	877100	877101	DUF3943 domain-containing protein	.	-	|<	42	
+NZ_CP009977.1	879702	879703	CinA family nicotinamide mononucleotide deamidase-related protein|TetR/AcrR family transcriptional regulator	.	+	>|<	56,5	
+NZ_CP009977.1	882552	882553	NAD-dependent epimerase/dehydratase family protein|2Fe-2S iron-sulfur cluster-binding protein	.	-	>|<	22,88	
+NZ_CP009977.1	882585	882586	NAD-dependent epimerase/dehydratase family protein|2Fe-2S iron-sulfur cluster-binding protein	.	+	>|<	55,55	
+NZ_CP009977.1	886831	886832	bifunctional 2-polyprenyl-6-hydroxyphenol methylase/3-demethylubiquinol 3-O-methyltransferase UbiG	.	-	|<	89	
+NZ_CP009977.1	890619	890620	DNA topoisomerase (ATP-hydrolyzing) subunit A	.	+	>|	57	
+NZ_CP009977.1	891480	891481	hypothetical protein	.	+	>|	59	
+NZ_CP009977.1	892348	892349	GTP cyclohydrolase II	.	+	>|	62	
+NZ_CP009977.1	893778	893779	peptidase	.	+	>|	53	
+NZ_CP009977.1	897510	897511	-	.	+	-	180	
+NZ_CP009977.1	900607	900608	MBL fold metallo-hydrolase	.	+	>|	83	
+NZ_CP009977.1	902035	902036	hypothetical protein	.	+	>|	67	
+NZ_CP009977.1	907621	907622	MarR family transcriptional regulator CosR	.	-	|<	38	
+NZ_CP009977.1	910160	910161	BCCT family transporter	.	+	>|	49	
+NZ_CP009977.1	912260	912261	methyl-accepting chemotaxis protein|3'-5' exonuclease	.	+	>|<	57,14	
+NZ_CP009977.1	915761	915762	outer membrane beta-barrel protein|aspartate/tyrosine/aromatic aminotransferase	.	-	>|<	22,47	
+NZ_CP009977.1	915792	915793	outer membrane beta-barrel protein|aspartate/tyrosine/aromatic aminotransferase	.	+	>|<	53,16	
+NZ_CP009977.1	919848	919849	hypothetical protein|asparagine--tRNA ligase	.	-	>|<	22,51	
+NZ_CP009977.1	922227	922228	6-carboxytetrahydropterin synthase QueD|L-serine ammonia-lyase	.	+	>|<	52,82	
+NZ_CP009977.1	922263	922264	6-carboxytetrahydropterin synthase QueD|L-serine ammonia-lyase	.	-	>|<	88,46	
+NZ_CP009977.1	923686	923687	septum formation initiator	.	-	|<	83	
+NZ_CP009977.1	926128	926129	aminodeoxychorismate synthase component I	.	-	|<	56	
+NZ_CP009977.1	929785	929786	hypothetical protein	.	+	>|	73	
+NZ_CP009977.1	935695	935696	DUF2947 domain-containing protein|integron integrase	.	+	>|<	49,3	
+NZ_CP009977.1	936118	936119	-	.	-	-	316	
+NZ_CP009977.1	939281	939282	DUF2303 family protein	.	-	|<	33	
+NZ_CP009977.1	940842	940843	-	.	-	-	277	
+NZ_CP009977.1	944172	944173	-	.	-	-	159	
+NZ_CP009977.1	947749	947750	DUF968 domain-containing protein	.	-	>|	17	conflict
+NZ_CP009977.1	960756	960757	hypothetical protein	.	+	>|	47	
+NZ_CP009977.1	979327	979328	5-carboxymethyl-2-hydroxymuconate isomerase	.	+	>|	65	
+NZ_CP009977.1	1008620	1008621	MurR/RpiR family transcriptional regulator	.	-	|<	44	
+NZ_CP009977.1	1035732	1035733	CoA-acylating methylmalonate-semialdehyde dehydrogenase	.	+	>|	110	
+NZ_CP009977.1	1043771	1043772	RNA-binding protein	.	-	|<	45	
+NZ_CP009977.1	1091955	1091956	FUSC family protein	.	-	>|	14	conflict
+NZ_CP009977.1	1095595	1095596	LysE family translocator|LLM class flavin-dependent oxidoreductase	.	-	>|<	17,38	
+NZ_CP009977.1	1095627	1095628	LysE family translocator|LLM class flavin-dependent oxidoreductase	.	+	>|<	49,6	
+NZ_CP009977.1	1098782	1098783	sodium:alanine symporter family protein	.	-	|<	59	
+NZ_CP009977.1	1101742	1101743	nitroreductase family protein	.	+	>|	60	
+NZ_CP009977.1	1105941	1105942	S8 family serine peptidase	.	+	>|	47	
+NZ_CP009977.1	1107331	1107332	hypothetical protein|hypothetical protein	.	-	>|<	33,55	
+NZ_CP009977.1	1107364	1107365	hypothetical protein|hypothetical protein	.	+	>|<	66,22	
+NZ_CP009977.1	1116699	1116700	glycine betaine/L-proline ABC transporter substrate-binding protein ProX	.	-	|<	88	
+NZ_CP009977.1	1123054	1123055	ectoine synthase	.	+	>|	43	
+NZ_CP009977.1	1124581	1124582	aspartate kinase|ABC transporter permease	.	+	>|<	55,90	
+NZ_CP009977.1	1132573	1132574	response regulator|TonB-dependent siderophore receptor	.	-	>|<	24,60	
+NZ_CP009977.1	1140098	1140099	decarboxylating NADP(+)-dependent phosphogluconate dehydrogenase|hypothetical protein	.	+	>|<	58,25	
+NZ_CP009977.1	1141001	1141002	hypothetical protein|sigma-54-dependent Fis family transcriptional regulator	.	+	>|<	46,33	
+NZ_CP009977.1	1162250	1162251	NUDIX domain-containing protein|TonB-dependent receptor	.	-	>|<	23,67	
+NZ_CP009977.1	1162281	1162282	NUDIX domain-containing protein|TonB-dependent receptor	.	+	>|<	54,36	
+NZ_CP009977.1	1173102	1173103	Cof-type HAD-IIB family hydrolase	.	-	|<	64	
+NZ_CP009977.1	1175593	1175594	7-cyano-7-deazaguanine synthase QueC	.	+	>|	45	
+NZ_CP009977.1	1177692	1177693	DUF2750 domain-containing protein	.	-	|<	37	
+NZ_CP009977.1	1190430	1190431	hypothetical protein|class I SAM-dependent methyltransferase	.	-	>|<	15,49	
+NZ_CP009977.1	1193315	1193316	hypothetical protein|Bax inhibitor-1/YccA family protein	.	-	>|<	19,56	
+NZ_CP009977.1	1200019	1200020	siroheme synthase|YajQ family cyclic di-GMP-binding protein	.	-	>|<	19,51	
+NZ_CP009977.1	1200053	1200054	siroheme synthase|YajQ family cyclic di-GMP-binding protein	.	+	>|<	53,17	
+NZ_CP009977.1	1202518	1202519	hypothetical protein	.	-	|<	52	
+NZ_CP009977.1	1205191	1205192	16S rRNA (cytosine(1407)-C(5))-methyltransferase RsmF	.	-	|<	69	
+NZ_CP009977.1	1205225	1205226	16S rRNA (cytosine(1407)-C(5))-methyltransferase RsmF	.	+	|<	35	conflict
+NZ_CP009977.1	1215919	1215920	carboxy terminal-processing peptidase	.	+	>|	53	
+NZ_CP009977.1	1219605	1219606	aminopeptidase N	.	+	>|	42	
+NZ_CP009977.1	1224932	1224933	NAD-glutamate dehydrogenase	.	+	>|	49	
+NZ_CP009977.1	1226980	1226981	cell division protein ZapC	.	+	>|	68	
+NZ_CP009977.1	1233469	1233470	DUF3466 family protein	.	+	>|	54	
+NZ_CP009977.1	1233816	1233817	ribosome modulation factor|bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase	.	+	>|<	56,114	
+NZ_CP009977.1	1233882	1233883	ribosome modulation factor|bifunctional 3-hydroxydecanoyl-ACP dehydratase/trans-2-decenoyl-ACP isomerase	.	-	>|<	122,48	
+NZ_CP009977.1	1237201	1237202	DUF3634 family protein	.	+	>|	59	
+NZ_CP009977.1	1240325	1240326	-	.	+	-	195	
+NZ_CP009977.1	1250558	1250559	cytochrome-c oxidase%2C cbb3-type subunit III	.	+	>|	54	
+NZ_CP009977.1	1255204	1255205	FNR family transcription factor	.	+	>|	47	
+NZ_CP009977.1	1256353	1256354	universal stress protein UspE|tRNA 2-thiocytidine(32) synthetase TtcA	.	-	>|<	68,45	
+NZ_CP009977.1	1257443	1257444	DUF2987 domain-containing protein	.	-	|<	41	
+NZ_CP009977.1	1258350	1258351	hypothetical protein	.	-	|<	51	
+NZ_CP009977.1	1262385	1262386	spermidine/putrescine ABC transporter permease PotC	.	+	>|	57	
+NZ_CP009977.1	1264794	1264795	extracellular solute-binding protein|NAD-dependent protein deacylase	.	+	>|<	54,13	
+NZ_CP009977.1	1265900	1265901	hypothetical protein|ammonium transporter	.	+	>|<	74,6	
+NZ_CP009977.1	1281065	1281066	ABC-F family ATPase	.	-	|<	58	
+NZ_CP009977.1	1281096	1281097	ABC-F family ATPase	.	+	|<	27	conflict
+NZ_CP009977.1	1291343	1291344	bifunctional molybdopterin-guanine dinucleotide biosynthesis adaptor protein MobB/molybdopterin molybdotransferase MoeA	.	+	>|	56	
+NZ_CP009977.1	1291764	1291765	DUF2960 domain-containing protein|hypothetical protein	.	+	>|<	47,23	
+NZ_CP009977.1	1302664	1302665	CPXCG motif-containing cysteine-rich protein|riboflavin synthase	.	-	>|<	10,53	
+NZ_CP009977.1	1305024	1305025	MATE family efflux transporter	.	+	>|	36	
+NZ_CP009977.1	1307571	1307572	BCCT family transporter	.	-	|<	51	
+NZ_CP009977.1	1310237	1310238	porin family protein	.	-	|<	52	
+NZ_CP009977.1	1315752	1315753	FMN-dependent NADH-azoreductase	.	+	>|	58	
+NZ_CP009977.1	1319442	1319443	TerB family tellurite resistance protein	.	-	>|	25	conflict
+NZ_CP009977.1	1319475	1319476	TerB family tellurite resistance protein|exonuclease domain-containing protein	.	+	>|<	58,127	
+NZ_CP009977.1	1323206	1323207	Hsp70 family protein	.	+	>|	39	
+NZ_CP009977.1	1326108	1326109	hsp70 family protein|hypothetical protein	.	+	>|<	63,25	
+NZ_CP009977.1	1332180	1332181	c-di-GMP phosphodiesterase	.	+	|<	42	conflict
+NZ_CP009977.1	1333524	1333525	aromatic amino acid transporter	.	-	|<	59	
+NZ_CP009977.1	1379439	1379440	allantoinase PuuE|hypothetical protein	.	+	>|<	95,41	
+NZ_CP009977.1	1380395	1380396	PAS factor family protein	.	+	>|	47	
+NZ_CP009977.1	1414611	1414612	malate dehydrogenase (quinone)	.	+	>|	86	
+NZ_CP009977.1	1415401	1415402	DUF3316 domain-containing protein|lipoprotein NlpI	.	-	>|<	24,62	
+NZ_CP009977.1	1450840	1450841	transposase domain-containing protein|c-type cytochrome	.	-	>|<	107,51	
+NZ_CP009977.1	1463986	1463987	hypothetical protein|ABC transporter substrate-binding protein	.	-	>|<	87,61	
+NZ_CP009977.1	1480409	1480410	nucleoside triphosphate pyrophosphohydrolase family protein|vitamin B12 ABC transporter ATP-binding protein BtuD	.	+	>|<	52,30	
+NZ_CP009977.1	1491773	1491774	L-cystine transporter|GNAT family N-acetyltransferase	.	+	>|<	67,127	
+NZ_CP009977.1	1496490	1496491	-	.	-	-	369	
+NZ_CP009977.1	1496740	1496741	-	.	-	-	619	
+NZ_CP009977.1	1528276	1528277	LexA family transcriptional regulator	.	+	>|	57	
+NZ_CP009977.1	1529471	1529472	-	.	-	-	396	
+NZ_CP009977.1	1538370	1538371	LrgB family protein	.	+	>|	44	
+NZ_CP009977.1	1540882	1540883	formate-dependent phosphoribosylglycinamide formyltransferase|thiopurine S-methyltransferase	.	-	>|<	16,76	
+NZ_CP009977.1	1540919	1540920	formate-dependent phosphoribosylglycinamide formyltransferase|thiopurine S-methyltransferase	.	+	>|<	53,39	
+NZ_CP009977.1	1542721	1542722	phosphoribosylglycinamide formyltransferase|integration host factor subunit alpha	.	-	>|<	21,97	
+NZ_CP009977.1	1542781	1542782	phosphoribosylglycinamide formyltransferase|integration host factor subunit alpha	.	-	>|<	81,37	
+NZ_CP009977.1	1546765	1546766	aminoimidazole riboside kinase|glycoside hydrolase family 32 protein	.	+	>|<	55,9	
+NZ_CP009977.1	1548622	1548623	phenylalanine--tRNA ligase subunit beta	.	-	|<	63	
+NZ_CP009977.1	1553874	1553875	50S ribosomal protein L20	.	-	|<	46	
+NZ_CP009977.1	1558354	1558355	sporulation protein	.	-	|<	69	
+NZ_CP009977.1	1563608	1563609	DUF3581 domain-containing protein|glutathione S-transferase C-terminal domain-containing protein	.	+	>|<	67,1	
+NZ_CP009977.1	1567030	1567031	FAD-binding oxidoreductase	.	-	|<	42	
+NZ_CP009977.1	1575008	1575009	DNA helicase	.	+	>|	55	
+NZ_CP009977.1	1576337	1576338	phosphoribosylaminoimidazolesuccinocarboxamide synthase|alkaline phosphatase D family protein	.	+	>|<	63,20	
+NZ_CP009977.1	1583404	1583405	NAD-dependent malic enzyme	.	+	>|	61	
+NZ_CP009977.1	1584301	1584302	YdcF family protein	.	+	>|	61	
+NZ_CP009977.1	1586872	1586873	DUF2797 domain-containing protein|cysteine desulfurase-like protein	.	-	>|<	21,51	
+NZ_CP009977.1	1586907	1586908	DUF2797 domain-containing protein|cysteine desulfurase-like protein	.	+	>|<	56,16	
+NZ_CP009977.1	1593734	1593735	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC|D-serine ammonia-lyase	.	-	>|<	11,43	
+NZ_CP009977.1	1593768	1593769	cysteine/glutathione ABC transporter ATP-binding protein/permease CydC|D-serine ammonia-lyase	.	+	>|<	45,9	
+NZ_CP009977.1	1595212	1595213	3-phosphoserine/phosphohydroxythreonine transaminase	.	-	|<	49	
+NZ_CP009977.1	1596546	1596547	DUF945 family protein	.	-	|<	71	
+NZ_CP009977.1	1601296	1601297	hypothetical protein|TfoX/Sxy family DNA transformation protein	.	+	>|<	49,126	
+NZ_CP009977.1	1608149	1608150	MurR/RpiR family transcriptional regulator|iron-containing alcohol dehydrogenase	.	+	>|<	40,22	
+NZ_CP009977.1	1610028	1610029	GrxA family glutaredoxin	.	+	>|	48	
+NZ_CP009977.1	1611862	1611863	aspartate:alanine antiporter|trans-2-enoyl-CoA reductase family protein	.	-	>|<	19,84	
+NZ_CP009977.1	1611894	1611895	aspartate:alanine antiporter|trans-2-enoyl-CoA reductase family protein	.	+	>|<	51,52	
+NZ_CP009977.1	1613278	1613279	acyl-CoA dehydrogenase	.	-	|<	49	
+NZ_CP009977.1	1616769	1616770	Na+/H+ antiporter NhaA	.	+	|<	88	conflict
+NZ_CP009977.1	1616813	1616814	Na+/H+ antiporter NhaA	.	-	|<	44	
+NZ_CP009977.1	1616845	1616846	Na+/H+ antiporter NhaA	.	+	|<	12	conflict
+NZ_CP009977.1	1618303	1618304	carotenoid 1%2C2-hydratase	.	-	|<	58	
+NZ_CP009977.1	1641115	1641116	50S ribosomal protein L25	.	+	>|	126	
+NZ_CP009977.1	1644867	1644868	META domain-containing protein	.	+	>|	51	
+NZ_CP009977.1	1649957	1649958	glycine zipper 2TM domain-containing protein	.	+	>|	97	
+NZ_CP009977.1	1656489	1656490	sodium-dependent transporter	.	-	|<	44	
+NZ_CP009977.1	1661274	1661275	cystathionine beta-lyase|DNA-3-methyladenine glycosylase I	.	+	>|<	46,14	
+NZ_CP009977.1	1667243	1667244	envelope stress response membrane protein PspC	.	-	|<	54	
+NZ_CP009977.1	1675313	1675314	ABC transporter ATP-binding protein|DUF2750 domain-containing protein	.	-	>|<	3,64	
+NZ_CP009977.1	1675344	1675345	ABC transporter ATP-binding protein|DUF2750 domain-containing protein	.	+	>|<	34,33	
+NZ_CP009977.1	1675789	1675790	manganese-dependent inorganic pyrophosphatase	.	-	|<	53	
+NZ_CP009977.1	1678202	1678203	putative manganese transporter|alpha-galactosidase	.	+	>|<	45,16	
+NZ_CP009977.1	1685760	1685761	hypothetical protein|formate transporter FocA	.	-	>|<	43,58	
+NZ_CP009977.1	1685793	1685794	hypothetical protein|formate transporter FocA	.	+	>|<	76,25	
+NZ_CP009977.1	1689012	1689013	YdcF family protein|thymidine kinase	.	-	>|<	20,52	
+NZ_CP009977.1	1689044	1689045	YdcF family protein|thymidine kinase	.	+	>|<	52,20	
+NZ_CP009977.1	1689680	1689681	cysteine--tRNA ligase	.	-	|<	41	
+NZ_CP009977.1	1691859	1691860	peptidylprolyl isomerase	.	+	>|	58	
+NZ_CP009977.1	1694528	1694529	YchJ family protein|bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	.	-	>|<	21,48	
+NZ_CP009977.1	1694559	1694560	YchJ family protein|bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	.	+	>|<	52,17	
+NZ_CP009977.1	1701812	1701813	-	.	-	-	55	
+NZ_CP009977.1	1705960	1705961	hypothetical protein|tetracycline efflux Na+/H+ antiporter family transporter Tet(35)	.	-	>|<	43,60	
+NZ_CP009977.1	1708951	1708952	H-NS histone family protein|inosine/guanosine kinase	.	+	>|<	41,81	
+NZ_CP009977.1	1708966	1708967	H-NS histone family protein|inosine/guanosine kinase	.	-	>|<	56,66	
+NZ_CP009977.1	1714247	1714248	adenylosuccinate lyase|DUF3833 domain-containing protein	.	+	>|<	60,38	
+NZ_CP009977.1	1720560	1720561	protease HtpX	.	-	|<	45	
+NZ_CP009977.1	1721985	1721986	hypothetical protein|dethiobiotin synthase	.	-	>|<	30,40	
+NZ_CP009977.1	1727143	1727144	adenosylmethionine--8-amino-7-oxononanoate transaminase|serine--tRNA ligase	.	-	>|<	35,49	
+NZ_CP009977.1	1727174	1727175	adenosylmethionine--8-amino-7-oxononanoate transaminase|serine--tRNA ligase	.	+	>|<	66,18	
+NZ_CP009977.1	1729890	1729891	outer membrane lipoprotein chaperone LolA	.	-	|<	59	
+NZ_CP009977.1	1735725	1735726	alanine dehydrogenase|methyltransferase	.	+	>|<	65,31	
+NZ_CP009977.1	1739157	1739158	hypothetical protein	.	+	>|	54	
+NZ_CP009977.1	1740049	1740050	tRNA isopentenyl-2-thiomethyl-A-37 hydroxylase MiaE	.	+	>|	73	
+NZ_CP009977.1	1741648	1741649	efflux RND transporter permease subunit	.	-	|<	69	
+NZ_CP009977.1	1748499	1748500	ACP S-malonyltransferase	.	+	|<	37	conflict
+NZ_CP009977.1	1764710	1764711	YecA family protein	.	+	>|	40	
+NZ_CP009977.1	1772533	1772534	quinolinate synthase NadA	.	-	|<	59	
+NZ_CP009977.1	1773802	1773803	tol-pal system protein YbgF	.	-	|<	46	
+NZ_CP009977.1	1779278	1779279	cyd operon protein YbgE	.	-	|<	73	
+NZ_CP009977.1	1782932	1782933	Holliday junction branch migration DNA helicase RuvB	.	-	|<	37	
+NZ_CP009977.1	1785329	1785330	aspartate--tRNA ligase	.	-	|<	46	
+NZ_CP009977.1	1798771	1798772	AraC family transcriptional regulator|chromosome partition protein MukB	.	-	>|<	26,47	
+NZ_CP009977.1	1807061	1807062	envelope biogenesis factor ElyC|two-component system response regulator TorR	.	-	>|<	40,57	
+NZ_CP009977.1	1807093	1807094	envelope biogenesis factor ElyC|two-component system response regulator TorR	.	+	>|<	72,25	
+NZ_CP009977.1	1810479	1810480	-	.	+	-	300	
+NZ_CP009977.1	1811568	1811569	TfoX/Sxy family DNA transformation protein	.	+	>|	60	
+NZ_CP009977.1	1812623	1812624	alpha/beta hydrolase	.	-	|<	104	
+NZ_CP009977.1	1817174	1817175	type I DNA topoisomerase	.	-	|<	46	
+NZ_CP009977.1	1820541	1820542	YciN family protein|3-phosphoshikimate 1-carboxyvinyltransferase	.	-	>|<	22,59	
+NZ_CP009977.1	1820576	1820577	YciN family protein|3-phosphoshikimate 1-carboxyvinyltransferase	.	+	>|<	57,24	
+NZ_CP009977.1	1824289	1824290	translation initiation factor IF-1	.	-	>|	22	conflict
+NZ_CP009977.1	1824321	1824322	translation initiation factor IF-1|ATP-dependent Clp protease ATP-binding subunit ClpA	.	+	>|<	54,111	
+NZ_CP009977.1	1824381	1824382	translation initiation factor IF-1|ATP-dependent Clp protease ATP-binding subunit ClpA	.	-	>|<	114,51	
+NZ_CP009977.1	1824412	1824413	ATP-dependent Clp protease ATP-binding subunit ClpA	.	+	|<	20	conflict
+NZ_CP009977.1	1828101	1828102	cold shock domain-containing protein CspD|NADP-dependent isocitrate dehydrogenase	.	-	>|<	72,73	
+NZ_CP009977.1	1828135	1828136	cold shock domain-containing protein CspD|NADP-dependent isocitrate dehydrogenase	.	+	>|<	106,39	
+NZ_CP009977.1	1831424	1831425	pseudouridine synthase|DUF2057 domain-containing protein	.	-	>|<	13,63	
+NZ_CP009977.1	1831457	1831458	pseudouridine synthase|DUF2057 domain-containing protein	.	+	>|<	46,30	
+NZ_CP009977.1	1832269	1832270	porin	.	-	|<	54	
+NZ_CP009977.1	1840965	1840966	exodeoxyribonuclease III|ABC transporter permease	.	-	>|<	17,49	
+NZ_CP009977.1	1840996	1840997	exodeoxyribonuclease III|ABC transporter permease	.	+	>|<	48,18	
+NZ_CP009977.1	1842467	1842468	ABC transporter substrate-binding protein	.	-	|<	53	
+NZ_CP009977.1	1844336	1844337	hypothetical protein	.	-	|<	42	
+NZ_CP009977.1	1850483	1850484	formate C-acetyltransferase	.	+	>|	67	
+NZ_CP009977.1	1852483	1852484	pyruvate formate lyase 1-activating protein	.	+	>|	53	
+NZ_CP009977.1	1859261	1859262	SpoVR family protein|3-deoxy-manno-octulosonate cytidylyltransferase	.	-	>|<	38,49	
+NZ_CP009977.1	1865900	1865901	DUF2062 domain-containing protein|lipoprotein-releasing ABC transporter permease subunit LolE	.	-	>|<	105,48	
+NZ_CP009977.1	1865930	1865931	lipoprotein-releasing ABC transporter permease subunit LolE	.	+	|<	18	conflict
+NZ_CP009977.1	1874213	1874214	peptidoglycan binding protein CsiV	.	+	>|	44	
+NZ_CP009977.1	1874828	1874829	GNAT family N-acetyltransferase|NAD(P)/FAD-dependent oxidoreductase	.	-	>|<	26,98	
+NZ_CP009977.1	1876715	1876716	alpha/beta hydrolase YcfP	.	-	|<	59	
+NZ_CP009977.1	1877948	1877949	-	.	-	-	347	
+NZ_CP009977.1	1878098	1878099	-	.	-	-	197	
+NZ_CP009977.1	1880764	1880765	purine nucleoside phosphoramidase	.	-	|<	37	
+NZ_CP009977.1	1884815	1884816	DUF1887 family protein|uridine phosphorylase	.	+	>|<	43,79	
+NZ_CP009977.1	1884869	1884870	DUF1887 family protein|uridine phosphorylase	.	+	>|<	97,25	
+NZ_CP009977.1	1885907	1885908	zinc/cadmium/mercury/lead-transporting ATPase	.	-	|<	57	
+NZ_CP009977.1	1889173	1889174	NAD(P)/FAD-dependent oxidoreductase	.	-	|<	58	
+NZ_CP009977.1	1891397	1891398	ferredoxin family protein|RNA methyltransferase	.	-	>|<	15,56	
+NZ_CP009977.1	1891435	1891436	ferredoxin family protein|RNA methyltransferase	.	+	>|<	53,18	
+NZ_CP009977.1	1895103	1895104	aldehyde dehydrogenase|cupin domain-containing protein	.	-	>|<	50,45	
+NZ_CP009977.1	1908270	1908271	LysR substrate-binding domain-containing protein	.	-	>|	28	conflict
+NZ_CP009977.1	1924544	1924545	toll/interleukin-1 receptor domain-containing protein	.	-	|<	44	
+NZ_CP009977.1	1926249	1926250	-	.	+	-	170	
+NZ_CP009977.1	1932993	1932994	YbaY family lipoprotein	.	-	|<	63	
+NZ_CP009977.1	1934627	1934628	acyl-CoA thioesterase II|Lrp/AsnC family transcriptional regulator	.	+	>|<	47,17	
+NZ_CP009977.1	1936373	1936374	PLP-dependent cysteine synthase family protein|DUF1244 domain-containing protein	.	-	>|<	28,52	
+NZ_CP009977.1	1936924	1936925	multidrug efflux RND transporter permease subunit VmeF	.	-	|<	59	
+NZ_CP009977.1	1942628	1942629	Tim44 domain-containing protein	.	-	|<	57	
+NZ_CP009977.1	1949099	1949100	o-succinylbenzoate synthase	.	-	|<	65	
+NZ_CP009977.1	1960101	1960102	peptidylprolyl isomerase	.	-	|<	58	
+NZ_CP009977.1	1967163	1967164	trigger factor	.	-	|<	88	
+NZ_CP009977.1	1989748	1989749	DEAD/DEAH box helicase	.	-	|<	52	
+NZ_CP009977.1	1992551	1992552	hemolysin family protein|TonB-dependent receptor	.	-	>|<	14,51	
+NZ_CP009977.1	2004308	2004309	hypothetical protein	.	-	|<	71	
+NZ_CP009977.1	2007585	2007586	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD|NupC/NupG family nucleoside CNT transporter	.	-	>|<	18,59	
+NZ_CP009977.1	2007614	2007615	bifunctional methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate cyclohydrolase FolD|NupC/NupG family nucleoside CNT transporter	.	+	>|<	47,30	
+NZ_CP009977.1	2010060	2010061	lytic murein transglycosylase	.	-	|<	46	
+NZ_CP009977.1	2013444	2013445	cell division topological specificity factor MinE|ribonuclease D	.	-	>|<	82,46	
+NZ_CP009977.1	2013475	2013476	cell division topological specificity factor MinE|ribonuclease D	.	+	>|<	113,15	
+NZ_CP009977.1	2018267	2018268	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex dimerization subunit type 1 TsaB	.	-	|<	39	
+NZ_CP009977.1	2022084	2022085	formyltetrahydrofolate deformylase	.	+	>|	60	
+NZ_CP009977.1	2024240	2024241	hypothetical protein|VOC family protein	.	-	>|<	9,110	
+NZ_CP009977.1	2027010	2027011	arginine--tRNA ligase	.	+	>|	59	
+NZ_CP009977.1	2027541	2027542	HIT domain-containing protein|FeoC-like transcriptional regulator	.	+	>|<	56,12	
+NZ_CP009977.1	2034410	2034411	-	.	-	-	319	
+NZ_CP009977.1	2037333	2037334	zinc ABC transporter permease subunit ZnuB|succinate--CoA ligase subunit alpha	.	-	>|<	81,48	
+NZ_CP009977.1	2048768	2048769	citrate synthase|Nif3-like dinuclear metal center hexameric protein	.	-	>|<	19,57	
+NZ_CP009977.1	2048806	2048807	citrate synthase|Nif3-like dinuclear metal center hexameric protein	.	+	>|<	57,19	
+NZ_CP009977.1	2050534	2050535	DUF1853 family protein|phosphoglucomutase (alpha-D-glucose-1%2C6-bisphosphate-dependent)	.	-	>|<	49,59	
+NZ_CP009977.1	2052271	2052272	replication initiation negative regulator SeqA	.	-	|<	58	
+NZ_CP009977.1	2054750	2054751	flavodoxin FldA|DUF4442 domain-containing protein	.	+	>|<	44,10	
+NZ_CP009977.1	2055928	2055929	ferric iron uptake transcriptional regulator FcrX|glutamine--tRNA ligase	.	-	>|<	13,98	
+NZ_CP009977.1	2055956	2055957	ferric iron uptake transcriptional regulator FcrX|glutamine--tRNA ligase	.	+	>|<	41,70	
+NZ_CP009977.1	2055982	2055983	ferric iron uptake transcriptional regulator FcrX|glutamine--tRNA ligase	.	-	>|<	67,44	
+NZ_CP009977.1	2056015	2056016	ferric iron uptake transcriptional regulator FcrX|glutamine--tRNA ligase	.	+	>|<	100,11	
+NZ_CP009977.1	2064155	2064156	cation:proton antiporter	.	+	>|	53	
+NZ_CP009977.1	2066017	2066018	asparagine synthase B|transcription/translation regulatory transformer protein RfaH	.	-	>|<	21,46	
+NZ_CP009977.1	2066049	2066050	asparagine synthase B|transcription/translation regulatory transformer protein RfaH	.	+	>|<	53,14	
+NZ_CP009977.1	2068325	2068326	peptide MFS transporter|ferrochelatase	.	+	>|<	46,22	
+NZ_CP009977.1	2069405	2069406	adenylate kinase	.	-	|<	68	
+NZ_CP009977.1	2070392	2070393	molecular chaperone HtpG	.	-	|<	43	
+NZ_CP009977.1	2074053	2074054	regulatory protein ToxS	.	+	>|	37	
+NZ_CP009977.1	2080849	2080850	-	.	+	-	126	
+NZ_CP009977.1	2081884	2081885	co-chaperone YbbN	.	+	>|	55	
+NZ_CP009977.1	2083414	2083415	NfeD family protein	.	+	>|	40	
+NZ_CP009977.1	2086539	2086540	NAD-dependent DNA ligase LigA	.	-	|<	61	
+NZ_CP009977.1	2088657	2088658	cell division protein ZipA	.	-	|<	45	
+NZ_CP009977.1	2090686	2090687	sulfate transporter CysZ	.	+	>|	49	
+NZ_CP009977.1	2091825	2091826	cysteine synthase A	.	+	>|	55	
+NZ_CP009977.1	2092377	2092378	HPr family phosphocarrier protein	.	+	>|	52	
+NZ_CP009977.1	2094845	2094846	PTS glucose transporter subunit IIA	.	-	>|	23	conflict
+NZ_CP009977.1	2094876	2094877	PTS glucose transporter subunit IIA	.	+	>|	54	
+NZ_CP009977.1	2095084	2095085	-	.	-	-	223	
+NZ_CP009977.1	2100104	2100105	flagellar assembly peptidoglycan hydrolase FlgJ	.	-	|<	53	
+NZ_CP009977.1	2104802	2104803	flagellar hook protein FlgE	.	-	|<	117	
+NZ_CP009977.1	2108047	2108048	protein-glutamate O-methyltransferase	.	-	|<	36	
+NZ_CP009977.1	2111616	2111617	flagellar export chaperone FlgN|flagellar assembly lipoprotein FlgP	.	-	>|<	53,59	
+NZ_CP009977.1	2115020	2115021	hypothetical protein|OmpA family protein	.	-	>|<	57,68	
+NZ_CP009977.1	2116610	2116611	glutamate--tRNA ligase	.	-	|<	49	
+NZ_CP009977.1	2123760	2123761	TraB/GumN family protein	.	-	>|	17	conflict
+NZ_CP009977.1	2126422	2126423	23S rRNA pseudouridine(2604) synthase RluF|Cys-tRNA(Pro) deacylase	.	-	>|<	22,52	
+NZ_CP009977.1	2126450	2126451	23S rRNA pseudouridine(2604) synthase RluF|Cys-tRNA(Pro) deacylase	.	+	>|<	50,24	
+NZ_CP009977.1	2126968	2126969	bifunctional UDP-sugar hydrolase/5'-nucleotidase UshA	.	-	|<	88	
+NZ_CP009977.1	2128922	2128923	3-deoxy-8-phosphooctulonate synthase	.	-	|<	49	
+NZ_CP009977.1	2131888	2131889	peptide chain release factor 1	.	-	|<	86	
+NZ_CP009977.1	2137019	2137020	ribose-phosphate pyrophosphokinase	.	+	>|	56	
+NZ_CP009977.1	2138901	2138902	redox-regulated ATPase YchF	.	+	>|	65	
+NZ_CP009977.1	2141808	2141809	2-octaprenyl-3-methyl-6-methoxy-1%2C4-benzoquinol hydroxylase	.	+	|<	19	conflict
+NZ_CP009977.1	2147491	2147492	CNNM family magnesium/cobalt transport protein CorC	.	+	>|	88	
+NZ_CP009977.1	2148961	2148962	apolipoprotein N-acyltransferase|zinc ribbon-containing protein	.	-	>|<	6,36	
+NZ_CP009977.1	2148990	2148991	apolipoprotein N-acyltransferase|zinc ribbon-containing protein	.	+	>|<	35,7	
+NZ_CP009977.1	2152285	2152286	leucine--tRNA ligase	.	+	>|	87	
+NZ_CP009977.1	2160018	2160019	serine hydrolase	.	+	>|	58	
+NZ_CP009977.1	2160431	2160432	DUF493 family protein YbeD	.	+	>|	53	
+NZ_CP009977.1	2162197	2162198	lipoyl synthase	.	-	>|	18	conflict
+NZ_CP009977.1	2162231	2162232	lipoyl synthase	.	+	>|	52	
+NZ_CP009977.1	2162293	2162294	lipoyl synthase	.	-	>|	114	conflict
+NZ_CP009977.1	2172700	2172701	MetQ/NlpA family lipoprotein|Zn-ribbon-containing protein	.	-	>|<	39,65	
+NZ_CP009977.1	2172736	2172737	MetQ/NlpA family lipoprotein|Zn-ribbon-containing protein	.	+	>|<	75,29	
+NZ_CP009977.1	2181535	2181536	flap endonuclease Xni|23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM	.	-	>|<	16,53	
+NZ_CP009977.1	2181568	2181569	flap endonuclease Xni|23S rRNA (cytidine(2498)-2'-O)-methyltransferase RlmM	.	+	>|<	49,20	
+NZ_CP009977.1	2184886	2184887	-	.	+	-	298	
+NZ_CP009977.1	2185223	2185224	tRNA 4-thiouridine(8) synthase ThiI	.	-	|<	58	
+NZ_CP009977.1	2192244	2192245	1-deoxy-D-xylulose-5-phosphate synthase|phosphatidylglycerophosphatase A	.	-	>|<	21,55	
+NZ_CP009977.1	2192277	2192278	1-deoxy-D-xylulose-5-phosphate synthase|phosphatidylglycerophosphatase A	.	+	>|<	54,22	
+NZ_CP009977.1	2193847	2193848	transcription antitermination factor NusB	.	-	|<	43	
+NZ_CP009977.1	2201076	2201077	sigma factor-binding protein Crl	.	-	|<	54	
+NZ_CP009977.1	2202922	2202923	oxytetracycline resistance phosphoribosyltransferase domain-containing protein Tet(34)	.	-	|<	48	
+NZ_CP009977.1	2203651	2203652	NCS2 family permease	.	-	|<	49	
+NZ_CP009977.1	2205359	2205360	-	.	-	-	370	
+NZ_CP009977.1	2207503	2207504	aminoacyl-histidine dipeptidase|DUF3332 domain-containing protein	.	-	>|<	32,49	
+NZ_CP009977.1	2207532	2207533	aminoacyl-histidine dipeptidase|DUF3332 domain-containing protein	.	+	>|<	61,20	
+NZ_CP009977.1	2210161	2210162	hypothetical protein|DUF3622 domain-containing protein	.	-	>|<	16,67	
+NZ_CP009977.1	2213821	2213822	hypothetical protein	.	-	>|	14	conflict
+NZ_CP009977.1	2213858	2213859	hypothetical protein	.	+	>|	51	
+NZ_CP009977.1	2213983	2213984	phosphoribosylformylglycinamidine synthase	.	-	|<	63	
+NZ_CP009977.1	2219932	2219933	membrane-bound lytic murein transglycosylase MltF	.	+	>|	51	
+NZ_CP009977.1	2221229	2221230	AbgT family transporter	.	-	|<	51	
+NZ_CP009977.1	2226510	2226511	prepilin-type N-terminal cleavage/methylation domain-containing protein|molecular chaperone DnaJ	.	-	>|<	15,52	
+NZ_CP009977.1	2227826	2227827	molecular chaperone DnaK	.	-	|<	102	
+NZ_CP009977.1	2230123	2230124	dicarboxylate/amino acid:cation symporter	.	-	|<	50	
+NZ_CP009977.1	2231797	2231798	nucleotide exchange factor GrpE	.	-	|<	62	
+NZ_CP009977.1	2233535	2233536	NAD(+) kinase	.	+	>|	50	
+NZ_CP009977.1	2235491	2235492	DNA repair protein RecN	.	+	>|	45	
+NZ_CP009977.1	2236066	2236067	outer membrane protein assembly factor BamE|RnfH family protein	.	-	>|<	15,48	
+NZ_CP009977.1	2236097	2236098	outer membrane protein assembly factor BamE|RnfH family protein	.	+	>|<	46,17	
+NZ_CP009977.1	2245352	2245353	S8 family serine peptidase|helix-turn-helix domain-containing protein	.	+	>|<	127,65	
+NZ_CP009977.1	2265626	2265627	alanine:cation symporter family protein|LysR family transcriptional regulator	.	+	>|<	64,23	
+NZ_CP009977.1	2270599	2270600	GPR1/FUN34/YaaH family transporter	.	-	|<	48	
+NZ_CP009977.1	2275392	2275393	ABC transporter substrate-binding protein|glutamine-hydrolyzing GMP synthase	.	-	>|<	49,64	
+NZ_CP009977.1	2280076	2280077	zinc ribbon domain-containing protein	.	-	|<	77	
+NZ_CP009977.1	2281580	2281581	ribosome biogenesis GTPase Der	.	-	|<	40	
+NZ_CP009977.1	2283245	2283246	outer membrane protein assembly factor BamB	.	-	|<	56	
+NZ_CP009977.1	2285146	2285147	histidine--tRNA ligase	.	-	|<	67	
+NZ_CP009977.1	2289052	2289053	bifunctional tRNA (adenosine(37)-C2)-methyltransferase TrmG/ribosomal RNA large subunit methyltransferase RlmN	.	-	|<	48	
+NZ_CP009977.1	2290389	2290390	nucleoside-diphosphate kinase	.	-	|<	58	
+NZ_CP009977.1	2290924	2290925	aminopeptidase PepB	.	-	|<	37	
+NZ_CP009977.1	2292356	2292357	Fe-S cluster assembly protein IscX	.	-	|<	76	
+NZ_CP009977.1	2295353	2295354	iron-sulfur cluster assembly protein IscA	.	-	|<	115	
+NZ_CP009977.1	2295428	2295429	iron-sulfur cluster assembly protein IscA	.	-	|<	40	
+NZ_CP009977.1	2295825	2295826	Fe-S cluster assembly scaffold IscU	.	-	|<	41	
+NZ_CP009977.1	2299990	2299991	inositol-1-monophosphatase|protein translocase subunit SecF	.	+	>|<	75,119	
+NZ_CP009977.1	2300058	2300059	protein translocase subunit SecF	.	-	|<	51	
+NZ_CP009977.1	2311693	2311694	hydrogen peroxide-inducible genes activator	.	-	|<	67	
+NZ_CP009977.1	2313609	2313610	-	.	+	-	131	
+NZ_CP009977.1	2315346	2315347	polyphosphate kinase 2|phosphate signaling complex protein PhoU	.	-	>|<	17,43	
+NZ_CP009977.1	2315379	2315380	polyphosphate kinase 2|phosphate signaling complex protein PhoU	.	+	>|<	50,10	
+NZ_CP009977.1	2324694	2324695	exopolyphosphatase	.	+	>|	52	
+NZ_CP009977.1	2328860	2328861	recombination-associated protein RdgC	.	+	>|	52	
+NZ_CP009977.1	2330634	2330635	YfhL family 4Fe-4S dicluster ferredoxin|hypothetical protein	.	-	>|<	3,40	
+NZ_CP009977.1	2330674	2330675	YfhL family 4Fe-4S dicluster ferredoxin	.	+	>|	43	
+NZ_CP009977.1	2344692	2344693	isopenicillin N synthase family oxygenase|ATP-dependent chaperone ClpB	.	-	>|<	58,49	
+NZ_CP009977.1	2347408	2347409	peptidoglycan editing factor PgeF	.	-	|<	56	
+NZ_CP009977.1	2350089	2350090	outer membrane protein assembly factor BamD	.	+	>|	53	
+NZ_CP009977.1	2351639	2351640	-	.	-	-	352	
+NZ_CP009977.1	2352547	2352548	-	.	+	-	13	
+NZ_CP009977.1	2354324	2354325	inosine/xanthosine triphosphatase|trp operon repressor	.	-	>|<	28,30	
+NZ_CP009977.1	2354355	2354356	inosine/xanthosine triphosphatase	.	+	>|	59	
+NZ_CP009977.1	2358803	2358804	energy-dependent translational throttle protein EttA	.	+	>|	89	
+NZ_CP009977.1	2360150	2360151	M23 family metallopeptidase|bifunctional chorismate mutase/prephenate dehydrogenase	.	-	>|<	14,42	
+NZ_CP009977.1	2360182	2360183	M23 family metallopeptidase|bifunctional chorismate mutase/prephenate dehydrogenase	.	+	>|<	46,10	
+NZ_CP009977.1	2362565	2362566	beta-N-acetylhexosaminidase	.	-	|<	75	
+NZ_CP009977.1	2365787	2365788	N-acetylmuramic acid 6-phosphate etherase|hypothetical protein	.	-	>|<	19,46	
+NZ_CP009977.1	2365816	2365817	N-acetylmuramic acid 6-phosphate etherase|hypothetical protein	.	+	>|<	48,17	
+NZ_CP009977.1	2368491	2368492	carbon starvation protein A	.	+	>|	63	
+NZ_CP009977.1	2371051	2371052	two-component system response regulator BtsR|4-hydroxy-3-methylbut-2-enyl diphosphate reductase	.	-	>|<	19,48	
+NZ_CP009977.1	2371083	2371084	two-component system response regulator BtsR|4-hydroxy-3-methylbut-2-enyl diphosphate reductase	.	+	>|<	51,16	
+NZ_CP009977.1	2372647	2372648	signal peptidase II	.	-	|<	62	
+NZ_CP009977.1	2379465	2379466	30S ribosomal protein S20	.	-	>|	23	conflict
+NZ_CP009977.1	2379496	2379497	30S ribosomal protein S20	.	+	>|	54	
+NZ_CP009977.1	2379527	2379528	30S ribosomal protein S20|metalloregulator ArsR/SmtB family transcription factor	.	-	>|<	85,106	
+NZ_CP009977.1	2379557	2379558	30S ribosomal protein S20|metalloregulator ArsR/SmtB family transcription factor	.	+	>|<	115,76	
+NZ_CP009977.1	2382695	2382696	Na/Pi symporter	.	+	>|	55	
+NZ_CP009977.1	2384003	2384004	flavohemoglobin expression-modulating QEGLA motif protein|thymidylate synthase	.	-	>|<	13,49	
+NZ_CP009977.1	2392196	2392197	NADP(H)-dependent aldo-keto reductase|hypothetical protein	.	+	>|<	38,95	
+NZ_CP009977.1	2393001	2393002	cyclic-di-GMP-binding transcriptional regulator VpsR	.	-	|<	66	
+NZ_CP009977.1	2394604	2394605	lysine--tRNA ligase	.	-	|<	44	
+NZ_CP009977.1	2397408	2397409	single-stranded-DNA-specific exonuclease RecJ	.	-	|<	60	
+NZ_CP009977.1	2399213	2399214	bifunctional protein-disulfide isomerase/oxidoreductase DsbC	.	-	|<	39	
+NZ_CP009977.1	2401730	2401731	flavodoxin FldB|branched-chain amino acid transport system II carrier protein	.	-	>|<	27,56	
+NZ_CP009977.1	2401767	2401768	flavodoxin FldB|branched-chain amino acid transport system II carrier protein	.	+	>|<	64,19	
+NZ_CP009977.1	2405498	2405499	ATP-dependent RNA helicase SrmB|peroxide stress protein YaaA	.	-	>|<	20,47	
+NZ_CP009977.1	2405529	2405530	ATP-dependent RNA helicase SrmB|peroxide stress protein YaaA	.	+	>|<	51,16	
+NZ_CP009977.1	2409625	2409626	uracil-DNA glycosylase	.	-	|<	41	
+NZ_CP009977.1	2412272	2412273	autonomous glycyl radical cofactor GrcA|threonine synthase	.	+	>|<	56,64	
+NZ_CP009977.1	2412287	2412288	autonomous glycyl radical cofactor GrcA|threonine synthase	.	-	>|<	71,49	
+NZ_CP009977.1	2417106	2417107	-	.	-	-	57	
+NZ_CP009977.1	2420178	2420179	two-component system response regulator ArcA|membrane lipoprotein lipid attachment site-containing protein	.	-	>|<	21,62	
+NZ_CP009977.1	2420213	2420214	two-component system response regulator ArcA|membrane lipoprotein lipid attachment site-containing protein	.	+	>|<	56,27	
+NZ_CP009977.1	2431037	2431038	-	.	+	-	133	
+NZ_CP009977.1	2438664	2438665	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase	.	+	>|	100	
+NZ_CP009977.1	2441118	2441119	TRIC cation channel family protein	.	+	>|	56	
+NZ_CP009977.1	2442900	2442901	carbamoyl-phosphate synthase large subunit	.	-	|<	77	
+NZ_CP009977.1	2447814	2447815	4-hydroxy-tetrahydrodipicolinate reductase	.	-	|<	34	
+NZ_CP009977.1	2449250	2449251	preprotein translocase subunit SecA	.	-	|<	49	
+NZ_CP009977.1	2452908	2452909	DciA family protein|UDP-3-O-acyl-N-acetylglucosamine deacetylase	.	-	>|<	31,46	
+NZ_CP009977.1	2452941	2452942	DciA family protein|UDP-3-O-acyl-N-acetylglucosamine deacetylase	.	+	>|<	64,13	
+NZ_CP009977.1	2470403	2470404	16S rRNA (cytidine(1402)-2'-O)-methyltransferase	.	-	|<	73	
+NZ_CP009977.1	2474890	2474891	BON domain-containing protein|ClpXP protease specificity-enhancing factor	.	-	>|<	32,28	
+NZ_CP009977.1	2474921	2474922	BON domain-containing protein	.	+	>|	63	
+NZ_CP009977.1	2476080	2476081	cytochrome c1	.	-	|<	70	
+NZ_CP009977.1	2479205	2479206	30S ribosomal protein S9	.	-	|<	79	
+NZ_CP009977.1	2482171	2482172	DUF1043 family protein	.	+	>|	57	
+NZ_CP009977.1	2484935	2484936	outer membrane-stress sensor serine endopeptidase DegS|DNA topoisomerase IV subunit A	.	-	>|<	2,31	
+NZ_CP009977.1	2484965	2484966	outer membrane-stress sensor serine endopeptidase DegS|DNA topoisomerase IV subunit A	.	+	>|<	32,1	
+NZ_CP009977.1	2489989	2489990	3'%2C5'-cyclic-AMP phosphodiesterase	.	-	|<	30	
+NZ_CP009977.1	2493551	2493552	outer membrane channel protein TolC	.	-	>|	18	conflict
+NZ_CP009977.1	2493586	2493587	outer membrane channel protein TolC|bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE	.	+	>|<	53,100	
+NZ_CP009977.1	2493629	2493630	outer membrane channel protein TolC|bifunctional D-glycero-beta-D-manno-heptose-7-phosphate kinase/D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase HldE	.	-	>|<	96,57	
+NZ_CP009977.1	2500229	2500230	inorganic triphosphatase	.	-	|<	54	
+NZ_CP009977.1	2502794	2502795	TIGR00153 family protein	.	+	>|	86	
+NZ_CP009977.1	2504182	2504183	inorganic phosphate transporter	.	+	>|	84	
+NZ_CP009977.1	2504913	2504914	TIGR04211 family SH3 domain-containing protein|general secretion pathway protein GspB	.	-	>|<	21,45	
+NZ_CP009977.1	2508646	2508647	multifunctional CCA addition/repair protein|undecaprenyl-diphosphate phosphatase	.	-	>|<	11,45	
+NZ_CP009977.1	2508679	2508680	multifunctional CCA addition/repair protein|undecaprenyl-diphosphate phosphatase	.	+	>|<	44,12	
+NZ_CP009977.1	2511196	2511197	alpha/beta hydrolase	.	-	|<	41	
+NZ_CP009977.1	2511227	2511228	glycerol-3-phosphate 1-O-acyltransferase PlsY|alpha/beta hydrolase	.	+	>|<	16,10	
+NZ_CP009977.1	2512160	2512161	-	.	-	-	108	
+NZ_CP009977.1	2514458	2514459	GatB/YqeY domain-containing protein	.	+	>|	57	
+NZ_CP009977.1	2521097	2521098	MetQ/NlpA family ABC transporter substrate-binding protein|hypothetical protein	.	+	>|<	105,38	
+NZ_CP009977.1	2524997	2524998	DUF4382 domain-containing protein|8-oxoguanine deaminase	.	-	>|<	19,53	
+NZ_CP009977.1	2525033	2525034	DUF4382 domain-containing protein|8-oxoguanine deaminase	.	+	>|<	55,17	
+NZ_CP009977.1	2536437	2536438	MurR/RpiR family transcriptional regulator|glutamine--fructose-6-phosphate transaminase (isomerizing)	.	-	>|<	91,64	
+NZ_CP009977.1	2541080	2541081	pyruvate kinase PykF	.	-	>|	22	conflict
+NZ_CP009977.1	2541110	2541111	pyruvate kinase PykF|acetolactate synthase small subunit	.	+	>|<	52,103	
+NZ_CP009977.1	2543813	2543814	long-chain fatty acid--CoA ligase	.	-	|<	81	
+NZ_CP009977.1	2550604	2550605	-	.	+	-	65	
+NZ_CP009977.1	2555530	2555531	3-isopropylmalate dehydratase small subunit	.	+	>|	53	
+NZ_CP009977.1	2556447	2556448	DUF547 domain-containing protein|co-chaperone DjlA	.	-	>|<	55,55	
+NZ_CP009977.1	2563198	2563199	16S rRNA (adenine(1518)-N(6)/adenine(1519)-N(6))-dimethyltransferase RsmA	.	+	>|	45	
+NZ_CP009977.1	2564459	2564460	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH|type 3 dihydrofolate reductase	.	-	>|<	37,37	
+NZ_CP009977.1	2564491	2564492	bis(5'-nucleosyl)-tetraphosphatase (symmetrical) ApaH|type 3 dihydrofolate reductase	.	+	>|<	69,5	
+NZ_CP009977.1	2566501	2566502	Obg family GTPase CgtA	.	-	|<	65	
+NZ_CP009977.1	2567879	2567880	50S ribosomal protein L27	.	-	|<	73	
+NZ_CP009977.1	2569872	2569873	octaprenyl diphosphate synthase|hypothetical protein	.	+	>|<	103,21	
+NZ_CP009977.1	2570146	2570147	malate dehydrogenase	.	-	|<	52	
+NZ_CP009977.1	2570179	2570180	malate dehydrogenase	.	+	|<	19	conflict
+NZ_CP009977.1	2572034	2572035	transcriptional regulator ArgR	.	+	>|	72	
+NZ_CP009977.1	2573422	2573423	TAXI family TRAP transporter solute-binding subunit	.	+	>|	89	
+NZ_CP009977.1	2576886	2576887	universal stress protein|thiamine ABC transporter ATP-binding protein	.	-	>|<	24,52	
+NZ_CP009977.1	2576920	2576921	universal stress protein|thiamine ABC transporter ATP-binding protein	.	+	>|<	58,18	
+NZ_CP009977.1	2579173	2579174	thiamine ABC transporter substrate binding subunit	.	-	|<	65	
+NZ_CP009977.1	2584526	2584527	inorganic diphosphatase	.	-	>|	14	conflict
+NZ_CP009977.1	2584560	2584561	inorganic diphosphatase|gamma-glutamylcyclotransferase	.	+	>|<	48,99	
+NZ_CP009977.1	2591500	2591501	peptide-methionine (S)-S-oxide reductase MsrA|DUF1107 domain-containing protein	.	-	>|<	35,49	
+NZ_CP009977.1	2591528	2591529	peptide-methionine (S)-S-oxide reductase MsrA|DUF1107 domain-containing protein	.	+	>|<	63,21	
+NZ_CP009977.1	2592630	2592631	YtfJ family protein	.	+	>|	47	
+NZ_CP009977.1	2596424	2596425	DUF3299 domain-containing protein	.	+	>|	50	
+NZ_CP009977.1	2597770	2597771	TIGR03899 family protein|adenylyl-sulfate kinase	.	-	>|<	8,83	
+NZ_CP009977.1	2597811	2597812	TIGR03899 family protein|adenylyl-sulfate kinase	.	+	>|<	49,42	
+NZ_CP009977.1	2600407	2600408	sulfate adenylyltransferase subunit CysN	.	-	|<	55	
+NZ_CP009977.1	2606679	2606680	Crp/Fnr family transcriptional regulator|ATP-dependent RNA helicase DbpA	.	-	>|<	11,44	
+NZ_CP009977.1	2608743	2608744	GNAT family N-acetyltransferase|peptidoglycan-binding protein LysM	.	-	>|<	33,57	
+NZ_CP009977.1	2608777	2608778	GNAT family N-acetyltransferase|peptidoglycan-binding protein LysM	.	+	>|<	67,23	
+NZ_CP009977.1	2610305	2610306	FKBP-type peptidyl-prolyl cis-trans isomerase	.	+	>|	55	
+NZ_CP009977.1	2610995	2610996	DUF2780 domain-containing protein|50S ribosomal protein L17	.	-	>|<	124,46	
+NZ_CP009977.1	2615299	2615300	-	.	-	-	235	
+NZ_CP009977.1	2619705	2619706	30S ribosomal protein S17	.	-	|<	56	
+NZ_CP009977.1	2625106	2625107	50S ribosomal protein L31	.	-	|<	55	
+NZ_CP009977.1	2629298	2629299	DNA-binding transcriptional regulator CytR	.	+	>|	71	
+NZ_CP009977.1	2632045	2632046	HslU--HslV peptidase ATPase subunit	.	+	>|	50	
+NZ_CP009977.1	2633810	2633811	ribonuclease E activity regulator RraA|cell division protein ZapB	.	-	>|<	23,51	
+NZ_CP009977.1	2633841	2633842	ribonuclease E activity regulator RraA|cell division protein ZapB	.	+	>|<	54,20	
+NZ_CP009977.1	2639775	2639776	triose-phosphate isomerase|YrbL family protein	.	-	>|<	25,86	
+NZ_CP009977.1	2639807	2639808	triose-phosphate isomerase|YrbL family protein	.	+	>|<	57,54	
+NZ_CP009977.1	2657625	2657626	polysaccharide biosynthesis tyrosine autokinase	.	+	|<	117	conflict
+NZ_CP009977.1	2662072	2662073	-	.	+	-	411	
+NZ_CP009977.1	2662373	2662374	nucleotide sugar dehydrogenase	.	-	|<	110	
+NZ_CP009977.1	2679862	2679863	-	.	+	-	70	
+NZ_CP009977.1	2680869	2680870	UTP--glucose-1-phosphate uridylyltransferase GalU	.	+	>|	41	
+NZ_CP009977.1	2682520	2682521	-	.	+	-	709	
+NZ_CP009977.1	2689002	2689003	-	.	+	-	266	
+NZ_CP009977.1	2695447	2695448	sulfate adenylyltransferase subunit CysN	.	-	>|	18	conflict
+NZ_CP009977.1	2697376	2697377	hypothetical protein	.	-	>|	20	conflict
+NZ_CP009977.1	2697411	2697412	hypothetical protein	.	+	>|	55	
+NZ_CP009977.1	2702173	2702174	ADP-glyceromanno-heptose 6-epimerase	.	+	>|	55	
+NZ_CP009977.1	2706425	2706426	glycosyltransferase family 2 protein	.	-	>|	25	conflict
+NZ_CP009977.1	2711506	2711507	glycosyltransferase family 4 protein|glycosyltransferase family 9 protein	.	+	>|<	63,50	
+NZ_CP009977.1	2715543	2715544	pantetheine-phosphate adenylyltransferase|bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	.	-	>|<	3,87	
+NZ_CP009977.1	2715586	2715587	pantetheine-phosphate adenylyltransferase|bifunctional DNA-formamidopyrimidine glycosylase/DNA-(apurinic or apyrimidinic site) lyase	.	+	>|<	46,44	
+NZ_CP009977.1	2717142	2717143	50S ribosomal protein L33	.	-	|<	56	
+NZ_CP009977.1	2721803	2721804	LpxL/LpxP family Kdo(2)-lipid IV(A) lauroyl/palmitoleoyl acyltransferasee|orotate phosphoribosyltransferase	.	-	>|<	13,61	
+NZ_CP009977.1	2721843	2721844	LpxL/LpxP family Kdo(2)-lipid IV(A) lauroyl/palmitoleoyl acyltransferasee|orotate phosphoribosyltransferase	.	+	>|<	53,21	
+NZ_CP009977.1	2722577	2722578	ribonuclease PH	.	-	|<	39	
+NZ_CP009977.1	2724446	2724447	YicC family protein|YjbH domain-containing protein	.	-	>|<	48,55	
+NZ_CP009977.1	2724485	2724486	YicC family protein|YjbH domain-containing protein	.	+	>|<	87,16	
+NZ_CP009977.1	2726617	2726618	hypothetical protein	.	-	|<	69	
+NZ_CP009977.1	2729030	2729031	phosphate-starvation-inducible PsiE family protein	.	-	|<	64	
+NZ_CP009977.1	2747400	2747401	bifunctional GTP diphosphokinase/guanosine-3'%2C5'-bis pyrophosphate 3'-pyrophosphohydrolase	.	+	>|	42	
+NZ_CP009977.1	2751919	2751920	uracil-xanthine permease family protein|two-component system sensor histidine kinase EnvZ	.	-	>|<	19,68	
+NZ_CP009977.1	2751958	2751959	uracil-xanthine permease family protein|two-component system sensor histidine kinase EnvZ	.	+	>|<	58,29	
+NZ_CP009977.1	2759779	2759780	RNA-binding transcriptional accessory protein|hypothetical protein	.	-	>|<	20,63	
+NZ_CP009977.1	2759822	2759823	RNA-binding transcriptional accessory protein|hypothetical protein	.	+	>|<	63,20	
+NZ_CP009977.1	2762721	2762722	Fe-S biogenesis protein NfuA	.	+	>|	48	
+NZ_CP009977.1	2764303	2764304	3'(2')%2C5'-bisphosphate nucleotidase CysQ	.	-	>|	28	conflict
+NZ_CP009977.1	2764338	2764339	3'(2')%2C5'-bisphosphate nucleotidase CysQ	.	+	>|	63	
+NZ_CP009977.1	2777462	2777463	Hsp33 family molecular chaperone HslO	.	+	>|	66	
+NZ_CP009977.1	2784645	2784646	DUF2959 domain-containing protein	.	+	>|	43	
+NZ_CP009977.1	2785207	2785208	translational GTPase TypA	.	-	|<	56	
+NZ_CP009977.1	2789115	2789116	glutamate--ammonia ligase	.	+	>|	76	
+NZ_CP009977.1	2796258	2796259	adenosine deaminase|oxygen-independent coproporphyrinogen III oxidase	.	-	>|<	17,51	
+NZ_CP009977.1	2796289	2796290	adenosine deaminase|oxygen-independent coproporphyrinogen III oxidase	.	+	>|<	48,20	
+NZ_CP009977.1	2797846	2797847	DUF2489 domain-containing protein	.	-	|<	73	
+NZ_CP009977.1	2799756	2799757	-	.	-	-	161	
+NZ_CP009977.1	2800317	2800318	cytochrome c4	.	-	|<	71	
+NZ_CP009977.1	2801884	2801885	ribosome biogenesis GTP-binding protein YihA/YsxC	.	+	>|	60	
+NZ_CP009977.1	2801917	2801918	ribosome biogenesis GTP-binding protein YihA/YsxC	.	-	>|	93	conflict
+NZ_CP009977.1	2802301	2802302	-	.	-	-	280	
+NZ_CP009977.1	2802522	2802523	DNA polymerase I	.	-	|<	59	
+NZ_CP009977.1	2805693	2805694	-	.	-	-	310	
+NZ_CP009977.1	2810197	2810198	twin-arginine translocase subunit TatC	.	-	|<	54	
+NZ_CP009977.1	2810229	2810230	twin-arginine translocase subunit TatC	.	+	|<	22	conflict
+NZ_CP009977.1	2811024	2811025	Sec-independent protein translocase protein TatB	.	-	|<	41	
+NZ_CP009977.1	2820185	2820186	EAL domain-containing protein|hypothetical protein	.	+	>|<	50,13	
+NZ_CP009977.1	2842275	2842276	universal stress protein UspB	.	-	|<	118	
+NZ_CP009977.1	2844948	2844949	carboxylate/amino acid/amine transporter|hypothetical protein	.	-	>|<	17,42	
+NZ_CP009977.1	2844981	2844982	carboxylate/amino acid/amine transporter|hypothetical protein	.	+	>|<	50,9	
+NZ_CP009977.1	2847136	2847137	transcriptional regulator AsnC|oligopeptidase A	.	-	>|<	25,45	
+NZ_CP009977.1	2847169	2847170	transcriptional regulator AsnC|oligopeptidase A	.	+	>|<	58,12	
+NZ_CP009977.1	2850505	2850506	23S rRNA (adenine(2030)-N(6))-methyltransferase RlmJ	.	+	>|	55	
+NZ_CP009977.1	2852134	2852135	glutathione-disulfide reductase|heme utilization cystosolic carrier protein HutX	.	+	>|<	67,125	
+NZ_CP009977.1	2853064	2853065	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	-	|<	68	
+NZ_CP009977.1	2857617	2857618	phosphogluconate dehydratase|LacI family DNA-binding transcriptional regulator	.	-	>|<	11,52	
+NZ_CP009977.1	2866929	2866930	HAD family hydrolase	.	-	>|	21	conflict
+NZ_CP009977.1	2866963	2866964	HAD family hydrolase	.	+	>|	55	
+NZ_CP009977.1	2868526	2868527	cytochrome c5 family protein|DNA helicase Rep	.	-	>|<	27,57	
+NZ_CP009977.1	2868558	2868559	cytochrome c5 family protein|DNA helicase Rep	.	+	>|<	59,25	
+NZ_CP009977.1	2875679	2875680	multidrug efflux RND transporter permease subunit	.	+	>|	44	
+NZ_CP009977.1	2876090	2876091	accessory factor UbiK family protein	.	+	>|	55	
+NZ_CP009977.1	2876114	2876115	accessory factor UbiK family protein|ketol-acid reductoisomerase	.	-	>|<	79,123	
+NZ_CP009977.1	2878903	2878904	-	.	+	-	58	
+NZ_CP009977.1	2880913	2880914	HAMP domain-containing histidine kinase|N-acetylglucosamine-specific PTS transporter subunit IIBC	.	-	>|<	8,49	
+NZ_CP009977.1	2895980	2895981	oxidoreductase|LysR family transcriptional regulator	.	+	>|<	55,1	
+NZ_CP009977.1	2897653	2897654	sulfurtransferase TusA|hypothetical protein	.	-	>|<	2,32	
+NZ_CP009977.1	2897686	2897687	sulfurtransferase TusA	.	+	>|	35	
+NZ_CP009977.1	2902268	2902269	glycine--tRNA ligase subunit beta	.	+	>|	77	
+NZ_CP009977.1	2905997	2905998	valine--pyruvate transaminase|Hsp20 family protein	.	-	>|<	10,55	
+NZ_CP009977.1	2906027	2906028	valine--pyruvate transaminase|Hsp20 family protein	.	+	>|<	40,25	
+NZ_CP009977.1	2906864	2906865	DNA topoisomerase (ATP-hydrolyzing) subunit B	.	-	|<	59	
+NZ_CP009977.1	2910356	2910357	DNA polymerase III subunit beta	.	-	|<	87	
+NZ_CP009977.1	2914274	2914275	amino acid ABC transporter substrate-binding protein	.	+	>|	89	
+NZ_CP009977.1	2919837	2919838	tRNA uridine-5-carboxymethylaminomethyl(34) synthesis GTPase MnmE	.	+	>|	44	
+NZ_CP009977.1	2932222	2932223	F0F1 ATP synthase subunit epsilon	.	+	>|	53	
+NZ_CP009977.1	2933739	2933740	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU|amino acid ABC transporter permease	.	+	>|<	59,27	
+NZ_CP009977.1	2935406	2935407	transporter substrate-binding domain-containing protein|Bcr/CflA family multidrug efflux MFS transporter	.	-	>|<	5,61	
+NZ_CP009977.1	2937731	2937732	LysR family transcriptional regulator|threonine ammonia-lyase%2C biosynthetic	.	-	>|<	9,39	
+NZ_CP009977.1	2943393	2943394	-	.	-	-	122	
+NZ_CP009977.1	2947369	2947370	acyltransferase|thiol:disulfide interchange protein DsbA/DsbL	.	-	>|<	1,43	
+NZ_CP009977.1	2947400	2947401	acyltransferase|thiol:disulfide interchange protein DsbA/DsbL	.	+	>|<	32,12	
+NZ_CP009977.1	2949039	2949040	cytochrome c oxidase accessory protein CcoG	.	-	|<	50	
+NZ_CP009977.1	2950744	2950745	YihD family protein	.	-	|<	46	
+NZ_CP009977.1	2951136	2951137	hypothetical protein	.	-	|<	31	
+NZ_CP009977.1	2953270	2953271	hemolysin III family protein	.	+	>|	107	
+NZ_CP009977.1	2956667	2956668	16S rRNA (cytosine(967)-C(5))-methyltransferase RsmB	.	-	|<	44	
+NZ_CP009977.1	2958012	2958013	methionyl-tRNA formyltransferase	.	-	|<	65	
+NZ_CP009977.1	2958955	2958956	peptide deformylase	.	-	|<	104	
+NZ_CP009977.1	2963053	2963054	topoisomerase DNA-binding C4 zinc finger domain-containing protein|5-(carboxyamino)imidazole ribonucleotide synthase	.	-	>|<	16,45	
+NZ_CP009977.1	2963083	2963084	topoisomerase DNA-binding C4 zinc finger domain-containing protein|5-(carboxyamino)imidazole ribonucleotide synthase	.	+	>|<	46,15	
+NZ_CP009977.1	2967613	2967614	gamma carbonic anhydrase family protein	.	-	|<	57	
+NZ_CP009977.1	2976655	2976656	fluoride efflux transporter CrcB	.	+	>|	44	
+NZ_CP009977.1	2979078	2979079	phosphomethylpyrimidine synthase ThiC	.	-	>|	98	conflict
+NZ_CP009977.1	2988055	2988056	hypothetical protein	.	+	>|	30	
+NZ_CP009977.1	2993012	2993013	DNA helicase II	.	-	>|	68	conflict
+NZ_CP009977.1	2993050	2993051	DNA helicase II	.	+	>|	106	
+NZ_CP009977.1	2997058	2997059	EamA family transporter RarD	.	-	|<	65	
+NZ_CP009977.1	3000413	3000414	DUF3630 family protein	.	+	>|	52	
+NZ_CP009977.1	3001330	3001331	7-cyano-7-deazaguanine/7-aminomethyl-7-deazaguanine transporter	.	+	>|	59	
+NZ_CP009977.1	3001419	3001420	guanosine-5'-triphosphate%2C3'-diphosphate diphosphatase	.	-	|<	46	
+NZ_CP009977.1	3004781	3004782	thioredoxin TrxA	.	+	>|	53	
+NZ_CP009977.1	3006237	3006238	transcription termination factor Rho	.	+	>|	54	
+NZ_CP009977.1	3010279	3010280	NAD(P)H-flavin reductase	.	+	>|	49	
+NZ_CP009977.1	3017861	3017862	hypothetical protein	.	-	|<	53	
+NZ_CP009977.1	3024884	3024885	class I adenylate cyclase|iron donor protein CyaY	.	-	>|<	18,53	
+NZ_CP009977.1	3024915	3024916	class I adenylate cyclase|iron donor protein CyaY	.	+	>|<	49,22	
+NZ_CP009977.1	3029993	3029994	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB|DTW domain-containing protein	.	-	>|<	47,46	
+NZ_CP009977.1	3030024	3030025	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YigB|DTW domain-containing protein	.	+	>|<	78,15	
+NZ_CP009977.1	3032712	3032713	EVE domain-containing protein|Cof-type HAD-IIB family hydrolase	.	-	>|<	9,40	
+NZ_CP009977.1	3032744	3032745	EVE domain-containing protein|Cof-type HAD-IIB family hydrolase	.	+	>|<	41,8	
+NZ_CP009977.1	3040322	3040323	organoarsenical effux MFS transporter ArsJ	.	+	>|	47	
+NZ_CP009977.1	3042498	3042499	hypothetical protein	.	-	>|	17	conflict
+NZ_CP009977.1	3042529	3042530	hypothetical protein	.	+	>|	48	
+NZ_CP009977.1	3044406	3044407	DUF2492 family protein|DUF1145 domain-containing protein	.	-	>|<	39,43	
+NZ_CP009977.1	3044440	3044441	DUF2492 family protein|DUF1145 domain-containing protein	.	+	>|<	73,9	
+NZ_CP009977.1	3049529	3049530	RNA polymerase sigma factor RpoH	.	+	>|	66	
+NZ_CP009977.1	3051134	3051135	rhomboid family intramembrane serine protease GlpG|flagellar basal body-associated protein FliL	.	-	>|<	16,48	
+NZ_CP009977.1	3051165	3051166	rhomboid family intramembrane serine protease GlpG|flagellar basal body-associated protein FliL	.	+	>|<	47,17	
+NZ_CP009977.1	3053152	3053153	4-hydroxybenzoate octaprenyltransferase|glycerol-3-phosphate 1-O-acyltransferase PlsB	.	-	>|<	13,44	
+NZ_CP009977.1	3053184	3053185	4-hydroxybenzoate octaprenyltransferase|glycerol-3-phosphate 1-O-acyltransferase PlsB	.	+	>|<	45,12	
+NZ_CP009977.1	3056655	3056656	transcriptional repressor LexA	.	+	>|	49	
+NZ_CP009977.1	3058995	3058996	MATE family efflux transporter DinF|Si-specific NAD(P)(+) transhydrogenase	.	-	>|<	14,53	
+NZ_CP009977.1	3061771	3061772	YijD family membrane protein|tRNA (uridine(54)-C5)-methyltransferase TrmA	.	-	>|<	16,47	
+NZ_CP009977.1	3061804	3061805	YijD family membrane protein|tRNA (uridine(54)-C5)-methyltransferase TrmA	.	+	>|<	49,14	
+NZ_CP009977.1	3065247	3065248	TonB-dependent vitamin B12 receptor	.	+	>|	41	
+NZ_CP009977.1	3085915	3085916	DNA-binding transcriptional regulator Fis	.	-	|<	58	
+NZ_CP009977.1	3088372	3088373	acetyl-CoA carboxylase biotin carboxylase subunit	.	-	|<	47	
+NZ_CP009977.1	3090990	3090991	acetate--CoA ligase	.	-	|<	60	
+NZ_CP009977.1	3102287	3102288	hypothetical protein	.	-	|<	94	
+NZ_CP009977.1	3107888	3107889	protein-disulfide reductase DsbD	.	-	|<	42	
+NZ_CP009977.1	3109871	3109872	anaerobic C4-dicarboxylate transporter	.	-	|<	41	
+NZ_CP009977.1	3111357	3111358	aspartate ammonia-lyase	.	-	|<	35	
+NZ_CP009977.1	3113787	3113788	membrane protein FxsA|tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL	.	-	>|<	25,46	
+NZ_CP009977.1	3113817	3113818	membrane protein FxsA|tRNA (uridine(34)/cytosine(34)/5-carboxymethylaminomethyluridine(34)-2'-O)-methyltransferase TrmL	.	+	>|<	55,16	
+NZ_CP009977.1	3117346	3117347	CpxP family protein	.	+	>|	50	
+NZ_CP009977.1	3119597	3119598	6-phosphofructokinase|MATE family efflux transporter	.	-	>|<	22,65	
+NZ_CP009977.1	3119629	3119630	6-phosphofructokinase|MATE family efflux transporter	.	+	>|<	54,33	
+NZ_CP009977.1	3123459	3123460	-	.	+	-	95	
+NZ_CP009977.1	3127848	3127849	hypothetical protein|MgtC/SapB family protein	.	+	>|<	61,15	
+NZ_CP009977.1	3130135	3130136	elongation factor P	.	+	>|	51	
+NZ_CP009977.1	3131837	3131838	SPFH domain-containing protein|fumarate reductase subunit FrdD	.	+	>|<	87,14	
+NZ_CP009977.1	3138776	3138777	acetyltransferase|murein hydrolase activator EnvC	.	+	>|<	53,14	
+NZ_CP009977.1	3145360	3145361	2%2C3-bisphosphoglycerate-independent phosphoglycerate mutase|DMT family transporter	.	+	>|<	52,20	
+NZ_CP009977.1	3147974	3147975	archaetidylserine decarboxylase	.	-	|<	52	
+NZ_CP009977.1	3154748	3154749	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	.	+	>|	46	
+NZ_CP009977.1	3163423	3163424	protease modulator HflC|DUF2065 domain-containing protein	.	-	>|<	19,57	
+NZ_CP009977.1	3163452	3163453	protease modulator HflC|DUF2065 domain-containing protein	.	+	>|<	48,28	
+NZ_CP009977.1	3165195	3165196	adenylosuccinate synthase	.	+	>|	51	
+NZ_CP009977.1	3166046	3166047	sel1 repeat family protein|NO-inducible flavohemoprotein	.	-	>|<	24,47	
+NZ_CP009977.1	3166077	3166078	sel1 repeat family protein|NO-inducible flavohemoprotein	.	+	>|<	55,16	
+NZ_CP009977.1	3171361	3171362	23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	.	+	>|	69	
+NZ_CP009977.1	3173258	3173259	tryptophan--tRNA ligase	.	+	>|	56	
+NZ_CP009977.1	3175750	3175751	-	.	+	-	48	
+NZ_CP009977.1	3179518	3179519	DUF1338 domain-containing protein|cAMP-activated global transcriptional regulator CRP	.	-	>|<	38,63	
+NZ_CP009977.1	3179555	3179556	DUF1338 domain-containing protein|cAMP-activated global transcriptional regulator CRP	.	+	>|<	75,26	
+NZ_CP009977.1	3188852	3188853	peptidylprolyl isomerase	.	+	>|	69	
+NZ_CP009977.1	3189862	3189863	isoaspartyl peptidase/L-asparaginase|SlyX family protein	.	-	>|<	21,50	
+NZ_CP009977.1	3189897	3189898	isoaspartyl peptidase/L-asparaginase|SlyX family protein	.	+	>|<	56,15	
+NZ_CP009977.1	3192090	3192091	FKBP-type peptidyl-prolyl cis-trans isomerase	.	+	>|	57	
+NZ_CP009977.1	3195095	3195096	30S ribosomal protein S7	.	+	>|	39	
+NZ_CP009977.1	3198660	3198661	elongation factor Tu	.	+	>|	91	
+NZ_CP009977.1	3201166	3201167	malate dehydrogenase|met regulon transcriptional regulator MetJ	.	-	>|<	22,91	
+NZ_CP009977.1	3201198	3201199	malate dehydrogenase|met regulon transcriptional regulator MetJ	.	+	>|<	54,59	
+NZ_CP009977.1	3206561	3206562	methylenetetrahydrofolate reductase|PadR family transcriptional regulator	.	-	>|<	15,62	
+NZ_CP009977.1	3206594	3206595	methylenetetrahydrofolate reductase|PadR family transcriptional regulator	.	+	>|<	48,29	
+NZ_CP009977.1	3207543	3207544	phosphoenolpyruvate carboxylase	.	-	|<	61	
+NZ_CP009977.1	3217225	3217226	redoxin family protein	.	+	|<	27	conflict
+NZ_CP009977.1	3219066	3219067	DNA-binding transcriptional regulator OxyR|PBP1A family penicillin-binding protein	.	-	>|<	19,45	
+NZ_CP009977.1	3219096	3219097	DNA-binding transcriptional regulator OxyR|PBP1A family penicillin-binding protein	.	+	>|<	49,15	
+NZ_CP009977.1	3227082	3227083	shikimate kinase AroK	.	+	>|	116	
+NZ_CP009977.1	3228132	3228133	3-dehydroquinate synthase	.	+	>|	34	
+NZ_CP009977.1	3231371	3231372	ribulose-phosphate 3-epimerase	.	+	>|	53	
+NZ_CP009977.1	3233001	3233002	50S ribosomal protein L9|DUF481 domain-containing protein	.	-	>|<	21,67	
+NZ_CP009977.1	3233033	3233034	50S ribosomal protein L9|DUF481 domain-containing protein	.	+	>|<	53,35	
+NZ_CP009977.1	3236665	3236666	alanine racemase|secondary thiamine-phosphate synthase enzyme YjbQ	.	-	>|<	22,36	
+NZ_CP009977.1	3236701	3236702	alanine racemase	.	+	>|	58	
+NZ_CP009977.1	3239092	3239093	glucose-6-phosphate isomerase|chemotaxis protein CheX	.	-	>|<	13,77	
+NZ_CP009977.1	3239125	3239126	glucose-6-phosphate isomerase|chemotaxis protein CheX	.	+	>|<	46,44	
+NZ_CP009977.1	3241505	3241506	tRNA dihydrouridine(20/20a) synthase DusA	.	+	>|	77	
+NZ_CP009977.1	3242629	3242630	TIGR04219 family outer membrane beta-barrel protein	.	+	>|	54	
+NZ_CP009977.1	3247519	3247520	phosphoadenylyl-sulfate reductase	.	+	>|	66	
+NZ_CP009978.1	13669	13670	TetR/AcrR family transcriptional regulator	.	+	>|	100	
+NZ_CP009978.1	15692	15693	-	.	-	-	312	
+NZ_CP009978.1	17848	17849	HAD family phosphatase	.	+	>|	48	
+NZ_CP009978.1	18589	18590	azurin|ethanolamine utilization protein EutQ	.	+	>|<	58,75	
+NZ_CP009978.1	27834	27835	ABC transporter ATP-binding protein/permease	.	-	|<	64	
+NZ_CP009978.1	35692	35693	Fe(3+)-hydroxamate ABC transporter permease FhuB|mechanosensitive ion channel family protein	.	-	>|<	4,66	
+NZ_CP009978.1	35727	35728	Fe(3+)-hydroxamate ABC transporter permease FhuB|mechanosensitive ion channel family protein	.	+	>|<	39,31	
+NZ_CP009978.1	42403	42404	chromosome segregation ATPase	.	-	|<	37	
+NZ_CP009978.1	55447	55448	methyl-accepting chemotaxis protein|DEAD/DEAH box helicase	.	-	>|<	28,60	
+NZ_CP009978.1	57678	57679	Lpp/OprI family alanine-zipper lipoprotein	.	+	>|	38	
+NZ_CP009978.1	69582	69583	HlyD family secretion protein	.	+	>|	54	
+NZ_CP009978.1	70344	70345	ECF-type riboflavin transporter substrate-binding protein|MFS transporter	.	-	>|<	41,66	
+NZ_CP009978.1	76390	76391	flagellar brake protein|ATP-binding protein	.	-	>|<	41,75	
+NZ_CP009978.1	76420	76421	flagellar brake protein|ATP-binding protein	.	+	>|<	71,45	
+NZ_CP009978.1	79729	79730	prolyl oligopeptidase family serine peptidase	.	+	|<	20	conflict
+NZ_CP009978.1	86159	86160	FMN-dependent L-lactate dehydrogenase LldD|helix-turn-helix domain-containing protein	.	-	>|<	14,101	
+NZ_CP009978.1	93223	93224	EAL domain-containing protein	.	-	|<	69	
+NZ_CP009978.1	96564	96565	aminotransferase class V-fold PLP-dependent enzyme	.	-	|<	42	
+NZ_CP009978.1	104953	104954	cytochrome b562	.	-	|<	61	
+NZ_CP009978.1	117290	117291	DUF2057 domain-containing protein|ferredoxin--NADP reductase	.	+	>|<	48,45	
+NZ_CP009978.1	123844	123845	rhodanese-related sulfurtransferase|patatin family protein	.	+	>|<	40,37	
+NZ_CP009978.1	126562	126563	oxygen-insensitive NADPH nitroreductase	.	+	>|	55	
+NZ_CP009978.1	129797	129798	dicarboxylate/amino acid:cation symporter|YkvA family protein	.	-	>|<	24,71	
+NZ_CP009978.1	129834	129835	dicarboxylate/amino acid:cation symporter|YkvA family protein	.	+	>|<	61,34	
+NZ_CP009978.1	136020	136021	1%2C4-alpha-glucan branching protein GlgB	.	-	|<	49	
+NZ_CP009978.1	146647	146648	HTH-type transcriptional regulator MalT	.	+	>|	64	
+NZ_CP009978.1	146721	146722	-	.	-	-	138	
+NZ_CP009978.1	148101	148102	DUF368 domain-containing protein	.	+	>|	42	
+NZ_CP009978.1	149337	149338	SCO family protein	.	+	>|	80	
+NZ_CP009978.1	152716	152717	serine/threonine transporter SstT|pyridoxal kinase PdxY	.	-	>|<	25,46	
+NZ_CP009978.1	152749	152750	serine/threonine transporter SstT|pyridoxal kinase PdxY	.	+	>|<	58,13	
+NZ_CP009978.1	153831	153832	sel1 repeat family protein	.	-	|<	34	
+NZ_CP009978.1	162212	162213	MalM family protein	.	-	|<	37	
+NZ_CP009978.1	166901	166902	glycogen debranching protein GlgX|LacI family transcriptional regulator	.	-	>|<	25,79	
+NZ_CP009978.1	171920	171921	multidrug effflux MFS transporter|TonB-dependent receptor	.	-	>|<	17,55	
+NZ_CP009978.1	176263	176264	ABC transporter substrate-binding protein	.	+	>|	65	
+NZ_CP009978.1	179004	179005	ATP-binding cassette domain-containing protein	.	+	>|	44	
+NZ_CP009978.1	186586	186587	RidA family protein	.	+	>|	67	
+NZ_CP009978.1	207974	207975	hypothetical protein	.	+	>|	60	
+NZ_CP009978.1	232424	232425	-	.	+	-	307	
+NZ_CP009978.1	252326	252327	TonB-dependent siderophore receptor	.	-	|<	58	
+NZ_CP009978.1	265746	265747	arabinose operon transcriptional regulator AraC|galactose-1-epimerase	.	+	>|<	58,6	
+NZ_CP009978.1	269813	269814	DUF3297 family protein|ABC transporter permease subunit	.	+	>|<	47,114	
+NZ_CP009978.1	283413	283414	AraC family transcriptional regulator|organic hydroperoxide resistance protein	.	-	>|<	2,54	
+NZ_CP009978.1	290986	290987	-	.	+	-	141	
+NZ_CP009978.1	291860	291861	hypothetical protein|Lrp/AsnC ligand binding domain-containing protein	.	-	>|<	26,45	
+NZ_CP009978.1	291888	291889	hypothetical protein|Lrp/AsnC ligand binding domain-containing protein	.	+	>|<	54,17	
+NZ_CP009978.1	293677	293678	sodium/proline symporter PutP	.	-	|<	52	
+NZ_CP009978.1	299564	299565	AraC family transcriptional regulator	.	-	|<	47	
+NZ_CP009978.1	300959	300960	-	.	+	-	227	
+NZ_CP009978.1	301919	301920	helix-turn-helix transcriptional regulator|pyridoxamine 5'-phosphate oxidase	.	-	>|<	14,54	
+NZ_CP009978.1	320280	320281	ParB/RepB/Spo0J family partition protein	.	-	|<	37	
+NZ_CP009978.1	325979	325980	hypothetical protein	.	+	|<	39	conflict
+NZ_CP009978.1	328884	328885	hypothetical protein	.	+	>|	56	
+NZ_CP009978.1	330334	330335	YebC/PmpR family DNA-binding transcriptional regulator	.	+	>|	49	
+NZ_CP009978.1	339832	339833	sodium/glutamate symporter|hypothetical protein	.	-	>|<	16,67	
+NZ_CP009978.1	339871	339872	sodium/glutamate symporter|hypothetical protein	.	+	>|<	55,28	
+NZ_CP009978.1	343025	343026	hypothetical protein|glucosamine-6-phosphate deaminase	.	-	>|<	11,62	
+NZ_CP009978.1	343056	343057	hypothetical protein|glucosamine-6-phosphate deaminase	.	+	>|<	42,31	
+NZ_CP009978.1	346098	346099	LysR family transcriptional regulator|pirin family protein	.	-	>|<	30,48	
+NZ_CP009978.1	346134	346135	LysR family transcriptional regulator|pirin family protein	.	+	>|<	66,12	
+NZ_CP009978.1	347642	347643	hypothetical protein	.	-	|<	75	
+NZ_CP009978.1	350021	350022	methylated-DNA--[protein]-cysteine S-methyltransferase|YitT family protein	.	-	>|<	60,60	
+NZ_CP009978.1	355211	355212	TetR/AcrR family transcriptional regulator	.	+	>|	78	
+NZ_CP009978.1	356176	356177	alpha/beta fold hydrolase|glycosyl hydrolase family 18 protein	.	+	>|<	55,48	
+NZ_CP009978.1	359624	359625	pyrimidine/purine nucleoside phosphorylase	.	+	>|	49	
+NZ_CP009978.1	371537	371538	Cof-type HAD-IIB family hydrolase|GGDEF domain-containing protein	.	-	>|<	27,58	
+NZ_CP009978.1	371573	371574	Cof-type HAD-IIB family hydrolase|GGDEF domain-containing protein	.	+	>|<	63,22	
+NZ_CP009978.1	373508	373509	S-formylglutathione hydrolase	.	-	|<	50	
+NZ_CP009978.1	374453	374454	S-(hydroxymethyl)glutathione dehydrogenase/class III alcohol dehydrogenase	.	-	|<	34	
+NZ_CP009978.1	378420	378421	LysR family transcriptional regulator|DNA-binding transcriptional regulator KdgR	.	-	>|<	102,29	
+NZ_CP009978.1	381575	381576	RpiB/LacA/LacB family sugar-phosphate isomerase	.	+	>|	54	
+NZ_CP009978.1	383255	383256	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase|siderophore-interacting protein	.	+	>|<	93,11	
+NZ_CP009978.1	391245	391246	M3 family metallopeptidase	.	-	|<	37	
+NZ_CP009978.1	412764	412765	TldD/PmbA family protein|tRNA (pseudouridine(54)-N(1))-methyltransferase TrmY	.	-	>|<	24,73	
+NZ_CP009978.1	412796	412797	TldD/PmbA family protein|tRNA (pseudouridine(54)-N(1))-methyltransferase TrmY	.	+	>|<	56,41	
+NZ_CP009978.1	421570	421571	-	.	+	-	279	
+NZ_CP009978.1	422455	422456	hypothetical protein	.	+	>|	42	
+NZ_CP009978.1	422538	422539	hypothetical protein|YibL family ribosome-associated protein	.	-	>|<	125,54	
+NZ_CP009978.1	436232	436233	tetratricopeptide repeat protein	.	+	>|	53	
+NZ_CP009978.1	440200	440201	multidrug efflux MFS transporter EmrD	.	-	|<	53	
+NZ_CP009978.1	441488	441489	-	.	-	-	30	
+NZ_CP009978.1	447535	447536	-	.	-	-	276	
+NZ_CP009978.1	448613	448614	-	.	-	-	147	
+NZ_CP009978.1	448699	448700	YggL family protein	.	-	|<	61	
+NZ_CP009978.1	458675	458676	NupC/NupG family nucleoside CNT transporter	.	+	>|	52	
+NZ_CP009978.1	462296	462297	DUF3612 domain-containing protein	.	+	|<	3	conflict
+NZ_CP009978.1	464630	464631	malate synthase|GGDEF domain-containing protein	.	-	>|<	22,84	
+NZ_CP009978.1	470115	470116	OsmC family protein	.	+	>|	63	
+NZ_CP009978.1	471502	471503	membrane protein	.	+	|<	49	conflict
+NZ_CP009978.1	477986	477987	amidohydrolase family protein|GntR family transcriptional regulator	.	-	>|<	15,46	
+NZ_CP009978.1	503524	503525	M14-type cytosolic carboxypeptidase	.	+	>|	65	
+NZ_CP009978.1	504925	504926	OmpA family protein	.	+	>|	55	
+NZ_CP009978.1	505958	505959	LysR substrate-binding domain-containing protein|L-serine ammonia-lyase	.	-	>|<	67,57	
+NZ_CP009978.1	508263	508264	hypothetical protein	.	-	|<	98	
+NZ_CP009978.1	509187	509188	DUF333 domain-containing protein	.	-	|<	59	
+NZ_CP009978.1	510327	510328	NUDIX domain-containing protein	.	-	>|	56	conflict
+NZ_CP009978.1	510366	510367	NUDIX domain-containing protein	.	+	>|	95	
+NZ_CP009978.1	517436	517437	DUF3012 domain-containing protein	.	+	>|	59	
+NZ_CP009978.1	520420	520421	hypothetical protein|rhodanese-like domain-containing protein	.	-	>|<	69,69	
+NZ_CP009978.1	523105	523106	chaperonin GroEL|LysE family transporter	.	+	>|<	86,4	
+NZ_CP009978.1	530078	530079	ethanolamine permease|peptide-methionine (S)-S-oxide reductase	.	-	>|<	31,71	
+NZ_CP009978.1	535489	535490	glycine zipper 2TM domain-containing protein|DMT family transporter	.	+	>|<	62,10	
+NZ_CP009978.1	537448	537449	LysR substrate-binding domain-containing protein|copper resistance protein NlpE	.	-	>|<	72,55	
+NZ_CP009978.1	546121	546122	hypothetical protein	.	-	|<	66	
+NZ_CP009978.1	555047	555048	-	.	-	-	142	
+NZ_CP009978.1	572064	572065	spermidine/putrescine ABC transporter substrate-binding protein|tyrosine--tRNA ligase	.	+	>|<	89,7	
+NZ_CP009978.1	575251	575252	phosphoenolpyruvate synthase	.	-	|<	56	
+NZ_CP009978.1	600199	600200	ribosome recycling factor family protein|purine permease	.	+	>|<	90,29	
+NZ_CP009978.1	617438	617439	urocanate hydratase|DUF2058 domain-containing protein	.	-	>|<	36,48	
+NZ_CP009978.1	639672	639673	hypothetical protein|DEAD/DEAH box helicase	.	-	>|<	20,66	
+NZ_CP009978.1	648893	648894	glutathione-dependent disulfide-bond oxidoreductase	.	+	>|	52	
+NZ_CP009978.1	649340	649341	-	.	+	-	314	
+NZ_CP009978.1	650994	650995	serine protease|peroxiredoxin	.	-	>|<	12,43	
+NZ_CP009978.1	657774	657775	MarR family transcriptional regulator	.	+	>|	60	
+NZ_CP009978.1	663836	663837	thiol:disulfide interchange protein DsbA/DsbL|DUF3429 domain-containing protein	.	+	>|<	48,10	
+NZ_CP009978.1	664914	664915	3%2C4-dihydroxy-2-butanone-4-phosphate synthase	.	-	|<	47	
+NZ_CP009978.1	670261	670262	-	.	-	-	177	
+NZ_CP009978.1	679292	679293	LysE family translocator|hypothetical protein	.	-	>|<	21,100	
+NZ_CP009978.1	683296	683297	MATE family efflux transporter	.	-	|<	63	
+NZ_CP009978.1	683330	683331	MATE family efflux transporter	.	+	|<	29	conflict
+NZ_CP009978.1	684770	684771	DUF496 family protein	.	-	|<	58	
+NZ_CP009978.1	696045	696046	Lrp/AsnC family transcriptional regulator	.	-	>|	3	conflict
+NZ_CP009978.1	707130	707131	class I poly(R)-hydroxyalkanoic acid synthase|TIGR02808 family protein	.	-	>|<	94,101	
+NZ_CP009978.1	717155	717156	peptidase T|cytidine/deoxycytidylate deaminase family protein	.	-	>|<	22,58	
+NZ_CP009978.1	722385	722386	multidrug efflux RND transporter permease subunit VmeZ|methyl-accepting chemotaxis protein	.	-	>|<	34,57	
+NZ_CP009978.1	725440	725441	beta-phosphoglucomutase family hydrolase|OmpA family protein	.	-	>|<	51,56	
+NZ_CP009978.1	725470	725471	beta-phosphoglucomutase family hydrolase|OmpA family protein	.	+	>|<	81,26	
+NZ_CP009978.1	728053	728054	3-deoxy-7-phosphoheptulonate synthase AroG	.	+	>|	61	
+NZ_CP009978.1	738144	738145	TRAP transporter fused permease subunit|sulfurtransferase	.	-	>|<	35,70	
+NZ_CP009978.1	739494	739495	molybdopterin-synthase adenylyltransferase MoeB	.	-	|<	42	
+NZ_CP009978.1	742507	742508	GTP cyclohydrolase I FolE	.	+	>|	45	
+NZ_CP009978.1	745600	745601	-	.	+	-	196	
+NZ_CP009978.1	749608	749609	-	.	-	-	126	
+NZ_CP009978.1	750836	750837	GMP reductase|hypothetical protein	.	+	>|<	59,65	
+NZ_CP009978.1	756725	756726	NADH-dependent flavin oxidoreductase	.	+	>|	78	
+NZ_CP009978.1	816187	816188	siderophore ABC transporter substrate-binding protein	.	-	|<	65	
+NZ_CP009978.1	866477	866478	hypothetical protein	.	+	>|	91	
+NZ_CP009978.1	894012	894013	MFS transporter	.	+	>|	62	
+NZ_CP009978.1	895703	895704	DOPA 4%2C5-dioxygenase family protein	.	+	>|	58	
+NZ_CP009978.1	950198	950199	choline ABC transporter substrate-binding protein	.	+	>|	75	
+NZ_CP009978.1	952311	952312	choline ABC transporter ATP-binding protein|slipin family protein	.	+	>|<	66,34	
+NZ_CP009978.1	1002314	1002315	cold-shock protein	.	-	|<	49	
+NZ_CP009978.1	1031834	1031835	glycoside hydrolase family 1 protein	.	+	>|	57	
+NZ_CP009978.1	1082681	1082682	murein L%2CD-transpeptidase catalytic domain family protein	.	-	|<	31	
+NZ_CP009978.1	1094008	1094009	Cu(I)-responsive transcriptional regulator	.	-	|<	49	
+NZ_CP009978.1	1094039	1094040	Cu(I)-responsive transcriptional regulator	.	+	|<	18	conflict
+NZ_CP009978.1	1094692	1094693	YgjV family protein	.	-	|<	64	
+NZ_CP009978.1	1100992	1100993	DNA helicase IV|methylglyoxal synthase	.	-	>|<	23,55	
+NZ_CP009978.1	1122311	1122312	OFA family MFS transporter	.	-	|<	53	
+NZ_CP009978.1	1124624	1124625	hypothetical protein|M48 family metallopeptidase	.	+	>|<	49,35	
+NZ_CP009978.1	1131089	1131090	GNAT family N-acetyltransferase	.	+	>|	61	
+NZ_CP009978.1	1133453	1133454	ribosome biogenesis GTPase YlqF	.	-	|<	54	
+NZ_CP009978.1	1160465	1160466	DUF2999 family protein|TRAP transporter large permease subunit	.	+	>|<	61,37	
+NZ_CP009978.1	1205474	1205475	lipocalin family protein|succinylglutamate desuccinylase/aspartoacylase family protein	.	-	>|<	18,42	
+NZ_CP009978.1	1207015	1207016	low-specificity L-threonine aldolase	.	-	|<	42	
+NZ_CP009978.1	1212491	1212492	-	.	+	-	105	
+NZ_CP009978.1	1235291	1235292	NYN domain-containing protein|anaerobic C4-dicarboxylate transporter	.	+	>|<	101,12	
+NZ_CP009978.1	1237812	1237813	siderophore ferric iron reductase|DUF2986 domain-containing protein	.	-	>|<	31,25	
+NZ_CP009978.1	1237839	1237840	siderophore ferric iron reductase	.	+	>|	58	
+NZ_CP009978.1	1239920	1239921	thioredoxin TrxC	.	-	|<	36	
+NZ_CP009978.1	1241691	1241692	ketoacyl-ACP synthase III|DUF1501 domain-containing protein	.	+	>|<	38,6	
+NZ_CP009978.1	1251023	1251024	FdhF/YdeP family oxidoreductase|FAD-dependent oxidoreductase	.	-	>|<	35,69	
+NZ_CP009978.1	1267333	1267334	RimK/LysX family protein|hypothetical protein	.	-	>|<	17,49	
+NZ_CP009978.1	1267365	1267366	RimK/LysX family protein|hypothetical protein	.	+	>|<	49,17	
+NZ_CP009978.1	1272263	1272264	molybdenum ABC transporter ATP-binding protein ModC|DUF3069 domain-containing protein	.	-	>|<	28,47	
+NZ_CP009978.1	1272294	1272295	molybdenum ABC transporter ATP-binding protein ModC|DUF3069 domain-containing protein	.	+	>|<	59,16	
+NZ_CP009978.1	1276556	1276557	HlyU family transcriptional regulator	.	+	>|	71	
+NZ_CP009978.1	1279918	1279919	Re/Si-specific NAD(P)(+) transhydrogenase subunit beta	.	+	>|	52	
+NZ_CP009978.1	1282199	1282200	response regulator transcription factor	.	+	>|	79	
+NZ_CP009978.1	1284453	1284454	YoaH family protein	.	+	>|	51	
+NZ_CP009978.1	1287726	1287727	stress response translation initiation inhibitor YciH	.	-	|<	42	
+NZ_CP009978.1	1289684	1289685	SPOR domain-containing protein	.	-	|<	34	
+NZ_CP009978.1	1294430	1294431	-	.	-	-	265	
+NZ_CP009978.1	1294701	1294702	UDP-glucose 4-epimerase GalE	.	-	|<	49	
+NZ_CP009978.1	1300388	1300389	FAD-dependent oxidoreductase	.	-	|<	51	
+NZ_CP009978.1	1311188	1311189	ABC-ATPase domain-containing protein	.	+	>|	50	
+NZ_CP009978.1	1311825	1311826	isopenicillin N synthase family oxygenase	.	-	|<	50	
+NZ_CP009978.1	1317606	1317607	M48 family metallopeptidase|site-2 protease family protein	.	+	>|<	61,18	
+NZ_CP009978.1	1323645	1323646	alkylphosphonate utilization protein|hypothetical protein	.	+	>|<	53,105	
+NZ_CP009978.1	1323704	1323705	alkylphosphonate utilization protein|hypothetical protein	.	-	>|<	112,46	
+NZ_CP009978.1	1323734	1323735	hypothetical protein	.	+	|<	16	conflict
+NZ_CP009978.1	1325558	1325559	-	.	-	-	204	
+NZ_CP009978.1	1329411	1329412	ATP-dependent endonuclease|DUF1097 domain-containing protein	.	-	>|<	14,114	
+NZ_CP009978.1	1332885	1332886	formate transporter FocA|YceI family protein	.	-	>|<	34,56	
+NZ_CP009978.1	1336150	1336151	-	.	-	-	204	
+NZ_CP009978.1	1340757	1340758	hypothetical protein	.	+	>|	61	
+NZ_CP009978.1	1343044	1343045	CreA family protein	.	+	>|	54	
+NZ_CP009978.1	1358184	1358185	amino acid ABC transporter permease|RNA-binding S4 domain-containing protein	.	-	>|<	15,50	
+NZ_CP009978.1	1365231	1365232	PTS fructose transporter subunit IIBC|efflux RND transporter permease subunit	.	-	>|<	84,64	
+NZ_CP009978.1	1371445	1371446	TetR/AcrR family transcriptional regulator|glycine cleavage system aminomethyltransferase GcvT	.	-	>|<	72,46	
+NZ_CP009978.1	1371480	1371481	TetR/AcrR family transcriptional regulator|glycine cleavage system aminomethyltransferase GcvT	.	+	>|<	107,11	
+NZ_CP009978.1	1375647	1375648	glycine cleavage system protein GcvH	.	+	>|	47	
+NZ_CP009978.1	1378648	1378649	aminomethyl-transferring glycine dehydrogenase	.	+	>|	71	
+NZ_CP009978.1	1387987	1387988	transporter substrate-binding domain-containing protein|glycosyl transferase family protein	.	-	>|<	37,70	
+NZ_CP009978.1	1389220	1389221	-	.	-	-	210	
+NZ_CP009978.1	1391151	1391152	septum formation initiator	.	+	>|	69	
+NZ_CP009978.1	1392916	1392917	hypothetical protein|hypothetical protein	.	-	>|<	19,47	
+NZ_CP009978.1	1395444	1395445	copper chaperone PCu(A)C|molecular chaperone	.	-	>|<	22,43	
+NZ_CP009978.1	1395477	1395478	copper chaperone PCu(A)C|molecular chaperone	.	+	>|<	55,10	
+NZ_CP009978.1	1464984	1464985	arginine ABC transporter permease ArtM	.	-	|<	70	
+NZ_CP009978.1	1479293	1479294	basic amino acid/polyamine antiporter|TetR/AcrR family transcriptional regulator	.	-	>|<	37,51	
+NZ_CP009978.1	1481211	1481212	alkene reductase|DUF3726 domain-containing protein	.	+	>|<	53,11	
+NZ_CP009978.1	1489644	1489645	LysR family transcriptional regulator	.	-	>|	100	conflict
+NZ_CP009978.1	1509845	1509846	PAS domain-containing methyl-accepting chemotaxis protein	.	-	|<	67	
+NZ_CP009978.1	1511437	1511438	acetate/propionate family kinase	.	-	|<	63	
+NZ_CP009978.1	1514592	1514593	DEAD/DEAH box helicase	.	-	|<	81	
+NZ_CP009978.1	1533224	1533225	exoribonuclease II|DUF3024 domain-containing protein	.	+	>|<	49,28	
+NZ_CP009978.1	1534672	1534673	phosphate ABC transporter substrate-binding protein|MaoC family dehydratase	.	-	>|<	13,48	
+NZ_CP009978.1	1571437	1571438	DUF2938 family protein|TetR/AcrR family transcriptional regulator	.	+	>|<	58,56	
+NZ_CP009978.1	1593889	1593890	HAMP domain-containing histidine kinase|nucleoside deaminase	.	-	>|<	46,57	
+NZ_CP009978.1	1660612	1660613	helix-turn-helix domain-containing protein|L-serine ammonia-lyase	.	-	>|<	39,80	
+NZ_CP009978.1	1677875	1677876	NAD-dependent succinate-semialdehyde dehydrogenase	.	-	|<	117	
+NZ_CP009978.1	1680547	1680548	LysR family transcriptional regulator	.	-	>|	30	conflict
+NZ_CP009978.1	1680668	1680669	DUF3012 domain-containing protein	.	-	|<	48	
+NZ_CP009978.1	1699877	1699878	aldo/keto reductase	.	+	>|	118	
+NZ_CP009978.1	1723779	1723780	arginase family protein|DEAD/DEAH box helicase	.	-	>|<	23,56	
+NZ_CP009978.1	1727612	1727613	hypothetical protein	.	+	>|	49	
+NZ_CP009978.1	1728974	1728975	tryptophan synthase subunit beta|DUF3820 family protein	.	-	>|<	17,62	
+NZ_CP009978.1	1729659	1729660	HopJ type III effector protein	.	-	|<	36	
+NZ_CP009978.1	1729692	1729693	cysteine-rich CWC family protein|HopJ type III effector protein	.	+	>|<	16,3	
+NZ_CP009978.1	1735430	1735431	acetoacetate--CoA ligase|class I SAM-dependent methyltransferase	.	-	>|<	30,47	
+NZ_CP009978.1	1738327	1738328	cation diffusion facilitator family transporter|aromatic amino acid DMT transporter YddG	.	-	>|<	7,13	
+NZ_CP009978.1	1738361	1738362	cation diffusion facilitator family transporter	.	+	>|	41	
+NZ_CP009978.1	1752743	1752744	cold-shock protein	.	+	>|	49	
+NZ_CP009978.1	1754354	1754355	glutaredoxin|OmpA family protein	.	-	>|<	26,58	
+NZ_CP009978.1	1754388	1754389	glutaredoxin|OmpA family protein	.	+	>|<	60,24	
+NZ_CP009978.1	1756473	1756474	FKBP-type peptidyl-prolyl cis-trans isomerase|heme o synthase	.	+	>|<	43,20	
+NZ_CP009978.1	1766298	1766299	phospho-sugar mutase|LysE family translocator	.	-	>|<	26,47	
+NZ_CP009978.1	1766329	1766330	phospho-sugar mutase|LysE family translocator	.	+	>|<	57,16	
+NZ_CP009978.1	1772373	1772374	glutaredoxin	.	-	>|	92	conflict
+NZ_CP009978.1	1776247	1776248	GGDEF domain-containing phosphodiesterase|peptidoglycan DD-metalloendopeptidase family protein	.	-	>|<	12,64	
+NZ_CP009978.1	1781912	1781913	YjiH family protein	.	+	>|	47	
+NZ_CP009978.1	1784175	1784176	methyl-accepting chemotaxis protein|hypothetical protein	.	-	>|<	13,54	
+NZ_CP009978.1	1784207	1784208	methyl-accepting chemotaxis protein|hypothetical protein	.	+	>|<	45,22	
+NZ_CP009978.1	1784766	1784767	tyrosine transporter	.	-	|<	53	
+NZ_CP009978.1	1786602	1786603	hypothetical protein	.	+	|<	54	conflict
+NZ_CP009978.1	1815969	1815970	universal stress protein	.	+	>|	71	
+NZ_CP009978.1	1827892	1827893	N-methyl-L-tryptophan oxidase|PLP-dependent aminotransferase family protein	.	+	>|<	71,9	
+NZ_CP009978.1	1858468	1858469	TetR family transcriptional regulator	.	-	|<	48	
+NZ_CP009978.1	1859823	1859824	YfcZ/YiiS family protein	.	+	>|	36	
+NZ_CP009978.1	1860543	1860544	hypothetical protein|1-acyl-sn-glycerol-3-phosphate acyltransferase	.	-	>|<	11,55	
+NZ_CP009978.1	1862569	1862570	AraC family ligand binding domain-containing protein|hypothetical protein	.	-	>|<	64,41	
+NZ_CP009978.1	1862606	1862607	AraC family ligand binding domain-containing protein|hypothetical protein	.	+	>|<	101,4	
+NZ_CP009978.1	1864714	1864715	ammonia-dependent NAD(+) synthetase|hybrid-cluster NAD(P)-dependent oxidoreductase	.	-	>|<	27,49	
+NZ_CP009978.1	1864747	1864748	ammonia-dependent NAD(+) synthetase|hybrid-cluster NAD(P)-dependent oxidoreductase	.	+	>|<	60,16	
+NZ_CP009978.1	1868154	1868155	dihydroorotase|DUF808 domain-containing protein	.	-	>|<	24,63	
+NZ_CP009978.1	1886376	1886377	Hsp20/alpha crystallin family protein|alpha/beta hydrolase	.	+	>|<	47,30	
+NZ_CP009978.1	1890112	1890113	biotin-dependent carboxyltransferase family protein	.	-	|<	83	
+NZ_CP009978.1	1896398	1896399	winged helix DNA-binding protein|hypothetical protein	.	+	>|<	102,86	
+NZ_CP009978.1	1898187	1898188	aspartate/tyrosine/aromatic aminotransferase	.	-	|<	57	
+NZ_CP009978.1	1900231	1900232	Lrp/AsnC family transcriptional regulator	.	-	|<	51	
+NZ_CP009978.1	1902215	1902216	DUF3015 family protein	.	-	|<	86	
+NZ_CP009978.1	1914363	1914364	BCCT family transporter	.	-	|<	54	
+NZ_CP009978.1	1921428	1921429	-	.	-	-	219	
+NZ_CP009978.1	1924163	1924164	maltose/maltodextrin ABC transporter substrate-binding protein MalE	.	-	|<	42	

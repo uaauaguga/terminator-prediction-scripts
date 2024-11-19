@@ -1,0 +1,783 @@
+NC_000911.1	2957	2958	-	.	-	-	85	
+NC_000911.1	2985	2986	-	.	-	-	113	
+NC_000911.1	4182	4183	-	.	-	-	268	
+NC_000911.1	4241	4242	-	.	-	-	209	
+NC_000911.1	8357	8358	photosystem II q(b) protein	.	+	>|	47	
+NC_000911.1	8379	8380	photosystem II q(b) protein	.	+	>|	69	
+NC_000911.1	42688	42689	-	.	-	-	326	
+NC_000911.1	49776	49777	photosystem II reaction center protein Psb28	.	-	|<	116	
+NC_000911.1	58611	58612	-	.	-	-	427	
+NC_000911.1	67233	67234	-	.	-	-	372	
+NC_000911.1	81540	81541	-	.	-	-	155	
+NC_000911.1	92616	92617	-	.	+	-	135	
+NC_000911.1	95260	95261	Rne/Rng family ribonuclease	.	+	>|	109	
+NC_000911.1	96258	96259	polyribonucleotide nucleotidyltransferase	.	-	|<	66	
+NC_000911.1	99380	99381	-	.	+	-	21	
+NC_000911.1	100756	100757	cysteine synthase A	.	-	|<	37	
+NC_000911.1	127167	127168	photosystem I reaction center subunit II	.	+	>|	104	
+NC_000911.1	129936	129937	-	.	-	-	227	
+NC_000911.1	130293	130294	hypothetical protein	.	+	>|	108	
+NC_000911.1	133805	133806	-	.	-	-	117	
+NC_000911.1	133864	133865	transcription termination factor NusA	.	+	>|	6	
+NC_000911.1	134188	134189	YlxR family protein	.	+	>|	12	
+NC_000911.1	138220	138221	glutathione S-transferase family protein	.	+	>|	109	
+NC_000911.1	138241	138242	-	.	+	-	53	
+NC_000911.1	143959	143960	-	.	+	-	101	
+NC_000911.1	145736	145737	-	.	+	-	24	
+NC_000911.1	146700	146701	universal stress protein|photosystem II reaction center protein PsbM	.	+	>|<	86,23	
+NC_000911.1	147893	147894	-	.	-	-	128	
+NC_000911.1	150107	150108	-	.	-	-	425	
+NC_000911.1	150410	150411	-	.	-	-	183	
+NC_000911.1	154104	154105	DUF1818 family protein	.	+	>|	109	
+NC_000911.1	154743	154744	LptA/OstA family protein	.	+	>|	65	
+NC_000911.1	156694	156695	photosystem I reaction center subunit PsaK|hypothetical protein	.	-	>|<	44,46	
+NC_000911.1	156739	156740	photosystem I reaction center subunit PsaK|hypothetical protein	.	+	>|<	89,1	
+NC_000911.1	163406	163407	-	.	-	-	630	
+NC_000911.1	170496	170497	-	.	+	-	75	
+NC_000911.1	171886	171887	nickel pincer cofactor biosynthesis protein LarC|F0F1 ATP synthase subunit gamma	.	-	>|<	47,52	
+NC_000911.1	172952	172953	F0F1 ATP synthase subunit alpha	.	-	|<	61	
+NC_000911.1	173274	173275	-	.	-	-	392	
+NC_000911.1	175780	175781	-	.	-	-	99	
+NC_000911.1	176213	176214	ATP synthase F0 subunit C	.	-	|<	42	
+NC_000911.1	176458	176459	-	.	-	-	234	
+NC_000911.1	176595	176596	F0F1 ATP synthase subunit A	.	-	|<	97	
+NC_000911.1	177730	177731	-	.	-	-	208	
+NC_000911.1	177978	177979	-	.	-	-	330	
+NC_000911.1	183925	183926	iron-sulfur cluster assembly accessory protein|DMT family transporter	.	+	>|<	77,9	
+NC_000911.1	183932	183933	iron-sulfur cluster assembly accessory protein|DMT family transporter	.	+	>|<	84,2	
+NC_000911.1	194860	194861	CRR6 family NdhI maturation factor	.	+	>|	60	
+NC_000911.1	208459	208460	MBL fold metallo-hydrolase	.	-	|<	89	
+NC_000911.1	215433	215434	hypothetical protein	.	-	|<	70	
+NC_000911.1	216169	216170	ribulose bisphosphate carboxylase small subunit	.	-	|<	94	
+NC_000911.1	216207	216208	ribulose bisphosphate carboxylase small subunit	.	-	|<	56	
+NC_000911.1	219360	219361	-	.	-	-	284	
+NC_000911.1	219782	219783	-	.	-	-	196	
+NC_000911.1	240170	240171	-	.	+	-	128	
+NC_000911.1	261829	261830	-	.	+	-	33	
+NC_000911.1	266619	266620	thylakoid membrane photosystem I accumulation factor|hypothetical protein	.	-	>|<	20,82	
+NC_000911.1	266647	266648	thylakoid membrane photosystem I accumulation factor|hypothetical protein	.	-	>|<	48,54	
+NC_000911.1	269789	269790	-	.	-	-	63	
+NC_000911.1	274451	274452	7%2C8-didemethyl-8-hydroxy-5-deazariboflavin synthase subunit CofH	.	-	|<	50	
+NC_000911.1	279442	279443	DUF3611 family protein	.	-	|<	69	
+NC_000911.1	280041	280042	biotin--[acetyl-CoA-carboxylase] ligase	.	-	|<	85	
+NC_000911.1	284823	284824	-	.	-	-	320	
+NC_000911.1	287953	287954	NAD(P)H-quinone oxidoreductase subunit 4	.	+	>|	111	
+NC_000911.1	291283	291284	YggT family protein	.	+	>|	110	
+NC_000911.1	292780	292781	Fe(3+) ABC transporter substrate-binding protein|tRNA (guanosine(37)-N1)-methyltransferase TrmD	.	+	>|<	73,9	
+NC_000911.1	292822	292823	Fe(3+) ABC transporter substrate-binding protein	.	-	>|	115	conflict
+NC_000911.1	297374	297375	FUSC family protein|photosystem II complex extrinsic protein PsbU	.	-	>|<	32,118	
+NC_000911.1	297936	297937	-	.	-	-	49	
+NC_000911.1	298742	298743	hypothetical protein	.	-	|<	83	
+NC_000911.1	300972	300973	UDP-glucose/GDP-mannose dehydrogenase family protein	.	+	>|	90	
+NC_000911.1	302589	302590	-	.	+	-	196	
+NC_000911.1	303761	303762	-	.	+	-	141	
+NC_000911.1	306918	306919	CO2 hydration protein	.	+	>|	95	
+NC_000911.1	317045	317046	heme oxygenase (biliverdin-producing)	.	-	|<	81	
+NC_000911.1	318993	318994	50S ribosomal protein L28	.	+	>|	97	
+NC_000911.1	319852	319853	-	.	-	-	932	
+NC_000911.1	327124	327125	-	.	+	-	181	
+NC_000911.1	327743	327744	-	.	+	-	192	
+NC_000911.1	329061	329062	-	.	-	-	160	
+NC_000911.1	334502	334503	DUF4335 domain-containing protein|3-deoxy-7-phosphoheptulonate synthase	.	-	>|<	18,65	
+NC_000911.1	334541	334542	DUF4335 domain-containing protein|3-deoxy-7-phosphoheptulonate synthase	.	+	>|<	57,26	
+NC_000911.1	335199	335200	-	.	-	-	619	
+NC_000911.1	335738	335739	PAM68 family protein	.	-	|<	80	
+NC_000911.1	336283	336284	30S ribosomal protein S15	.	-	|<	29	
+NC_000911.1	338363	338364	-	.	-	-	33	
+NC_000911.1	339070	339071	allophycocyanin subunit alpha-B	.	-	|<	69	
+NC_000911.1	339657	339658	methionine adenosyltransferase	.	-	|<	79	
+NC_000911.1	343771	343772	-	.	+	-	91	
+NC_000911.1	345398	345399	-	.	-	-	101	
+NC_000911.1	350932	350933	hypothetical protein	.	+	>|	17	
+NC_000911.1	352073	352074	-	.	+	-	189	
+NC_000911.1	389265	389266	esterase-like activity of phytase family protein	.	+	>|	65	
+NC_000911.1	389941	389942	-	.	-	-	411	
+NC_000911.1	400631	400632	ammonium transporter	.	-	|<	88	
+NC_000911.1	437378	437379	polysaccharide pyruvyl transferase CsaB	.	+	>|	114	
+NC_000911.1	440787	440788	-	.	+	-	351	
+NC_000911.1	444014	444015	AAA family ATPase	.	+	>|	82	
+NC_000911.1	447749	447750	hypothetical protein	.	+	>|	56	
+NC_000911.1	458305	458306	proton extrusion protein PcxA|DUF4278 domain-containing protein	.	-	>|<	9,102	
+NC_000911.1	460095	460096	-	.	-	-	154	
+NC_000911.1	463795	463796	lipoyl synthase	.	+	>|	118	
+NC_000911.1	467285	467286	-	.	+	-	150	
+NC_000911.1	467352	467353	photosystem I reaction center subunit XII	.	+	>|	57	
+NC_000911.1	473011	473012	ATP-dependent zinc metalloprotease FtsH3	.	+	>|	82	
+NC_000911.1	477453	477454	-	.	-	-	55	
+NC_000911.1	477610	477611	glutamate synthase large subunit	.	-	|<	57	
+NC_000911.1	481850	481851	-	.	+	-	691	
+NC_000911.1	488827	488828	-	.	-	-	894	
+NC_000911.1	489794	489795	-	.	+	-	418	
+NC_000911.1	491079	491080	-	.	+	-	4	
+NC_000911.1	491996	491997	-	.	+	-	133	
+NC_000911.1	493439	493440	-	.	-	-	1381	
+NC_000911.1	494806	494807	methyl-accepting chemotaxis protein	.	+	>|	68	
+NC_000911.1	496172	496173	-	.	+	-	167	
+NC_000911.1	502289	502290	50S ribosomal protein L32	.	+	>|	75	
+NC_000911.1	502354	502355	-	.	+	-	140	
+NC_000911.1	506158	506159	calcium-binding protein	.	-	|<	93	
+NC_000911.1	512561	512562	magnesium chelatase subunit H	.	+	>|	52	
+NC_000911.1	533037	533038	-	.	+	-	75	
+NC_000911.1	534985	534986	-	.	-	-	2119	
+NC_000911.1	539127	539128	FKBP-type peptidyl-prolyl cis-trans isomerase	.	-	>|	108	conflict
+NC_000911.1	539169	539170	5-formyltetrahydrofolate cyclo-ligase	.	+	|<	118	conflict
+NC_000911.1	539386	539387	-	.	+	-	367	
+NC_000911.1	552947	552948	photosystem II reaction center protein K	.	-	|<	117	
+NC_000911.1	555101	555102	Grx4 family monothiol glutaredoxin	.	+	>|	52	
+NC_000911.1	563503	563504	-	.	+	-	214	
+NC_000911.1	566030	566031	-	.	+	-	28	
+NC_000911.1	566835	566836	DUF561 domain-containing protein	.	-	>|	31	conflict
+NC_000911.1	566891	566892	DUF561 domain-containing protein|1-deoxy-D-xylulose-5-phosphate synthase	.	-	>|<	87,91	
+NC_000911.1	566912	566913	DUF561 domain-containing protein|1-deoxy-D-xylulose-5-phosphate synthase	.	+	>|<	108,70	
+NC_000911.1	568740	568741	-	.	-	-	400	
+NC_000911.1	570891	570892	-	.	+	-	48	
+NC_000911.1	570979	570980	cytochrome b559 subunit alpha	.	+	>|	77	
+NC_000911.1	571410	571411	photosystem II reaction center protein J	.	+	>|	56	
+NC_000911.1	571632	571633	-	.	-	-	278	
+NC_000911.1	580541	580542	-	.	-	-	348	
+NC_000911.1	596397	596398	phycobiliprotein lyase	.	+	>|	87	
+NC_000911.1	597212	597213	-	.	+	-	378	
+NC_000911.1	597320	597321	phycobilisome rod-core linker polypeptide	.	+	>|	74	
+NC_000911.1	597378	597379	-	.	+	-	132	
+NC_000911.1	598642	598643	-	.	+	-	156	
+NC_000911.1	602932	602933	-	.	+	-	510	
+NC_000911.1	603370	603371	serine hydroxymethyltransferase	.	-	|<	72	
+NC_000911.1	611049	611050	-	.	+	-	7	
+NC_000911.1	612912	612913	iron uptake porin	.	+	>|	81	
+NC_000911.1	615158	615159	DUF1036 domain-containing protein	.	-	|<	107	
+NC_000911.1	620494	620495	alpha/beta hydrolase	.	+	>|	26	
+NC_000911.1	624103	624104	hypothetical protein	.	-	|<	32	
+NC_000911.1	631374	631375	-	.	-	-	521	
+NC_000911.1	631758	631759	-	.	-	-	137	
+NC_000911.1	631778	631779	hypothetical protein	.	-	|<	117	
+NC_000911.1	637565	637566	NAD-dependent epimerase/dehydratase family protein	.	+	>|	43	
+NC_000911.1	637859	637860	-	.	-	-	133	
+NC_000911.1	639338	639339	-	.	+	-	177	
+NC_000911.1	640384	640385	-	.	-	-	352	
+NC_000911.1	642092	642093	aspartate aminotransferase family protein	.	+	>|	67	
+NC_000911.1	646460	646461	-	.	-	-	964	
+NC_000911.1	668695	668696	hypothetical protein	.	-	|<	80	
+NC_000911.1	671905	671906	-	.	+	-	6	
+NC_000911.1	679629	679630	hypothetical protein	.	+	>|	120	
+NC_000911.1	700041	700042	-	.	+	-	1080	
+NC_000911.1	700968	700969	-	.	-	-	155	
+NC_000911.1	701058	701059	chlorophyll a/b-binding protein	.	-	|<	79	
+NC_000911.1	705270	705271	TetR/AcrR family transcriptional regulator	.	+	|<	36	conflict
+NC_000911.1	723708	723709	-	.	-	-	385	
+NC_000911.1	723897	723898	serine--tRNA ligase	.	-	>|	36	conflict
+NC_000911.1	724412	724413	phycobilisome linker polypeptide	.	-	|<	79	
+NC_000911.1	726178	726179	-	.	+	-	170	
+NC_000911.1	726303	726304	phycocyanin subunit alpha	.	-	|<	45	
+NC_000911.1	726939	726940	phycocyanin subunit beta	.	-	|<	8	
+NC_000911.1	727630	727631	-	.	-	-	165	
+NC_000911.1	728654	728655	-	.	+	-	5	
+NC_000911.1	729553	729554	hypothetical protein	.	+	>|	70	
+NC_000911.1	729974	729975	-	.	+	-	133	
+NC_000911.1	733482	733483	-	.	+	-	199	
+NC_000911.1	734480	734481	NAD-dependent epimerase/dehydratase family protein	.	+	>|	49	
+NC_000911.1	736301	736302	peptidoglycan DD-metalloendopeptidase family protein	.	+	>|	82	
+NC_000911.1	736577	736578	-	.	+	-	358	
+NC_000911.1	738464	738465	-	.	+	-	444	
+NC_000911.1	753591	753592	-	.	-	-	413	
+NC_000911.1	760993	760994	-	.	-	-	488	
+NC_000911.1	761292	761293	hypothetical protein	.	+	>|	65	
+NC_000911.1	768186	768187	-	.	+	-	312	
+NC_000911.1	769036	769037	YbjN domain-containing protein|radical SAM family heme chaperone HemW	.	+	>|<	77,16	
+NC_000911.1	771932	771933	-	.	-	-	452	
+NC_000911.1	776447	776448	hypothetical protein	.	-	|<	103	
+NC_000911.1	794334	794335	cytochrome c oxidase subunit CtaE	.	+	>|	125	
+NC_000911.1	810889	810890	DUF3155 domain-containing protein	.	+	|<	32	conflict
+NC_000911.1	811912	811913	-	.	-	-	668	
+NC_000911.1	816226	816227	hypothetical protein|Uma2 family endonuclease	.	+	>|<	12,71	
+NC_000911.1	817902	817903	transketolase	.	-	|<	64	
+NC_000911.1	817954	817955	transketolase	.	-	|<	12	
+NC_000911.1	818009	818010	-	.	-	-	200	
+NC_000911.1	818414	818415	-	.	-	-	605	
+NC_000911.1	818892	818893	-	.	-	-	1083	
+NC_000911.1	820007	820008	beta-ketoacyl-ACP synthase II	.	-	|<	94	
+NC_000911.1	820020	820021	beta-ketoacyl-ACP synthase II	.	-	|<	81	
+NC_000911.1	821378	821379	-	.	-	-	27	
+NC_000911.1	823551	823552	-	.	+	-	185	
+NC_000911.1	824081	824082	-	.	-	-	109	
+NC_000911.1	824280	824281	-	.	-	-	303	
+NC_000911.1	826509	826510	50S ribosomal protein L31	.	-	|<	127	
+NC_000911.1	830183	830184	30S ribosomal protein S11	.	-	|<	10	
+NC_000911.1	830230	830231	-	.	-	-	146	
+NC_000911.1	830612	830613	30S ribosomal protein S13	.	-	|<	22	
+NC_000911.1	832293	832294	preprotein translocase subunit SecY	.	-	|<	97	
+NC_000911.1	832343	832344	preprotein translocase subunit SecY	.	-	|<	47	
+NC_000911.1	833354	833355	-	.	-	-	466	
+NC_000911.1	834046	834047	-	.	-	-	286	
+NC_000911.1	835836	835837	30S ribosomal protein S8	.	-	|<	22	
+NC_000911.1	838366	838367	-	.	-	-	152	
+NC_000911.1	838665	838666	30S ribosomal protein S3	.	-	|<	12	
+NC_000911.1	843672	843673	DNA starvation/stationary phase protection protein	.	+	>|	98	
+NC_000911.1	843740	843741	-	.	+	-	166	
+NC_000911.1	845891	845892	DUF1823 family protein|c-type cytochrome	.	-	>|<	18,74	
+NC_000911.1	850656	850657	DUF3386 domain-containing protein	.	+	>|	112	
+NC_000911.1	851642	851643	ATP-binding cassette domain-containing protein	.	+	>|	58	
+NC_000911.1	853385	853386	DNA-directed RNA polymerase subunit beta''	.	-	|<	111	
+NC_000911.1	853451	853452	DNA-directed RNA polymerase subunit beta''	.	-	|<	45	
+NC_000911.1	857490	857491	DNA-directed RNA polymerase subunit beta	.	-	|<	67	
+NC_000911.1	860834	860835	TatD family hydrolase	.	-	|<	117	
+NC_000911.1	860904	860905	TatD family hydrolase	.	-	|<	47	
+NC_000911.1	861837	861838	30S ribosomal protein S20	.	-	|<	35	
+NC_000911.1	867584	867585	-	.	+	-	492	
+NC_000911.1	868205	868206	-	.	+	-	1113	
+NC_000911.1	873286	873287	-	.	-	-	17	
+NC_000911.1	879756	879757	-	.	+	-	321	
+NC_000911.1	880128	880129	peroxiredoxin	.	+	>|	86	
+NC_000911.1	880148	880149	peroxiredoxin	.	+	>|	106	
+NC_000911.1	886228	886229	-	.	+	-	151	
+NC_000911.1	887700	887701	-	.	+	-	30	
+NC_000911.1	888181	888182	Rieske (2Fe-2S) protein	.	+	>|	98	
+NC_000911.1	890656	890657	efflux RND transporter periplasmic adaptor subunit	.	+	>|	52	
+NC_000911.1	891158	891159	-	.	+	-	117	
+NC_000911.1	900197	900198	-	.	-	-	310	
+NC_000911.1	902940	902941	-	.	-	-	207	
+NC_000911.1	908445	908446	-	.	+	-	133	
+NC_000911.1	913151	913152	-	.	+	-	144	
+NC_000911.1	913961	913962	cell division protein SepF	.	+	>|	106	
+NC_000911.1	915634	915635	co-chaperone GroES	.	+	>|	11	
+NC_000911.1	915862	915863	-	.	+	-	239	
+NC_000911.1	917374	917375	chaperonin GroEL	.	+	>|	29	
+NC_000911.1	917409	917410	chaperonin GroEL	.	+	>|	64	
+NC_000911.1	922703	922704	-	.	-	-	67	
+NC_000911.1	923290	923291	50S ribosomal protein L10	.	-	|<	27	
+NC_000911.1	925848	925849	-	.	-	-	464	
+NC_000911.1	941757	941758	-	.	+	-	488	
+NC_000911.1	942249	942250	-	.	+	-	980	
+NC_000911.1	943994	943995	photosystem I core protein PsaA	.	+	>|	54	
+NC_000911.1	944025	944026	photosystem I core protein PsaA	.	+	>|	85	
+NC_000911.1	944180	944181	-	.	+	-	6	
+NC_000911.1	946442	946443	photosystem I core protein PsaB|phosphotransferase	.	+	>|<	61,79	
+NC_000911.1	947852	947853	-	.	+	-	342	
+NC_000911.1	950724	950725	-	.	+	-	189	
+NC_000911.1	954392	954393	alpha-ketoacid dehydrogenase subunit beta	.	-	|<	60	
+NC_000911.1	955470	955471	-	.	-	-	44	
+NC_000911.1	957993	957994	-	.	+	-	143	
+NC_000911.1	960110	960111	iron uptake porin	.	+	>|	82	
+NC_000911.1	970798	970799	HU family DNA-binding protein	.	-	|<	83	
+NC_000911.1	975522	975523	ATP-dependent DNA helicase	.	+	>|	34	
+NC_000911.1	983033	983034	-	.	+	-	255	
+NC_000911.1	983626	983627	hypothetical protein	.	+	>|	87	
+NC_000911.1	984488	984489	sigma-70 family RNA polymerase sigma factor	.	+	>|	14	
+NC_000911.1	993631	993632	-	.	+	-	149	
+NC_000911.1	1012298	1012299	-	.	-	-	317	
+NC_000911.1	1012399	1012400	-	.	-	-	216	
+NC_000911.1	1013015	1013016	cell division protein FtsZ	.	-	|<	29	
+NC_000911.1	1031142	1031143	-	.	+	-	59	
+NC_000911.1	1032145	1032146	-	.	+	-	1157	
+NC_000911.1	1032492	1032493	-	.	-	-	1409	
+NC_000911.1	1042970	1042971	histidine triad nucleotide-binding protein	.	+	>|	18	
+NC_000911.1	1044387	1044388	-	.	-	-	129	
+NC_000911.1	1047741	1047742	-	.	-	-	664	
+NC_000911.1	1048292	1048293	type II toxin-antitoxin system PemK/MazF family toxin	.	-	|<	113	
+NC_000911.1	1051081	1051082	glutaredoxin 3	.	+	>|	4	
+NC_000911.1	1052233	1052234	glutathione synthase	.	+	>|	113	
+NC_000911.1	1052980	1052981	-	.	+	-	197	
+NC_000911.1	1058512	1058513	Re/Si-specific NAD(P)(+) transhydrogenase subunit beta	.	+	>|	86	
+NC_000911.1	1061995	1061996	-	.	-	-	242	
+NC_000911.1	1062189	1062190	aldose 1-epimerase|isoleucine--tRNA ligase	.	+	>|<	79,48	
+NC_000911.1	1065167	1065168	-	.	-	-	230	
+NC_000911.1	1084233	1084234	-	.	+	-	523	
+NC_000911.1	1090280	1090281	-	.	-	-	537	
+NC_000911.1	1091527	1091528	-	.	-	-	170	
+NC_000911.1	1095188	1095189	photosystem II reaction center protein PsbZ	.	-	|<	59	
+NC_000911.1	1095224	1095225	photosystem II reaction center protein PsbZ	.	-	|<	23	
+NC_000911.1	1097072	1097073	-	.	+	-	4	
+NC_000911.1	1097200	1097201	-	.	-	-	518	
+NC_000911.1	1097323	1097324	-	.	+	-	641	
+NC_000911.1	1098185	1098186	30S ribosomal protein S1	.	+	>|	123	
+NC_000911.1	1116219	1116220	-	.	-	-	140	
+NC_000911.1	1116242	1116243	phasin PhaP	.	-	|<	117	
+NC_000911.1	1117081	1117082	-	.	+	-	61	
+NC_000911.1	1123318	1123319	-	.	-	-	175	
+NC_000911.1	1127802	1127803	-	.	+	-	2510	
+NC_000911.1	1132374	1132375	-	.	+	-	128	
+NC_000911.1	1135330	1135331	-	.	+	-	6	
+NC_000911.1	1135664	1135665	RNA-binding protein	.	+	>|	77	
+NC_000911.1	1137305	1137306	-	.	+	-	139	
+NC_000911.1	1138776	1138777	-	.	+	-	169	
+NC_000911.1	1142414	1142415	hypothetical protein	.	-	>|	3	conflict
+NC_000911.1	1144846	1144847	-	.	+	-	616	
+NC_000911.1	1148218	1148219	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	121	
+NC_000911.1	1164980	1164981	apocytochrome f	.	-	|<	106	
+NC_000911.1	1166963	1166964	photosystem II reaction center protein PsbH	.	-	|<	89	
+NC_000911.1	1167011	1167012	photosystem II reaction center protein PsbH	.	-	|<	41	
+NC_000911.1	1184486	1184487	-	.	-	-	224	
+NC_000911.1	1196658	1196659	-	.	-	-	177	
+NC_000911.1	1196716	1196717	-	.	+	-	119	
+NC_000911.1	1211582	1211583	Rpn family recombination-promoting nuclease/putative transposase	.	-	|<	55	
+NC_000911.1	1227955	1227956	-	.	-	-	24	
+NC_000911.1	1229772	1229773	-	.	-	-	198	
+NC_000911.1	1232223	1232224	rSAM-associated Gly-rich repeat protein	.	-	|<	47	
+NC_000911.1	1237409	1237410	-	.	-	-	133	
+NC_000911.1	1239810	1239811	-	.	-	-	428	
+NC_000911.1	1245886	1245887	ribosome silencing factor|hypothetical protein	.	+	>|<	28,5	
+NC_000911.1	1247637	1247638	-	.	+	-	586	
+NC_000911.1	1253199	1253200	DNA/RNA nuclease SfsA	.	-	|<	69	
+NC_000911.1	1258293	1258294	-	.	-	-	31	
+NC_000911.1	1260810	1260811	-	.	-	-	544	
+NC_000911.1	1268106	1268107	photosystem II protein Y	.	-	|<	82	
+NC_000911.1	1271750	1271751	-	.	-	-	619	
+NC_000911.1	1272015	1272016	-	.	-	-	354	
+NC_000911.1	1272130	1272131	-	.	-	-	239	
+NC_000911.1	1285318	1285319	-	.	-	-	786	
+NC_000911.1	1286023	1286024	glutamyl-tRNA reductase	.	+	>|	81	
+NC_000911.1	1289257	1289258	-	.	-	-	131	
+NC_000911.1	1295478	1295479	hypothetical protein	.	-	|<	89	
+NC_000911.1	1296925	1296926	prepilin-type N-terminal cleavage/methylation domain-containing protein	.	-	|<	67	
+NC_000911.1	1296945	1296946	prepilin-type N-terminal cleavage/methylation domain-containing protein	.	-	|<	47	
+NC_000911.1	1296987	1296988	prepilin-type N-terminal cleavage/methylation domain-containing protein	.	-	|<	5	
+NC_000911.1	1303158	1303159	-	.	-	-	136	
+NC_000911.1	1318627	1318628	transcriptional repressor LexA	.	-	|<	91	
+NC_000911.1	1319460	1319461	succinate dehydrogenase/fumarate reductase iron-sulfur subunit	.	-	|<	85	
+NC_000911.1	1324743	1324744	peroxiredoxin	.	-	|<	91	
+NC_000911.1	1329236	1329237	peptide ABC transporter substrate-binding protein	.	+	>|	122	
+NC_000911.1	1335441	1335442	glutamate racemase	.	+	>|	81	
+NC_000911.1	1347388	1347389	photosystem II reaction center protein CP43	.	-	|<	85	
+NC_000911.1	1350001	1350002	-	.	-	-	104	
+NC_000911.1	1353439	1353440	phosphoribosylglycinamide formyltransferase 2	.	-	>|	9	conflict
+NC_000911.1	1353672	1353673	-	.	+	-	242	
+NC_000911.1	1356462	1356463	tRNA 2-thiouridine(34) synthase MnmA	.	-	|<	87	
+NC_000911.1	1365472	1365473	-	.	-	-	25	
+NC_000911.1	1393595	1393596	peptidylprolyl isomerase|4a-hydroxytetrahydrobiopterin dehydratase	.	+	>|<	109,20	
+NC_000911.1	1396226	1396227	DUF1816 domain-containing protein|Bax inhibitor-1 family protein	.	-	>|<	51,84	
+NC_000911.1	1397689	1397690	-	.	+	-	129	
+NC_000911.1	1399259	1399260	15-cis-phytoene desaturase	.	+	>|	23	
+NC_000911.1	1400363	1400364	phytoene synthase|MAPEG family protein	.	-	>|<	53,124	
+NC_000911.1	1400630	1400631	-	.	+	-	320	
+NC_000911.1	1413766	1413767	aquaporin Z	.	+	>|	101	
+NC_000911.1	1422154	1422155	RNA-guided endonuclease TnpB family protein	.	+	>|	13	
+NC_000911.1	1422300	1422301	calcium-binding protein	.	+	|<	125	conflict
+NC_000911.1	1422336	1422337	calcium-binding protein	.	-	|<	89	
+NC_000911.1	1427500	1427501	-	.	-	-	695	
+NC_000911.1	1427753	1427754	-	.	-	-	142	
+NC_000911.1	1428074	1428075	FkbM family methyltransferase	.	-	|<	121	
+NC_000911.1	1428843	1428844	-	.	-	-	485	
+NC_000911.1	1430729	1430730	-	.	+	-	270	
+NC_000911.1	1430906	1430907	allophycocyanin alpha chain	.	+	>|	3	
+NC_000911.1	1431040	1431041	-	.	+	-	137	
+NC_000911.1	1431520	1431521	allophycocyanin subunit beta	.	+	>|	36	
+NC_000911.1	1431960	1431961	phycobilisome linker polypeptide|50S ribosomal protein L11 methyltransferase	.	-	>|<	60,35	
+NC_000911.1	1431990	1431991	phycobilisome linker polypeptide|50S ribosomal protein L11 methyltransferase	.	+	>|<	90,5	
+NC_000911.1	1432940	1432941	phosphoglycerate dehydrogenase	.	-	|<	35	
+NC_000911.1	1437245	1437246	glutathione peroxidase	.	+	>|	83	
+NC_000911.1	1439461	1439462	beta-ketoacyl-ACP reductase|PucC family protein	.	-	>|<	36,25	
+NC_000911.1	1439488	1439489	beta-ketoacyl-ACP reductase	.	+	>|	63	
+NC_000911.1	1459998	1459999	-	.	-	-	69	
+NC_000911.1	1468773	1468774	-	.	-	-	239	
+NC_000911.1	1472021	1472022	nitroreductase family protein	.	+	>|	3	
+NC_000911.1	1472082	1472083	nitroreductase family protein	.	+	>|	64	
+NC_000911.1	1476768	1476769	GuaB3 family IMP dehydrogenase-related protein	.	+	>|	51	
+NC_000911.1	1510935	1510936	-	.	-	-	281	
+NC_000911.1	1515292	1515293	DUF2555 domain-containing protein	.	-	|<	58	
+NC_000911.1	1518209	1518210	-	.	+	-	904	
+NC_000911.1	1518211	1518212	-	.	+	-	902	
+NC_000911.1	1519868	1519869	-	.	-	-	140	
+NC_000911.1	1521002	1521003	-	.	-	-	207	
+NC_000911.1	1523436	1523437	DUF2605 domain-containing protein|NblA/ycf18 family protein	.	-	>|<	127,90	
+NC_000911.1	1523440	1523441	NblA/ycf18 family protein	.	+	|<	86	conflict
+NC_000911.1	1523778	1523779	NblA/ycf18 family protein	.	-	|<	17	
+NC_000911.1	1536014	1536015	M14 family metallopeptidase	.	-	|<	102	
+NC_000911.1	1550790	1550791	biosynthetic-type acetolactate synthase large subunit	.	+	>|	53	
+NC_000911.1	1558894	1558895	-	.	-	-	174	
+NC_000911.1	1558930	1558931	-	.	-	-	138	
+NC_000911.1	1561520	1561521	class II fructose-bisphosphatase	.	+	>|	97	
+NC_000911.1	1578021	1578022	-	.	-	-	703	
+NC_000911.1	1589316	1589317	global nitrogen regulator NtcA	.	-	|<	67	
+NC_000911.1	1592848	1592849	-	.	+	-	69	
+NC_000911.1	1598869	1598870	photosystem II oxygen evolving complex protein PsbP	.	-	|<	102	
+NC_000911.1	1599040	1599041	ketoacyl-ACP synthase III	.	+	>|	113	
+NC_000911.1	1602278	1602279	hypothetical protein	.	+	>|	78	
+NC_000911.1	1608064	1608065	superoxide dismutase	.	+	>|	113	
+NC_000911.1	1608087	1608088	-	.	+	-	136	
+NC_000911.1	1643385	1643386	cytochrome b6	.	-	|<	116	
+NC_000911.1	1658393	1658394	RelA/SpoT family protein|adenosylhomocysteinase	.	+	>|<	69,117	
+NC_000911.1	1658446	1658447	RelA/SpoT family protein|adenosylhomocysteinase	.	-	>|<	122,64	
+NC_000911.1	1658465	1658466	adenosylhomocysteinase	.	-	|<	45	
+NC_000911.1	1668439	1668440	F0F1 ATP synthase subunit beta	.	+	>|	57	
+NC_000911.1	1668471	1668472	F0F1 ATP synthase subunit beta	.	+	>|	89	
+NC_000911.1	1669014	1669015	ATP synthase F1 subunit epsilon	.	+	>|	74	
+NC_000911.1	1669040	1669041	ATP synthase F1 subunit epsilon	.	+	>|	100	
+NC_000911.1	1672049	1672050	Ni/Fe hydrogenase subunit alpha	.	+	|<	21	conflict
+NC_000911.1	1681524	1681525	-	.	-	-	1345	
+NC_000911.1	1687236	1687237	FAD-binding oxidoreductase|photosystem I reaction center subunit IX	.	-	>|<	19,89	
+NC_000911.1	1687615	1687616	-	.	-	-	168	
+NC_000911.1	1694184	1694185	-	.	+	-	532	
+NC_000911.1	1695681	1695682	-	.	-	-	204	
+NC_000911.1	1704311	1704312	-	.	+	-	63	
+NC_000911.1	1712434	1712435	MoaD/ThiS family protein	.	-	>|	26	conflict
+NC_000911.1	1712499	1712500	MoaD/ThiS family protein|ribulose-phosphate 3-epimerase	.	+	>|<	91,64	
+NC_000911.1	1719298	1719299	ssl1498 family light-harvesting-like protein	.	-	|<	57	
+NC_000911.1	1721250	1721251	translation elongation factor Ts	.	-	|<	99	
+NC_000911.1	1722050	1722051	30S ribosomal protein S2	.	-	|<	109	
+NC_000911.1	1743389	1743390	carbonic anhydrase	.	+	>|	21	
+NC_000911.1	1747496	1747497	hypothetical protein	.	+	|<	23	conflict
+NC_000911.1	1748928	1748929	-	.	-	-	36	
+NC_000911.1	1748997	1748998	-	.	-	-	105	
+NC_000911.1	1749066	1749067	-	.	+	-	79	
+NC_000911.1	1751205	1751206	50S ribosomal protein L9	.	-	|<	105	
+NC_000911.1	1752741	1752742	-	.	-	-	149	
+NC_000911.1	1757567	1757568	heme o synthase	.	-	|<	24	
+NC_000911.1	1767581	1767582	-	.	+	-	657	
+NC_000911.1	1768068	1768069	-	.	+	-	297	
+NC_000911.1	1768325	1768326	orange carotenoid-binding protein	.	+	>|	103	
+NC_000911.1	1775987	1775988	DUF928 domain-containing protein	.	-	|<	93	
+NC_000911.1	1781123	1781124	late competence development ComFB family protein	.	+	>|	119	
+NC_000911.1	1790094	1790095	-	.	+	-	140	
+NC_000911.1	1795103	1795104	AGE family epimerase/isomerase|secondary thiamine-phosphate synthase enzyme YjbQ	.	-	>|<	77,17	
+NC_000911.1	1806672	1806673	-	.	-	-	198	
+NC_000911.1	1806692	1806693	-	.	-	-	178	
+NC_000911.1	1815016	1815017	-	.	+	-	437	
+NC_000911.1	1818847	1818848	photosystem II q(b) protein	.	-	|<	67	
+NC_000911.1	1820036	1820037	-	.	-	-	40	
+NC_000911.1	1823792	1823793	cytochrome b6-f complex subunit PetG	.	+	>|	107	
+NC_000911.1	1826127	1826128	-	.	-	-	131	
+NC_000911.1	1827728	1827729	PH domain-containing protein	.	+	>|	77	
+NC_000911.1	1828909	1828910	membrane protein insertase YidC	.	+	>|	3	
+NC_000911.1	1829341	1829342	-	.	-	-	211	
+NC_000911.1	1829564	1829565	protein jag	.	+	>|	74	
+NC_000911.1	1830410	1830411	-	.	-	-	217	
+NC_000911.1	1835600	1835601	aspartate carbamoyltransferase	.	+	>|	98	
+NC_000911.1	1842617	1842618	hypothetical protein	.	-	|<	98	
+NC_000911.1	1848713	1848714	HlyD family efflux transporter periplasmic adaptor subunit	.	-	|<	85	
+NC_000911.1	1856046	1856047	DNA-directed RNA polymerase subunit gamma|carbamoyltransferase	.	+	>|<	65,23	
+NC_000911.1	1871097	1871098	type IV pilus secretin PilQ	.	+	>|	96	
+NC_000911.1	1873556	1873557	-	.	-	-	141	
+NC_000911.1	1875077	1875078	-	.	+	-	51	
+NC_000911.1	1875494	1875495	photosynthetic/respiratory NAD(P)H-quinone oxidoreductase subunit C	.	+	>|	4	
+NC_000911.1	1875533	1875534	photosynthetic/respiratory NAD(P)H-quinone oxidoreductase subunit C	.	+	>|	43	
+NC_000911.1	1876941	1876942	NAD(P)H-quinone oxidoreductase subunit J	.	+	>|	101	
+NC_000911.1	1889820	1889821	3-isopropylmalate dehydratase small subunit	.	-	|<	51	
+NC_000911.1	1895448	1895449	sigma 54-interacting transcriptional regulator|fatty acid desaturase	.	-	>|<	24,71	
+NC_000911.1	1910562	1910563	-	.	+	-	468	
+NC_000911.1	1914756	1914757	30S ribosomal protein S10	.	-	|<	61	
+NC_000911.1	1918757	1918758	30S ribosomal protein S7	.	-	|<	57	
+NC_000911.1	1919376	1919377	30S ribosomal protein S12	.	-	|<	59	
+NC_000911.1	1923136	1923137	transposase	.	+	|<	33	conflict
+NC_000911.1	1927827	1927828	-	.	+	-	128	
+NC_000911.1	1934236	1934237	geranylgeranyl reductase	.	-	|<	70	
+NC_000911.1	1939811	1939812	DUF3493 domain-containing protein|hypothetical protein	.	-	>|<	31,53	
+NC_000911.1	1945477	1945478	ABC-2 family transporter protein|glycerol-3-phosphate dehydrogenase	.	+	>|<	104,40	
+NC_000911.1	1947224	1947225	glucosylglycerol-phosphate synthase	.	-	|<	100	
+NC_000911.1	1954821	1954822	-	.	+	-	207	
+NC_000911.1	1958206	1958207	50S ribosomal protein L21	.	+	>|	75	
+NC_000911.1	1958539	1958540	50S ribosomal protein L27	.	+	>|	37	
+NC_000911.1	1958554	1958555	50S ribosomal protein L27	.	+	>|	52	
+NC_000911.1	1966085	1966086	L-glutamate gamma-semialdehyde dehydrogenase	.	-	|<	60	
+NC_000911.1	1969352	1969353	-	.	-	-	115	
+NC_000911.1	1973494	1973495	IS1 family transposase|alanine--glyoxylate aminotransferase family protein	.	-	>|<	105,116	
+NC_000911.1	1973527	1973528	alanine--glyoxylate aminotransferase family protein	.	-	|<	83	
+NC_000911.1	1974978	1974979	-	.	+	-	77	
+NC_000911.1	1975231	1975232	-	.	-	-	343	
+NC_000911.1	1975462	1975463	(2Fe-2S)-binding protein	.	-	|<	112	
+NC_000911.1	1975622	1975623	-	.	+	-	142	
+NC_000911.1	1976912	1976913	-	.	+	-	193	
+NC_000911.1	1982395	1982396	photosystem I reaction center subunit IV	.	+	>|	123	
+NC_000911.1	1982427	1982428	-	.	+	-	155	
+NC_000911.1	1997396	1997397	hypothetical protein	.	-	|<	100	
+NC_000911.1	1997919	1997920	-	.	-	-	73	
+NC_000911.1	2023072	2023073	class 1 fructose-bisphosphatase	.	+	>|	2	
+NC_000911.1	2026624	2026625	DUF1816 domain-containing protein	.	+	>|	87	
+NC_000911.1	2033058	2033059	-	.	+	-	168	
+NC_000911.1	2033270	2033271	-	.	+	-	380	
+NC_000911.1	2034926	2034927	inorganic diphosphatase	.	+	>|	124	
+NC_000911.1	2036646	2036647	-	.	-	-	264	
+NC_000911.1	2040195	2040196	LysE family translocator|molybdopterin-synthase adenylyltransferase MoeB	.	-	>|<	35,84	
+NC_000911.1	2046931	2046932	-	.	+	-	29	
+NC_000911.1	2047416	2047417	hypothetical protein|hypothetical protein	.	-	>|<	82,78	
+NC_000911.1	2047440	2047441	hypothetical protein|hypothetical protein	.	+	>|<	106,54	
+NC_000911.1	2047463	2047464	hypothetical protein	.	+	|<	31	conflict
+NC_000911.1	2048030	2048031	DNA-directed RNA polymerase subunit omega	.	+	|<	113	conflict
+NC_000911.1	2048083	2048084	DNA-directed RNA polymerase subunit omega	.	-	|<	60	
+NC_000911.1	2065629	2065630	ATP-dependent chaperone ClpB	.	+	>|	107	
+NC_000911.1	2065908	2065909	phosphoribulokinase	.	-	|<	92	
+NC_000911.1	2067109	2067110	-	.	-	-	111	
+NC_000911.1	2068736	2068737	Cof-type HAD-IIB family hydrolase	.	-	|<	118	
+NC_000911.1	2068841	2068842	ferredoxin--NADP(+) reductase|Cof-type HAD-IIB family hydrolase	.	+	>|<	79,13	
+NC_000911.1	2071430	2071431	photosystem II protein Psb27	.	+	>|	49	
+NC_000911.1	2082819	2082820	hypothetical protein|2OG-Fe(II) oxygenase	.	+	>|<	100,44	
+NC_000911.1	2086215	2086216	type II toxin-antitoxin system YoeB family toxin|photosystem II manganese-stabilizing polypeptide	.	-	>|<	17,89	
+NC_000911.1	2088062	2088063	-	.	-	-	330	
+NC_000911.1	2097360	2097361	-	.	-	-	282	
+NC_000911.1	2100367	2100368	urea ABC transporter substrate-binding protein	.	+	>|	107	
+NC_000911.1	2100402	2100403	-	.	+	-	60	
+NC_000911.1	2128686	2128687	-	.	+	-	80	
+NC_000911.1	2131538	2131539	photosystem II cytochrome c-550	.	-	|<	77	
+NC_000911.1	2132198	2132199	hypothetical protein	.	-	|<	58	
+NC_000911.1	2139699	2139700	-	.	+	-	558	
+NC_000911.1	2140560	2140561	-	.	+	-	103	
+NC_000911.1	2145910	2145911	AbrB family transcriptional regulator	.	-	|<	89	
+NC_000911.1	2146393	2146394	-	.	-	-	407	
+NC_000911.1	2148195	2148196	-	.	+	-	57	
+NC_000911.1	2152077	2152078	-	.	-	-	213	
+NC_000911.1	2152909	2152910	-	.	+	-	22	
+NC_000911.1	2154012	2154013	DUF1517 domain-containing protein	.	+	>|	80	
+NC_000911.1	2156458	2156459	IS1 family transposase|ABA4-like family protein	.	-	>|<	23,38	
+NC_000911.1	2163128	2163129	-	.	-	-	3774	
+NC_000911.1	2182096	2182097	tetratricopeptide repeat protein	.	+	>|	122	
+NC_000911.1	2192909	2192910	-	.	+	-	229	
+NC_000911.1	2206533	2206534	ATP-dependent Clp protease proteolytic subunit	.	+	>|	83	
+NC_000911.1	2207264	2207265	ATP-dependent Clp protease proteolytic subunit|aminopeptidase P N-terminal domain-containing protein	.	+	>|<	106,105	
+NC_000911.1	2224727	2224728	hypothetical protein	.	-	|<	61	
+NC_000911.1	2225160	2225161	hypothetical protein	.	-	|<	117	
+NC_000911.1	2231635	2231636	pyruvate dehydrogenase (acetyl-transferring) E1 component subunit alpha	.	+	>|	121	
+NC_000911.1	2250583	2250584	preprotein translocase subunit SecG	.	+	>|	110	
+NC_000911.1	2251589	2251590	matrixin family metalloprotease|2-oxo acid dehydrogenase subunit E2	.	-	>|<	94,67	
+NC_000911.1	2253867	2253868	DUF3318 domain-containing protein	.	+	>|	61	
+NC_000911.1	2258049	2258050	YebC/PmpR family DNA-binding transcriptional regulator	.	+	>|	86	
+NC_000911.1	2262686	2262687	M23 family metallopeptidase|ribosome-associated translation inhibitor RaiA	.	+	>|<	111,118	
+NC_000911.1	2262718	2262719	ribosome-associated translation inhibitor RaiA	.	-	|<	86	
+NC_000911.1	2264478	2264479	hypothetical protein	.	-	|<	12	
+NC_000911.1	2265156	2265157	glycogen synthase GlgA	.	-	|<	56	
+NC_000911.1	2269034	2269035	RNA polymerase sigma factor%2C RpoD/SigA family	.	-	|<	91	
+NC_000911.1	2270303	2270304	-	.	-	-	192	
+NC_000911.1	2281467	2281468	hypothetical protein	.	+	>|	27	
+NC_000911.1	2284509	2284510	-	.	-	-	281	
+NC_000911.1	2284686	2284687	DUF2062 domain-containing protein	.	-	|<	104	
+NC_000911.1	2287237	2287238	photosystem I iron-sulfur center protein PsaC	.	-	|<	96	
+NC_000911.1	2289598	2289599	NAD(P)H-quinone oxidoreductase subunit 4	.	+	>|	74	
+NC_000911.1	2290482	2290483	hypothetical protein	.	+	>|	62	
+NC_000911.1	2290970	2290971	hypothetical protein|hypothetical protein	.	+	>|<	12,120	
+NC_000911.1	2293105	2293106	-	.	+	-	1227	
+NC_000911.1	2294967	2294968	phycobilisome rod-core linker polypeptide	.	+	>|	90	
+NC_000911.1	2295239	2295240	-	.	+	-	362	
+NC_000911.1	2298522	2298523	hypothetical protein	.	-	|<	83	
+NC_000911.1	2303345	2303346	hypothetical protein	.	+	>|	67	
+NC_000911.1	2304586	2304587	CBS domain-containing protein	.	+	>|	26	
+NC_000911.1	2304630	2304631	CBS domain-containing protein	.	+	>|	70	
+NC_000911.1	2305706	2305707	-	.	+	-	200	
+NC_000911.1	2312569	2312570	molecular chaperone DnaK	.	-	|<	94	
+NC_000911.1	2317072	2317073	hypothetical protein	.	-	|<	39	
+NC_000911.1	2330038	2330039	hypothetical protein	.	-	|<	108	
+NC_000911.1	2337226	2337227	-	.	+	-	204	
+NC_000911.1	2347340	2347341	-	.	+	-	159	
+NC_000911.1	2347380	2347381	DUF3769 domain-containing protein	.	+	|<	119	conflict
+NC_000911.1	2350045	2350046	photosystem II reaction center protein I	.	-	|<	94	
+NC_000911.1	2375458	2375459	hypothetical protein	.	+	>|	11	
+NC_000911.1	2375584	2375585	-	.	+	-	137	
+NC_000911.1	2376451	2376452	-	.	+	-	725	
+NC_000911.1	2377625	2377626	DUF1257 domain-containing protein	.	+	>|	99	
+NC_000911.1	2383710	2383711	lactoylglutathione lyase	.	-	>|	75	conflict
+NC_000911.1	2383763	2383764	-	.	-	-	128	
+NC_000911.1	2387278	2387279	glycosyltransferase family 1 protein	.	-	>|	111	conflict
+NC_000911.1	2394200	2394201	L%2CD-transpeptidase	.	+	>|	94	
+NC_000911.1	2404516	2404517	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase|50S ribosomal protein L20	.	-	>|<	10,98	
+NC_000911.1	2404539	2404540	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase|50S ribosomal protein L20	.	-	>|<	33,75	
+NC_000911.1	2404561	2404562	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase|50S ribosomal protein L20	.	+	>|<	55,53	
+NC_000911.1	2404994	2404995	50S ribosomal protein L35	.	-	|<	114	
+NC_000911.1	2407380	2407381	-	.	-	-	184	
+NC_000911.1	2412449	2412450	-	.	+	-	340	
+NC_000911.1	2412729	2412730	amidophosphoribosyltransferase	.	-	|<	96	
+NC_000911.1	2413342	2413343	-	.	-	-	545	
+NC_000911.1	2413937	2413938	-	.	-	-	646	
+NC_000911.1	2414823	2414824	-	.	+	-	9	
+NC_000911.1	2422397	2422398	-	.	+	-	435	
+NC_000911.1	2422729	2422730	GerMN domain-containing protein	.	-	|<	103	
+NC_000911.1	2429067	2429068	-	.	+	-	390	
+NC_000911.1	2429462	2429463	-	.	+	-	80	
+NC_000911.1	2437533	2437534	-	.	+	-	306	
+NC_000911.1	2437917	2437918	DUF3747 domain-containing protein	.	-	|<	4	
+NC_000911.1	2438858	2438859	-	.	-	-	80	
+NC_000911.1	2465121	2465122	flavin reductase family protein	.	+	>|	113	
+NC_000911.1	2465157	2465158	-	.	+	-	149	
+NC_000911.1	2466344	2466345	ATP-dependent Clp protease ATP-binding subunit	.	-	|<	62	
+NC_000911.1	2470493	2470494	fructose-bisphosphate aldolase class II	.	-	|<	97	
+NC_000911.1	2470741	2470742	-	.	-	-	313	
+NC_000911.1	2471831	2471832	glutamate-1-semialdehyde 2%2C1-aminomutase	.	-	|<	122	
+NC_000911.1	2476595	2476596	-	.	+	-	257	
+NC_000911.1	2478346	2478347	-	.	+	-	67	
+NC_000911.1	2478453	2478454	-	.	+	-	318	
+NC_000911.1	2479272	2479273	-	.	+	-	761	
+NC_000911.1	2479860	2479861	form I ribulose bisphosphate carboxylase large subunit	.	+	>|	35	
+NC_000911.1	2480886	2480887	ribulose bisphosphate carboxylase small subunit	.	+	>|	69	
+NC_000911.1	2484811	2484812	ferredoxin PetF1	.	-	|<	78	
+NC_000911.1	2484828	2484829	lipid-A-disaccharide synthase|ferredoxin PetF1	.	-	>|<	2,61	
+NC_000911.1	2487978	2487979	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	+	>|	56	
+NC_000911.1	2490130	2490131	DUF4114 domain-containing protein	.	+	>|	115	
+NC_000911.1	2504372	2504373	-	.	+	-	42	
+NC_000911.1	2506162	2506163	glutamine-hydrolyzing GMP synthase	.	+	>|	120	
+NC_000911.1	2507155	2507156	-	.	-	-	226	
+NC_000911.1	2511441	2511442	aldehyde oxygenase (deformylating)	.	-	|<	72	
+NC_000911.1	2525600	2525601	-	.	-	-	181	
+NC_000911.1	2526244	2526245	-	.	-	-	38	
+NC_000911.1	2530960	2530961	ATP-dependent zinc metalloprotease FtsH2|LON peptidase substrate-binding domain-containing protein	.	+	>|<	69,7	
+NC_000911.1	2538894	2538895	chaperonin GroEL	.	-	|<	105	
+NC_000911.1	2543571	2543572	-	.	-	-	153	
+NC_000911.1	2547934	2547935	-	.	-	-	198	
+NC_000911.1	2561363	2561364	-	.	-	-	59	
+NC_000911.1	2575879	2575880	-	.	-	-	18	
+NC_000911.1	2579201	2579202	chlorophyll synthase ChlG|amino acid ABC transporter substrate-binding protein	.	-	>|<	41,106	
+NC_000911.1	2579252	2579253	chlorophyll synthase ChlG|amino acid ABC transporter substrate-binding protein	.	+	>|<	92,55	
+NC_000911.1	2580563	2580564	-	.	-	-	7	
+NC_000911.1	2588843	2588844	nucleotide exchange factor GrpE	.	-	|<	40	
+NC_000911.1	2595166	2595167	bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD|insulinase family protein	.	-	>|<	6,113	
+NC_000911.1	2597695	2597696	-	.	-	-	155	
+NC_000911.1	2604602	2604603	30S ribosomal protein S4	.	+	>|	48	
+NC_000911.1	2610122	2610123	ATP-binding protein	.	-	>|	65	conflict
+NC_000911.1	2612846	2612847	-	.	+	-	60	
+NC_000911.1	2612944	2612945	-	.	+	-	230	
+NC_000911.1	2613413	2613414	hypothetical protein|photosystem II reaction center X protein	.	-	>|<	97,67	
+NC_000911.1	2613454	2613455	photosystem II reaction center X protein	.	+	|<	26	conflict
+NC_000911.1	2617958	2617959	CAAD domain-containing protein	.	+	>|	70	
+NC_000911.1	2625625	2625626	-	.	+	-	145	
+NC_000911.1	2629194	2629195	hypothetical protein|phenylalanine--tRNA ligase subunit alpha	.	-	>|<	83,76	
+NC_000911.1	2632042	2632043	cation:proton antiporter	.	-	|<	81	
+NC_000911.1	2640604	2640605	phosphate ABC transporter substrate-binding protein PstS	.	-	|<	57	
+NC_000911.1	2645216	2645217	30S ribosomal protein S14|PspA/IM30 family protein	.	-	>|<	120,54	
+NC_000911.1	2645253	2645254	PspA/IM30 family protein	.	+	|<	17	conflict
+NC_000911.1	2647154	2647155	-	.	-	-	231	
+NC_000911.1	2650185	2650186	-	.	-	-	2	
+NC_000911.1	2655169	2655170	thiazole synthase	.	+	>|	47	
+NC_000911.1	2665998	2665999	folate/biopterin family MFS transporter	.	+	>|	112	
+NC_000911.1	2699428	2699429	-	.	-	-	284	
+NC_000911.1	2707806	2707807	septal ring lytic transglycosylase RlpA family protein	.	+	>|	109	
+NC_000911.1	2708195	2708196	urea ABC transporter ATP-binding subunit UrtE	.	-	|<	61	
+NC_000911.1	2724638	2724639	-	.	+	-	9	
+NC_000911.1	2725061	2725062	-	.	+	-	264	
+NC_000911.1	2725186	2725187	RNA-binding protein	.	+	>|	84	
+NC_000911.1	2725621	2725622	-	.	+	-	467	
+NC_000911.1	2726170	2726171	-	.	+	-	138	
+NC_000911.1	2727021	2727022	-	.	-	-	25	
+NC_000911.1	2728709	2728710	phospholipase D-like domain-containing protein|DUF4912 domain-containing protein	.	-	>|<	2,102	
+NC_000911.1	2730587	2730588	-	.	+	-	100	
+NC_000911.1	2768819	2768820	glycoside hydrolase family 9 protein	.	+	>|	54	
+NC_000911.1	2770760	2770761	-	.	+	-	96	
+NC_000911.1	2781029	2781030	-	.	+	-	373	
+NC_000911.1	2781113	2781114	photosystem II chlorophyll-binding protein CP47	.	+	>|	81	
+NC_000911.1	2781284	2781285	-	.	+	-	118	
+NC_000911.1	2791751	2791752	-	.	+	-	68	
+NC_000911.1	2798435	2798436	30S ribosomal protein PSRP-3	.	+	>|	26	
+NC_000911.1	2798587	2798588	-	.	+	-	25	
+NC_000911.1	2801066	2801067	ABC transporter substrate-binding protein|cation:proton antiporter	.	-	>|<	53,73	
+NC_000911.1	2801101	2801102	ABC transporter substrate-binding protein|cation:proton antiporter	.	+	>|<	88,38	
+NC_000911.1	2807137	2807138	membrane protein|diflavin flavoprotein	.	-	>|<	79,73	
+NC_000911.1	2807176	2807177	membrane protein|diflavin flavoprotein	.	+	>|<	118,34	
+NC_000911.1	2822475	2822476	hypothetical protein|acyl-CoA desaturase	.	-	>|<	22,103	
+NC_000911.1	2823640	2823641	-	.	-	-	5	
+NC_000911.1	2825949	2825950	-	.	+	-	239	
+NC_000911.1	2831741	2831742	30S ribosomal protein S18	.	+	>|	127	
+NC_000911.1	2832776	2832777	-	.	-	-	541	
+NC_000911.1	2833193	2833194	alanine racemase	.	+	>|	111	
+NC_000911.1	2850287	2850288	ferrochelatase|amidase	.	+	>|<	29,43	
+NC_000911.1	2860050	2860051	hypothetical protein	.	+	|<	20	conflict
+NC_000911.1	2861974	2861975	AbrB family transcriptional regulator	.	-	|<	30	
+NC_000911.1	2862425	2862426	-	.	-	-	32	
+NC_000911.1	2870840	2870841	-	.	+	-	142	
+NC_000911.1	2871484	2871485	-	.	-	-	67	
+NC_000911.1	2876573	2876574	-	.	-	-	271	
+NC_000911.1	2884929	2884930	ribonuclease HI	.	+	>|	91	
+NC_000911.1	2885814	2885815	response regulator transcription factor	.	+	>|	5	
+NC_000911.1	2886125	2886126	-	.	+	-	56	
+NC_000911.1	2887578	2887579	30S ribosomal protein S12 methylthiotransferase RimO	.	+	>|	66	
+NC_000911.1	2887740	2887741	-	.	+	-	228	
+NC_000911.1	2888857	2888858	-	.	+	-	407	
+NC_000911.1	2889177	2889178	DEAD/DEAH box helicase|N-acetyl-gamma-glutamyl-phosphate reductase	.	-	>|<	56,87	
+NC_000911.1	2889218	2889219	DEAD/DEAH box helicase|N-acetyl-gamma-glutamyl-phosphate reductase	.	+	>|<	97,46	
+NC_000911.1	2924727	2924728	-	.	+	-	51	
+NC_000911.1	2925955	2925956	-	.	+	-	36	
+NC_000911.1	2938496	2938497	-	.	-	-	133	
+NC_000911.1	2940367	2940368	-	.	-	-	198	
+NC_000911.1	2950431	2950432	hypothetical protein	.	+	>|	89	
+NC_000911.1	2961433	2961434	-	.	+	-	185	
+NC_000911.1	2961512	2961513	thioredoxin|asparaginase	.	+	>|<	70,106	
+NC_000911.1	2969555	2969556	ammonium transporter	.	-	|<	121	
+NC_000911.1	2971228	2971229	-	.	-	-	29	
+NC_000911.1	2973257	2973258	hypothetical protein	.	+	>|	36	
+NC_000911.1	2983650	2983651	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN	.	-	|<	44	
+NC_000911.1	2984617	2984618	-	.	-	-	373	
+NC_000911.1	2984948	2984949	-	.	+	-	42	
+NC_000911.1	2994189	2994190	-	.	+	-	128	
+NC_000911.1	2999175	2999176	-	.	+	-	5	
+NC_000911.1	3000762	3000763	-	.	+	-	23	
+NC_000911.1	3014218	3014219	pyruvate%2C water dikinase	.	+	>|	91	
+NC_000911.1	3039003	3039004	-	.	+	-	854	
+NC_000911.1	3060406	3060407	heavy metal translocating P-type ATPase|YnfA family protein	.	-	>|<	68,62	
+NC_000911.1	3063220	3063221	-	.	-	-	328	
+NC_000911.1	3063408	3063409	-	.	-	-	140	
+NC_000911.1	3116438	3116439	DUF2997 domain-containing protein	.	-	|<	1	
+NC_000911.1	3116707	3116708	-	.	-	-	26	
+NC_000911.1	3138656	3138657	-	.	-	-	53	
+NC_000911.1	3138687	3138688	-	.	-	-	84	
+NC_000911.1	3139990	3139991	photosystem II reaction center protein Ycf12	.	-	|<	54	
+NC_000911.1	3152238	3152239	-	.	-	-	262	
+NC_000911.1	3157881	3157882	-	.	-	-	205	
+NC_000911.1	3158239	3158240	-	.	+	-	192	
+NC_000911.1	3180316	3180317	hypothetical protein	.	-	|<	63	
+NC_000911.1	3181545	3181546	-	.	-	-	132	
+NC_000911.1	3182032	3182033	-	.	-	-	20	
+NC_000911.1	3199894	3199895	uroporphyrinogen decarboxylase|DUF4922 domain-containing protein	.	+	>|<	112,35	
+NC_000911.1	3205670	3205671	diaminopimelate decarboxylase	.	-	|<	23	
+NC_000911.1	3212786	3212787	-	.	-	-	269	
+NC_000911.1	3226661	3226662	-	.	+	-	348	
+NC_000911.1	3230793	3230794	-	.	+	-	169	
+NC_000911.1	3230948	3230949	photosystem II D2 protein (photosystem q(a) protein)	.	+	>|	111	
+NC_000911.1	3232959	3232960	ATP-binding protein	.	-	>|	81	conflict
+NC_000911.1	3246287	3246288	trigger factor	.	-	|<	113	
+NC_000911.1	3246385	3246386	trigger factor	.	-	|<	15	
+NC_000911.1	3247840	3247841	-	.	-	-	25	
+NC_000911.1	3252960	3252961	ribonuclease J	.	+	>|	54	
+NC_000911.1	3257015	3257016	-	.	-	-	676	
+NC_000911.1	3257604	3257605	phosphoketolase	.	-	|<	87	
+NC_000911.1	3259979	3259980	-	.	-	-	93	
+NC_000911.1	3267024	3267025	valine--tRNA ligase	.	-	>|	3	conflict
+NC_000911.1	3278021	3278022	type I glyceraldehyde-3-phosphate dehydrogenase	.	-	|<	100	
+NC_000911.1	3278419	3278420	-	.	-	-	497	
+NC_000911.1	3278784	3278785	-	.	-	-	605	
+NC_000911.1	3282108	3282109	-	.	-	-	177	
+NC_000911.1	3282312	3282313	hypothetical protein	.	+	>|	6	
+NC_000911.1	3284185	3284186	recombination mediator RecR|hypothetical protein	.	-	>|<	21,97	
+NC_000911.1	3284246	3284247	recombination mediator RecR|hypothetical protein	.	-	>|<	82,36	
+NC_000911.1	3294730	3294731	-	.	+	-	226	
+NC_000911.1	3305516	3305517	-	.	+	-	136	
+NC_000911.1	3305643	3305644	DEAD/DEAH box helicase	.	+	|<	10	conflict
+NC_000911.1	3308582	3308583	-	.	-	-	295	
+NC_000911.1	3313925	3313926	-	.	+	-	581	
+NC_000911.1	3315808	3315809	elongation factor G variant FusB	.	+	>|	55	
+NC_000911.1	3317199	3317200	-	.	-	-	163	
+NC_000911.1	3317643	3317644	ketol-acid reductoisomerase	.	-	|<	57	
+NC_000911.1	3324614	3324615	RNA polymerase sigma factor RpoD	.	+	>|	63	
+NC_000911.1	3331035	3331036	-	.	-	-	9	
+NC_000911.1	3335047	3335048	aspartate kinase	.	+	>|	2	
+NC_000911.1	3338644	3338645	M3 family metallopeptidase	.	+	>|	97	
+NC_000911.1	3345691	3345692	-	.	-	-	169	
+NC_000911.1	3345747	3345748	quinolinate synthase NadA	.	-	|<	113	
+NC_000911.1	3351339	3351340	bifunctional aconitate hydratase 2/2-methylisocitrate dehydratase	.	+	>|	44	
+NC_000911.1	3354162	3354163	glutathione S-transferase family protein|glutamate synthase large subunit	.	-	>|<	53,29	
+NC_000911.1	3358875	3358876	-	.	-	-	14	
+NC_000911.1	3361916	3361917	-	.	-	-	31	
+NC_000911.1	3367289	3367290	-	.	-	-	127	
+NC_000911.1	3383269	3383270	-	.	-	-	307	
+NC_000911.1	3383473	3383474	peptidoglycan editing factor PgeF|DUF370 domain-containing protein	.	-	>|<	105,103	
+NC_000911.1	3385759	3385760	-	.	+	-	170	
+NC_000911.1	3387958	3387959	-	.	-	-	735	
+NC_000911.1	3391563	3391564	fasciclin domain-containing protein	.	-	|<	81	
+NC_000911.1	3391982	3391983	-	.	-	-	319	
+NC_000911.1	3398633	3398634	-	.	-	-	265	
+NC_000911.1	3398718	3398719	-	.	+	-	180	
+NC_000911.1	3398840	3398841	-	.	+	-	58	
+NC_000911.1	3399347	3399348	DUF1815 family protein|ATP-binding protein	.	+	>|<	87,109	
+NC_000911.1	3403484	3403485	phycobilisome rod-core linker polypeptide	.	-	|<	72	
+NC_000911.1	3411930	3411931	ABC transporter ATP-binding protein	.	+	>|	79	
+NC_000911.1	3416946	3416947	ferredoxin:protochlorophyllide reductase (ATP-dependent) iron-sulfur ATP-binding protein	.	+	>|	23	
+NC_000911.1	3421894	3421895	hypothetical protein	.	+	|<	12	conflict
+NC_000911.1	3431250	3431251	phosphoglucomutase (alpha-D-glucose-1%2C6-bisphosphate-dependent)	.	-	|<	66	
+NC_000911.1	3457620	3457621	-	.	+	-	402	
+NC_000911.1	3458279	3458280	-	.	+	-	50	
+NC_000911.1	3459529	3459530	-	.	+	-	133	
+NC_000911.1	3460077	3460078	-	.	-	-	573	
+NC_000911.1	3466257	3466258	-	.	-	-	969	
+NC_000911.1	3474723	3474724	-	.	-	-	83	
+NC_000911.1	3508078	3508079	hypothetical protein	.	+	>|	80	
+NC_000911.1	3514141	3514142	molecular chaperone HtpG	.	-	|<	90	
+NC_000911.1	3531811	3531812	DUF1269 domain-containing protein	.	-	|<	73	
+NC_000911.1	3535163	3535164	argininosuccinate synthase	.	+	>|	118	
+NC_000911.1	3540241	3540242	DUF2993 domain-containing protein|NAD-dependent epimerase/dehydratase	.	-	>|<	30,84	
+NC_000911.1	3540284	3540285	DUF2993 domain-containing protein|NAD-dependent epimerase/dehydratase	.	-	>|<	73,41	
+NC_000911.1	3549883	3549884	recombinase RecA	.	-	|<	72	
+NC_000911.1	3565662	3565663	-	.	-	-	1024	
+NC_000911.1	3566682	3566683	translation elongation factor 4	.	+	>|	34	
+NC_000911.1	3567780	3567781	glutathione S-transferase family protein	.	+	>|	61	
+NC_000911.1	3570396	3570397	bifunctional phosphoribosyl-AMP cyclohydrolase/phosphoribosyl-ATP diphosphatase HisIE	.	+	>|	78	

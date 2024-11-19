@@ -1,0 +1,1307 @@
+NC_003888.3	28545	28546	-	.	-	-	494	
+NC_003888.3	31088	31089	sigma factor	.	-	|<	57	
+NC_003888.3	121552	121553	hypothetical protein	.	-	|<	64	
+NC_003888.3	236337	236338	-	.	-	-	131	
+NC_003888.3	236754	236755	-	.	+	-	27	
+NC_003888.3	238594	238595	-	.	+	-	344	
+NC_003888.3	256448	256449	hypothetical protein	.	+	>|	7	
+NC_003888.3	256502	256503	hypothetical protein	.	+	>|	61	
+NC_003888.3	393745	393746	-	.	+	-	528	
+NC_003888.3	400183	400184	hypothetical protein	.	+	>|	80	
+NC_003888.3	429441	429442	methyltransferase|spore-associated protein	.	-	>|<	39,50	
+NC_003888.3	481213	481214	-	.	+	-	257	
+NC_003888.3	533516	533517	formyltransferase|hypothetical protein	.	-	>|<	69,17	
+NC_003888.3	558747	558748	oxidoreductase|cold shock protein	.	-	>|<	33,64	
+NC_003888.3	558917	558918	-	.	-	-	203	
+NC_003888.3	606328	606329	-	.	-	-	348	
+NC_003888.3	640760	640761	RNA polymerase sigma factor sig8	.	+	>|	57	
+NC_003888.3	646061	646062	-	.	-	-	283	
+NC_003888.3	648036	648037	-	.	+	-	306	
+NC_003888.3	649101	649102	-	.	+	-	337	
+NC_003888.3	669952	669953	hypothetical protein	.	+	|<	19	conflict
+NC_003888.3	673402	673403	hypothetical protein	.	-	|<	48	
+NC_003888.3	682402	682403	-	.	+	-	197	
+NC_003888.3	682596	682597	tellurium resistance protein|hypothetical protein	.	+	>|<	62,3	
+NC_003888.3	682826	682827	-	.	+	-	292	
+NC_003888.3	682907	682908	-	.	+	-	373	
+NC_003888.3	711983	711984	-	.	+	-	225	
+NC_003888.3	712265	712266	anti-sigma factor antagonist	.	+	>|	66	
+NC_003888.3	712343	712344	-	.	-	-	144	
+NC_003888.3	720917	720918	chitosanase|hypothetical protein	.	-	>|<	44,67	
+NC_003888.3	724667	724668	ferredoxin/ferredoxin-NADP reductase	.	-	>|	123	conflict
+NC_003888.3	725460	725461	-	.	-	-	158	
+NC_003888.3	726644	726645	-	.	-	-	200	
+NC_003888.3	741892	741893	-	.	-	-	349	
+NC_003888.3	742202	742203	hypothetical protein	.	-	|<	39	
+NC_003888.3	743951	743952	-	.	+	-	150	
+NC_003888.3	769642	769643	-	.	+	-	45	
+NC_003888.3	775945	775946	-	.	-	-	257	
+NC_003888.3	789323	789324	hypothetical protein	.	+	|<	13	conflict
+NC_003888.3	806042	806043	hypothetical protein	.	-	>|	5	conflict
+NC_003888.3	817072	817073	-	.	+	-	1373	
+NC_003888.3	820540	820541	-	.	-	-	220	
+NC_003888.3	838860	838861	-	.	+	-	116	
+NC_003888.3	908503	908504	-	.	-	-	164	
+NC_003888.3	919438	919439	-	.	-	-	462	
+NC_003888.3	919637	919638	-	.	-	-	263	
+NC_003888.3	934326	934327	hypothetical protein|LysR family transcriptional regulator	.	+	>|<	56,5	
+NC_003888.3	964928	964929	hypothetical protein	.	-	|<	55	
+NC_003888.3	965019	965020	excinuclease ABC subunit A	.	-	>|	79	conflict
+NC_003888.3	977087	977088	-	.	-	-	403	
+NC_003888.3	977414	977415	lipoprotein	.	-	|<	76	
+NC_003888.3	1044393	1044394	-	.	-	-	285	
+NC_003888.3	1046203	1046204	-	.	+	-	47	
+NC_003888.3	1046271	1046272	-	.	+	-	604	
+NC_003888.3	1051651	1051652	-	.	+	-	308	
+NC_003888.3	1054648	1054649	Fe uptake system permease|superoxide dismutase	.	-	>|<	66,105	
+NC_003888.3	1054706	1054707	Fe uptake system permease|superoxide dismutase	.	-	>|<	124,47	
+NC_003888.3	1063611	1063612	hypothetical protein	.	+	>|	92	
+NC_003888.3	1077708	1077709	-	.	+	-	251	
+NC_003888.3	1078988	1078989	-	.	+	-	239	
+NC_003888.3	1084541	1084542	-	.	+	-	405	
+NC_003888.3	1141696	1141697	electron transfer flavoprotein subunit alpha	.	-	|<	62	
+NC_003888.3	1146013	1146014	-	.	+	-	198	
+NC_003888.3	1146274	1146275	-	.	-	-	211	
+NC_003888.3	1147274	1147275	-	.	-	-	278	
+NC_003888.3	1174672	1174673	hypothetical protein	.	+	>|	73	
+NC_003888.3	1225437	1225438	-	.	-	-	213	
+NC_003888.3	1294966	1294967	ornithine aminotransferase	.	+	>|	57	
+NC_003888.3	1313519	1313520	-	.	-	-	336	
+NC_003888.3	1363213	1363214	alkaline phosphatase	.	+	>|	61	
+NC_003888.3	1368831	1368832	cystathionine gamma-synthase	.	+	|<	106	conflict
+NC_003888.3	1381299	1381300	-	.	+	-	169	
+NC_003888.3	1452886	1452887	hypothetical protein	.	+	>|	28	
+NC_003888.3	1457724	1457725	-	.	-	-	60	
+NC_003888.3	1460451	1460452	-	.	-	-	284	
+NC_003888.3	1460507	1460508	-	.	-	-	228	
+NC_003888.3	1460628	1460629	hypothetical protein	.	-	|<	107	
+NC_003888.3	1460872	1460873	-	.	-	-	300	
+NC_003888.3	1461036	1461037	-	.	-	-	256	
+NC_003888.3	1462803	1462804	-	.	-	-	268	
+NC_003888.3	1465006	1465007	-	.	-	-	259	
+NC_003888.3	1465203	1465204	mannose-1-phosphate guanyltransferase	.	-	|<	62	
+NC_003888.3	1466435	1466436	-	.	-	-	1270	
+NC_003888.3	1467786	1467787	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	.	-	|<	87	
+NC_003888.3	1474959	1474960	-	.	+	-	220	
+NC_003888.3	1509153	1509154	-	.	-	-	460	
+NC_003888.3	1519173	1519174	-	.	-	-	729	
+NC_003888.3	1519637	1519638	-	.	-	-	238	
+NC_003888.3	1524209	1524210	-	.	-	-	575	
+NC_003888.3	1526790	1526791	hypothetical protein	.	-	|<	71	
+NC_003888.3	1535655	1535656	phosphoribosyl-ATP pyrophosphatase	.	-	|<	126	
+NC_003888.3	1535740	1535741	phosphoribosyl-ATP pyrophosphatase	.	-	|<	41	
+NC_003888.3	1539100	1539101	-	.	-	-	508	
+NC_003888.3	1544959	1544960	-	.	+	-	307	
+NC_003888.3	1561338	1561339	-	.	-	-	132	
+NC_003888.3	1577652	1577653	S-adenosylmethionine synthetase	.	-	|<	74	
+NC_003888.3	1577914	1577915	-	.	-	-	313	
+NC_003888.3	1580462	1580463	DNA-directed RNA polymerase subunit omega	.	-	|<	83	
+NC_003888.3	1580521	1580522	DNA-directed RNA polymerase subunit omega	.	-	|<	24	
+NC_003888.3	1580633	1580634	-	.	-	-	176	
+NC_003888.3	1581369	1581370	-	.	-	-	142	
+NC_003888.3	1608883	1608884	30S ribosomal protein S4	.	-	|<	92	
+NC_003888.3	1609725	1609726	-	.	-	-	136	
+NC_003888.3	1611151	1611152	-	.	-	-	158	
+NC_003888.3	1612112	1612113	histidyl-tRNA synthetase	.	-	|<	53	
+NC_003888.3	1619031	1619032	-	.	-	-	302	
+NC_003888.3	1622753	1622754	-	.	-	-	38	
+NC_003888.3	1622903	1622904	hypothetical protein	.	-	|<	47	
+NC_003888.3	1625985	1625986	hypothetical protein	.	-	|<	47	
+NC_003888.3	1626315	1626316	-	.	-	-	392	
+NC_003888.3	1636398	1636399	-	.	+	-	172	
+NC_003888.3	1636909	1636910	threonyl-tRNA synthetase	.	-	|<	56	
+NC_003888.3	1637145	1637146	-	.	-	-	270	
+NC_003888.3	1640856	1640857	-	.	-	-	286	
+NC_003888.3	1650914	1650915	regulator	.	+	>|	125	
+NC_003888.3	1651674	1651675	hypothetical protein	.	-	>|	45	conflict
+NC_003888.3	1656534	1656535	-	.	+	-	335	
+NC_003888.3	1656718	1656719	-	.	+	-	151	
+NC_003888.3	1658267	1658268	small membrane protein	.	-	|<	121	
+NC_003888.3	1674784	1674785	glycerophosphoryl diester phosphodiesterase	.	-	|<	63	
+NC_003888.3	1677131	1677132	acyltransferase|transmembrane-transport protein	.	+	>|<	59,17	
+NC_003888.3	1682696	1682697	-	.	+	-	131	
+NC_003888.3	1702004	1702005	-	.	+	-	150	
+NC_003888.3	1704194	1704195	phenylalanyl-tRNA synthetase subunit beta	.	-	|<	89	
+NC_003888.3	1710268	1710269	50S ribosomal protein L20	.	-	|<	62	
+NC_003888.3	1732223	1732224	glycine/betaine ABC transporter permease	.	-	|<	35	
+NC_003888.3	1739483	1739484	-	.	-	-	486	
+NC_003888.3	1739787	1739788	-	.	-	-	277	
+NC_003888.3	1743779	1743780	-	.	-	-	722	
+NC_003888.3	1748713	1748714	-	.	-	-	287	
+NC_003888.3	1748942	1748943	twin arginine translocase A	.	-	|<	58	
+NC_003888.3	1752200	1752201	peptidyl-prolyl cis-trans isomerase	.	-	|<	69	
+NC_003888.3	1753781	1753782	hypothetical protein	.	-	|<	108	
+NC_003888.3	1754362	1754363	-	.	-	-	655	
+NC_003888.3	1757372	1757373	-	.	-	-	276	
+NC_003888.3	1757558	1757559	20S proteasome alpha-subunit	.	-	|<	90	
+NC_003888.3	1757827	1757828	-	.	-	-	194	
+NC_003888.3	1759798	1759799	hypothetical protein	.	-	|<	100	
+NC_003888.3	1761440	1761441	-	.	-	-	599	
+NC_003888.3	1764167	1764168	-	.	+	-	264	
+NC_003888.3	1764530	1764531	-	.	+	-	174	
+NC_003888.3	1767820	1767821	-	.	-	-	410	
+NC_003888.3	1769886	1769887	two-component response regulator|lipoprotein oligopeptide binding protein	.	-	>|<	60,59	
+NC_003888.3	1783048	1783049	hypothetical protein|cysteinyl-tRNA synthetase	.	-	>|<	7,58	
+NC_003888.3	1785345	1785346	-	.	-	-	109	
+NC_003888.3	1797253	1797254	-	.	+	-	67	
+NC_003888.3	1798259	1798260	-	.	-	-	301	
+NC_003888.3	1819506	1819507	hypothetical protein	.	-	>|	37	conflict
+NC_003888.3	1819858	1819859	-	.	-	-	310	
+NC_003888.3	1835313	1835314	-	.	-	-	307	
+NC_003888.3	1869751	1869752	hypothetical protein|acyl CoA dehydrogenase	.	+	>|<	33,16	
+NC_003888.3	1877090	1877091	-	.	-	-	486	
+NC_003888.3	1887215	1887216	pseudouridine synthase	.	-	|<	96	
+NC_003888.3	1891945	1891946	-	.	-	-	547	
+NC_003888.3	1892403	1892404	L-alanine dehydrogenase	.	-	|<	89	
+NC_003888.3	1896611	1896612	CTP synthetase	.	-	|<	59	
+NC_003888.3	1896665	1896666	CTP synthetase	.	-	|<	5	
+NC_003888.3	1908833	1908834	hypothetical protein	.	+	>|	49	
+NC_003888.3	1916160	1916161	-	.	-	-	1061	
+NC_003888.3	1923765	1923766	hypothetical protein	.	+	>|	68	
+NC_003888.3	1924355	1924356	hypothetical protein	.	+	>|	67	
+NC_003888.3	1926571	1926572	-	.	-	-	145	
+NC_003888.3	1928534	1928535	hypothetical protein|hypothetical protein	.	-	>|<	88,58	
+NC_003888.3	1933946	1933947	hypothetical protein|ABC transporter ATP-binding protein	.	-	>|<	47,80	
+NC_003888.3	1940263	1940264	phosphoserine phosphatase|hypothetical protein	.	-	>|<	22,50	
+NC_003888.3	1943685	1943686	GntR family transcriptional regulator|enoyl-ACP reductase	.	-	>|<	37,52	
+NC_003888.3	1948557	1948558	-	.	+	-	151	
+NC_003888.3	1966507	1966508	-	.	-	-	254	
+NC_003888.3	1966618	1966619	-	.	-	-	365	
+NC_003888.3	1966692	1966693	-	.	-	-	439	
+NC_003888.3	1967077	1967078	-	.	-	-	158	
+NC_003888.3	1967160	1967161	transcriptional regulator	.	-	|<	75	
+NC_003888.3	1968607	1968608	-	.	-	-	860	
+NC_003888.3	1969298	1969299	-	.	-	-	169	
+NC_003888.3	1975801	1975802	-	.	+	-	67	
+NC_003888.3	1975973	1975974	-	.	+	-	504	
+NC_003888.3	1993262	1993263	-	.	-	-	787	
+NC_003888.3	2001868	2001869	hydroxylase|hypothetical protein	.	+	>|<	65,17	
+NC_003888.3	2038275	2038276	transport associated protein	.	+	>|	47	
+NC_003888.3	2040479	2040480	-	.	-	-	499	
+NC_003888.3	2040546	2040547	-	.	-	-	67	
+NC_003888.3	2040793	2040794	-	.	-	-	185	
+NC_003888.3	2040860	2040861	hypothetical protein	.	-	|<	118	
+NC_003888.3	2042309	2042310	-	.	-	-	426	
+NC_003888.3	2046348	2046349	-	.	+	-	128	
+NC_003888.3	2052480	2052481	hypothetical protein	.	-	|<	74	
+NC_003888.3	2052968	2052969	-	.	-	-	82	
+NC_003888.3	2053280	2053281	aminotransferase	.	-	|<	91	
+NC_003888.3	2058544	2058545	-	.	-	-	168	
+NC_003888.3	2058891	2058892	-	.	-	-	412	
+NC_003888.3	2060486	2060487	-	.	+	-	395	
+NC_003888.3	2066009	2066010	-	.	-	-	642	
+NC_003888.3	2070030	2070031	transaldolase	.	+	>|	78	
+NC_003888.3	2073162	2073163	-	.	+	-	214	
+NC_003888.3	2076903	2076904	-	.	-	-	180	
+NC_003888.3	2076979	2076980	electron transport protein	.	-	|<	104	
+NC_003888.3	2077546	2077547	preprotein translocase subunit SecG	.	-	|<	86	
+NC_003888.3	2077908	2077909	triosephosphate isomerase	.	-	|<	106	
+NC_003888.3	2080068	2080069	glyceraldehyde-3-phosphate dehydrogenase	.	-	|<	74	
+NC_003888.3	2084489	2084490	hypothetical protein	.	-	|<	85	
+NC_003888.3	2094271	2094272	excinuclease ABC subunit A	.	-	|<	2	
+NC_003888.3	2104061	2104062	-	.	-	-	278	
+NC_003888.3	2104461	2104462	-	.	-	-	247	
+NC_003888.3	2109823	2109824	dioxygenase	.	+	|<	71	conflict
+NC_003888.3	2109895	2109896	DNA-methyltransferase	.	+	>|	26	
+NC_003888.3	2119245	2119246	-	.	+	-	480	
+NC_003888.3	2120210	2120211	hypothetical protein|hypothetical protein	.	-	>|<	17,2	
+NC_003888.3	2131342	2131343	dephospho-CoA kinase	.	-	|<	48	
+NC_003888.3	2141629	2141630	DNA polymerase I	.	-	|<	29	
+NC_003888.3	2150585	2150586	branched-chain amino acid ABC transporter substrate-binding protein	.	+	>|	66	
+NC_003888.3	2170227	2170228	chitosanase	.	-	>|	6	conflict
+NC_003888.3	2185171	2185172	citrate lyase subunit beta|prolipoprotein diacylglyceryl transferase	.	-	>|<	18,56	
+NC_003888.3	2189305	2189306	hypothetical protein	.	-	|<	115	
+NC_003888.3	2191040	2191041	hypothetical protein	.	-	|<	68	
+NC_003888.3	2200748	2200749	-	.	-	-	486	
+NC_003888.3	2216914	2216915	-	.	+	-	196	
+NC_003888.3	2218517	2218518	hypothetical protein	.	+	>|	104	
+NC_003888.3	2220341	2220342	-	.	+	-	142	
+NC_003888.3	2225073	2225074	-	.	-	-	207	
+NC_003888.3	2227116	2227117	-	.	+	-	120	
+NC_003888.3	2232066	2232067	-	.	-	-	133	
+NC_003888.3	2232806	2232807	-	.	-	-	163	
+NC_003888.3	2234344	2234345	cell division protein FtsZ	.	-	|<	76	
+NC_003888.3	2235647	2235648	-	.	-	-	28	
+NC_003888.3	2236639	2236640	UDPdiphospho-muramoylpentapeptide beta-N- acetylglucosaminyltransferase	.	-	|<	89	
+NC_003888.3	2237892	2237893	-	.	-	-	70	
+NC_003888.3	2241665	2241666	UDP-N-acetylmuramoylalanyl-D-glutamyl-2%2C6-diaminopimelate- D-alanyl-alanyl ligase	.	-	|<	127	
+NC_003888.3	2242979	2242980	-	.	-	-	289	
+NC_003888.3	2249800	2249801	-	.	+	-	133	
+NC_003888.3	2250653	2250654	-	.	+	-	290	
+NC_003888.3	2254828	2254829	hypothetical protein	.	-	|<	21	
+NC_003888.3	2257985	2257986	transcriptional regulator	.	-	>|	70	conflict
+NC_003888.3	2258064	2258065	-	.	-	-	149	
+NC_003888.3	2261063	2261064	-	.	-	-	128	
+NC_003888.3	2262824	2262825	transcriptional regulator	.	-	|<	56	
+NC_003888.3	2270850	2270851	-	.	-	-	293	
+NC_003888.3	2272000	2272001	2-dehydro-3-deoxyphosphoheptonate aldolase	.	-	|<	72	
+NC_003888.3	2286648	2286649	-	.	-	-	342	
+NC_003888.3	2289269	2289270	-	.	-	-	325	
+NC_003888.3	2297564	2297565	-	.	-	-	95	
+NC_003888.3	2298014	2298015	-	.	-	-	545	
+NC_003888.3	2298142	2298143	-	.	-	-	673	
+NC_003888.3	2301880	2301881	transcriptional regulator	.	+	>|	48	
+NC_003888.3	2302114	2302115	-	.	+	-	250	
+NC_003888.3	2309679	2309680	-	.	-	-	367	
+NC_003888.3	2309983	2309984	cytochrome B subunit	.	-	|<	63	
+NC_003888.3	2311569	2311570	Rieske iron-sulfur protein	.	-	|<	111	
+NC_003888.3	2315190	2315191	-	.	+	-	337	
+NC_003888.3	2316289	2316290	hypothetical protein	.	-	|<	73	
+NC_003888.3	2324291	2324292	large membrane protein|hypothetical protein	.	-	>|<	27,76	
+NC_003888.3	2324576	2324577	-	.	-	-	312	
+NC_003888.3	2326308	2326309	quinolinate synthetase|integral membrane efflux protein	.	+	>|<	61,18	
+NC_003888.3	2331858	2331859	-	.	-	-	174	
+NC_003888.3	2333271	2333272	-	.	+	-	460	
+NC_003888.3	2335719	2335720	hypothetical protein	.	-	|<	35	
+NC_003888.3	2344411	2344412	-	.	+	-	385	
+NC_003888.3	2344487	2344488	-	.	+	-	461	
+NC_003888.3	2347630	2347631	2-oxoglutarate dehydrogenase%2C E2 component%2C dihydrolipoamide succinyltransferase	.	+	>|	63	
+NC_003888.3	2357439	2357440	-	.	-	-	353	
+NC_003888.3	2357562	2357563	-	.	-	-	230	
+NC_003888.3	2362954	2362955	lipoyl synthase	.	+	>|	95	
+NC_003888.3	2364139	2364140	hypothetical protein|hypothetical protein	.	+	>|<	34,77	
+NC_003888.3	2365405	2365406	-	.	+	-	722	
+NC_003888.3	2366308	2366309	-	.	+	-	167	
+NC_003888.3	2368006	2368007	-	.	+	-	171	
+NC_003888.3	2370964	2370965	hypothetical protein|hypothetical protein	.	-	>|<	11,44	
+NC_003888.3	2372299	2372300	-	.	+	-	374	
+NC_003888.3	2382059	2382060	hypothetical protein|lipoprotein	.	+	>|<	65,12	
+NC_003888.3	2402055	2402056	-	.	+	-	371	
+NC_003888.3	2455744	2455745	-	.	-	-	400	
+NC_003888.3	2455797	2455798	-	.	-	-	347	
+NC_003888.3	2456048	2456049	alkaline phosphatase	.	-	|<	96	
+NC_003888.3	2462897	2462898	-	.	-	-	324	
+NC_003888.3	2463063	2463064	-	.	-	-	158	
+NC_003888.3	2463170	2463171	hypothetical protein	.	-	|<	51	
+NC_003888.3	2469889	2469890	-	.	-	-	326	
+NC_003888.3	2471537	2471538	-	.	+	-	365	
+NC_003888.3	2473008	2473009	hypothetical protein|dehydrogenase	.	+	>|<	94,14	
+NC_003888.3	2485604	2485605	-	.	+	-	306	
+NC_003888.3	2486394	2486395	hypothetical protein	.	+	>|	68	
+NC_003888.3	2491885	2491886	-	.	+	-	40	
+NC_003888.3	2510588	2510589	hypothetical protein	.	+	>|	92	
+NC_003888.3	2515718	2515719	-	.	-	-	279	
+NC_003888.3	2518618	2518619	hypothetical protein	.	+	>|	82	
+NC_003888.3	2523125	2523126	-	.	+	-	319	
+NC_003888.3	2536334	2536335	-	.	-	-	278	
+NC_003888.3	2537227	2537228	hypothetical protein	.	-	|<	112	
+NC_003888.3	2538281	2538282	-	.	-	-	367	
+NC_003888.3	2538638	2538639	hypothetical protein	.	-	|<	78	
+NC_003888.3	2542394	2542395	pyruvate dehydrogenase subunit E1|small hydrophobic protein	.	-	>|<	63,65	
+NC_003888.3	2544397	2544398	-	.	-	-	335	
+NC_003888.3	2552191	2552192	-	.	+	-	64	
+NC_003888.3	2557415	2557416	hypothetical protein	.	+	>|	111	
+NC_003888.3	2559506	2559507	-	.	+	-	257	
+NC_003888.3	2561868	2561869	-	.	+	-	178	
+NC_003888.3	2561956	2561957	-	.	+	-	266	
+NC_003888.3	2563107	2563108	3-oxoacyl-ACP synthase|hypothetical protein	.	-	>|<	18,84	
+NC_003888.3	2563143	2563144	3-oxoacyl-ACP synthase|hypothetical protein	.	+	>|<	54,48	
+NC_003888.3	2582262	2582263	-	.	+	-	470	
+NC_003888.3	2613488	2613489	-	.	+	-	357	
+NC_003888.3	2625648	2625649	peptidase	.	+	|<	22	conflict
+NC_003888.3	2630187	2630188	-	.	+	-	215	
+NC_003888.3	2646859	2646860	-	.	-	-	210	
+NC_003888.3	2647131	2647132	-	.	-	-	279	
+NC_003888.3	2647209	2647210	-	.	-	-	201	
+NC_003888.3	2657578	2657579	-	.	-	-	507	
+NC_003888.3	2702360	2702361	chitinase|glycyl-tRNA synthetase	.	-	>|<	43,100	
+NC_003888.3	2706949	2706950	-	.	+	-	212	
+NC_003888.3	2707000	2707001	-	.	+	-	263	
+NC_003888.3	2707223	2707224	metal uptake regulation protein|UDP phosphate synthetase	.	-	>|<	4,107	
+NC_003888.3	2707561	2707562	-	.	+	-	342	
+NC_003888.3	2710421	2710422	hypothetical protein	.	+	>|	104	
+NC_003888.3	2714726	2714727	hypothetical protein	.	-	|<	50	
+NC_003888.3	2725135	2725136	-	.	-	-	344	
+NC_003888.3	2727200	2727201	-	.	-	-	363	
+NC_003888.3	2731621	2731622	PhoH-like protein	.	+	>|	111	
+NC_003888.3	2731693	2731694	-	.	+	-	183	
+NC_003888.3	2736787	2736788	-	.	+	-	248	
+NC_003888.3	2736919	2736920	-	.	+	-	380	
+NC_003888.3	2747628	2747629	protease	.	-	|<	35	
+NC_003888.3	2753764	2753765	chaperone protein DnaJ	.	-	|<	105	
+NC_003888.3	2755934	2755935	-	.	-	-	273	
+NC_003888.3	2762044	2762045	-	.	-	-	358	
+NC_003888.3	2764510	2764511	GTP-binding protein LepA	.	-	|<	77	
+NC_003888.3	2766980	2766981	30S ribosomal protein S20	.	+	>|	21	
+NC_003888.3	2775448	2775449	leucyl-tRNA synthetase	.	-	|<	87	
+NC_003888.3	2782718	2782719	-	.	-	-	104	
+NC_003888.3	2782837	2782838	phosphoglycerate mutase	.	-	|<	106	
+NC_003888.3	2783666	2783667	-	.	-	-	52	
+NC_003888.3	2784067	2784068	hypothetical protein	.	-	|<	83	
+NC_003888.3	2786627	2786628	hypothetical protein	.	-	|<	94	
+NC_003888.3	2786948	2786949	hypothetical protein	.	-	|<	38	
+NC_003888.3	2787724	2787725	-	.	+	-	544	
+NC_003888.3	2793389	2793390	-	.	-	-	1140	
+NC_003888.3	2810379	2810380	-	.	-	-	431	
+NC_003888.3	2812174	2812175	-	.	-	-	183	
+NC_003888.3	2812299	2812300	50S ribosomal protein L27	.	-	|<	58	
+NC_003888.3	2818582	2818583	hypothetical protein	.	-	|<	74	
+NC_003888.3	2834851	2834852	rod shape-determining protein MreB	.	-	|<	56	
+NC_003888.3	2836142	2836143	nucleoside diphosphate kinase	.	-	|<	104	
+NC_003888.3	2839935	2839936	-	.	-	-	1454	
+NC_003888.3	2844196	2844197	ATP-dependent Clp protease proteolytic subunit	.	-	|<	79	
+NC_003888.3	2845933	2845934	trigger factor	.	-	|<	66	
+NC_003888.3	2847414	2847415	-	.	-	-	9	
+NC_003888.3	2847888	2847889	hypothetical protein	.	+	|<	94	conflict
+NC_003888.3	2854034	2854035	ribose-5-phosphate isomerase B	.	-	|<	77	
+NC_003888.3	2860789	2860790	superoxide dismutase|hypothetical protein	.	-	>|<	60,56	
+NC_003888.3	2860832	2860833	superoxide dismutase|hypothetical protein	.	+	>|<	103,13	
+NC_003888.3	2871910	2871911	aspartate-semialdehyde dehydrogenase	.	+	>|	53	
+NC_003888.3	2880000	2880001	MarR family regulatory protein|hypothetical protein	.	-	>|<	36,81	
+NC_003888.3	2885880	2885881	-	.	-	-	224	
+NC_003888.3	2886090	2886091	hypothetical protein|hypothetical protein	.	-	>|<	24,14	
+NC_003888.3	2886499	2886500	-	.	-	-	359	
+NC_003888.3	2906722	2906723	hypothetical protein	.	+	>|	65	
+NC_003888.3	2907922	2907923	-	.	+	-	272	
+NC_003888.3	2917999	2918000	-	.	-	-	653	
+NC_003888.3	2974899	2974900	-	.	-	-	254	
+NC_003888.3	2982405	2982406	-	.	+	-	280	
+NC_003888.3	2982668	2982669	type II citrate synthase	.	+	|<	100	conflict
+NC_003888.3	2982702	2982703	type II citrate synthase	.	-	|<	66	
+NC_003888.3	2983315	2983316	-	.	-	-	980	
+NC_003888.3	2984453	2984454	-	.	-	-	396	
+NC_003888.3	2996339	2996340	D-ribose pyranase	.	-	>|	40	conflict
+NC_003888.3	3014267	3014268	-	.	-	-	540	
+NC_003888.3	3019505	3019506	-	.	-	-	15	
+NC_003888.3	3033274	3033275	acyl-CoA dehydrogenase	.	+	>|	50	
+NC_003888.3	3043787	3043788	hypothetical protein	.	+	>|	72	
+NC_003888.3	3045508	3045509	hypothetical protein	.	-	|<	110	
+NC_003888.3	3045562	3045563	hypothetical protein	.	-	|<	56	
+NC_003888.3	3045760	3045761	-	.	-	-	158	
+NC_003888.3	3045822	3045823	-	.	-	-	220	
+NC_003888.3	3046056	3046057	-	.	-	-	395	
+NC_003888.3	3047766	3047767	-	.	+	-	906	
+NC_003888.3	3049116	3049117	-	.	+	-	720	
+NC_003888.3	3049470	3049471	-	.	+	-	196	
+NC_003888.3	3079068	3079069	hypothetical protein|hypothetical protein	.	-	>|<	117,120	
+NC_003888.3	3079861	3079862	hypothetical protein	.	-	|<	83	
+NC_003888.3	3082345	3082346	decarboxylase	.	+	|<	84	conflict
+NC_003888.3	3088380	3088381	-	.	+	-	293	
+NC_003888.3	3091063	3091064	-	.	+	-	267	
+NC_003888.3	3095570	3095571	-	.	+	-	630	
+NC_003888.3	3095766	3095767	-	.	+	-	826	
+NC_003888.3	3099418	3099419	hypothetical protein|endoglucanase	.	-	>|<	18,83	
+NC_003888.3	3133968	3133969	hypothetical protein	.	+	>|	70	
+NC_003888.3	3134556	3134557	-	.	+	-	61	
+NC_003888.3	3145776	3145777	-	.	+	-	1341	
+NC_003888.3	3145923	3145924	-	.	+	-	1194	
+NC_003888.3	3151129	3151130	-	.	+	-	386	
+NC_003888.3	3153813	3153814	GroES family molecular chaperone	.	-	|<	56	
+NC_003888.3	3155273	3155274	deoxyribonucleotide triphosphate pyrophosphatase	.	+	|<	16	conflict
+NC_003888.3	3157259	3157260	hypothetical protein	.	-	|<	55	
+NC_003888.3	3157337	3157338	-	.	-	-	100	
+NC_003888.3	3163695	3163696	-	.	-	-	17	
+NC_003888.3	3165519	3165520	hypothetical protein	.	-	|<	106	
+NC_003888.3	3166405	3166406	-	.	-	-	172	
+NC_003888.3	3169275	3169276	protease	.	-	|<	63	
+NC_003888.3	3172587	3172588	-	.	+	-	171	
+NC_003888.3	3198406	3198407	-	.	-	-	356	
+NC_003888.3	3204426	3204427	-	.	-	-	383	
+NC_003888.3	3206232	3206233	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	-	>|	15	conflict
+NC_003888.3	3206750	3206751	-	.	-	-	67	
+NC_003888.3	3223816	3223817	-	.	-	-	267	
+NC_003888.3	3223935	3223936	-	.	-	-	148	
+NC_003888.3	3226540	3226541	transporter	.	-	>|	107	conflict
+NC_003888.3	3226613	3226614	-	.	-	-	180	
+NC_003888.3	3226792	3226793	-	.	-	-	257	
+NC_003888.3	3228782	3228783	cell division protein	.	-	|<	49	
+NC_003888.3	3229661	3229662	-	.	-	-	131	
+NC_003888.3	3230965	3230966	hypothetical protein|hypothetical protein	.	-	>|<	76,82	
+NC_003888.3	3231456	3231457	-	.	-	-	567	
+NC_003888.3	3232098	3232099	peptide chain release factor 2	.	-	|<	66	
+NC_003888.3	3233131	3233132	-	.	-	-	217	
+NC_003888.3	3235577	3235578	-	.	-	-	976	
+NC_003888.3	3236019	3236020	-	.	-	-	717	
+NC_003888.3	3236268	3236269	-	.	-	-	468	
+NC_003888.3	3240737	3240738	hypothetical protein	.	-	|<	77	
+NC_003888.3	3255464	3255465	-	.	+	-	616	
+NC_003888.3	3255602	3255603	-	.	+	-	754	
+NC_003888.3	3260255	3260256	-	.	-	-	298	
+NC_003888.3	3268540	3268541	hypothetical protein	.	-	|<	70	
+NC_003888.3	3270334	3270335	-	.	-	-	1942	
+NC_003888.3	3273507	3273508	-	.	-	-	567	
+NC_003888.3	3282484	3282485	-	.	-	-	374	
+NC_003888.3	3282560	3282561	-	.	-	-	298	
+NC_003888.3	3282791	3282792	hypothetical protein	.	-	|<	67	
+NC_003888.3	3283347	3283348	-	.	-	-	517	
+NC_003888.3	3283556	3283557	-	.	-	-	308	
+NC_003888.3	3288827	3288828	two-component system response regulator	.	-	|<	62	
+NC_003888.3	3302018	3302019	-	.	-	-	300	
+NC_003888.3	3306308	3306309	-	.	-	-	577	
+NC_003888.3	3315206	3315207	hypothetical protein	.	-	|<	34	
+NC_003888.3	3320478	3320479	-	.	-	-	274	
+NC_003888.3	3320664	3320665	sporulation regulatory protein	.	-	|<	88	
+NC_003888.3	3330927	3330928	-	.	+	-	250	
+NC_003888.3	3332701	3332702	hypothetical protein	.	+	>|	106	
+NC_003888.3	3332759	3332760	-	.	+	-	164	
+NC_003888.3	3341953	3341954	acyl-CoA thioesterase	.	+	>|	102	
+NC_003888.3	3343017	3343018	acyl-CoA dehydrogenase	.	-	|<	52	
+NC_003888.3	3345327	3345328	-	.	+	-	491	
+NC_003888.3	3353622	3353623	-	.	-	-	461	
+NC_003888.3	3358725	3358726	peptide transporter	.	+	>|	68	
+NC_003888.3	3361658	3361659	RNA polymerase sigma factor|hypothetical protein	.	+	>|<	51,26	
+NC_003888.3	3369137	3369138	-	.	-	-	345	
+NC_003888.3	3369992	3369993	hypothetical protein	.	-	>|	40	conflict
+NC_003888.3	3376201	3376202	hypothetical protein|hypothetical protein	.	-	>|<	22,50	
+NC_003888.3	3379805	3379806	-	.	+	-	718	
+NC_003888.3	3380834	3380835	-	.	-	-	259	
+NC_003888.3	3380890	3380891	-	.	-	-	203	
+NC_003888.3	3386402	3386403	oxidoreductase	.	-	|<	110	
+NC_003888.3	3390469	3390470	phosphopyruvate hydratase	.	-	|<	71	
+NC_003888.3	3396563	3396564	-	.	-	-	128	
+NC_003888.3	3414876	3414877	hypothetical protein	.	-	|<	24	
+NC_003888.3	3421170	3421171	-	.	-	-	678	
+NC_003888.3	3422582	3422583	-	.	+	-	384	
+NC_003888.3	3423954	3423955	bifunctional N-acetylglucosamine-1-phosphate uridyltransferase/glucosamine-1-phosphate acetyltransferase	.	+	>|	98	
+NC_003888.3	3425077	3425078	ribose-phosphate pyrophosphokinase	.	+	>|	115	
+NC_003888.3	3425834	3425835	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	63	
+NC_003888.3	3427072	3427073	hypothetical protein|phosphoenolpyruvate carboxylase	.	-	>|<	22,59	
+NC_003888.3	3443132	3443133	hypothetical protein	.	-	|<	63	
+NC_003888.3	3445454	3445455	-	.	-	-	766	
+NC_003888.3	3450617	3450618	-	.	-	-	234	
+NC_003888.3	3456803	3456804	-	.	+	-	261	
+NC_003888.3	3486362	3486363	-	.	-	-	187	
+NC_003888.3	3493173	3493174	-	.	+	-	5	
+NC_003888.3	3494947	3494948	hypothetical protein	.	+	>|	104	
+NC_003888.3	3500369	3500370	-	.	+	-	460	
+NC_003888.3	3501362	3501363	lipoprotein	.	+	>|	69	
+NC_003888.3	3501549	3501550	-	.	+	-	256	
+NC_003888.3	3501600	3501601	-	.	+	-	307	
+NC_003888.3	3506055	3506056	-	.	-	-	334	
+NC_003888.3	3510096	3510097	-	.	-	-	143	
+NC_003888.3	3515210	3515211	TetR family transcriptional regulator	.	-	|<	91	
+NC_003888.3	3531198	3531199	transcriptional regulator|hypothetical protein	.	-	>|<	11,51	
+NC_003888.3	3532661	3532662	-	.	-	-	309	
+NC_003888.3	3595767	3595768	hypothetical protein	.	-	|<	75	
+NC_003888.3	3634171	3634172	hypothetical protein	.	-	|<	37	
+NC_003888.3	3640009	3640010	hypothetical protein	.	+	>|	60	
+NC_003888.3	3643995	3643996	-	.	-	-	271	
+NC_003888.3	3650714	3650715	hypothetical protein	.	+	>|	100	
+NC_003888.3	3653034	3653035	-	.	-	-	1029	
+NC_003888.3	3653525	3653526	-	.	-	-	649	
+NC_003888.3	3669678	3669679	porphobilinogen deaminase	.	+	|<	38	conflict
+NC_003888.3	3671676	3671677	-	.	-	-	738	
+NC_003888.3	3671792	3671793	-	.	-	-	622	
+NC_003888.3	3672002	3672003	-	.	-	-	412	
+NC_003888.3	3672213	3672214	-	.	-	-	201	
+NC_003888.3	3673174	3673175	-	.	+	-	291	
+NC_003888.3	3679111	3679112	-	.	-	-	530	
+NC_003888.3	3679785	3679786	hypothetical protein	.	-	|<	62	
+NC_003888.3	3705957	3705958	-	.	-	-	440	
+NC_003888.3	3706037	3706038	-	.	-	-	360	
+NC_003888.3	3713456	3713457	-	.	+	-	154	
+NC_003888.3	3715735	3715736	-	.	+	-	432	
+NC_003888.3	3715872	3715873	-	.	+	-	321	
+NC_003888.3	3719800	3719801	-	.	-	-	324	
+NC_003888.3	3722351	3722352	hypothetical protein|hypothetical protein	.	-	>|<	108,62	
+NC_003888.3	3726052	3726053	-	.	+	-	166	
+NC_003888.3	3727573	3727574	-	.	+	-	669	
+NC_003888.3	3736367	3736368	large ATP-binding protein|Clp-family ATP-binding protease	.	-	>|<	15,63	
+NC_003888.3	3738965	3738966	-	.	-	-	10	
+NC_003888.3	3756587	3756588	-	.	-	-	353	
+NC_003888.3	3766987	3766988	-	.	+	-	207	
+NC_003888.3	3768005	3768006	cell division protein FtsH-like protein	.	-	|<	87	
+NC_003888.3	3768607	3768608	-	.	-	-	647	
+NC_003888.3	3769848	3769849	-	.	-	-	480	
+NC_003888.3	3769923	3769924	-	.	-	-	405	
+NC_003888.3	3770071	3770072	-	.	-	-	257	
+NC_003888.3	3770688	3770689	-	.	-	-	275	
+NC_003888.3	3773187	3773188	-	.	-	-	276	
+NC_003888.3	3775688	3775689	inorganic pyrophosphatase	.	+	>|	53	
+NC_003888.3	3775867	3775868	-	.	+	-	232	
+NC_003888.3	3784727	3784728	-	.	-	-	99	
+NC_003888.3	3786902	3786903	hypothetical protein	.	-	|<	74	
+NC_003888.3	3787608	3787609	-	.	-	-	302	
+NC_003888.3	3787692	3787693	-	.	-	-	218	
+NC_003888.3	3799061	3799062	fatty acid CoA ligase	.	-	>|	19	conflict
+NC_003888.3	3835609	3835610	-	.	-	-	260	
+NC_003888.3	3874275	3874276	-	.	+	-	485	
+NC_003888.3	3904830	3904831	DNA-binding protein	.	-	|<	38	
+NC_003888.3	3914929	3914930	DNA topoisomerase I	.	-	|<	97	
+NC_003888.3	3917689	3917690	-	.	-	-	464	
+NC_003888.3	3917756	3917757	-	.	-	-	397	
+NC_003888.3	3923630	3923631	anti-sigma factor	.	-	|<	79	
+NC_003888.3	3923974	3923975	-	.	-	-	276	
+NC_003888.3	3933527	3933528	-	.	-	-	224	
+NC_003888.3	3934919	3934920	oxidoreductase	.	+	|<	58	conflict
+NC_003888.3	3939726	3939727	-	.	+	-	1486	
+NC_003888.3	3943495	3943496	-	.	+	-	290	
+NC_003888.3	3944582	3944583	-	.	+	-	366	
+NC_003888.3	3945613	3945614	-	.	+	-	177	
+NC_003888.3	3946788	3946789	serine protease	.	+	|<	14	conflict
+NC_003888.3	3947060	3947061	-	.	+	-	653	
+NC_003888.3	3947806	3947807	-	.	-	-	247	
+NC_003888.3	3949777	3949778	-	.	-	-	176	
+NC_003888.3	3953660	3953661	-	.	-	-	558	
+NC_003888.3	3954170	3954171	hypothetical protein	.	-	|<	48	
+NC_003888.3	3955341	3955342	-	.	+	-	498	
+NC_003888.3	3956826	3956827	-	.	-	-	617	
+NC_003888.3	3957247	3957248	-	.	+	-	196	
+NC_003888.3	3957371	3957372	regulatory protein	.	-	|<	72	
+NC_003888.3	3957873	3957874	-	.	-	-	92	
+NC_003888.3	3958346	3958347	-	.	+	-	565	
+NC_003888.3	3958481	3958482	-	.	+	-	700	
+NC_003888.3	3960527	3960528	transpeptidase|hypothetical protein	.	-	>|<	15,113	
+NC_003888.3	3984935	3984936	-	.	-	-	305	
+NC_003888.3	3985581	3985582	-	.	-	-	402	
+NC_003888.3	3992844	3992845	-	.	-	-	485	
+NC_003888.3	3993164	3993165	-	.	-	-	165	
+NC_003888.3	3993328	3993329	aspartate-semialdehyde dehydrogenase	.	-	|<	1	
+NC_003888.3	3995568	3995569	-	.	-	-	404	
+NC_003888.3	3996871	3996872	recombination protein RecR	.	-	|<	56	
+NC_003888.3	3997214	3997215	-	.	-	-	280	
+NC_003888.3	3997459	3997460	-	.	-	-	166	
+NC_003888.3	3997810	3997811	-	.	-	-	284	
+NC_003888.3	3997877	3997878	-	.	-	-	351	
+NC_003888.3	4005663	4005664	-	.	-	-	296	
+NC_003888.3	4008004	4008005	-	.	-	-	364	
+NC_003888.3	4009579	4009580	-	.	+	-	213	
+NC_003888.3	4025505	4025506	hypothetical protein	.	-	|<	44	
+NC_003888.3	4027682	4027683	fructose-bisphosphate aldolase	.	-	|<	59	
+NC_003888.3	4028691	4028692	-	.	-	-	254	
+NC_003888.3	4036063	4036064	-	.	-	-	255	
+NC_003888.3	4037910	4037911	aminotransferase|hypothetical protein	.	-	>|<	32,64	
+NC_003888.3	4048384	4048385	heat shock protein	.	-	|<	75	
+NC_003888.3	4048686	4048687	-	.	-	-	234	
+NC_003888.3	4050062	4050063	heat shock protein GrpE	.	-	|<	100	
+NC_003888.3	4051650	4051651	-	.	+	-	811	
+NC_003888.3	4055740	4055741	-	.	+	-	944	
+NC_003888.3	4060182	4060183	-	.	+	-	364	
+NC_003888.3	4061668	4061669	-	.	-	-	15	
+NC_003888.3	4062237	4062238	-	.	+	-	349	
+NC_003888.3	4086512	4086513	-	.	+	-	642	
+NC_003888.3	4089207	4089208	transposase	.	-	|<	77	
+NC_003888.3	4118883	4118884	hypothetical protein|cold shock protein	.	-	>|<	8,73	
+NC_003888.3	4137671	4137672	hypothetical protein	.	-	|<	41	
+NC_003888.3	4142246	4142247	translocase|TetR family transcriptional regulator	.	+	>|<	3,10	
+NC_003888.3	4142978	4142979	-	.	+	-	91	
+NC_003888.3	4143092	4143093	-	.	+	-	99	
+NC_003888.3	4165733	4165734	hypothetical protein	.	-	|<	82	
+NC_003888.3	4170360	4170361	-	.	+	-	866	
+NC_003888.3	4171128	4171129	-	.	+	-	199	
+NC_003888.3	4171284	4171285	methionyl-tRNA synthetase	.	+	>|	58	
+NC_003888.3	4172640	4172641	aspartyl-tRNA synthetase	.	-	|<	106	
+NC_003888.3	4174280	4174281	-	.	-	-	436	
+NC_003888.3	4179119	4179120	-	.	-	-	176	
+NC_003888.3	4185773	4185774	hydrolase	.	-	|<	59	
+NC_003888.3	4187231	4187232	-	.	+	-	526	
+NC_003888.3	4193510	4193511	DNA-binding protein|branched-chain alpha-keto acid dehydrogenase E2	.	-	>|<	57,21	
+NC_003888.3	4195888	4195889	branched-chain alpha-keto acid dehydrogenase E1 subunit alpha	.	-	|<	54	
+NC_003888.3	4199358	4199359	-	.	-	-	651	
+NC_003888.3	4202503	4202504	Ser/Thr protein kinase|hypothetical protein	.	+	>|<	67,49	
+NC_003888.3	4202932	4202933	-	.	-	-	496	
+NC_003888.3	4222851	4222852	hypothetical protein	.	-	|<	51	
+NC_003888.3	4226761	4226762	dioxygenase	.	-	>|	88	conflict
+NC_003888.3	4227298	4227299	-	.	+	-	75	
+NC_003888.3	4227753	4227754	-	.	+	-	503	
+NC_003888.3	4229417	4229418	-	.	+	-	643	
+NC_003888.3	4230715	4230716	-	.	+	-	252	
+NC_003888.3	4233445	4233446	penicillin-binding protein	.	+	>|	46	
+NC_003888.3	4235640	4235641	Ser/Thr protein kinase|hypothetical protein	.	+	>|<	29,50	
+NC_003888.3	4236304	4236305	-	.	-	-	161	
+NC_003888.3	4238037	4238038	hypothetical protein	.	-	|<	118	
+NC_003888.3	4239802	4239803	hypothetical protein	.	+	|<	49	conflict
+NC_003888.3	4241229	4241230	-	.	-	-	474	
+NC_003888.3	4242449	4242450	regulatory protein|UDP pyrophosphate synthase	.	-	>|<	48,62	
+NC_003888.3	4243083	4243084	-	.	-	-	682	
+NC_003888.3	4243683	4243684	-	.	-	-	254	
+NC_003888.3	4247741	4247742	hypothetical protein	.	-	|<	58	
+NC_003888.3	4251980	4251981	-	.	+	-	320	
+NC_003888.3	4253090	4253091	-	.	+	-	598	
+NC_003888.3	4259750	4259751	-	.	-	-	228	
+NC_003888.3	4260643	4260644	DNA gyrase subunit A	.	-	|<	97	
+NC_003888.3	4265458	4265459	-	.	-	-	21	
+NC_003888.3	4267486	4267487	6-phosphogluconate dehydrogenase	.	-	|<	107	
+NC_003888.3	4269990	4269991	-	.	-	-	148	
+NC_003888.3	4272600	4272601	-	.	-	-	526	
+NC_003888.3	4273451	4273452	-	.	+	-	188	
+NC_003888.3	4275906	4275907	hypothetical protein	.	+	>|	52	
+NC_003888.3	4279280	4279281	partitioning or sporulation protein	.	+	>|	100	
+NC_003888.3	4280160	4280161	hypothetical protein|thioredoxin	.	-	>|<	25,51	
+NC_003888.3	4283114	4283115	-	.	-	-	201	
+NC_003888.3	4291665	4291666	hypothetical protein	.	-	|<	98	
+NC_003888.3	4291737	4291738	RNA nucleotidyltransferase|hypothetical protein	.	-	>|<	71,26	
+NC_003888.3	4293686	4293687	hypothetical protein	.	-	|<	59	
+NC_003888.3	4293830	4293831	-	.	-	-	165	
+NC_003888.3	4295104	4295105	-	.	-	-	277	
+NC_003888.3	4300288	4300289	hypothetical protein|hypothetical protein	.	+	>|<	58,20	
+NC_003888.3	4302330	4302331	-	.	-	-	330	
+NC_003888.3	4302554	4302555	hypothetical protein	.	-	|<	106	
+NC_003888.3	4303243	4303244	-	.	+	-	278	
+NC_003888.3	4305023	4305024	50S ribosomal protein L9|hypothetical protein	.	+	>|<	65,36	
+NC_003888.3	4315198	4315199	-	.	-	-	348	
+NC_003888.3	4315487	4315488	cystathionine gamma-lyase	.	+	|<	59	conflict
+NC_003888.3	4318380	4318381	hypothetical protein	.	+	>|	51	
+NC_003888.3	4321770	4321771	-	.	+	-	269	
+NC_003888.3	4324430	4324431	hypothetical protein	.	+	|<	10	conflict
+NC_003888.3	4327776	4327777	-	.	-	-	612	
+NC_003888.3	4332095	4332096	plasmid replication initiator protein|integrase /recombinase	.	-	>|<	75,64	
+NC_003888.3	4335313	4335314	-	.	-	-	169	
+NC_003888.3	4336279	4336280	-	.	-	-	257	
+NC_003888.3	4361228	4361229	-	.	-	-	678	
+NC_003888.3	4361591	4361592	-	.	-	-	743	
+NC_003888.3	4363052	4363053	-	.	-	-	295	
+NC_003888.3	4369636	4369637	-	.	-	-	429	
+NC_003888.3	4370572	4370573	Xaa-Pro aminopeptidase	.	-	|<	13	
+NC_003888.3	4371853	4371854	-	.	-	-	342	
+NC_003888.3	4374261	4374262	-	.	+	-	23	
+NC_003888.3	4375707	4375708	hypothetical protein	.	-	>|	37	conflict
+NC_003888.3	4406501	4406502	-	.	-	-	361	
+NC_003888.3	4407603	4407604	-	.	+	-	274	
+NC_003888.3	4407867	4407868	-	.	+	-	73	
+NC_003888.3	4408553	4408554	-	.	+	-	140	
+NC_003888.3	4410985	4410986	-	.	+	-	50	
+NC_003888.3	4424855	4424856	-	.	+	-	447	
+NC_003888.3	4430653	4430654	hypothetical protein|RNA polymerase sigma factor	.	+	>|<	86,30	
+NC_003888.3	4430744	4430745	-	.	-	-	177	
+NC_003888.3	4430808	4430809	-	.	-	-	241	
+NC_003888.3	4431519	4431520	-	.	-	-	412	
+NC_003888.3	4431802	4431803	-	.	-	-	129	
+NC_003888.3	4432915	4432916	hypothetical protein	.	-	|<	72	
+NC_003888.3	4433545	4433546	-	.	-	-	89	
+NC_003888.3	4434851	4434852	-	.	-	-	77	
+NC_003888.3	4436543	4436544	-	.	-	-	344	
+NC_003888.3	4447323	4447324	-	.	+	-	279	
+NC_003888.3	4456865	4456866	hypothetical protein	.	-	>|	7	conflict
+NC_003888.3	4457436	4457437	-	.	+	-	578	
+NC_003888.3	4465949	4465950	phosphoribosylaminoimidazole-succinocarboxamide synthase|LuxR family transcripitonal regulator	.	+	>|<	65,113	
+NC_003888.3	4465950	4465951	phosphoribosylaminoimidazole-succinocarboxamide synthase|LuxR family transcripitonal regulator	.	-	>|<	66,112	
+NC_003888.3	4470036	4470037	-	.	-	-	224	
+NC_003888.3	4470256	4470257	LSR2-like protein	.	-	|<	4	
+NC_003888.3	4473333	4473334	-	.	+	-	859	
+NC_003888.3	4474151	4474152	phosphoribosylformylglycinamidine synthase II|hypothetical protein	.	-	>|<	19,41	
+NC_003888.3	4474190	4474191	phosphoribosylformylglycinamidine synthase II|hypothetical protein	.	+	>|<	58,2	
+NC_003888.3	4479605	4479606	-	.	+	-	342	
+NC_003888.3	4479876	4479877	-	.	+	-	613	
+NC_003888.3	4480934	4480935	amidophosphoribosyltransferase	.	+	>|	82	
+NC_003888.3	4482026	4482027	phosphoribosylaminoimidazole synthetase|hypothetical protein	.	-	>|<	27,51	
+NC_003888.3	4482064	4482065	phosphoribosylaminoimidazole synthetase|hypothetical protein	.	+	>|<	65,13	
+NC_003888.3	4482160	4482161	-	.	+	-	161	
+NC_003888.3	4482388	4482389	-	.	-	-	57	
+NC_003888.3	4482551	4482552	valine dehydrogenase	.	-	|<	102	
+NC_003888.3	4485629	4485630	DNA-binding protein	.	+	>|	61	
+NC_003888.3	4485711	4485712	-	.	+	-	143	
+NC_003888.3	4487947	4487948	-	.	-	-	2379	
+NC_003888.3	4490731	4490732	-	.	-	-	110	
+NC_003888.3	4490818	4490819	-	.	-	-	197	
+NC_003888.3	4490882	4490883	-	.	-	-	209	
+NC_003888.3	4490938	4490939	-	.	-	-	153	
+NC_003888.3	4498267	4498268	-	.	+	-	236	
+NC_003888.3	4505579	4505580	-	.	+	-	191	
+NC_003888.3	4506678	4506679	-	.	-	-	654	
+NC_003888.3	4513567	4513568	sporulation associated protein	.	-	|<	94	
+NC_003888.3	4514884	4514885	-	.	-	-	911	
+NC_003888.3	4515427	4515428	-	.	+	-	345	
+NC_003888.3	4515483	4515484	-	.	+	-	312	
+NC_003888.3	4530320	4530321	-	.	+	-	305	
+NC_003888.3	4544952	4544953	-	.	-	-	385	
+NC_003888.3	4552015	4552016	-	.	+	-	333	
+NC_003888.3	4552820	4552821	-	.	+	-	310	
+NC_003888.3	4570668	4570669	5'-nucleotidase	.	+	>|	31	
+NC_003888.3	4575467	4575468	-	.	-	-	477	
+NC_003888.3	4580097	4580098	-	.	+	-	431	
+NC_003888.3	4582224	4582225	hypothetical protein	.	+	>|	64	
+NC_003888.3	4590770	4590771	-	.	+	-	226	
+NC_003888.3	4596786	4596787	-	.	-	-	253	
+NC_003888.3	4597512	4597513	-	.	+	-	288	
+NC_003888.3	4614777	4614778	-	.	+	-	152	
+NC_003888.3	4618782	4618783	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase|hypothetical protein	.	+	>|<	2,98	
+NC_003888.3	4618835	4618836	2%2C3-bisphosphoglycerate-dependent phosphoglycerate mutase|hypothetical protein	.	+	>|<	55,45	
+NC_003888.3	4631892	4631893	hypothetical protein	.	-	|<	84	
+NC_003888.3	4635147	4635148	-	.	+	-	169	
+NC_003888.3	4635240	4635241	response regulator|lipoprotein	.	+	>|<	85,76	
+NC_003888.3	4637122	4637123	-	.	-	-	419	
+NC_003888.3	4639866	4639867	-	.	+	-	988	
+NC_003888.3	4644202	4644203	-	.	-	-	303	
+NC_003888.3	4645883	4645884	-	.	-	-	787	
+NC_003888.3	4660233	4660234	hypothetical protein	.	-	|<	46	
+NC_003888.3	4660922	4660923	-	.	-	-	110	
+NC_003888.3	4670383	4670384	-	.	+	-	351	
+NC_003888.3	4671697	4671698	hydrolytic protein	.	+	>|	109	
+NC_003888.3	4674124	4674125	-	.	-	-	438	
+NC_003888.3	4674177	4674178	-	.	-	-	385	
+NC_003888.3	4674781	4674782	-	.	+	-	413	
+NC_003888.3	4692820	4692821	response regulatory protein|tellurium resistance protein	.	-	>|<	44,62	
+NC_003888.3	4697290	4697291	hypothetical protein	.	+	>|	94	
+NC_003888.3	4710233	4710234	hypothetical protein	.	+	>|	69	
+NC_003888.3	4710859	4710860	cold shock protein	.	+	>|	73	
+NC_003888.3	4712366	4712367	-	.	+	-	624	
+NC_003888.3	4712818	4712819	chaperonin GroEL	.	+	>|	79	
+NC_003888.3	4714314	4714315	-	.	+	-	194	
+NC_003888.3	4716794	4716795	-	.	-	-	419	
+NC_003888.3	4739334	4739335	lipoprotein	.	-	|<	70	
+NC_003888.3	4748451	4748452	hypothetical protein	.	-	|<	84	
+NC_003888.3	4748515	4748516	hypothetical protein	.	-	|<	20	
+NC_003888.3	4750284	4750285	-	.	-	-	204	
+NC_003888.3	4805515	4805516	-	.	-	-	381	
+NC_003888.3	4805580	4805581	citrate synthase 2	.	-	>|	17	conflict
+NC_003888.3	4811716	4811717	-	.	-	-	171	
+NC_003888.3	4811749	4811750	-	.	+	-	138	
+NC_003888.3	4820938	4820939	-	.	-	-	261	
+NC_003888.3	4821607	4821608	-	.	+	-	140	
+NC_003888.3	4826956	4826957	-	.	-	-	408	
+NC_003888.3	4827705	4827706	-	.	-	-	338	
+NC_003888.3	4827830	4827831	-	.	-	-	456	
+NC_003888.3	4828574	4828575	-	.	+	-	198	
+NC_003888.3	4830180	4830181	-	.	+	-	469	
+NC_003888.3	4842323	4842324	hypothetical protein|sigma-like protein	.	-	>|<	34,58	
+NC_003888.3	4842474	4842475	-	.	+	-	185	
+NC_003888.3	4842604	4842605	-	.	-	-	32	
+NC_003888.3	4842793	4842794	-	.	+	-	221	
+NC_003888.3	4850860	4850861	-	.	+	-	194	
+NC_003888.3	4855704	4855705	lyase	.	+	>|	45	
+NC_003888.3	4857696	4857697	hypothetical protein	.	-	|<	30	
+NC_003888.3	4858043	4858044	-	.	-	-	553	
+NC_003888.3	4864225	4864226	-	.	+	-	455	
+NC_003888.3	4864698	4864699	-	.	+	-	192	
+NC_003888.3	4865203	4865204	-	.	+	-	332	
+NC_003888.3	4865855	4865856	glutathione peroxidase	.	-	|<	68	
+NC_003888.3	4882785	4882786	-	.	+	-	197	
+NC_003888.3	4886242	4886243	-	.	-	-	227	
+NC_003888.3	4886392	4886393	hypothetical protein	.	-	|<	102	
+NC_003888.3	4886642	4886643	-	.	-	-	139	
+NC_003888.3	4887126	4887127	-	.	+	-	426	
+NC_003888.3	4892069	4892070	cytochrome biogenesis-like protein	.	+	>|	78	
+NC_003888.3	4893568	4893569	-	.	-	-	340	
+NC_003888.3	4908915	4908916	-	.	-	-	308	
+NC_003888.3	4912174	4912175	-	.	+	-	202	
+NC_003888.3	4913433	4913434	-	.	+	-	230	
+NC_003888.3	4914543	4914544	-	.	+	-	93	
+NC_003888.3	4916296	4916297	hypothetical protein	.	+	>|	61	
+NC_003888.3	4916552	4916553	-	.	+	-	317	
+NC_003888.3	4925695	4925696	cold shock protein	.	-	|<	54	
+NC_003888.3	4934113	4934114	hypothetical protein	.	+	|<	76	conflict
+NC_003888.3	4934217	4934218	hypothetical protein	.	+	>|	62	
+NC_003888.3	4944387	4944388	hypothetical protein	.	-	>|	92	conflict
+NC_003888.3	4945692	4945693	-	.	+	-	171	
+NC_003888.3	4947172	4947173	-	.	+	-	428	
+NC_003888.3	4955985	4955986	-	.	-	-	315	
+NC_003888.3	4962744	4962745	-	.	+	-	33	
+NC_003888.3	4978565	4978566	hypothetical protein	.	-	|<	63	
+NC_003888.3	4979218	4979219	-	.	-	-	724	
+NC_003888.3	5000628	5000629	-	.	-	-	368	
+NC_003888.3	5000763	5000764	-	.	-	-	74	
+NC_003888.3	5003672	5003673	hypothetical protein	.	+	>|	126	
+NC_003888.3	5003775	5003776	-	.	+	-	229	
+NC_003888.3	5006474	5006475	-	.	+	-	548	
+NC_003888.3	5006750	5006751	-	.	+	-	751	
+NC_003888.3	5007540	5007541	hypothetical protein	.	+	>|	92	
+NC_003888.3	5007667	5007668	-	.	+	-	219	
+NC_003888.3	5010441	5010442	-	.	+	-	396	
+NC_003888.3	5019656	5019657	two-component system response regulator	.	-	|<	42	
+NC_003888.3	5031000	5031001	-	.	-	-	399	
+NC_003888.3	5034394	5034395	-	.	+	-	449	
+NC_003888.3	5035339	5035340	hypothetical protein	.	+	>|	80	
+NC_003888.3	5037916	5037917	-	.	+	-	237	
+NC_003888.3	5038541	5038542	-	.	+	-	216	
+NC_003888.3	5047463	5047464	-	.	+	-	199	
+NC_003888.3	5055077	5055078	-	.	+	-	412	
+NC_003888.3	5055149	5055150	-	.	+	-	484	
+NC_003888.3	5061508	5061509	-	.	+	-	90	
+NC_003888.3	5061775	5061776	50S ribosomal protein L33	.	+	>|	13	
+NC_003888.3	5069693	5069694	aspartate aminotransferase	.	-	|<	55	
+NC_003888.3	5069775	5069776	-	.	-	-	153	
+NC_003888.3	5071288	5071289	-	.	+	-	107	
+NC_003888.3	5071424	5071425	-	.	+	-	336	
+NC_003888.3	5071644	5071645	-	.	+	-	116	
+NC_003888.3	5071724	5071725	preprotein translocase subunit SecE	.	+	>|	45	
+NC_003888.3	5071883	5071884	-	.	+	-	204	
+NC_003888.3	5072429	5072430	-	.	+	-	421	
+NC_003888.3	5072748	5072749	transcription antitermination protein	.	+	>|	86	
+NC_003888.3	5073718	5073719	-	.	+	-	434	
+NC_003888.3	5074028	5074029	-	.	+	-	238	
+NC_003888.3	5074155	5074156	50S ribosomal protein L1	.	+	>|	62	
+NC_003888.3	5076376	5076377	-	.	+	-	63	
+NC_003888.3	5076805	5076806	-	.	+	-	282	
+NC_003888.3	5077557	5077558	50S ribosomal protein L7/L12	.	+	>|	87	
+NC_003888.3	5078250	5078251	-	.	+	-	780	
+NC_003888.3	5081614	5081615	DNA-directed RNA polymerase subunit beta	.	+	>|	69	
+NC_003888.3	5085483	5085484	-	.	+	-	169	
+NC_003888.3	5085602	5085603	DNA-directed RNA polymerase subunit beta'	.	+	>|	60	
+NC_003888.3	5092053	5092054	elongation factor G	.	+	>|	98	
+NC_003888.3	5093410	5093411	elongation factor Tu	.	+	>|	88	
+NC_003888.3	5106088	5106089	-	.	-	-	220	
+NC_003888.3	5108155	5108156	-	.	-	-	27	
+NC_003888.3	5108210	5108211	-	.	-	-	82	
+NC_003888.3	5108270	5108271	regulatory protein	.	-	|<	106	
+NC_003888.3	5110067	5110068	hypothetical protein	.	+	>|	108	
+NC_003888.3	5110150	5110151	-	.	+	-	191	
+NC_003888.3	5116752	5116753	-	.	-	-	25	
+NC_003888.3	5127432	5127433	-	.	+	-	176	
+NC_003888.3	5127943	5127944	30S ribosomal protein S10	.	+	>|	27	
+NC_003888.3	5128438	5128439	-	.	+	-	148	
+NC_003888.3	5128621	5128622	50S ribosomal protein L3	.	+	>|	44	
+NC_003888.3	5132999	5133000	30S ribosomal protein S17	.	+	>|	5	
+NC_003888.3	5133475	5133476	50S ribosomal protein L14	.	+	>|	5	
+NC_003888.3	5134649	5134650	30S ribosomal protein S14	.	+	>|	105	
+NC_003888.3	5136295	5136296	-	.	+	-	190	
+NC_003888.3	5137318	5137319	-	.	+	-	336	
+NC_003888.3	5137472	5137473	50S ribosomal protein L15	.	+	>|	75	
+NC_003888.3	5139553	5139554	-	.	+	-	219	
+NC_003888.3	5139676	5139677	adenylate kinase	.	+	>|	56	
+NC_003888.3	5141738	5141739	30S ribosomal protein S13	.	+	>|	16	
+NC_003888.3	5142269	5142270	30S ribosomal protein S11	.	+	>|	75	
+NC_003888.3	5143469	5143470	DNA-directed RNA polymerase subunit alpha	.	+	>|	121	
+NC_003888.3	5144168	5144169	50S ribosomal protein L17	.	+	>|	119	
+NC_003888.3	5147773	5147774	-	.	+	-	163	
+NC_003888.3	5148520	5148521	30S ribosomal protein S9	.	+	>|	72	
+NC_003888.3	5173138	5173139	co-chaperonin GroES	.	+	>|	94	
+NC_003888.3	5173549	5173550	-	.	+	-	505	
+NC_003888.3	5174678	5174679	-	.	+	-	365	
+NC_003888.3	5174775	5174776	-	.	+	-	268	
+NC_003888.3	5174869	5174870	chaperonin GroEL	.	+	>|	66	
+NC_003888.3	5180420	5180421	two-component regulator	.	+	>|	83	
+NC_003888.3	5180837	5180838	-	.	+	-	500	
+NC_003888.3	5181591	5181592	-	.	+	-	385	
+NC_003888.3	5182928	5182929	inosine 5' monophosphate dehydrogenase	.	+	>|	77	
+NC_003888.3	5184530	5184531	-	.	+	-	414	
+NC_003888.3	5185507	5185508	-	.	+	-	263	
+NC_003888.3	5185665	5185666	nucleotide-sugar dehydrogenase	.	+	|<	105	conflict
+NC_003888.3	5189187	5189188	-	.	+	-	191	
+NC_003888.3	5191323	5191324	Ser/Thr protein kinase	.	+	>|	73	
+NC_003888.3	5193549	5193550	-	.	+	-	951	
+NC_003888.3	5204234	5204235	hypothetical protein	.	-	>|	72	conflict
+NC_003888.3	5205431	5205432	-	.	+	-	590	
+NC_003888.3	5212231	5212232	-	.	+	-	310	
+NC_003888.3	5221136	5221137	ATP-dependent DNA helicase II|peptidase	.	-	>|<	18,72	
+NC_003888.3	5222624	5222625	-	.	-	-	478	
+NC_003888.3	5235993	5235994	-	.	+	-	212	
+NC_003888.3	5237171	5237172	succinyl-CoA synthetase subunit alpha|hypothetical protein	.	+	>|<	82,31	
+NC_003888.3	5253023	5253024	hypothetical protein	.	-	|<	74	
+NC_003888.3	5256035	5256036	-	.	+	-	675	
+NC_003888.3	5256097	5256098	-	.	+	-	737	
+NC_003888.3	5258876	5258877	-	.	+	-	371	
+NC_003888.3	5283519	5283520	-	.	-	-	133	
+NC_003888.3	5284032	5284033	-	.	-	-	406	
+NC_003888.3	5284372	5284373	succinate dehydrogenase iron-sulfur subunit	.	-	|<	66	
+NC_003888.3	5285142	5285143	succinate dehydrogenase flavoprotein subunit	.	-	|<	69	
+NC_003888.3	5286537	5286538	-	.	-	-	448	
+NC_003888.3	5287323	5287324	-	.	-	-	150	
+NC_003888.3	5288535	5288536	-	.	-	-	333	
+NC_003888.3	5310706	5310707	-	.	+	-	351	
+NC_003888.3	5314457	5314458	-	.	+	-	157	
+NC_003888.3	5314549	5314550	-	.	+	-	249	
+NC_003888.3	5315914	5315915	-	.	+	-	503	
+NC_003888.3	5318210	5318211	lipoprotein	.	+	>|	64	
+NC_003888.3	5319088	5319089	-	.	+	-	615	
+NC_003888.3	5336981	5336982	-	.	-	-	328	
+NC_003888.3	5339343	5339344	-	.	-	-	181	
+NC_003888.3	5339570	5339571	-	.	-	-	43	
+NC_003888.3	5340540	5340541	-	.	+	-	11	
+NC_003888.3	5340728	5340729	-	.	+	-	527	
+NC_003888.3	5354367	5354368	-	.	+	-	354	
+NC_003888.3	5368498	5368499	hypothetical protein	.	+	>|	55	
+NC_003888.3	5368567	5368568	hypothetical protein	.	+	>|	124	
+NC_003888.3	5369024	5369025	-	.	+	-	581	
+NC_003888.3	5369952	5369953	lipoprotein	.	+	>|	32	
+NC_003888.3	5380062	5380063	dehydrogenase	.	+	>|	124	
+NC_003888.3	5391332	5391333	-	.	-	-	677	
+NC_003888.3	5392596	5392597	methionine sulfoxide reductase A|hypothetical protein	.	+	>|<	69,35	
+NC_003888.3	5395070	5395071	cystathionine gamma-synthase	.	+	>|	70	
+NC_003888.3	5397952	5397953	threonine dehydratase	.	+	>|	50	
+NC_003888.3	5400850	5400851	-	.	-	-	327	
+NC_003888.3	5401439	5401440	-	.	+	-	337	
+NC_003888.3	5402571	5402572	-	.	+	-	228	
+NC_003888.3	5406121	5406122	-	.	+	-	73	
+NC_003888.3	5418297	5418298	hypothetical protein	.	+	|<	102	conflict
+NC_003888.3	5431138	5431139	-	.	+	-	203	
+NC_003888.3	5432010	5432011	-	.	+	-	335	
+NC_003888.3	5445529	5445530	septum site-determining protein	.	+	>|	50	
+NC_003888.3	5450397	5450398	-	.	+	-	224	
+NC_003888.3	5462963	5462964	-	.	+	-	48	
+NC_003888.3	5463436	5463437	-	.	+	-	1330	
+NC_003888.3	5464447	5464448	ATP-binding protein	.	+	>|	111	
+NC_003888.3	5465354	5465355	-	.	+	-	291	
+NC_003888.3	5465569	5465570	hypothetical protein	.	+	>|	87	
+NC_003888.3	5467255	5467256	hypothetical protein	.	-	|<	76	
+NC_003888.3	5475775	5475776	-	.	+	-	1170	
+NC_003888.3	5479451	5479452	-	.	-	-	373	
+NC_003888.3	5479542	5479543	-	.	-	-	15	
+NC_003888.3	5479643	5479644	-	.	-	-	116	
+NC_003888.3	5481752	5481753	-	.	-	-	348	
+NC_003888.3	5483688	5483689	fumarate hydratase class I	.	-	|<	53	
+NC_003888.3	5488434	5488435	-	.	+	-	327	
+NC_003888.3	5489056	5489057	-	.	+	-	289	
+NC_003888.3	5501735	5501736	GTP-dependent nucleic acid-binding protein EngD|hypothetical protein	.	+	>|<	54,68	
+NC_003888.3	5523369	5523370	-	.	-	-	153	
+NC_003888.3	5543170	5543171	-	.	+	-	262	
+NC_003888.3	5543896	5543897	-	.	+	-	482	
+NC_003888.3	5557641	5557642	-	.	+	-	856	
+NC_003888.3	5560354	5560355	ABC transporter lipoprotein BldKB	.	+	>|	55	
+NC_003888.3	5562818	5562819	-	.	+	-	356	
+NC_003888.3	5572129	5572130	small membrane protein	.	+	>|	62	
+NC_003888.3	5572541	5572542	-	.	+	-	278	
+NC_003888.3	5574795	5574796	-	.	+	-	214	
+NC_003888.3	5577116	5577117	hypothetical protein	.	+	>|	52	
+NC_003888.3	5592696	5592697	hypothetical protein|methyltransferase	.	+	>|<	63,48	
+NC_003888.3	5593622	5593623	-	.	+	-	67	
+NC_003888.3	5593786	5593787	-	.	+	-	518	
+NC_003888.3	5594450	5594451	RNA polymerase sigma factor SigE	.	+	>|	90	
+NC_003888.3	5594534	5594535	-	.	+	-	174	
+NC_003888.3	5594644	5594645	-	.	+	-	284	
+NC_003888.3	5595605	5595606	-	.	+	-	232	
+NC_003888.3	5598142	5598143	sec-independent translocase	.	+	>|	45	
+NC_003888.3	5598219	5598220	sec-independent translocase	.	+	>|	122	
+NC_003888.3	5599058	5599059	hypothetical protein|ATP-binding protein	.	+	>|<	58,17	
+NC_003888.3	5604903	5604904	-	.	-	-	58	
+NC_003888.3	5605132	5605133	-	.	-	-	237	
+NC_003888.3	5615079	5615080	-	.	-	-	141	
+NC_003888.3	5616933	5616934	-	.	-	-	279	
+NC_003888.3	5622629	5622630	-	.	+	-	761	
+NC_003888.3	5627675	5627676	adenylyltransferase/sulfurtransferase MoeZ	.	+	>|	75	
+NC_003888.3	5642039	5642040	-	.	+	-	227	
+NC_003888.3	5647342	5647343	-	.	+	-	270	
+NC_003888.3	5647469	5647470	-	.	+	-	277	
+NC_003888.3	5648387	5648388	-	.	+	-	181	
+NC_003888.3	5651678	5651679	-	.	+	-	380	
+NC_003888.3	5655438	5655439	hypothetical protein	.	+	>|	66	
+NC_003888.3	5657230	5657231	-	.	-	-	370	
+NC_003888.3	5657284	5657285	-	.	-	-	316	
+NC_003888.3	5664575	5664576	hypothetical protein	.	+	>|	92	
+NC_003888.3	5664705	5664706	-	.	+	-	170	
+NC_003888.3	5675319	5675320	-	.	+	-	359	
+NC_003888.3	5675425	5675426	-	.	+	-	465	
+NC_003888.3	5676171	5676172	-	.	+	-	173	
+NC_003888.3	5680833	5680834	polypeptide deformylase	.	+	>|	77	
+NC_003888.3	5683418	5683419	AraC family transcription regulator	.	-	|<	78	
+NC_003888.3	5684602	5684603	-	.	-	-	134	
+NC_003888.3	5688189	5688190	-	.	-	-	47	
+NC_003888.3	5688254	5688255	-	.	-	-	112	
+NC_003888.3	5700034	5700035	-	.	+	-	96	
+NC_003888.3	5701700	5701701	histidine kinase	.	-	>|	95	conflict
+NC_003888.3	5705289	5705290	-	.	-	-	198	
+NC_003888.3	5705852	5705853	-	.	-	-	222	
+NC_003888.3	5711079	5711080	nucleotide-binding protein	.	+	>|	50	
+NC_003888.3	5714165	5714166	hypothetical protein|superoxide dismutase	.	-	>|<	12,96	
+NC_003888.3	5714228	5714229	hypothetical protein|superoxide dismutase	.	-	>|<	75,33	
+NC_003888.3	5741596	5741597	ATP/GTP binding protein	.	+	>|	76	
+NC_003888.3	5749777	5749778	ATP-binding protein|alpha-ketoglutarate decarboxylase	.	-	>|<	31,68	
+NC_003888.3	5754889	5754890	-	.	-	-	183	
+NC_003888.3	5759287	5759288	ATP-dependent protease|hydrolase	.	+	>|<	58,19	
+NC_003888.3	5765239	5765240	two component sensor kinase	.	+	>|	101	
+NC_003888.3	5766997	5766998	-	.	+	-	261	
+NC_003888.3	5800770	5800771	-	.	+	-	162	
+NC_003888.3	5801025	5801026	-	.	+	-	556	
+NC_003888.3	5807658	5807659	-	.	+	-	325	
+NC_003888.3	5818663	5818664	hypothetical protein	.	-	>|	116	conflict
+NC_003888.3	5828255	5828256	-	.	+	-	491	
+NC_003888.3	5830309	5830310	50S ribosomal protein L31	.	+	>|	66	
+NC_003888.3	5835410	5835411	-	.	+	-	349	
+NC_003888.3	5836787	5836788	-	.	+	-	278	
+NC_003888.3	5837441	5837442	-	.	+	-	235	
+NC_003888.3	5839862	5839863	-	.	+	-	308	
+NC_003888.3	5840400	5840401	-	.	+	-	424	
+NC_003888.3	5842641	5842642	-	.	+	-	57	
+NC_003888.3	5844730	5844731	F0F1 ATP synthase subunit epsilon	.	+	>|	90	
+NC_003888.3	5858801	5858802	hypothetical protein|alkanal monooxygenase	.	-	>|<	13,66	
+NC_003888.3	5858856	5858857	hypothetical protein|alkanal monooxygenase	.	+	>|<	68,11	
+NC_003888.3	5860430	5860431	ABC transporter	.	-	|<	63	
+NC_003888.3	5864562	5864563	cellulose-binding protein	.	-	|<	106	
+NC_003888.3	5865437	5865438	-	.	-	-	371	
+NC_003888.3	5866293	5866294	-	.	-	-	693	
+NC_003888.3	5869547	5869548	-	.	-	-	475	
+NC_003888.3	5869608	5869609	-	.	-	-	414	
+NC_003888.3	5872243	5872244	-	.	+	-	426	
+NC_003888.3	5877328	5877329	transcriptional regulator	.	-	|<	79	
+NC_003888.3	5877394	5877395	transcriptional regulator	.	-	|<	13	
+NC_003888.3	5881004	5881005	integrase/recombinase	.	+	|<	69	conflict
+NC_003888.3	5883719	5883720	hypothetical protein	.	+	>|	58	
+NC_003888.3	5885535	5885536	isobutyryl-CoA mutase A	.	+	>|	80	
+NC_003888.3	5888538	5888539	-	.	+	-	48	
+NC_003888.3	5889674	5889675	-	.	+	-	132	
+NC_003888.3	5890890	5890891	cholesterol esterase	.	+	>|	48	
+NC_003888.3	5894089	5894090	-	.	-	-	390	
+NC_003888.3	5897626	5897627	-	.	-	-	317	
+NC_003888.3	5925159	5925160	glycogen phosphorylase	.	+	>|	72	
+NC_003888.3	5945472	5945473	-	.	+	-	490	
+NC_003888.3	5945627	5945628	-	.	+	-	645	
+NC_003888.3	5946552	5946553	-	.	+	-	202	
+NC_003888.3	5948049	5948050	AbaA-like regulatory protein	.	+	>|	76	
+NC_003888.3	5950620	5950621	hypothetical protein	.	+	>|	48	
+NC_003888.3	5955675	5955676	-	.	-	-	271	
+NC_003888.3	5955882	5955883	serine hydroxymethyltransferase	.	-	|<	64	
+NC_003888.3	5958885	5958886	-	.	-	-	40	
+NC_003888.3	5959413	5959414	-	.	+	-	568	
+NC_003888.3	5962198	5962199	-	.	+	-	419	
+NC_003888.3	5964130	5964131	-	.	+	-	954	
+NC_003888.3	5965071	5965072	oligopeptide-binding lipoprotein	.	+	>|	96	
+NC_003888.3	5965566	5965567	-	.	+	-	513	
+NC_003888.3	5968725	5968726	oligopeptide ABC transporter ATP-binding protein	.	+	>|	62	
+NC_003888.3	5968806	5968807	-	.	+	-	143	
+NC_003888.3	5981220	5981221	-	.	+	-	29	
+NC_003888.3	5992110	5992111	hypothetical protein	.	+	>|	24	
+NC_003888.3	5999402	5999403	dehydrogenase	.	+	>|	53	
+NC_003888.3	6007724	6007725	-	.	+	-	790	
+NC_003888.3	6008485	6008486	D-3-phosphoglycerate dehydrogenase|integral membrane efflux protein	.	+	>|<	37,29	
+NC_003888.3	6008560	6008561	D-3-phosphoglycerate dehydrogenase	.	+	>|	112	
+NC_003888.3	6017792	6017793	-	.	+	-	138	
+NC_003888.3	6032389	6032390	-	.	+	-	876	
+NC_003888.3	6033608	6033609	-	.	-	-	146	
+NC_003888.3	6034268	6034269	hypothetical protein	.	-	|<	59	
+NC_003888.3	6038630	6038631	-	.	-	-	458	
+NC_003888.3	6038991	6038992	ATP-GTP binding protein	.	-	|<	97	
+NC_003888.3	6039113	6039114	-	.	-	-	360	
+NC_003888.3	6040042	6040043	hypothetical protein	.	-	|<	112	
+NC_003888.3	6040667	6040668	-	.	-	-	100	
+NC_003888.3	6044403	6044404	-	.	-	-	778	
+NC_003888.3	6045486	6045487	-	.	+	-	129	
+NC_003888.3	6045549	6045550	-	.	+	-	192	
+NC_003888.3	6045697	6045698	-	.	+	-	340	
+NC_003888.3	6047794	6047795	glutamyl-tRNA synthetase	.	+	>|	48	
+NC_003888.3	6049220	6049221	-	.	+	-	166	
+NC_003888.3	6049559	6049560	-	.	+	-	175	
+NC_003888.3	6049721	6049722	transcriptional regulator	.	+	|<	13	conflict
+NC_003888.3	6055436	6055437	histone-like DNA binding protein|hypothetical protein	.	+	>|<	85,30	
+NC_003888.3	6057405	6057406	acyltransferase	.	+	>|	120	
+NC_003888.3	6061981	6061982	phosphomethylpyrimidine kinase|50S ribosomal protein L28	.	-	>|<	9,77	
+NC_003888.3	6069280	6069281	-	.	+	-	288	
+NC_003888.3	6070118	6070119	-	.	+	-	152	
+NC_003888.3	6070298	6070299	-	.	+	-	332	
+NC_003888.3	6070666	6070667	-	.	+	-	247	
+NC_003888.3	6071670	6071671	hypothetical protein	.	-	|<	93	
+NC_003888.3	6074511	6074512	-	.	+	-	322	
+NC_003888.3	6074623	6074624	-	.	+	-	210	
+NC_003888.3	6083047	6083048	docking protein|hypothetical protein	.	+	>|<	72,53	
+NC_003888.3	6083688	6083689	-	.	-	-	530	
+NC_003888.3	6084673	6084674	-	.	+	-	902	
+NC_003888.3	6085813	6085814	regulator	.	+	>|	93	
+NC_003888.3	6091948	6091949	signal recognition particle protein	.	+	>|	16	
+NC_003888.3	6093774	6093775	-	.	-	-	239	
+NC_003888.3	6093887	6093888	lipoprotein	.	-	|<	126	
+NC_003888.3	6096293	6096294	-	.	+	-	45	
+NC_003888.3	6096950	6096951	hypothetical protein	.	+	>|	16	
+NC_003888.3	6097021	6097022	hypothetical protein	.	+	>|	87	
+NC_003888.3	6097912	6097913	hypothetical protein	.	+	>|	61	
+NC_003888.3	6099547	6099548	-	.	+	-	185	
+NC_003888.3	6099936	6099937	50S ribosomal protein L19	.	+	>|	87	
+NC_003888.3	6100000	6100001	-	.	+	-	151	
+NC_003888.3	6104177	6104178	hypothetical protein	.	+	>|	126	
+NC_003888.3	6109021	6109022	-	.	+	-	362	
+NC_003888.3	6109620	6109621	-	.	-	-	165	
+NC_003888.3	6110338	6110339	-	.	-	-	627	
+NC_003888.3	6123759	6123760	-	.	+	-	555	
+NC_003888.3	6125759	6125760	-	.	+	-	403	
+NC_003888.3	6127273	6127274	-	.	+	-	214	
+NC_003888.3	6128184	6128185	-	.	+	-	175	
+NC_003888.3	6128324	6128325	hypothetical protein|ATP /GTP-binding protein	.	+	>|<	90,35	
+NC_003888.3	6143302	6143303	-	.	+	-	416	
+NC_003888.3	6149005	6149006	hypothetical protein|hypothetical protein	.	-	>|<	4,58	
+NC_003888.3	6157629	6157630	aldehyde dehydrogenase	.	+	>|	61	
+NC_003888.3	6163587	6163588	-	.	+	-	136	
+NC_003888.3	6164025	6164026	hypothetical protein	.	+	>|	66	
+NC_003888.3	6176160	6176161	hypothetical protein	.	-	>|	4	conflict
+NC_003888.3	6176371	6176372	-	.	-	-	185	
+NC_003888.3	6177182	6177183	-	.	-	-	1026	
+NC_003888.3	6183798	6183799	aldehyde dehydrogenase	.	+	>|	108	
+NC_003888.3	6208065	6208066	-	.	+	-	36	
+NC_003888.3	6209220	6209221	-	.	+	-	256	
+NC_003888.3	6214562	6214563	-	.	+	-	311	
+NC_003888.3	6214654	6214655	-	.	+	-	219	
+NC_003888.3	6215002	6215003	-	.	+	-	132	
+NC_003888.3	6216026	6216027	-	.	+	-	131	
+NC_003888.3	6216462	6216463	-	.	+	-	3	
+NC_003888.3	6219642	6219643	translation initiation factor IF-2	.	+	>|	76	
+NC_003888.3	6220076	6220077	hypothetical protein	.	+	>|	65	
+NC_003888.3	6220637	6220638	ribosome-binding factor A	.	+	>|	59	
+NC_003888.3	6221552	6221553	tRNA pseudouridine synthase B	.	+	>|	72	
+NC_003888.3	6226091	6226092	-	.	+	-	255	
+NC_003888.3	6227040	6227041	bifunctional riboflavin kinase/FMN adenylyltransferase|ABC transporter ATP-binding protein	.	+	>|<	104,11	
+NC_003888.3	6243902	6243903	regulator%2C BldB	.	-	|<	35	
+NC_003888.3	6244100	6244101	-	.	-	-	192	
+NC_003888.3	6244834	6244835	-	.	+	-	114	
+NC_003888.3	6245154	6245155	-	.	+	-	226	
+NC_003888.3	6245318	6245319	hypothetical protein	.	+	>|	59	
+NC_003888.3	6245425	6245426	-	.	+	-	166	
+NC_003888.3	6245500	6245501	-	.	+	-	241	
+NC_003888.3	6246002	6246003	-	.	+	-	143	
+NC_003888.3	6250953	6250954	-	.	-	-	340	
+NC_003888.3	6253040	6253041	-	.	-	-	194	
+NC_003888.3	6257637	6257638	-	.	+	-	266	
+NC_003888.3	6259540	6259541	30S ribosomal protein S15	.	+	>|	51	
+NC_003888.3	6259638	6259639	-	.	+	-	134	
+NC_003888.3	6266688	6266689	-	.	+	-	64	
+NC_003888.3	6269517	6269518	hypothetical protein	.	+	>|	28	
+NC_003888.3	6278759	6278760	-	.	-	-	505	
+NC_003888.3	6279238	6279239	-	.	+	-	26	
+NC_003888.3	6283292	6283293	-	.	+	-	1963	
+NC_003888.3	6285309	6285310	-	.	+	-	556	
+NC_003888.3	6286275	6286276	-	.	+	-	346	
+NC_003888.3	6286392	6286393	-	.	+	-	463	
+NC_003888.3	6290294	6290295	-	.	+	-	242	
+NC_003888.3	6293351	6293352	-	.	+	-	299	
+NC_003888.3	6293524	6293525	hypothetical protein	.	+	>|	79	
+NC_003888.3	6307603	6307604	-	.	+	-	394	
+NC_003888.3	6308285	6308286	-	.	+	-	508	
+NC_003888.3	6311898	6311899	glutamate permease	.	-	|<	62	
+NC_003888.3	6313593	6313594	glutamate binding protein	.	-	|<	16	
+NC_003888.3	6314570	6314571	glutamate uptake system ATP-binding protein	.	-	|<	1	
+NC_003888.3	6324715	6324716	-	.	+	-	433	
+NC_003888.3	6335410	6335411	-	.	+	-	680	
+NC_003888.3	6335824	6335825	-	.	+	-	266	
+NC_003888.3	6336003	6336004	hypothetical protein|hypothetical protein	.	+	>|<	9,87	
+NC_003888.3	6337362	6337363	hypothetical protein	.	-	|<	43	
+NC_003888.3	6337722	6337723	-	.	-	-	415	
+NC_003888.3	6345579	6345580	ATP-dependent helicase|LexA repressor	.	-	>|<	5,84	
+NC_003888.3	6350711	6350712	vitamin B12-dependent ribonucleotide reductase|hypothetical protein	.	+	>|<	65,13	
+NC_003888.3	6352871	6352872	hypothetical protein	.	+	>|	66	
+NC_003888.3	6356624	6356625	-	.	+	-	258	
+NC_003888.3	6357617	6357618	-	.	+	-	468	
+NC_003888.3	6359274	6359275	-	.	+	-	489	
+NC_003888.3	6367635	6367636	-	.	+	-	29	
+NC_003888.3	6367793	6367794	-	.	+	-	558	
+NC_003888.3	6368861	6368862	-	.	+	-	505	
+NC_003888.3	6369291	6369292	RNA polymerase sigma factor	.	+	>|	92	
+NC_003888.3	6371479	6371480	-	.	+	-	1256	
+NC_003888.3	6376910	6376911	-	.	+	-	554	
+NC_003888.3	6392007	6392008	protease	.	+	>|	55	
+NC_003888.3	6393111	6393112	hypothetical protein	.	+	>|	38	
+NC_003888.3	6393988	6393989	transcriptional regulator|phosphocarrier protein HPr	.	-	>|<	99,56	
+NC_003888.3	6398474	6398475	-	.	+	-	134	
+NC_003888.3	6411610	6411611	-	.	-	-	696	
+NC_003888.3	6411872	6411873	-	.	-	-	857	
+NC_003888.3	6412198	6412199	-	.	-	-	531	
+NC_003888.3	6412256	6412257	-	.	-	-	473	
+NC_003888.3	6412314	6412315	-	.	-	-	58	
+NC_003888.3	6418932	6418933	-	.	-	-	375	
+NC_003888.3	6422062	6422063	-	.	+	-	149	
+NC_003888.3	6424459	6424460	-	.	+	-	91	
+NC_003888.3	6425379	6425380	hypothetical protein	.	+	>|	77	
+NC_003888.3	6433804	6433805	-	.	+	-	187	
+NC_003888.3	6438151	6438152	RedY protein|response regulator	.	-	>|<	18,54	
+NC_003888.3	6438684	6438685	-	.	-	-	438	
+NC_003888.3	6442388	6442389	-	.	-	-	223	
+NC_003888.3	6443973	6443974	-	.	-	-	613	
+NC_003888.3	6444704	6444705	-	.	+	-	487	
+NC_003888.3	6447190	6447191	-	.	+	-	759	
+NC_003888.3	6461051	6461052	-	.	+	-	1244	
+NC_003888.3	6484940	6484941	-	.	+	-	24	
+NC_003888.3	6520551	6520552	-	.	+	-	249	
+NC_003888.3	6520816	6520817	-	.	+	-	485	
+NC_003888.3	6532140	6532141	-	.	-	-	287	
+NC_003888.3	6575299	6575300	-	.	+	-	5	
+NC_003888.3	6578074	6578075	aconitate hydratase	.	+	>|	56	
+NC_003888.3	6578880	6578881	hypothetical protein	.	+	>|	74	
+NC_003888.3	6579135	6579136	DNA-binding protein	.	+	|<	77	conflict
+NC_003888.3	6590800	6590801	solute-binding protein	.	+	>|	111	
+NC_003888.3	6613121	6613122	hypothetical protein|fatty acid oxidation complex alpha-subunit	.	-	>|<	17,49	
+NC_003888.3	6620231	6620232	-	.	+	-	383	
+NC_003888.3	6634791	6634792	hypothetical protein	.	+	>|	78	
+NC_003888.3	6638523	6638524	-	.	-	-	279	
+NC_003888.3	6652200	6652201	hypothetical protein	.	+	>|	40	
+NC_003888.3	6652313	6652314	-	.	+	-	153	
+NC_003888.3	6654052	6654053	oxidoreductase	.	+	>|	9	
+NC_003888.3	6654108	6654109	oxidoreductase	.	+	>|	65	
+NC_003888.3	6654403	6654404	-	.	+	-	360	
+NC_003888.3	6657398	6657399	-	.	+	-	499	
+NC_003888.3	6663475	6663476	-	.	+	-	488	
+NC_003888.3	6663621	6663622	-	.	+	-	447	
+NC_003888.3	6681573	6681574	-	.	+	-	748	
+NC_003888.3	6704845	6704846	-	.	-	-	302	
+NC_003888.3	6706668	6706669	acyl-CoA dehydrogenase	.	+	|<	11	conflict
+NC_003888.3	6706739	6706740	-	.	+	-	303	
+NC_003888.3	6713075	6713076	hydrolase|sugar kinase	.	+	>|<	46,13	
+NC_003888.3	6740645	6740646	-	.	+	-	177	
+NC_003888.3	6744633	6744634	-	.	-	-	288	
+NC_003888.3	6761289	6761290	-	.	-	-	305	
+NC_003888.3	6807402	6807403	-	.	-	-	277	
+NC_003888.3	6807456	6807457	-	.	-	-	223	
+NC_003888.3	6807613	6807614	AMP-binding domain-containing protein|hypothetical protein	.	-	>|<	120,66	
+NC_003888.3	6812349	6812350	hypothetical protein	.	+	>|	81	
+NC_003888.3	6814702	6814703	esterase	.	+	>|	55	
+NC_003888.3	6890040	6890041	-	.	+	-	487	
+NC_003888.3	6890472	6890473	reductase|gamma-butyrolactone binding protein	.	+	>|<	61,55	
+NC_003888.3	6891421	6891422	-	.	-	-	247	
+NC_003888.3	6891602	6891603	-	.	-	-	428	
+NC_003888.3	6892288	6892289	ScbA protein	.	+	>|	52	
+NC_003888.3	6893207	6893208	hypothetical protein|histidine kinase	.	-	>|<	1,50	
+NC_003888.3	6893257	6893258	hypothetical protein	.	+	>|	51	
+NC_003888.3	6900846	6900847	FAD-binding protein|type I polyketide synthase	.	-	>|<	25,51	
+NC_003888.3	6900887	6900888	FAD-binding protein|type I polyketide synthase	.	+	>|<	66,10	
+NC_003888.3	6930584	6930585	-	.	-	-	1700	
+NC_003888.3	6931781	6931782	-	.	-	-	503	
+NC_003888.3	6934106	6934107	-	.	+	-	400	
+NC_003888.3	6936736	6936737	-	.	+	-	599	
+NC_003888.3	6941596	6941597	FAD-binding protein	.	+	>|	53	
+NC_003888.3	6941663	6941664	FAD-binding protein|3-oxoacyl-ACP reductase	.	-	>|<	120,82	
+NC_003888.3	6941762	6941763	-	.	-	-	219	
+NC_003888.3	6943712	6943713	-	.	+	-	207	
+NC_003888.3	6944783	6944784	-	.	+	-	496	
+NC_003888.3	6946054	6946055	-	.	-	-	512	
+NC_003888.3	6972398	6972399	-	.	-	-	420	
+NC_003888.3	7019262	7019263	-	.	+	-	243	
+NC_003888.3	7033617	7033618	-	.	-	-	111	
+NC_003888.3	7042975	7042976	hypothetical protein	.	+	|<	108	conflict
+NC_003888.3	7043170	7043171	-	.	+	-	434	
+NC_003888.3	7051685	7051686	-	.	+	-	535	
+NC_003888.3	7056851	7056852	-	.	-	-	957	
+NC_003888.3	7140381	7140382	-	.	-	-	147	
+NC_003888.3	7141545	7141546	-	.	-	-	660	
+NC_003888.3	7155414	7155415	phosphatidylserine synthase	.	-	|<	50	
+NC_003888.3	7172065	7172066	-	.	+	-	328	
+NC_003888.3	7172337	7172338	hypothetical protein	.	+	>|	95	
+NC_003888.3	7175152	7175153	-	.	+	-	312	
+NC_003888.3	7186807	7186808	hypothetical protein	.	-	|<	53	
+NC_003888.3	7223471	7223472	-	.	+	-	268	
+NC_003888.3	7223805	7223806	ATP/GTP binding protein	.	+	>|	95	
+NC_003888.3	7238000	7238001	hypothetical protein	.	+	>|	107	
+NC_003888.3	7267996	7267997	transcriptional regulator	.	+	>|	64	
+NC_003888.3	7301028	7301029	-	.	+	-	34	
+NC_003888.3	7347269	7347270	ATP/GTP binding protein|hypothetical protein	.	-	>|<	14,42	
+NC_003888.3	7347307	7347308	ATP/GTP binding protein|hypothetical protein	.	+	>|<	52,4	
+NC_003888.3	7347357	7347358	ATP/GTP binding protein	.	-	>|	102	conflict
+NC_003888.3	7356904	7356905	hypothetical protein	.	+	>|	66	
+NC_003888.3	7362888	7362889	-	.	+	-	54	
+NC_003888.3	7394040	7394041	6-phosphogluconate dehydrogenase	.	-	|<	107	
+NC_003888.3	7402536	7402537	-	.	-	-	309	
+NC_003888.3	7412929	7412930	-	.	-	-	482	
+NC_003888.3	7422704	7422705	hypothetical protein	.	+	>|	83	
+NC_003888.3	7442563	7442564	phospholipase C	.	+	>|	102	
+NC_003888.3	7477635	7477636	regulator	.	-	|<	69	
+NC_003888.3	7481512	7481513	hypothetical protein	.	+	>|	71	
+NC_003888.3	7490501	7490502	metallopeptidase	.	-	|<	57	
+NC_003888.3	7515703	7515704	ABC transporter ATP-binding protein	.	+	>|	47	
+NC_003888.3	7516848	7516849	-	.	+	-	88	
+NC_003888.3	7517015	7517016	phytoene synthase	.	+	>|	88	
+NC_003888.3	7518366	7518367	-	.	-	-	334	
+NC_003888.3	7520673	7520674	polyprenyl synthatase	.	+	>|	75	
+NC_003888.3	7529133	7529134	-	.	+	-	165	
+NC_003888.3	7533678	7533679	-	.	-	-	423	
+NC_003888.3	7559589	7559590	-	.	+	-	40	
+NC_003888.3	7600782	7600783	hypothetical protein|oxidoreductase	.	+	>|<	53,7	
+NC_003888.3	7688467	7688468	-	.	+	-	267	
+NC_003888.3	7726229	7726230	hypothetical protein	.	-	>|	103	conflict
+NC_003888.3	7770994	7770995	isocitrate dehydrogenase	.	-	|<	65	
+NC_003888.3	7777072	7777073	-	.	-	-	372	
+NC_003888.3	7835603	7835604	-	.	+	-	306	
+NC_003888.3	7888551	7888552	hypothetical protein	.	+	|<	25	conflict
+NC_003888.3	7941448	7941449	regulatory protein	.	+	>|	41	
+NC_003888.3	7969830	7969831	-	.	+	-	425	
+NC_003888.3	8005983	8005984	-	.	-	-	413	
+NC_003888.3	8016836	8016837	-	.	+	-	203	
+NC_003888.3	8020158	8020159	-	.	+	-	25	
+NC_003888.3	8056348	8056349	hypothetical protein	.	+	>|	87	
+NC_003888.3	8061391	8061392	-	.	-	-	743	
+NC_003888.3	8061850	8061851	-	.	-	-	118	
+NC_003888.3	8062645	8062646	-	.	+	-	913	
+NC_003888.3	8064820	8064821	-	.	-	-	431	
+NC_003888.3	8085294	8085295	RNA polymerase sigma factor	.	+	|<	105	conflict
+NC_003888.3	8085342	8085343	RNA polymerase sigma factor	.	-	|<	57	
+NC_003888.3	8085426	8085427	regulator protein	.	+	>|	52	
+NC_003888.3	8161373	8161374	-	.	+	-	312	
+NC_003888.3	8216102	8216103	-	.	-	-	21	
+NC_003888.3	8242313	8242314	hypothetical protein	.	+	>|	33	
+NC_003888.3	8281621	8281622	-	.	-	-	655	
+NC_003888.3	8293799	8293800	-	.	-	-	177	
+NC_003888.3	8324738	8324739	peptidyl-prolyl cis-trans isomerase	.	-	|<	71	
+NC_003888.3	8332021	8332022	-	.	+	-	134	
+NC_003888.3	8357812	8357813	hypothetical protein|aminotransferase	.	+	>|<	55,2	
+NC_003888.3	8376525	8376526	-	.	-	-	760	
+NC_003888.3	8442976	8442977	-	.	+	-	212	
+NC_003888.3	8443111	8443112	-	.	+	-	347	
+NC_003888.3	8453651	8453652	-	.	-	-	316	
+NC_003888.3	8460871	8460872	hypothetical protein|endo-beta-N-acetylglucosaminidase	.	+	>|<	38,39	
+NC_003888.3	8485613	8485614	hypothetical protein|oxidoreductase	.	+	>|<	76,57	
+NC_003888.3	8485937	8485938	-	.	+	-	228	
+NC_003888.3	8534517	8534518	-	.	+	-	470	
+NC_003888.3	8551732	8551733	-	.	-	-	274	
+NC_003888.3	8567100	8567101	-	.	+	-	31	

@@ -1,0 +1,1414 @@
+NC_000964.3	1839	1840	chromosomal replication initiator informational ATPase	.	+	>|	90	
+NC_000964.3	3112	3113	DNA polymerase III (beta subunit)	.	+	>|	38	
+NC_000964.3	6785	6786	DNA gyrase (subunit B)	.	-	>|	3	conflict
+NC_000964.3	6826	6827	DNA gyrase (subunit B)	.	+	>|	44	
+NC_000964.3	9494	9495	DNA gyrase (subunit A)	.	+	>|	36	
+NC_000964.3	17434	17435	inosine-monophosphate dehydrogenase	.	+	>|	54	
+NC_000964.3	18907	18908	D-alanyl-D-alanine carboxypeptidase (penicillin-binding protein 5)	.	+	>|	43	
+NC_000964.3	20844	20845	-	.	+	-	35	
+NC_000964.3	28959	28960	nucleoid associated protein	.	+	>|	108	
+NC_000964.3	35745	35746	forespore-specific anti-sigma factor	.	+	>|	21	
+NC_000964.3	37815	37816	-	.	+	-	178	
+NC_000964.3	42895	42896	subunit of the DNA replication complex	.	+	>|	38	
+NC_000964.3	44797	44798	transcriptional regulator for transition state genes (AbrB-SurF)	.	-	|<	50	
+NC_000964.3	44836	44837	16S rRNA 2'-O-ribose C1402 methyltransferase|transcriptional regulator for transition state genes (AbrB-SurF)	.	+	>|<	38,11	
+NC_000964.3	47679	47680	methionyl-tRNA synthetase	.	+	>|	53	
+NC_000964.3	51532	51533	dimethyladenosine 16S ribosomal RNA transferase	.	+	>|	15	
+NC_000964.3	53055	53056	hypothetical protein	.	+	>|	33	
+NC_000964.3	55713	55714	aminoacrylate/iminopropionate hydrolase/deaminase	.	+	>|	42	
+NC_000964.3	56225	56226	regulator required for spore cortex synthesis (stage V sporulation)	.	+	>|	67	
+NC_000964.3	59438	59439	ribosomal protein BL25 (Ctc)%2C binding 5S RNA	.	+	>|	42	
+NC_000964.3	64702	64703	transcriptional regulator of sporulation / germination	.	+	>|	68	
+NC_000964.3	70070	70071	putative RNA degradation protein%3B polyribonucleotide nucleotidyltransferase or phosphorylase	.	+	>|	59	
+NC_000964.3	74064	74065	-	.	+	-	222	
+NC_000964.3	78945	78946	ATP-dependent cytoplasmic membrane protease	.	+	>|	49	
+NC_000964.3	80774	80775	disulfide bond chaperone (heat shock protein HSP33)	.	+	>|	20	
+NC_000964.3	82702	82703	cysteine synthase	.	-	>|	6	conflict
+NC_000964.3	82734	82735	cysteine synthase	.	+	>|	38	
+NC_000964.3	84934	84935	4-amino-4-deoxychorismate synthase%3B anthranilate synthase (subunit II)	.	+	>|	61	
+NC_000964.3	90273	90274	lysyl-tRNA synthetase	.	+	>|	48	
+NC_000964.3	106056	106057	class III stress response-related ATPase%2C AAA+ superfamily	.	+	>|	53	
+NC_000964.3	110285	110286	-	.	+	-	194	
+NC_000964.3	112758	112759	-	.	+	-	41	
+NC_000964.3	117779	117780	preprotein translocase subunit	.	+	>|	69	
+NC_000964.3	119065	119066	ribosomal protein L11 (BL11)	.	+	>|	50	
+NC_000964.3	119986	119987	-	.	+	-	74	
+NC_000964.3	121029	121030	ribosomal protein L12 (BL9)	.	+	>|	52	
+NC_000964.3	134114	134115	elongation factor Tu	.	+	>|	43	
+NC_000964.3	150380	150381	ribosomal protein L17 (BL15)	.	+	>|	66	
+NC_000964.3	154740	154741	ribosomal protein S9	.	+	>|	49	
+NC_000964.3	178559	178560	putative permease	.	+	>|	41	
+NC_000964.3	179582	179583	iron-chelator (enterobactin family) esterase	.	-	|<	12	
+NC_000964.3	179619	179620	putative sodium dependent transporter	.	+	>|	35	
+NC_000964.3	182128	182129	-	.	-	-	241	
+NC_000964.3	196080	196081	anti-sigma(W) factor	.	+	>|	29	
+NC_000964.3	202084	202085	L-glutamine-D-fructose-6-phosphate amidotransferase	.	-	>|	6	conflict
+NC_000964.3	202125	202126	L-glutamine-D-fructose-6-phosphate amidotransferase	.	+	>|	47	
+NC_000964.3	211157	211158	-	.	+	-	212	
+NC_000964.3	211761	211762	putative transcriptional regulator (ArsR family)%3B prophage 1 region	.	+	>|	31	
+NC_000964.3	212990	212991	-	.	+	-	164	
+NC_000964.3	214159	214160	sporulation killing factor A	.	+	>|	52	
+NC_000964.3	223220	223221	-	.	+	-	309	
+NC_000964.3	226280	226281	putative phage protein%3B prophage region 1	.	+	>|	33	
+NC_000964.3	227992	227993	putative amino acid permease	.	+	>|	39	
+NC_000964.3	230779	230780	fatty acid beta-hydroxylating cytochrome P450|hypothetical protein	.	-	>|<	2,39	
+NC_000964.3	230819	230820	fatty acid beta-hydroxylating cytochrome P450	.	+	>|	42	
+NC_000964.3	232974	232975	putative H+/amino acid transporter|secreted glycerophosphoryl diester phosphodiesterase	.	-	>|<	8,39	
+NC_000964.3	233011	233012	putative H+/amino acid transporter|secreted glycerophosphoryl diester phosphodiesterase	.	+	>|<	45,2	
+NC_000964.3	235390	235391	-	.	-	-	63	
+NC_000964.3	245087	245088	phosphoribosylglycinamide formyltransferase 2	.	+	>|	42	
+NC_000964.3	249578	249579	phosphatidylserine decarboxylase%3B 32 kDa precursor processed into a 29 kDa protein	.	+	>|	39	
+NC_000964.3	249901	249902	hypothetical protein	.	+	>|	29	
+NC_000964.3	253516	253517	putative enzyme with rhodanese domain|proton/glutamate symport protein	.	+	>|<	35,1	
+NC_000964.3	254875	254876	phosphotransferase system (PTS) glucosamine-specific enzyme IICBA component	.	-	|<	31	
+NC_000964.3	258842	258843	conserved protein of unknown function (B. subtilis-specific)	.	+	>|	36	
+NC_000964.3	260092	260093	isoleucine-valine aminotransferase / aromatic amino acid aminotransferase|putative aminoacid permease	.	-	>|<	7,30	
+NC_000964.3	261577	261578	homocysteine methylase using (R%2CS)AdoMet	.	-	|<	78	
+NC_000964.3	267695	267696	two-component response regulator [GlnJ] for glutamine utilisation	.	+	>|	33	
+NC_000964.3	273981	273982	transcriptional regulator (GntR family)	.	+	>|	44	
+NC_000964.3	277081	277082	-	.	+	-	78	
+NC_000964.3	281733	281734	putative Na+-driven exporter|putative inner integral membrane protein	.	-	>|<	20,35	
+NC_000964.3	281770	281771	putative Na+-driven exporter	.	+	>|	57	
+NC_000964.3	283782	283783	hypothetical protein	.	+	>|	49	
+NC_000964.3	288614	288615	putative lyase (PLP-dependent)|flavonoid efflux transporter%3B drug-export protein	.	-	>|<	4,38	
+NC_000964.3	288652	288653	putative lyase (PLP-dependent)	.	+	>|	42	
+NC_000964.3	292887	292888	secreted alkaliphilic lipase	.	+	>|	45	
+NC_000964.3	294576	294577	hypothetical protein|two-component sensor histidine kinase [NatR]	.	-	>|<	2,38	
+NC_000964.3	294617	294618	hypothetical protein	.	+	>|	43	
+NC_000964.3	298367	298368	Na+ ABC efflux transporter (permease)	.	+	>|	38	
+NC_000964.3	299436	299437	putative ion channel associated aldo-keto reductase|lipoprotein involved in swarming behaviour	.	+	>|<	39,1	
+NC_000964.3	304597	304598	-	.	-	-	291	
+NC_000964.3	305586	305587	response regulator aspartate phosphatase	.	+	>|	36	
+NC_000964.3	307854	307855	-	.	-	-	477	
+NC_000964.3	308181	308182	putative oligo-carbohydrate hydrolase	.	+	>|	38	
+NC_000964.3	309326	309327	Zn(II)-binding lipoprotein	.	+	>|	36	
+NC_000964.3	310843	310844	high affinity Zn(II) ABC transporter (permease)|putative luciferase-like monooxygenase	.	-	>|<	2,36	
+NC_000964.3	310882	310883	high affinity Zn(II) ABC transporter (permease)	.	+	>|	41	
+NC_000964.3	314839	314840	putative stress adaptation transporter (tellurite resistance)	.	+	>|	42	
+NC_000964.3	317640	317641	putative reactive oxygen species resistance protein	.	+	>|	38	
+NC_000964.3	319181	319182	-	.	+	-	255	
+NC_000964.3	320405	320406	putative transcriptional regulator (ArsR family)	.	-	|<	15	
+NC_000964.3	324036	324037	L-proline betaine and betonicine ABC transporter ABC transporter (glycine betaine-binding lipoprotein)|putative amidohydrolase	.	+	>|<	37,1	
+NC_000964.3	326808	326809	putative branched chain amino acid permease	.	+	>|	37	
+NC_000964.3	329653	329654	alpha-amylase	.	+	>|	57	
+NC_000964.3	332398	332399	L-lactate permease|multidrug-efflux transporter	.	-	>|<	3,42	
+NC_000964.3	332437	332438	L-lactate permease|multidrug-efflux transporter	.	+	>|<	42,3	
+NC_000964.3	336131	336132	conserved protein of unknown function (similar to phage protein)	.	+	>|	42	
+NC_000964.3	339110	339111	ammonium-dependent NAD+ synthetase|ATP-binding tunicamycin resistance protein	.	-	>|<	5,45	
+NC_000964.3	339143	339144	ammonium-dependent NAD+ synthetase|ATP-binding tunicamycin resistance protein	.	+	>|<	38,12	
+NC_000964.3	340615	340616	shikimate kinase	.	+	>|	31	
+NC_000964.3	344385	344386	hypothetical protein	.	+	>|	26	
+NC_000964.3	349958	349959	hypothetical protein	.	-	|<	37	
+NC_000964.3	353866	353867	uroporphyrin-III C-methyltransferase	.	-	|<	33	
+NC_000964.3	367255	367256	aminoacid ABC transporter (permease subunit)	.	-	|<	49	
+NC_000964.3	369709	369710	conserved integral membrane protein of unknown function	.	+	>|	19	
+NC_000964.3	371691	371692	inhibitor of the DNA degrading activity of NucA (competence)	.	-	|<	37	
+NC_000964.3	371728	371729	aryl-phospho-beta-d-glucosidase	.	+	>|	37	
+NC_000964.3	374566	374567	6-phospho-3-hexuloisomerase (PHI)	.	-	|<	36	
+NC_000964.3	376422	376423	positive regulator of hxlAB expression (formaldehyde sensing)	.	+	>|	29	
+NC_000964.3	403152	403153	surfactin synthetase	.	+	>|	37	
+NC_000964.3	404439	404440	hypothetical protein	.	-	|<	18	
+NC_000964.3	408212	408213	integral inner membrane protein regulating antibiotic production	.	-	|<	27	
+NC_000964.3	408973	408974	-	.	-	-	87	
+NC_000964.3	409130	409131	cystine ABC transporter (ATP-binding protein)	.	-	|<	77	
+NC_000964.3	410553	410554	cystine ABC transporter (substrate-binding lipoprotein)	.	-	|<	102	
+NC_000964.3	416194	416195	di-tripeptide-proton ABC symporter	.	-	|<	40	
+NC_000964.3	416233	416234	putative hydrolase|di-tripeptide-proton ABC symporter	.	+	>|<	39,1	
+NC_000964.3	416882	416883	-	.	+	-	688	
+NC_000964.3	424102	424103	putative ABC transporter (ATPase component)	.	-	|<	105	
+NC_000964.3	428710	428711	two-component sensor histidine kinase [YclJ]	.	+	>|	43	
+NC_000964.3	430124	430125	secreted regulator of the activity of phosphatase RapC and competence and sporulation stimulating factor (CSF)|putative type I toxin	.	+	>|<	40,60	
+NC_000964.3	430129	430130	secreted regulator of the activity of phosphatase RapC and competence and sporulation stimulating factor (CSF)|putative type I toxin	.	-	>|<	45,55	
+NC_000964.3	430583	430584	aspartate kinase III	.	-	|<	39	
+NC_000964.3	435992	435993	petrobactin iron-siderophore ABC transporter (binding lipoprotein)|putative efflux transporter	.	-	>|<	4,43	
+NC_000964.3	436030	436031	petrobactin iron-siderophore ABC transporter (binding lipoprotein)|putative efflux transporter	.	+	>|<	42,5	
+NC_000964.3	438476	438477	NADPH-FMN oxidoreductase (nitroreductase)	.	-	|<	39	
+NC_000964.3	440051	440052	putative transcriptional regulator (ArsR family)	.	+	>|	29	
+NC_000964.3	444387	444388	succinate-semialdehyde dehydrogenase	.	+	>|	50	
+NC_000964.3	446132	446133	forespore glucose 1-dehydrogenase|putative membrane protein involved in copper intake	.	-	>|<	4,41	
+NC_000964.3	449570	449571	putative reductase or disulfide isomerase	.	+	>|	20	
+NC_000964.3	452773	452774	mannitol-1-phosphate 5-dehydrogenase	.	+	>|	35	
+NC_000964.3	455775	455776	putative hydroxyacyl-(acyl carrier protein) dehydratase	.	+	>|	38	
+NC_000964.3	456852	456853	5-amino-6-ribitylamino-2%2C4(1H%2C 3H)-pyrimidinedione 5'-phosphate phosphatase / 5' nucleotidase	.	+	>|	36	
+NC_000964.3	463069	463070	-	.	-	-	175	
+NC_000964.3	463105	463106	spore coat phospholipase B	.	+	>|	34	
+NC_000964.3	466977	466978	putative oxidoreductase	.	+	>|	34	
+NC_000964.3	469254	469255	transcriptional regulator%2C PTS-dependent activator	.	+	>|	41	
+NC_000964.3	470937	470938	putative acyl-CoA ligase|putative methyltransferase	.	-	>|<	1,19	
+NC_000964.3	470977	470978	putative acyl-CoA ligase	.	+	>|	41	
+NC_000964.3	474650	474651	-	.	+	-	80	
+NC_000964.3	475542	475543	lipid II flippase|hypothetical protein	.	-	>|<	3,41	
+NC_000964.3	475578	475579	lipid II flippase|hypothetical protein	.	+	>|<	39,5	
+NC_000964.3	478776	478777	DNA topoisomerase III	.	+	>|	36	
+NC_000964.3	480083	480084	glycosyl hydrolase lipoprotein	.	+	>|	52	
+NC_000964.3	485986	485987	putative regulator of exopolysaccharide synthesis	.	+	>|	31	
+NC_000964.3	486294	486295	-	.	+	-	137	
+NC_000964.3	488292	488293	cyclic di-AMP controlled transporter of potassium	.	+	>|	38	
+NC_000964.3	490586	490587	acetyl-phosphate generating pyruvate oxidase	.	+	>|	33	
+NC_000964.3	491117	491118	proton-coupled manganese transporter	.	-	|<	29	
+NC_000964.3	492604	492605	hypothetical protein	.	-	|<	49	
+NC_000964.3	495702	495703	putative manganese-containing catalase	.	-	|<	37	
+NC_000964.3	495739	495740	hypothetical protein	.	+	>|	37	
+NC_000964.3	501465	501466	C4-dicarboxylate transport protein	.	+	>|	35	
+NC_000964.3	505058	505059	putative glyco-prenyl flippase subunit	.	+	>|	35	
+NC_000964.3	506296	506297	regulator of iron homeostasis	.	-	|<	25	
+NC_000964.3	506326	506327	putative acyl-CoA dehydrogenase	.	+	>|	30	
+NC_000964.3	507675	507676	putative thioredoxin or thiol-disulfide isomerase	.	-	|<	77	
+NC_000964.3	509353	509354	D-alanyl-D-alanine ligase A	.	+	>|	42	
+NC_000964.3	512685	512686	ATP-dependent RNA helicase%3B cold shock	.	+	>|	45	
+NC_000964.3	515035	515036	-	.	+	-	272	
+NC_000964.3	517292	517293	putative lipoprotein	.	+	>|	36	
+NC_000964.3	524290	524291	serine phosphatase	.	+	>|	42	
+NC_000964.3	525678	525679	putative transcriptional regulator	.	+	>|	30	
+NC_000964.3	530891	530892	-	.	-	-	238	
+NC_000964.3	532587	532588	ICEBs1 mobile element: conserved protein of unknown function	.	-	>|	36	conflict
+NC_000964.3	533449	533450	-	.	+	-	148	
+NC_000964.3	545999	546000	ICEBs1 mobile element: putative lipoprotein of unknown function	.	+	>|	25	
+NC_000964.3	548619	548620	ICEBs1 mobile element: secreted regulator of the activity of phosphatase RapI	.	+	>|	63	
+NC_000964.3	552031	552032	transcriptional regulator (Lrp/AsnC family)|transcriptional regulator (Lrp/AsnC family)	.	+	>|<	103,20	
+NC_000964.3	553261	553262	putative hydrolase	.	+	>|	104	
+NC_000964.3	557493	557494	putative exported phage protein	.	+	>|	45	
+NC_000964.3	558111	558112	hypothetical protein	.	+	>|	54	
+NC_000964.3	559513	559514	cold-shock protein	.	+	>|	50	
+NC_000964.3	559534	559535	cold-shock protein	.	-	>|	71	conflict
+NC_000964.3	561139	561140	putative permease	.	-	|<	40	
+NC_000964.3	561178	561179	putative permease	.	+	|<	1	conflict
+NC_000964.3	563532	563533	putative permease|putative transcriptional regulator (AraC/XylS family)	.	-	>|<	72,81	
+NC_000964.3	568186	568187	putative integral inner membrane protein	.	+	>|	79	
+NC_000964.3	568996	568997	hypothetical protein	.	-	>|	59	conflict
+NC_000964.3	569034	569035	hypothetical protein	.	+	>|	97	
+NC_000964.3	573402	573403	putative dehydratase|putative alpha/beta hydrolase	.	-	>|<	4,49	
+NC_000964.3	575666	575667	putative integral inner membrane protein|putative transcriptional regulator	.	-	>|<	105,45	
+NC_000964.3	575705	575706	putative transcriptional regulator	.	+	|<	6	conflict
+NC_000964.3	579260	579261	hypothetical protein	.	+	>|	29	
+NC_000964.3	581591	581592	-	.	+	-	102	
+NC_000964.3	586629	586630	putative transcriptional regulator	.	+	>|	82	
+NC_000964.3	589654	589655	two-component response regulator [YdfH]	.	+	>|	54	
+NC_000964.3	591893	591894	putative proton metabolite efflux transporter	.	-	>|	3	conflict
+NC_000964.3	592204	592205	carboxylesterase NP	.	-	|<	98	
+NC_000964.3	592240	592241	carboxylesterase NP	.	+	|<	62	conflict
+NC_000964.3	594132	594133	putative transcriptional regulator of efflux transporter	.	-	|<	53	
+NC_000964.3	595079	595080	primary Mn(II) efflux pump	.	-	|<	29	
+NC_000964.3	598593	598594	putative membrane bound oxidoreductase	.	+	>|	51	
+NC_000964.3	604083	604084	-	.	+	-	19	
+NC_000964.3	604682	604683	putative N-acetyltransferase|ATP-binding cassette efflux transporter	.	-	>|<	107,53	
+NC_000964.3	604716	604717	ATP-binding cassette efflux transporter	.	+	|<	19	conflict
+NC_000964.3	606407	606408	-	.	-	-	29	
+NC_000964.3	606656	606657	putative amino acid permease	.	-	|<	42	
+NC_000964.3	606696	606697	putative amino acid permease	.	+	|<	2	conflict
+NC_000964.3	612084	612085	putative membrane component|nitroreductase of unidentified specificity (reduces 5-(aziridin-1-yl)-2%2C4-dinitrobenzamide prodrug)	.	+	>|<	40,106	
+NC_000964.3	612154	612155	putative membrane component|nitroreductase of unidentified specificity (reduces 5-(aziridin-1-yl)-2%2C4-dinitrobenzamide prodrug)	.	-	>|<	110,36	
+NC_000964.3	614846	614847	putative integral inner membrane protein	.	-	|<	38	
+NC_000964.3	614880	614881	putative efflux transporter|putative integral inner membrane protein	.	+	>|<	32,4	
+NC_000964.3	616592	616593	putative transcriptional regulator (GntR family)	.	+	>|	48	
+NC_000964.3	617967	617968	spore cortex lytic enzyme	.	+	>|	34	
+NC_000964.3	619320	619321	putative glycosyltransferase	.	+	>|	39	
+NC_000964.3	624374	624375	putative metal-dependent phosphohydrolase	.	+	>|	25	
+NC_000964.3	625109	625110	hypothetical protein|hypoxanthine efflux transporter	.	-	>|<	1,15	
+NC_000964.3	625144	625145	hypothetical protein	.	+	>|	36	
+NC_000964.3	633919	633920	exported mannan endo-1%2C4-beta-mannosidase	.	+	>|	58	
+NC_000964.3	644492	644493	putative energy-sensing inhibitor of translation	.	-	|<	35	
+NC_000964.3	648704	648705	component of the twin-arginine pre-protein translocation pathway|hypothetical protein	.	-	>|<	1,37	
+NC_000964.3	648743	648744	component of the twin-arginine pre-protein translocation pathway	.	+	>|	40	
+NC_000964.3	651937	651938	chaperonin large subunit	.	-	>|	70	conflict
+NC_000964.3	651989	651990	chaperonin large subunit	.	+	>|	122	
+NC_000964.3	657725	657726	DNA-methyltransferase (cytosine-specific)%3B defective prophage 3	.	-	>|	29	conflict
+NC_000964.3	657761	657762	DNA-methyltransferase (cytosine-specific)%3B defective prophage 3	.	+	>|	65	
+NC_000964.3	663328	663329	-	.	+	-	272	
+NC_000964.3	664692	664693	conserved hypothetical protein%3B prophage region 3|transcriptional regulator of the glucitol operon	.	-	>|<	24,82	
+NC_000964.3	664731	664732	conserved hypothetical protein%3B prophage region 3|transcriptional regulator of the glucitol operon	.	+	>|<	63,43	
+NC_000964.3	671102	671103	putative sugar kinase (ribokinase family)%3B prophage region 3	.	+	>|	54	
+NC_000964.3	674835	674836	hypothetical protein	.	+	>|	51	
+NC_000964.3	677867	677868	myo-inositol transporter|acetoin reductase/2%2C3-butanediol dehydrogenase	.	-	>|<	5,43	
+NC_000964.3	679810	679811	protein involved in cell wall metabolism	.	+	>|	50	
+NC_000964.3	680909	680910	hypothetical protein	.	+	>|	37	
+NC_000964.3	681148	681149	hypothetical protein	.	+	|<	106	conflict
+NC_000964.3	688062	688063	-	.	+	-	121	
+NC_000964.3	694338	694339	GMP synthetase	.	+	>|	58	
+NC_000964.3	694607	694608	-	.	+	-	54	
+NC_000964.3	696023	696024	hypoxanthine/guanine permease	.	+	>|	40	
+NC_000964.3	697033	697034	putative integral inner membrane protein	.	+	>|	36	
+NC_000964.3	711419	711420	phosphoribosylglycinamide synthetase|putative transcriptional regulator (Lrp/AsnC family)	.	-	>|<	4,36	
+NC_000964.3	711453	711454	phosphoribosylglycinamide synthetase|putative transcriptional regulator (Lrp/AsnC family)	.	+	>|<	38,2	
+NC_000964.3	716781	716782	transcriptional repressor-histidine operons	.	+	>|	37	
+NC_000964.3	725999	726000	putative kinase|putative magnesium transporter	.	-	>|<	3,35	
+NC_000964.3	726039	726040	putative kinase	.	+	>|	43	
+NC_000964.3	731939	731940	glutamyl-tRNA(Gln) amidotransferase (subunit B)|putative transcriptional regulator (TetR/AcrR family)	.	-	>|<	1,14	
+NC_000964.3	731972	731973	glutamyl-tRNA(Gln) amidotransferase (subunit B)	.	+	>|	34	
+NC_000964.3	736149	736150	surfactin exporter involved in surfactin self-resistance	.	+	>|	37	
+NC_000964.3	736322	736323	-	.	+	-	113	
+NC_000964.3	737420	737421	diacylglycerol kinase	.	+	>|	74	
+NC_000964.3	737576	737577	-	.	+	-	26	
+NC_000964.3	739317	739318	-	.	+	-	336	
+NC_000964.3	747038	747039	conserved hypothetical protein%3B HGT island	.	-	|<	40	
+NC_000964.3	752263	752264	hexapeptide (TDRNTT) inhibitor of regulatory cascade	.	+	>|	12	
+NC_000964.3	753163	753164	putative DNA integrase or transcriptional regulator	.	+	>|	33	
+NC_000964.3	757681	757682	putative acetyltransferase	.	+	>|	29	
+NC_000964.3	785118	785119	hypothetical protein	.	+	>|	43	
+NC_000964.3	785505	785506	putative lyase/dioxygenase	.	-	|<	37	
+NC_000964.3	787612	787613	-	.	+	-	102	
+NC_000964.3	788673	788674	pH-sensitive calcium-leak permease (di-aspartyl pH sensor)	.	+	>|	38	
+NC_000964.3	789580	789581	transcriptional regulator (FlvL-flavonoids)	.	-	|<	71	
+NC_000964.3	789653	789654	putative efflux transporter	.	+	>|	26	
+NC_000964.3	791430	791431	putative flavin-dependent hydroxylase/monooxygenase acting on salicylate derivatives|hypothetical protein	.	-	>|<	4,31	
+NC_000964.3	798285	798286	exported glycerol phosphate lipoteichoic acid synthetase and anion-binding protein	.	+	>|	53	
+NC_000964.3	803284	803285	putative efflux transporter	.	-	|<	32	
+NC_000964.3	803319	803320	putative glycosyltransferase (complex carbohydrate synthase)	.	+	>|	34	
+NC_000964.3	804638	804639	pyrimidine nucleotide phosphatase (promiscuous)	.	-	|<	18	
+NC_000964.3	809455	809456	chemotaxis sensory transducer (sensed target unknown)	.	+	>|	34	
+NC_000964.3	811480	811481	putative energy-dependent translational throttle A	.	+	>|	35	
+NC_000964.3	812060	812061	hypothetical protein	.	+	>|	46	
+NC_000964.3	812599	812600	transcriptional regulator (MerR family) of metal (copper) efflux transporter expression	.	+	>|	38	
+NC_000964.3	813855	813856	metal (copper) efflux transporter	.	+	>|	38	
+NC_000964.3	814344	814345	hypothetical protein|putative energy-sensing inhibitor of translation	.	-	>|<	81,39	
+NC_000964.3	817270	817271	putative ATP-dependent RNA helicase	.	+	>|	28	
+NC_000964.3	817770	817771	putative acetyltransferase|putative oxidoreductase	.	-	>|<	14,39	
+NC_000964.3	817801	817802	putative acetyltransferase|putative oxidoreductase	.	+	>|<	45,8	
+NC_000964.3	820838	820839	-	.	+	-	28	
+NC_000964.3	825749	825750	iron-dicitrate ABC transporter (binding lipoprotein)	.	-	|<	37	
+NC_000964.3	827850	827851	heat stress induced protein	.	+	>|	49	
+NC_000964.3	829298	829299	pectate lyase	.	+	>|	44	
+NC_000964.3	836559	836560	putative metal-dependent hydrolase	.	+	>|	26	
+NC_000964.3	838742	838743	putative sulfur carrier|hypothetical protein	.	-	>|<	1,40	
+NC_000964.3	838780	838781	putative sulfur carrier|hypothetical protein	.	+	>|<	39,2	
+NC_000964.3	839305	839306	putative enzyme	.	-	|<	33	
+NC_000964.3	839339	839340	-	.	+	-	108	
+NC_000964.3	842011	842012	enzyme responsible for polyglycerolphosphate LTA synthesis	.	-	|<	35	
+NC_000964.3	842048	842049	phosphotransferase system (PTS) N-acetylglucosamine-specific enzyme IICB component	.	+	>|	35	
+NC_000964.3	854305	854306	transcriptional regulator (TreR-trehalose)	.	+	>|	34	
+NC_000964.3	855115	855116	NAD(P)H-flavin oxidoreductase (nitroreductase)	.	+	>|	39	
+NC_000964.3	860263	860264	general stress protein 18%3B deglycase|efflux transporter	.	-	>|<	1,39	
+NC_000964.3	860298	860299	general stress protein 18%3B deglycase|efflux transporter	.	+	>|<	36,4	
+NC_000964.3	861552	861553	hypothetical protein	.	-	|<	33	
+NC_000964.3	863822	863823	putative efflux transporter	.	-	|<	39	
+NC_000964.3	863861	863862	-	.	+	-	199	
+NC_000964.3	867126	867127	hypothetical protein|mechanosensitive ion channel	.	-	>|<	2,37	
+NC_000964.3	867162	867163	hypothetical protein|mechanosensitive ion channel	.	+	>|<	38,1	
+NC_000964.3	869484	869485	hypothetical protein	.	+	>|	27	
+NC_000964.3	870352	870353	exported peptidoglycan N-acetylmuramic acid deacetylase|putative beta-hydroxyacid dehydrogenase	.	-	>|<	3,35	
+NC_000964.3	870389	870390	exported peptidoglycan N-acetylmuramic acid deacetylase	.	+	>|	40	
+NC_000964.3	871322	871323	divalent cation (octahedral coordination) transporter	.	-	|<	24	
+NC_000964.3	875761	875762	hypothetical protein	.	-	>|	68	conflict
+NC_000964.3	875795	875796	hypothetical protein	.	+	>|	102	
+NC_000964.3	877502	877503	tRNA-dihydrouridine synthase 2	.	+	>|	100	
+NC_000964.3	878836	878837	hypothetical protein	.	+	>|	67	
+NC_000964.3	885809	885810	small acid-soluble spore protein|hypothetical protein	.	-	>|<	2,34	
+NC_000964.3	885845	885846	small acid-soluble spore protein	.	+	>|	38	
+NC_000964.3	905729	905730	two-component response regulator [LinJ] (linearmycin resistance%2C biofilm formation)	.	+	>|	58	
+NC_000964.3	909121	909122	transcriptional regulator of phenolic acid decarboxylase	.	-	|<	76	
+NC_000964.3	910697	910698	secreted esterase / acylglycerol lipase	.	+	>|	47	
+NC_000964.3	911929	911930	acetyl-glucosamine metabolite exporter component involved in biofilm formation|transcriptional regulator (TetR/AcrR family)	.	-	>|<	2,34	
+NC_000964.3	916079	916080	putative transcriptional regulator (MarR family)	.	-	|<	44	
+NC_000964.3	919329	919330	xenosiderophore schizokinen (dihydroxamate) transporter binding lipoprotein	.	-	|<	36	
+NC_000964.3	919367	919368	phosphatidylglycerol lysyltransferase involved in tRNA-dependent lysinylation of phospholipids	.	+	>|	20	
+NC_000964.3	924168	924169	hypothetical protein	.	-	|<	41	
+NC_000964.3	924209	924210	putative oxidoreductase (nitroreductase family)	.	+	>|	39	
+NC_000964.3	926777	926778	hypothetical protein	.	+	>|	35	
+NC_000964.3	928111	928112	putative efflux transporter	.	+	>|	33	
+NC_000964.3	930630	930631	stress induced epoxide hydrolase	.	+	>|	46	
+NC_000964.3	934442	934443	putative membrane hydrolase	.	-	|<	14	
+NC_000964.3	938205	938206	small acid-soluble spore protein (gamma-type SASP)	.	+	>|	52	
+NC_000964.3	939305	939306	putative RNA binding factor	.	+	>|	45	
+NC_000964.3	941136	941137	putative ABC transporter (ATP-binding protein)|hypothetical protein	.	+	>|<	46,31	
+NC_000964.3	941143	941144	putative ABC transporter (ATP-binding protein)|hypothetical protein	.	-	>|<	53,24	
+NC_000964.3	942407	942408	glutamate-1-semialdehyde aminotransferase%2C class III aminotransferase	.	-	|<	41	
+NC_000964.3	944922	944923	hypothetical protein	.	-	|<	36	
+NC_000964.3	944962	944963	transcriptional regulator (Fur family)	.	+	>|	39	
+NC_000964.3	955837	955838	-	.	+	-	57	
+NC_000964.3	959493	959494	vegetative catalase 1	.	-	|<	41	
+NC_000964.3	961353	961354	-	.	+	-	40	
+NC_000964.3	965826	965827	putative sulfur-related oxidoreductase	.	+	>|	30	
+NC_000964.3	966178	966179	alternative ribosomal protein S14|putative integral inner membrane protein	.	-	>|<	1,17	
+NC_000964.3	969151	969152	epoxyqueuosine reductase	.	+	>|	57	
+NC_000964.3	970655	970656	tRNA (cytidine(34)-2'-O)-methyltransferase	.	+	>|	39	
+NC_000964.3	972823	972824	conserved protein involved in sporulation	.	-	>|	18	conflict
+NC_000964.3	972858	972859	conserved protein involved in sporulation	.	+	>|	53	
+NC_000964.3	980358	980359	hypothetical membrane protein	.	+	>|	46	
+NC_000964.3	984210	984211	putative ABC transporter (permease)|major cold-shock protein%2C RNA helicase co-factor%2C RNA co-chaperone	.	+	>|<	41,51	
+NC_000964.3	984215	984216	putative ABC transporter (permease)|major cold-shock protein%2C RNA helicase co-factor%2C RNA co-chaperone	.	-	>|<	46,46	
+NC_000964.3	985746	985747	putative ABC transporter (binding lipoprotein)	.	+	>|	16	
+NC_000964.3	988419	988420	(sodium)-cystine symporter	.	+	>|	43	
+NC_000964.3	995589	995590	putative RNA pseudouridine synthase	.	-	|<	34	
+NC_000964.3	997082	997083	hypothetical protein	.	+	>|	45	
+NC_000964.3	997634	997635	putative CBS containing enzyme (sporulation-/ germination-related)	.	+	>|	38	
+NC_000964.3	1000234	1000235	-	.	+	-	129	
+NC_000964.3	1006675	1006676	sn-glycerol-3-phosphate oxidase (FAD-dependent)	.	+	>|	34	
+NC_000964.3	1008562	1008563	alpha-phosphoglucomutase	.	+	>|	44	
+NC_000964.3	1010985	1010986	oxidoreductase%2C NAD(P)H-FMN and ferric iron reductase (azoreductase)	.	+	>|	17	
+NC_000964.3	1011751	1011752	hypothetical protein|gamma-D-glutamate-meso-diaminopimelate muropeptidase (major autolysin%2C vegetative)	.	-	>|<	2,40	
+NC_000964.3	1013390	1013391	NO-dependent activator of the ResDE regulon (Fe-S NO binding site)	.	-	|<	20	
+NC_000964.3	1020008	1020009	cell wall dl-endopeptidase%3B phosphatase-associated protein (major autolysin)|transcriptional regulator CitR (LysR family)	.	-	>|<	7,64	
+NC_000964.3	1020042	1020043	cell wall dl-endopeptidase%3B phosphatase-associated protein (major autolysin)|transcriptional regulator CitR (LysR family)	.	+	>|<	41,30	
+NC_000964.3	1023135	1023136	putative NAD(P)-dependent dehydrogenase	.	+	>|	36	
+NC_000964.3	1026217	1026218	putative PLP-dependent transcriptional regulator	.	-	|<	37	
+NC_000964.3	1026252	1026253	putative sodium-dependent transporter|putative PLP-dependent transcriptional regulator	.	+	>|<	33,2	
+NC_000964.3	1028203	1028204	putative acetyltransferase|negative regulator of the activity of sigma-M	.	-	>|<	2,29	
+NC_000964.3	1031294	1031295	aldo/keto reductase specific for NADPH%3B protects against methylglyoxal	.	+	>|	35	
+NC_000964.3	1032029	1032030	1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase|putative magnesium efflux pump	.	-	>|<	36,33	
+NC_000964.3	1032064	1032065	1-acylglycerol-phosphate (1-acyl-G3P) acyltransferase	.	+	>|	71	
+NC_000964.3	1035273	1035274	putative aspartate aminotransferase	.	+	>|	47	
+NC_000964.3	1036954	1036955	hypothetical protein	.	+	>|	16	
+NC_000964.3	1038797	1038798	hypothetical protein	.	-	>|	38	conflict
+NC_000964.3	1040826	1040827	putative polysaccharide deacetylase	.	-	|<	34	
+NC_000964.3	1042849	1042850	D-alanine aminotransferase|Na+/H+ antiporter	.	-	>|<	8,35	
+NC_000964.3	1042888	1042889	D-alanine aminotransferase	.	+	>|	47	
+NC_000964.3	1045185	1045186	-	.	+	-	132	
+NC_000964.3	1049095	1049096	efflux ABC transporter (ATP-binding subunit)|putative NADH-flavin oxidoreductase	.	-	>|<	3,46	
+NC_000964.3	1049133	1049134	efflux ABC transporter (ATP-binding subunit)|putative NADH-flavin oxidoreductase	.	+	>|<	41,8	
+NC_000964.3	1050417	1050418	conserved hypothetical protein (sporulation / germination island)	.	-	|<	25	
+NC_000964.3	1055101	1055102	hypothetical protein|hypothetical protein	.	-	>|<	3,41	
+NC_000964.3	1055137	1055138	hypothetical protein|hypothetical protein	.	+	>|<	39,5	
+NC_000964.3	1057609	1057610	putative hydrolase	.	+	>|	42	
+NC_000964.3	1059169	1059170	proton/potassium antiporter%3B methylglyoxal resistance	.	-	|<	33	
+NC_000964.3	1059204	1059205	coproporphyrinogen III oxidase	.	+	>|	20	
+NC_000964.3	1064776	1064777	Na+-dependent exporter (ABC permease)	.	+	>|	38	
+NC_000964.3	1070032	1070033	3'-5' exonuclease	.	+	>|	47	
+NC_000964.3	1070324	1070325	sporulation factor|molecular chaperone lipoprotein	.	-	>|<	2,39	
+NC_000964.3	1071709	1071710	spore and germination protein	.	-	>|	11	conflict
+NC_000964.3	1072942	1072943	-	.	-	-	163	
+NC_000964.3	1073843	1073844	putative membrane protein%3B acid tolerance protein	.	-	|<	51	
+NC_000964.3	1074603	1074604	membrane protein of unknown function|tryptophan transporter or sensor	.	-	>|<	32,42	
+NC_000964.3	1076502	1076503	promiscuous Hit-family phosphohydrolase%2C adenosine phosphoramidase	.	-	|<	12	
+NC_000964.3	1080151	1080152	putative hydrolase	.	+	>|	20	
+NC_000964.3	1083202	1083203	heme-degrading monooxygenase	.	-	|<	26	
+NC_000964.3	1089639	1089640	promiscuous protoporphyrinogen IX and coproporphyrinogen III oxidase	.	+	>|	31	
+NC_000964.3	1090346	1090347	transcriptional regulator of unknown target	.	+	>|	17	
+NC_000964.3	1092729	1092730	putative methyl-accepting protein|beta-ketoacyl-acyl carrier protein synthase III 2	.	-	>|<	2,40	
+NC_000964.3	1092768	1092769	putative methyl-accepting protein|beta-ketoacyl-acyl carrier protein synthase III 2	.	+	>|<	41,1	
+NC_000964.3	1096520	1096521	proton/sodium-glutamate (aspartate) symport permease	.	-	|<	39	
+NC_000964.3	1096560	1096561	putative RNA-binding PUA-containing enzyme	.	+	>|	38	
+NC_000964.3	1098081	1098082	hypothetical protein	.	-	|<	38	
+NC_000964.3	1102557	1102558	long-chain fatty-acid-CoA ligase (degradative)|hypothetical protein	.	+	>|<	37,2	
+NC_000964.3	1104421	1104422	putative membrane metalloprotease|serine alkaline protease (Ca(2+)-dependent subtilisin E)	.	+	>|<	38,1	
+NC_000964.3	1107560	1107561	putative oxidoreductase	.	+	>|	45	
+NC_000964.3	1108704	1108705	iron(III) siderophore-binding lipoprotein|promiscuous phosphatase%3B putative (phosphoglycerate) mutase	.	-	>|<	1,31	
+NC_000964.3	1108737	1108738	iron(III) siderophore-binding lipoprotein	.	+	>|	34	
+NC_000964.3	1112581	1112582	heme-based dioxygen sensor	.	-	|<	38	
+NC_000964.3	1119158	1119159	hypothetical protein|putative Na+/metabolite cotransporter	.	+	>|<	40,3	
+NC_000964.3	1122713	1122714	type I signal peptidase	.	+	>|	33	
+NC_000964.3	1124995	1124996	putative transcriptional regulator|glucose/mannose:H+ symporter (recent HGT island)	.	+	>|<	31,127	
+NC_000964.3	1126344	1126345	biosynthesis of neotrehalosadiamine (3%2C3'-diamino-3%2C3'-dideoxy-alpha%2Cbeta-trehalose)%2C glucose-6-P 3-dehydrogenase%3B kanosamine biosynthesis (recent HGT island)	.	-	|<	55	
+NC_000964.3	1130739	1130740	transcriptional regulator of the ntd operon (NtdR-NTD) (recent HGT island)	.	-	>|	36	conflict
+NC_000964.3	1135258	1135259	putative transcription factor	.	+	>|	34	
+NC_000964.3	1143553	1143554	ATP-dependent deoxyribonuclease (subunit A)	.	+	>|	49	
+NC_000964.3	1148499	1148500	HNH nuclease-like essential for DNA repair	.	+	>|	43	
+NC_000964.3	1151264	1151265	-	.	+	-	245	
+NC_000964.3	1153665	1153666	putative integral membrane protein	.	+	>|	45	
+NC_000964.3	1156507	1156508	cell wall-associated protease	.	+	>|	35	
+NC_000964.3	1160782	1160783	farnesyl diphosphate phosphatase	.	+	>|	37	
+NC_000964.3	1164185	1164186	transcriptional repressor of iolX (LacI family)	.	+	>|	25	
+NC_000964.3	1165467	1165468	scyllo-inositol 2-dehydrogenase (NAD(+))	.	+	>|	70	
+NC_000964.3	1169880	1169881	putative acyl hydrolase or peroxidase	.	+	>|	32	
+NC_000964.3	1177324	1177325	putative N-acetyltransferase	.	-	|<	40	
+NC_000964.3	1180639	1180640	-	.	-	-	45	
+NC_000964.3	1182443	1182444	RNA-binding protein|hypothetical protein	.	+	>|<	49,4	
+NC_000964.3	1185941	1185942	hypothetical protein	.	+	>|	41	
+NC_000964.3	1187657	1187658	extracellular neutral protease B|fatty acid kinase fatty acid binding subunit B	.	-	>|<	5,42	
+NC_000964.3	1190002	1190003	conserved hypothetical protein%3B genus orphan	.	-	|<	33	
+NC_000964.3	1190037	1190038	intracellular proteinase inhibitor BsuPI	.	+	>|	33	
+NC_000964.3	1192605	1192606	putative protein involved in Fe-S cluster assembly%2C PaaD-like	.	+	>|	44	
+NC_000964.3	1194847	1194848	putative transport protein	.	+	>|	21	
+NC_000964.3	1204406	1204407	-	.	-	-	99	
+NC_000964.3	1204689	1204690	hypothetical protein|forespore targeted protein	.	-	>|<	5,41	
+NC_000964.3	1207822	1207823	putative late competence gene	.	+	>|	35	
+NC_000964.3	1210466	1210467	beta-ketoacyl-acyl carrier protein synthase II (involved in pimelate synthesis)	.	+	>|	43	
+NC_000964.3	1218076	1218077	tryptophanyl-tRNA synthetase	.	-	|<	36	
+NC_000964.3	1219138	1219139	-	.	-	-	34	
+NC_000964.3	1221549	1221550	oligopeptide ABC transporter (binding lipoprotein)	.	+	>|	64	
+NC_000964.3	1225490	1225491	oligopeptide ABC transporter (ATP-binding protein)	.	+	>|	41	
+NC_000964.3	1228139	1228140	redox-sensitive regulator	.	+	>|	48	
+NC_000964.3	1229758	1229759	adaptor protein controlling oligomerization of the AAA+ protein ClpC	.	+	>|	35	
+NC_000964.3	1233134	1233135	oligoendopeptidase F	.	+	>|	40	
+NC_000964.3	1233544	1233545	thiol management effector of SpxA degradation	.	+	|<	69	conflict
+NC_000964.3	1233580	1233581	thiol management effector of SpxA degradation	.	-	|<	33	
+NC_000964.3	1235133	1235134	bifunctional muramidase and murein lytic transglycosylase	.	-	|<	29	
+NC_000964.3	1239352	1239353	phosphorylated protein phosphatase E and diadenosine-polyphosphate hydrolase	.	-	|<	34	
+NC_000964.3	1239389	1239390	pseudouridylate synthase	.	+	>|	16	
+NC_000964.3	1242426	1242427	-	.	+	-	22	
+NC_000964.3	1248607	1248608	enoyl-acyl carrier protein reductase	.	+	>|	44	
+NC_000964.3	1253683	1253684	sporulation-specific protein needed for heat resistance|putative ATP-dependent DNA helicase (sporulation associated)	.	-	>|<	45,29	
+NC_000964.3	1256402	1256403	hypothetical protein|putative acetyltransferase	.	-	>|<	40,33	
+NC_000964.3	1258466	1258467	-	.	+	-	25	
+NC_000964.3	1263608	1263609	conserved hypothetical protein%3B phage island	.	-	|<	93	
+NC_000964.3	1266460	1266461	putative DNA binding protein%3B phage island	.	+	>|	113	
+NC_000964.3	1267441	1267442	conserved hypothetical protein%3B phage island	.	+	>|	29	
+NC_000964.3	1269648	1269649	putative acyl-carrier protein oxidoreductase%3B phage island|putative exported protein%3B phage island	.	-	>|<	65,84	
+NC_000964.3	1269690	1269691	putative acyl-carrier protein oxidoreductase%3B phage island|putative exported protein%3B phage island	.	+	>|<	107,42	
+NC_000964.3	1272605	1272606	transcriptional DNA-binding activator	.	+	>|	29	
+NC_000964.3	1276328	1276329	hypothetical protein|putative acetyltransferase	.	+	>|<	38,8	
+NC_000964.3	1278219	1278220	cys-tRNApro deacetylase%3B tRNA editing	.	+	>|	55	
+NC_000964.3	1279512	1279513	minor protoheme IX farnesyltransferase 1 (heme O synthase)	.	+	|<	1	conflict
+NC_000964.3	1282568	1282569	N-acetylmuramic acid deacetylase|hypothetical protein	.	+	>|<	38,2	
+NC_000964.3	1283122	1283123	hypothetical protein	.	-	|<	46	
+NC_000964.3	1284359	1284360	hypothetical protein	.	-	|<	11	
+NC_000964.3	1289989	1289990	putative lipoprotein	.	+	>|	51	
+NC_000964.3	1290643	1290644	hypothetical protein	.	-	|<	31	
+NC_000964.3	1293739	1293740	polyphenols TDP-rhamnosyltransferase%2C promiscuous|hypothetical protein	.	-	>|<	5,36	
+NC_000964.3	1293775	1293776	polyphenols TDP-rhamnosyltransferase%2C promiscuous	.	+	>|	41	
+NC_000964.3	1294954	1294955	putative enzyme|putative ABC transporter (permease)	.	-	>|<	5,41	
+NC_000964.3	1294994	1294995	putative enzyme|putative ABC transporter (permease)	.	+	>|<	45,1	
+NC_000964.3	1296580	1296581	putative permease	.	-	|<	39	
+NC_000964.3	1309830	1309831	transcriptional regulator (LacI family)	.	+	>|	28	
+NC_000964.3	1313796	1313797	putative DNA-binding protein	.	-	|<	43	
+NC_000964.3	1315763	1315764	informational ATPase possibly involved in protein degradation	.	+	>|	40	
+NC_000964.3	1318490	1318491	phage PBSX%3B N-acetylmuramoyl-L-alanine amidase|phage PBSX%3B conserved hypothetical protein	.	-	>|<	3,37	
+NC_000964.3	1318529	1318530	phage PBSX%3B N-acetylmuramoyl-L-alanine amidase	.	+	>|	42	
+NC_000964.3	1320567	1320568	phage PBSX%3B manganese-containing peroxidase|phage PBSX%3B putative peptidase	.	+	>|<	42,2	
+NC_000964.3	1348191	1348192	phage PBSX%3B N-acetylmuramoyl-L-alanine amidase|three component toxin / antitoxin / antitoxin SpoIISABC%2C antitoxin C	.	-	>|<	10,27	
+NC_000964.3	1348224	1348225	phage PBSX%3B N-acetylmuramoyl-L-alanine amidase	.	+	>|	43	
+NC_000964.3	1348398	1348399	three-component apoptotic control system component B (antitoxin B)	.	-	|<	43	
+NC_000964.3	1349433	1349434	putative low-affinity inorganic phosphate transporter	.	-	|<	34	
+NC_000964.3	1351339	1351340	serine / threonine exchanger	.	-	|<	35	
+NC_000964.3	1351376	1351377	-	.	+	-	278	
+NC_000964.3	1354073	1354074	hydroquinone-specific extradiol dioxygenase	.	+	>|	44	
+NC_000964.3	1357419	1357420	putative glycosyltransferase	.	-	>|	2	conflict
+NC_000964.3	1369836	1369837	putative cell wall oligopeptide ABC transporter (ATP binding protein)|6-phosphogluconolactonase	.	-	>|<	4,39	
+NC_000964.3	1372591	1372592	promiscuous acyl-CoA thioesterase	.	+	>|	39	
+NC_000964.3	1376476	1376477	-	.	+	-	40	
+NC_000964.3	1378468	1378469	-	.	+	-	27	
+NC_000964.3	1380905	1380906	gamma-glutamyl phosphate reductase	.	+	>|	54	
+NC_000964.3	1381406	1381407	peroxiredoxin|transcriptional regulator sensing organic peroxides	.	-	>|<	4,27	
+NC_000964.3	1381440	1381441	peroxiredoxin	.	+	>|	38	
+NC_000964.3	1382465	1382466	organic hydroperoxide resistance reductase B	.	+	>|	36	
+NC_000964.3	1385681	1385682	-	.	-	-	74	
+NC_000964.3	1388073	1388074	component of the anxiosome (stressosome)	.	+	>|	35	
+NC_000964.3	1391673	1391674	-	.	-	-	32	
+NC_000964.3	1395320	1395321	hypothetical protein	.	+	>|	33	
+NC_000964.3	1397370	1397371	magnesium transporter|nitrogen sensing transcriptional regulator	.	-	>|<	3,40	
+NC_000964.3	1397408	1397409	magnesium transporter|nitrogen sensing transcriptional regulator	.	+	>|<	41,2	
+NC_000964.3	1398996	1398997	putative transcriptional regulator (MarR family)	.	+	>|	37	
+NC_000964.3	1407311	1407312	diguanylate cyclase	.	-	|<	17	
+NC_000964.3	1410767	1410768	-	.	+	-	191	
+NC_000964.3	1411664	1411665	putative manganese-related ion transporter	.	+	>|	37	
+NC_000964.3	1414090	1414091	regulator of quality control	.	-	|<	34	
+NC_000964.3	1415936	1415937	membrane protease	.	+	>|	44	
+NC_000964.3	1417448	1417449	K+-transporting ATPase	.	+	>|	33	
+NC_000964.3	1422175	1422176	hypothetical protein	.	+	>|	38	
+NC_000964.3	1424477	1424478	-	.	-	-	44	
+NC_000964.3	1427031	1427032	-	.	+	-	29	
+NC_000964.3	1430996	1430997	negative regulatory phosphatase acting on Spo0A-P (sporulation)	.	+	>|	56	
+NC_000964.3	1431457	1431458	histidine kinase phosphorylating Spo0A	.	-	|<	28	
+NC_000964.3	1433635	1433636	motility protein B%3B MotB component of the H+-coupled stator flagellum complex	.	-	|<	40	
+NC_000964.3	1435592	1435593	ATP-dependent Clp protease (class III stress gene)	.	-	|<	35	
+NC_000964.3	1439344	1439345	-	.	+	-	103	
+NC_000964.3	1442069	1442070	-	.	+	-	277	
+NC_000964.3	1442081	1442082	-	.	-	-	265	
+NC_000964.3	1443731	1443732	putative oxidoreductase (HGT island)	.	+	>|	114	
+NC_000964.3	1447116	1447117	-	.	+	-	134	
+NC_000964.3	1447555	1447556	conserved hypothetical protein (HGT island)|conserved protein of unknown function (HGT island)	.	+	>|<	15,106	
+NC_000964.3	1447556	1447557	conserved hypothetical protein (HGT island)|conserved protein of unknown function (HGT island)	.	-	>|<	16,105	
+NC_000964.3	1449171	1449172	cell wall hydrolase related to spore cortex-lytic enzymes	.	+	>|	40	
+NC_000964.3	1451163	1451164	spore-specific thiol-disulfide oxidoreductase (SpoVD maturation)	.	+	>|	29	
+NC_000964.3	1453281	1453282	-	.	-	-	409	
+NC_000964.3	1453316	1453317	Fe(II) efflux transporter possibly involved in copper(II) uptake	.	+	>|	33	
+NC_000964.3	1454828	1454829	Xaa-Pro Xaa-Pro-Xaa di-tri-peptidase used in osmoprotection	.	+	>|	47	
+NC_000964.3	1461404	1461405	phosphotransferase system (PTS) enzyme I	.	+	>|	43	
+NC_000964.3	1462829	1462830	spore photoproduct (thymine dimer) lyase	.	+	>|	32	
+NC_000964.3	1465637	1465638	methyl-accepting chemotaxis protein	.	+	>|	43	
+NC_000964.3	1466636	1466637	beta-hydroxyacid dehydrogenase (acts on 3-hydroxypropionate with NADP)|hypothetical protein	.	+	>|<	38,1	
+NC_000964.3	1469903	1469904	penicillin-binding enzyme for formation of rod-shaped peptidoglycan cell wall	.	+	>|	42	
+NC_000964.3	1471843	1471844	N-acetyl-L%2CL-diaminopimelate aminotransferase	.	-	|<	13	
+NC_000964.3	1474517	1474518	coupling protein and response regulator for CheA activity in response to attractants (chemotaxis)|regulator of transcription factor ComK function via modulation of mRNA stability	.	-	>|<	2,42	
+NC_000964.3	1474558	1474559	coupling protein and response regulator for CheA activity in response to attractants (chemotaxis)|regulator of transcription factor ComK function via modulation of mRNA stability	.	+	>|<	43,1	
+NC_000964.3	1475101	1475102	putative transporter	.	-	|<	48	
+NC_000964.3	1483493	1483494	putative cyclic-di-GMP receptor (no phosphodiesterase activity)	.	+	>|	23	
+NC_000964.3	1483643	1483644	-	.	+	-	173	
+NC_000964.3	1485358	1485359	regulator of AbrB repressor	.	+	>|	44	
+NC_000964.3	1486952	1486953	transcriptional repressor of citB and citZ	.	+	>|	27	
+NC_000964.3	1488907	1488908	short-chain flavodoxin	.	+	>|	40	
+NC_000964.3	1489732	1489733	tetrahydrodipicolinate N-acetyltransferase	.	+	>|	50	
+NC_000964.3	1491185	1491186	hypothetical protein|small-conductance mechanosensitive channel	.	-	>|<	2,35	
+NC_000964.3	1491218	1491219	hypothetical protein|small-conductance mechanosensitive channel	.	+	>|<	35,2	
+NC_000964.3	1493374	1493375	thiol-disulfide oxidoreductase	.	+	>|	54	
+NC_000964.3	1494405	1494406	repressor of comK	.	+	>|	44	
+NC_000964.3	1499700	1499701	molybdopterin synthase (small subunit)	.	+	>|	36	
+NC_000964.3	1507325	1507326	permease subunit exporting Sporulation-Delaying Protein	.	+	>|	28	
+NC_000964.3	1511202	1511203	phosphotransferase system (PTS) fructose-specific enzyme IIABC component	.	+	>|	40	
+NC_000964.3	1511885	1511886	putative membrane protein of unknown function	.	-	|<	37	
+NC_000964.3	1511927	1511928	type I signal peptidase	.	+	>|	39	
+NC_000964.3	1514023	1514024	putative energy-sensing inhibitor of translation	.	+	>|	29	
+NC_000964.3	1514961	1514962	aminopeptidase	.	-	|<	35	
+NC_000964.3	1514994	1514995	2-dehydropantoate reductase|aminopeptidase	.	+	>|<	32,2	
+NC_000964.3	1518189	1518190	transcriptional regulator	.	+	>|	47	
+NC_000964.3	1523082	1523083	ribonuclease J1	.	-	|<	35	
+NC_000964.3	1523118	1523119	adenine deaminase	.	+	>|	35	
+NC_000964.3	1526158	1526159	N-formyl-cysteine deformylase (promiscuous)	.	-	|<	36	
+NC_000964.3	1526193	1526194	putative hydrolase|N-formyl-cysteine deformylase (promiscuous)	.	+	>|<	35,1	
+NC_000964.3	1527922	1527923	putative lipoprotein	.	+	>|	21	
+NC_000964.3	1533291	1533292	dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes|small peptidoglycan-associated lipoprotein	.	-	>|<	10,35	
+NC_000964.3	1533327	1533328	dihydrolipoamide dehydrogenase E3 subunit of both pyruvate dehydrogenase and 2-oxoglutarate dehydrogenase complexes	.	+	>|	46	
+NC_000964.3	1534238	1534239	arginine decarboxylase	.	-	|<	40	
+NC_000964.3	1536202	1536203	hypothetical protein|hypothetical protein	.	-	>|<	1,32	
+NC_000964.3	1536237	1536238	hypothetical protein	.	+	>|	36	
+NC_000964.3	1538711	1538712	putative acyltransferase|putative AdoMet-dependent methyltransferase	.	+	>|<	20,58	
+NC_000964.3	1538726	1538727	putative acyltransferase|putative AdoMet-dependent methyltransferase	.	-	>|<	35,43	
+NC_000964.3	1540032	1540033	extracellular neutral metalloprotease	.	+	|<	3	conflict
+NC_000964.3	1544934	1544935	anti-SigP(YlaC) sigma factor|hypothetical protein	.	+	>|<	39,1	
+NC_000964.3	1545757	1545758	hypothetical protein	.	-	|<	62	
+NC_000964.3	1548329	1548330	hypothetical protein	.	-	|<	59	
+NC_000964.3	1548364	1548365	conserved membrane protein of unkown function|hypothetical protein	.	+	>|<	32,24	
+NC_000964.3	1552734	1552735	hypothetical protein	.	+	>|	42	
+NC_000964.3	1557671	1557672	pyruvate carboxylase	.	+	>|	41	
+NC_000964.3	1557994	1557995	heme-A synthase	.	-	|<	39	
+NC_000964.3	1565311	1565312	hypothetical protein	.	-	|<	35	
+NC_000964.3	1565348	1565349	cytochrome aa(3) assembly factor	.	+	>|	34	
+NC_000964.3	1567455	1567456	hypothetical protein	.	+	>|	37	
+NC_000964.3	1568892	1568893	subunit of a sporulation%2C competence and biofilm formation regulatory complex controlling RNase Y (RicAFT complex / FAD / two [4Fe-4S]2+)	.	+	>|	24	
+NC_000964.3	1569234	1569235	hypothetical protein	.	+	>|	39	
+NC_000964.3	1570586	1570587	phosphopantetheine adenylyltransferase	.	+	>|	24	
+NC_000964.3	1573775	1573776	putative component of the degradosome	.	-	|<	31	
+NC_000964.3	1573809	1573810	putative degradative enzyme	.	+	>|	20	
+NC_000964.3	1576021	1576022	ribosomal protein L32	.	+	>|	39	
+NC_000964.3	1576761	1576762	DNA-binding regulator|putative acetyltransferase	.	+	>|<	52,5	
+NC_000964.3	1582025	1582026	cell-division protein	.	+	>|	76	
+NC_000964.3	1586171	1586172	transpeptidase penicillin-binding protein	.	+	>|	18	
+NC_000964.3	1591505	1591506	factor for spore cortex peptidoglycan synthesis (stage V sporulation)	.	+	>|	89	
+NC_000964.3	1593654	1593655	UDP-N-acetylenolpyruvoylglucosamine reductase	.	+	>|	81	
+NC_000964.3	1599019	1599020	cell-division initiation protein	.	+	>|	40	
+NC_000964.3	1606454	1606455	RNA polymerase sporulation-specific sigma factor (sigma-G)	.	+	>|	43	
+NC_000964.3	1607527	1607528	-	.	+	-	28	
+NC_000964.3	1611638	1611639	factor involved in shape determination%2C distribution of nucleoids and osmotic tolerance	.	+	>|	46	
+NC_000964.3	1613324	1613325	-	.	+	-	32	
+NC_000964.3	1616158	1616159	isoleucyl-tRNA synthetase	.	+	>|	37	
+NC_000964.3	1618276	1618277	-	.	+	-	27	
+NC_000964.3	1618967	1618968	transcriptional attenuator and uracil phosphoribosyltransferase activity	.	+	>|	119	
+NC_000964.3	1620442	1620443	uracil permease	.	+	>|	113	
+NC_000964.3	1636084	1636085	putative tRNA modification protein	.	-	|<	46	
+NC_000964.3	1636123	1636124	precorrin-2 dehydrogenase|putative tRNA modification protein	.	+	>|<	33,7	
+NC_000964.3	1642811	1642812	omega subunit of RNA polymerase	.	+	>|	42	
+NC_000964.3	1654706	1654707	ribulose-5-phosphate 3-epimerase	.	+	>|	50	
+NC_000964.3	1655559	1655560	factor required for normal spore cortex and coat synthesis (stage V sporulation)|ribosomal protein L28	.	-	>|<	34,39	
+NC_000964.3	1655596	1655597	factor required for normal spore cortex and coat synthesis (stage V sporulation)|ribosomal protein L28	.	+	>|<	71,2	
+NC_000964.3	1658130	1658131	putative enzyme structurally related to dihydroxyacetone/glyceraldehyde kinase	.	+	>|	28	
+NC_000964.3	1660026	1660027	-	.	+	-	195	
+NC_000964.3	1665612	1665613	acyl carrier protein	.	+	>|	43	
+NC_000964.3	1666488	1666489	ribonuclease III	.	+	>|	30	
+NC_000964.3	1671128	1671129	conserved exported protein of unknown function	.	-	|<	37	
+NC_000964.3	1671163	1671164	signal recognition particle (docking protein)|conserved exported protein of unknown function	.	+	>|<	35,2	
+NC_000964.3	1674168	1674169	putative RNA binding protein	.	+	>|	32	
+NC_000964.3	1676436	1676437	ribosomal protein L19	.	+	>|	48	
+NC_000964.3	1682556	1682557	succinyl-CoA synthetase (alpha subunit)	.	+	>|	38	
+NC_000964.3	1685766	1685767	DNA topoisomerase I	.	+	>|	31	
+NC_000964.3	1690933	1690934	transcriptional regulator%2C GTP and BCAA-dependent	.	+	>|	36	
+NC_000964.3	1718720	1718721	ribosomal protein S2	.	+	>|	48	
+NC_000964.3	1719730	1719731	elongation factor Ts	.	+	>|	75	
+NC_000964.3	1721146	1721147	ribosome recycling factor	.	+	>|	64	
+NC_000964.3	1727103	1727104	prolyl-tRNA synthetase	.	+	>|	80	
+NC_000964.3	1731485	1731486	DNA polymerase III (alpha subunit)	.	+	>|	40	
+NC_000964.3	1731725	1731726	-	.	+	-	50	
+NC_000964.3	1736845	1736846	pre-ribosomal (17S) RNA binding factor A	.	+	>|	42	
+NC_000964.3	1739243	1739244	ribosomal protein S15 (BS18)	.	+	>|	34	
+NC_000964.3	1741542	1741543	polynucleotide phosphorylase (PNPase)	.	+	>|	43	
+NC_000964.3	1743883	1743884	specific processing protease	.	+	>|	38	
+NC_000964.3	1744255	1744256	PRC barrel protein involved in sporulation	.	+	>|	75	
+NC_000964.3	1747096	1747097	aspartate-semialdehyde dehydrogenase	.	+	>|	66	
+NC_000964.3	1749304	1749305	4-hydroxy-tetrahydrodipicolinate synthase	.	+	>|	65	
+NC_000964.3	1751124	1751125	dual activity 5' exo-and endoribonuclease J2	.	+	>|	40	
+NC_000964.3	1755540	1755541	putative transcriptional regulator (GntR family%2C possibly involved in biofilm formation)	.	+	>|	31	
+NC_000964.3	1759635	1759636	putative processing protease	.	+	>|	36	
+NC_000964.3	1760750	1760751	putative enzyme	.	+	>|	30	
+NC_000964.3	1762595	1762596	cell shape determination factor	.	+	>|	23	
+NC_000964.3	1765748	1765749	multifunctional SOS repair factor	.	+	>|	58	
+NC_000964.3	1768900	1768901	endoribonuclease Y	.	+	>|	29	
+NC_000964.3	1770248	1770249	regulator required for dehydratation of the spore core and assembly of the coat (stage V sporulation)	.	+	>|	54	
+NC_000964.3	1774836	1774837	master regulator for biofilm formation via regulation of RNase Y (RicAFT complex / FAD / two [4Fe-4S]2+)	.	+	>|	32	
+NC_000964.3	1780268	1780269	DNA mismatch repair endonuclease	.	+	>|	49	
+NC_000964.3	1780551	1780552	putative integral inner membrane protein	.	+	|<	66	conflict
+NC_000964.3	1782582	1782583	transcriptional regulator of bacillaene synthesis operon	.	+	>|	60	
+NC_000964.3	1858526	1858527	trans AT polyketide synthase involved in nonribosomal synthesis of bacillaene|cytochrome P450 of bacillaene metabolism	.	-	>|<	6,39	
+NC_000964.3	1864676	1864677	small toxic metabolite efflux transporter subunit	.	-	|<	14	
+NC_000964.3	1864714	1864715	putative peroxiredoxin-related protein	.	+	>|	38	
+NC_000964.3	1867656	1867657	Hfq RNA chaperone	.	+	>|	63	
+NC_000964.3	1867722	1867723	-	.	+	-	67	
+NC_000964.3	1872095	1872096	ribonucleoside-diphosphate reductase (minor subunit)	.	+	>|	18	
+NC_000964.3	1872745	1872746	N-acetylmuramoyl-L-alanine amidase (sporulation-specific)	.	-	|<	66	
+NC_000964.3	1872787	1872788	putative cofactor involved in deoxyribonucleotide synthesis|N-acetylmuramoyl-L-alanine amidase (sporulation-specific)	.	+	>|<	40,24	
+NC_000964.3	1875200	1875201	mother cell sporulation ATPase	.	+	>|	30	
+NC_000964.3	1879800	1879801	glutamine synthetase	.	+	>|	42	
+NC_000964.3	1881000	1881001	putative phage protein%3B defective phage region	.	+	>|	34	
+NC_000964.3	1882884	1882885	conserved hypothetical protein%3B defective phage region	.	+	>|	54	
+NC_000964.3	1890422	1890423	xylan beta-1%2C4-xylosidase|transcriptional regulator	.	+	>|<	48,89	
+NC_000964.3	1890469	1890470	xylan beta-1%2C4-xylosidase|transcriptional regulator	.	-	>|<	95,42	
+NC_000964.3	1895190	1895191	-	.	-	-	187	
+NC_000964.3	1895226	1895227	-	.	+	-	151	
+NC_000964.3	1897880	1897881	putative sugar transporter|alanine racemase (minor activity)	.	+	>|<	42,60	
+NC_000964.3	1903071	1903072	thymidylate synthase A (phage origin)|hypothetical protein	.	+	>|<	14,109	
+NC_000964.3	1903195	1903196	-	.	+	-	138	
+NC_000964.3	1903468	1903469	conserved exported protein	.	-	|<	42	
+NC_000964.3	1905332	1905333	component of the twin-arginine pre-protein translocation pathway	.	-	|<	37	
+NC_000964.3	1906243	1906244	putative exported protein of unknown function|regulator of stress-related ATPase (flavonoid-sensing)	.	-	>|<	37,28	
+NC_000964.3	1907301	1907302	conserved protein involved in spore germination	.	+	>|	101	
+NC_000964.3	1915031	1915032	putative phage/plasmid replication protein	.	+	>|	37	
+NC_000964.3	1917569	1917570	transcriptional repressor of the SOS regulon	.	+	|<	69	conflict
+NC_000964.3	1917577	1917578	transcriptional repressor of the SOS regulon	.	-	|<	61	
+NC_000964.3	1919730	1919731	hypothetical protein	.	+	>|	39	
+NC_000964.3	1921903	1921904	transketolase	.	+	>|	40	
+NC_000964.3	1922804	1922805	putative acyltransferase|Spo0A-P phosphatase	.	-	>|<	38,36	
+NC_000964.3	1924960	1924961	factor interacting with DynA	.	-	|<	32	
+NC_000964.3	1924996	1924997	putative integral inner membrane protein	.	+	>|	35	
+NC_000964.3	1925651	1925652	spore coat protein (outer)	.	+	|<	3	conflict
+NC_000964.3	1929452	1929453	aconitate hydratase (bifunctional aconitase)	.	+	>|	44	
+NC_000964.3	1930007	1930008	putative membrane-bound proteins with a thioredoxin-like domain	.	+	>|	15	
+NC_000964.3	1931513	1931514	hypothetical protein	.	-	|<	31	
+NC_000964.3	1931547	1931548	hypothetical protein	.	+	>|	34	
+NC_000964.3	1933123	1933124	putative acyl-CoA-binding protein	.	+	>|	46	
+NC_000964.3	1937906	1937907	subunit A of DNA topoisomerase IV (ATP-dependent)	.	+	>|	39	
+NC_000964.3	1940371	1940372	H+/Na+:nitrogen-donor aminoacid symporter	.	+	>|	50	
+NC_000964.3	1942644	1942645	secreted endo-xylanase	.	-	|<	69	
+NC_000964.3	1948313	1948314	putative integral inner membrane protein%2C phosphatase or phosphate isomerase	.	+	>|	50	
+NC_000964.3	2000919	2000920	putative Na+-driven efflux transporter	.	-	|<	40	
+NC_000964.3	2004235	2004236	putative excisionase	.	-	|<	26	
+NC_000964.3	2006441	2006442	membrane bound gamma-glutamyltranspeptidase|transcriptional regulator (LysR family)	.	-	>|<	2,99	
+NC_000964.3	2008515	2008516	putative oxidoreductase|glutamate synthase (small subunit%2C NADP-dependent)	.	-	>|<	1,56	
+NC_000964.3	2015685	2015686	transcriptional regulator (LysR family) (GltC-glutamate)|glutamate 5-kinase	.	-	>|<	5,47	
+NC_000964.3	2015726	2015727	transcriptional regulator (LysR family) (GltC-glutamate)|glutamate 5-kinase	.	+	>|<	46,6	
+NC_000964.3	2017840	2017841	replication terminator protein	.	-	|<	45	
+NC_000964.3	2018521	2018522	putative oxido-reductase	.	-	|<	32	
+NC_000964.3	2025078	2025079	-	.	-	-	3	
+NC_000964.3	2027806	2027807	hypothetical protein	.	-	>|	5	conflict
+NC_000964.3	2027849	2027850	hypothetical protein	.	+	>|	48	
+NC_000964.3	2032888	2032889	extracellular endoglucanase precursor (expansin)	.	-	|<	38	
+NC_000964.3	2038860	2038861	hypothetical protein	.	-	|<	41	
+NC_000964.3	2044893	2044894	putative integral inner membrane protein|putative transcriptional regulator (LysR family)	.	+	>|<	62,62	
+NC_000964.3	2049533	2049534	beta-lactamase precursor (putative hydrolase)	.	+	>|	81	
+NC_000964.3	2054070	2054071	-	.	-	-	142	
+NC_000964.3	2054108	2054109	-	.	+	-	180	
+NC_000964.3	2057612	2057613	conserved hypothetical protein%3B putative defective prophage 6	.	+	>|	34	
+NC_000964.3	2063437	2063438	secreted regulator of the activity of phosphatase RapK	.	+	>|	54	
+NC_000964.3	2065373	2065374	putative phage repair NTPase with transmembrane helices%3B putative defective prophage 6	.	-	|<	50	
+NC_000964.3	2069726	2069727	-	.	-	-	156	
+NC_000964.3	2070083	2070084	type I toxin (BsrE/AsrE)	.	+	>|	109	
+NC_000964.3	2071196	2071197	antitoxin inhibiting Rnase RttL	.	-	|<	89	
+NC_000964.3	2073617	2073618	putative phage protein%3B putative defective prophage 6	.	-	|<	40	
+NC_000964.3	2079175	2079176	molecular chaperone for secreting proteins	.	-	|<	38	
+NC_000964.3	2079209	2079210	molecular chaperone for secreting proteins	.	+	|<	4	conflict
+NC_000964.3	2084735	2084736	transcriptional regulator (multiple metal-sensing ArsR-SmtB transcriptional repressor favouring Zn2+)	.	-	|<	50	
+NC_000964.3	2086032	2086033	putative murein fragments glycosidase|putative integral inner membrane protein	.	+	>|<	53,37	
+NC_000964.3	2086044	2086045	putative murein fragments glycosidase|putative integral inner membrane protein	.	-	>|<	65,25	
+NC_000964.3	2089265	2089266	putative carboxypeptidase%3B aminoacid adenylate hydrolase (microcin resistance)	.	+	>|	32	
+NC_000964.3	2090498	2090499	fatty acid desaturase	.	+	>|	45	
+NC_000964.3	2092339	2092340	two-component response regulator [DesK]	.	+	>|	36	
+NC_000964.3	2092849	2092850	exported cell wall lytic enzyme	.	-	|<	49	
+NC_000964.3	2095900	2095901	-	.	-	-	116	
+NC_000964.3	2096309	2096310	FMN-dependent NADH-azoreductase	.	-	|<	40	
+NC_000964.3	2097081	2097082	putative general stress protein	.	-	|<	44	
+NC_000964.3	2099403	2099404	conserved protein of unknown function (sporulation-related)|hypothetical protein	.	-	>|<	44,42	
+NC_000964.3	2100070	2100071	hypothetical protein	.	-	|<	76	
+NC_000964.3	2102110	2102111	3-hydroxypropionaldehyde dehydrogenase	.	+	>|	44	
+NC_000964.3	2104901	2104902	superoxide dismutase (Fe2+-dependent)|putative sodium-dependent transporter	.	-	>|<	1,32	
+NC_000964.3	2107463	2107464	putative sodium-dependent symporter|2-oxoglutarate dehydrogenase complex (dihydrolipoamide transsuccinylase%2C E2 subunit)	.	-	>|<	9,41	
+NC_000964.3	2111813	2111814	putative activator of nitric oxide reductase	.	-	|<	23	
+NC_000964.3	2121602	2121603	malate N-acetylglucosamine deacetylase (second enzyme)	.	-	|<	38	
+NC_000964.3	2121641	2121642	co-antagonist of RsbT%3B component of the anxiosome (stressosome)	.	+	>|	27	
+NC_000964.3	2126960	2126961	putative tautomerase	.	-	>|	23	conflict
+NC_000964.3	2126997	2126998	putative tautomerase	.	+	>|	60	
+NC_000964.3	2127263	2127264	transcriptional repressor	.	-	|<	81	
+NC_000964.3	2128466	2128467	water forming NADH oxidase (nitroreductase)	.	+	>|	46	
+NC_000964.3	2131865	2131866	carboxy-terminal processing protease (Prc homolog%2C tail specific protease)	.	-	|<	36	
+NC_000964.3	2134526	2134527	putative spore coat protein|D-alanyl-D-alanine carboxypeptidase lipoprotein (D-ala releasing from tetrapeptide hydrolysis)	.	-	>|<	32,39	
+NC_000964.3	2135428	2135429	purine nucleoside phosphorylase	.	-	|<	41	
+NC_000964.3	2136501	2136502	hypothetical protein|shape determination factor	.	-	>|<	4,36	
+NC_000964.3	2138832	2138833	hypothetical protein	.	-	|<	35	
+NC_000964.3	2145772	2145773	putative toxin of a type I toxin family (sporulation operon)	.	-	|<	47	
+NC_000964.3	2190746	2190747	-	.	+	-	137	
+NC_000964.3	2195565	2195566	putative membrane protein%3B phage SPbeta	.	+	>|	19	
+NC_000964.3	2204149	2204150	putative DNA breaking-rejoining enzyme%3B phage SPbeta	.	-	|<	42	
+NC_000964.3	2208755	2208756	arbitrium lysis /lysogeny regulatory peptide%3B phage SPbeta	.	-	|<	99	
+NC_000964.3	2210278	2210279	conserved protein of unknown function%3B phage SPbeta	.	-	|<	52	
+NC_000964.3	2212764	2212765	conserved protein of unknown function%3B phage SPbeta	.	+	>|	19	
+NC_000964.3	2215257	2215258	-	.	-	-	59	
+NC_000964.3	2219231	2219232	conserved protein of unknown function%3B phage SPbeta	.	-	|<	49	
+NC_000964.3	2220306	2220307	putative hydrolase lipoprotein%3B phage SPbeta	.	-	|<	28	
+NC_000964.3	2228716	2228717	conserved hypothetical protein%3B phage SPbeta	.	-	|<	39	
+NC_000964.3	2246612	2246613	conserved exported protein of unknown function%3B phage SPbeta	.	-	|<	43	
+NC_000964.3	2249117	2249118	protein conferring self-immunity to the host%3B phage SPbeta	.	+	>|	18	
+NC_000964.3	2265130	2265131	thiol-disulfide oxidoreductase B%3B bacteriophage SPbeta	.	-	|<	94	
+NC_000964.3	2269946	2269947	protein of immunity to sublancin	.	-	|<	41	
+NC_000964.3	2272488	2272489	conserved protein of unknown function%3B phage SPbeta	.	-	|<	45	
+NC_000964.3	2273438	2273439	-	.	-	-	76	
+NC_000964.3	2273703	2273704	-	.	-	-	285	
+NC_000964.3	2277482	2277483	conserved protein of unknown function%3B phage SPbeta	.	-	|<	38	
+NC_000964.3	2281388	2281389	conserved protein of unknown function%3B phage SPbeta	.	+	>|	26	
+NC_000964.3	2283687	2283688	-	.	-	-	37	
+NC_000964.3	2287051	2287052	peptide methionine R-sulfoxide reductase	.	-	|<	45	
+NC_000964.3	2288618	2288619	damage inducible%2C Na+ driven multidrug efflux pump	.	-	|<	50	
+NC_000964.3	2288660	2288661	putative transcriptional regulator (MarR family)|damage inducible%2C Na+ driven multidrug efflux pump	.	+	>|<	42,8	
+NC_000964.3	2290044	2290045	hypothetical protein	.	-	|<	33	
+NC_000964.3	2292367	2292368	hypothetical protein	.	-	|<	64	
+NC_000964.3	2295949	2295950	putative membrane hydrolase|putative 1-acyl-sn-glycerol-3-phosphate acyltransferase	.	-	>|<	7,32	
+NC_000964.3	2295985	2295986	putative membrane hydrolase	.	+	>|	43	
+NC_000964.3	2299385	2299386	putative 16S rRNA m(2)G1516 methyltransferase	.	-	|<	20	
+NC_000964.3	2299419	2299420	-	.	+	-	274	
+NC_000964.3	2300195	2300196	protein disulfide isomerase%3B bacilliredoxin A (de-bacillithiolation)	.	-	|<	25	
+NC_000964.3	2302691	2302692	putative lyase or scaffold	.	-	|<	35	
+NC_000964.3	2307703	2307704	UDP-glucose diacylglyceroltransferase	.	+	>|	42	
+NC_000964.3	2308131	2308132	cold-shock protein%2C molecular chaperone%2C RNA-helicase co-factor|activator of degradative enzymes (aprE%2C nprE%2C sacB) production or activity	.	-	>|<	27,25	
+NC_000964.3	2308163	2308164	cold-shock protein%2C molecular chaperone%2C RNA-helicase co-factor	.	+	>|	59	
+NC_000964.3	2308758	2308759	hypothetical protein	.	-	|<	33	
+NC_000964.3	2310975	2310976	5'3'-exonuclease	.	-	|<	19	
+NC_000964.3	2311941	2311942	hypothetical protein	.	-	|<	44	
+NC_000964.3	2318104	2318105	xanthine permease	.	-	|<	22	
+NC_000964.3	2320050	2320051	-	.	-	-	27	
+NC_000964.3	2327451	2327452	2-keto-3-deoxygluconate oxidoreductase|putative ATP-dependent helicase	.	-	>|<	5,36	
+NC_000964.3	2327487	2327488	2-keto-3-deoxygluconate oxidoreductase	.	+	>|	41	
+NC_000964.3	2329480	2329481	hypothetical protein	.	-	|<	34	
+NC_000964.3	2330042	2330043	hypothetical protein|m(7)G2069 methylase of 23S rRNA	.	-	>|<	21,32	
+NC_000964.3	2332711	2332712	spore coat protein (inner)	.	-	|<	72	
+NC_000964.3	2336908	2336909	putative phosphotransferase system enzyme IIA component	.	-	|<	24	
+NC_000964.3	2338792	2338793	putative sporulation protein|hypothetical protein	.	-	>|<	23,16	
+NC_000964.3	2338829	2338830	putative sporulation protein	.	+	>|	60	
+NC_000964.3	2344227	2344228	peptidoglycan glycosyltransferase (penicillin-binding proteins 1A and 1B)|hypothetical protein	.	+	>|<	40,36	
+NC_000964.3	2344235	2344236	peptidoglycan glycosyltransferase (penicillin-binding proteins 1A and 1B)|hypothetical protein	.	-	>|<	48,28	
+NC_000964.3	2346175	2346176	asparaginyl-tRNA synthetase	.	-	|<	48	
+NC_000964.3	2347620	2347621	anabolic oxaloacetate / glutamate aminotransferase	.	-	|<	39	
+NC_000964.3	2352559	2352560	aspartate 1-decarboxylase	.	-	|<	32	
+NC_000964.3	2361511	2361512	putative integral inner membrane protein|sporulation septum-associated protein	.	-	>|<	10,32	
+NC_000964.3	2365697	2365698	hypothetical protein	.	-	|<	38	
+NC_000964.3	2367931	2367932	3-phosphoshikimate 1-carboxyvinyltransferase (5-enolpyruvoylshikimate-3-phosphate synthase)	.	-	|<	22	
+NC_000964.3	2370386	2370387	histidinol-phosphate aminotransferase%3B tyrosine/phenylalanine aminotransferase (promiscuous)	.	-	|<	28	
+NC_000964.3	2381191	2381192	-	.	-	-	75	
+NC_000964.3	2385459	2385460	non-specific DNA-binding protein HBsu	.	-	|<	83	
+NC_000964.3	2388915	2388916	-	.	-	-	103	
+NC_000964.3	2393560	2393561	putative sporulation-related protein|isopentenyl diphosphate isomerase (typeII)	.	-	>|<	2,41	
+NC_000964.3	2394473	2394474	-	.	-	-	190	
+NC_000964.3	2400178	2400179	protease required for RsiW anti-sigma(W) degradation	.	-	|<	29	
+NC_000964.3	2400946	2400947	putative bacillithiol biosynthesis thiol disulfide oxidoreductase	.	-	|<	37	
+NC_000964.3	2402010	2402011	cryptic glutamate dehydrogenase (active after removal of a 9 bp insert)	.	-	|<	56	
+NC_000964.3	2403466	2403467	adaptor to ClpC%3B regulator of competence and sporulation	.	-	|<	39	
+NC_000964.3	2405840	2405841	-	.	-	-	284	
+NC_000964.3	2409984	2409985	ferredoxin|FMN permease	.	-	>|<	8,32	
+NC_000964.3	2410016	2410017	ferredoxin	.	+	>|	40	
+NC_000964.3	2412664	2412665	3-phosphoglycerate dehydrogenase|3-dehydroquinate dehydratase	.	-	>|<	2,41	
+NC_000964.3	2412700	2412701	3-phosphoglycerate dehydrogenase|3-dehydroquinate dehydratase	.	+	>|<	38,5	
+NC_000964.3	2413557	2413558	negative regulator of sigma(X) activity	.	-	|<	27	
+NC_000964.3	2415345	2415346	two-component sensor histidine kinase (ResD / ResE)	.	-	|<	69	
+NC_000964.3	2424621	2424622	hypothetical protein	.	-	|<	32	
+NC_000964.3	2427375	2427376	putative riboflavin synthesis-related N-acetyltransferase	.	-	|<	29	
+NC_000964.3	2431376	2431377	-	.	-	-	34	
+NC_000964.3	2431700	2431701	hypothetical protein	.	-	|<	36	
+NC_000964.3	2432282	2432283	type I signal peptidase	.	-	|<	33	
+NC_000964.3	2435319	2435320	putative germination protein|peptidyl-prolyl isomerase	.	-	>|<	96,40	
+NC_000964.3	2436915	2436916	meso-2%2C6-diaminopimelate decarboxylase	.	-	|<	31	
+NC_000964.3	2436948	2436949	hypothetical protein	.	+	>|	32	
+NC_000964.3	2446357	2446358	purine nucleoside phosphorylase	.	-	|<	60	
+NC_000964.3	2449794	2449795	transcriptional regulator for iron transport and metabolism	.	-	|<	46	
+NC_000964.3	2451421	2451422	catabolic NAD-dependent malic enzyme (conversion of malate into pyruvate)	.	-	|<	41	
+NC_000964.3	2460249	2460250	NADPH-dependent aldo-keto reductase (acts on 4-hydroxy-2%2C3-trans-nonenal)|hypothetical protein	.	-	>|<	4,28	
+NC_000964.3	2460283	2460284	NADPH-dependent aldo-keto reductase (acts on 4-hydroxy-2%2C3-trans-nonenal)	.	+	>|	38	
+NC_000964.3	2461578	2461579	hypothetical protein	.	-	|<	42	
+NC_000964.3	2461620	2461621	putative hydrolase	.	+	>|	40	
+NC_000964.3	2467956	2467957	putative efflux transporter	.	-	>|	4	conflict
+NC_000964.3	2473125	2473126	-	.	+	-	25	
+NC_000964.3	2474031	2474032	pyrroline-5-carboxylate reductase (NADP-dependent%2C weak activity)	.	+	>|	45	
+NC_000964.3	2477734	2477735	putative hydrolase	.	-	>|	5	conflict
+NC_000964.3	2477773	2477774	putative hydrolase	.	+	>|	44	
+NC_000964.3	2480707	2480708	glucose-6-phosphate 1-dehydrogenase (NADP-dependent)|NADP+-dependent 6-P-gluconate dehydrogenase	.	-	>|<	83,42	
+NC_000964.3	2480746	2480747	glucose-6-phosphate 1-dehydrogenase (NADP-dependent)|NADP+-dependent 6-P-gluconate dehydrogenase	.	+	>|<	122,3	
+NC_000964.3	2484731	2484732	Sec-independent factor for membrane protein insertion (YidC/SpoIIIJ family)	.	-	>|	1	conflict
+NC_000964.3	2484768	2484769	Sec-independent factor for membrane protein insertion (YidC/SpoIIIJ family)	.	+	>|	38	
+NC_000964.3	2485637	2485638	putative peptidase or deacylase	.	-	|<	42	
+NC_000964.3	2491993	2491994	high affinity arginine ABC transporter binding lipoprotein	.	-	|<	35	
+NC_000964.3	2493024	2493025	bacilliredoxin B (de-bacillithiolation)	.	-	|<	39	
+NC_000964.3	2496743	2496744	transcriptional regulator (MerR family)|branched-chain alpha-keto acid dehydrogenase E2 subunit (lipoamide acyltransferase)	.	-	>|<	10,52	
+NC_000964.3	2507258	2507259	hypothetical protein|2-methylisocitrate lyase	.	-	>|<	3,39	
+NC_000964.3	2507292	2507293	hypothetical protein|2-methylisocitrate lyase	.	+	>|<	37,5	
+NC_000964.3	2514130	2514131	glycerophosphodiester phosphodiesterase (exolytic cleavage of individual teichoic acid monomer units)	.	-	|<	38	
+NC_000964.3	2517560	2517561	putative NADH-dependent flavin oxidoreductase	.	-	>|	3	conflict
+NC_000964.3	2517598	2517599	putative NADH-dependent flavin oxidoreductase	.	+	>|	41	
+NC_000964.3	2520529	2520530	factor for double strand breaks DNA repair and genetic recombination	.	-	|<	27	
+NC_000964.3	2522847	2522848	putative 2'-O-ribose RNA methyltransferase	.	-	|<	23	
+NC_000964.3	2528308	2528309	methylenetetrahydrofolate dehydrogenase%3B methenyltetrahydrofolate cyclohydrolase	.	-	|<	95	
+NC_000964.3	2529822	2529823	alkaline shock protein	.	-	|<	103	
+NC_000964.3	2529880	2529881	alkaline shock protein	.	-	|<	45	
+NC_000964.3	2538069	2538070	elongation factor P	.	-	|<	45	
+NC_000964.3	2542509	2542510	hypothetical protein	.	+	>|	68	
+NC_000964.3	2543408	2543409	transcriptional regulator (hydrogen peroxide sensing%2C allosterically regulated by Mn2+)	.	-	|<	31	
+NC_000964.3	2545374	2545375	glycine decarboxylase (subunit 2) (glycine cleavage system protein P)	.	-	|<	35	
+NC_000964.3	2545409	2545410	putative sulfur transferase	.	+	>|	35	
+NC_000964.3	2562899	2562900	component of the anxiosome (stressosome)	.	-	|<	66	
+NC_000964.3	2564886	2564887	hypothetical protein|putative metal-binding hydrolase	.	-	>|<	4,36	
+NC_000964.3	2564923	2564924	hypothetical protein	.	+	>|	41	
+NC_000964.3	2565883	2565884	hypothetical protein	.	-	|<	36	
+NC_000964.3	2565920	2565921	hypothetical protein	.	+	>|	33	
+NC_000964.3	2568531	2568532	enzyme responsible for polyglycerolphosphate LTA synthesis	.	-	|<	41	
+NC_000964.3	2573493	2573494	hypothetical protein	.	-	|<	26	
+NC_000964.3	2574343	2574344	ribosomal protein L33	.	-	|<	64	
+NC_000964.3	2577211	2577212	hypothetical protein	.	+	>|	31	
+NC_000964.3	2580667	2580668	phosphate ABC transporter (phosphate binding lipoprotein)	.	-	|<	47	
+NC_000964.3	2581737	2581738	transpeptidase (penicillin-binding protein 2A)	.	-	|<	33	
+NC_000964.3	2585395	2585396	superoxide dismutase (Mn[2+]-dependent)	.	-	|<	38	
+NC_000964.3	2587900	2587901	cell wall protein	.	-	|<	95	
+NC_000964.3	2590280	2590281	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase)|conserved protein of unknown function expressed in germinating spores	.	+	>|<	25,1	
+NC_000964.3	2591382	2591383	transcriptional regulator (Zn[2+]-binding Fur family)	.	-	|<	45	
+NC_000964.3	2591416	2591417	putative nucleotidase|transcriptional regulator (Zn[2+]-binding Fur family)	.	+	>|<	32,11	
+NC_000964.3	2593251	2593252	type IV apurinic/apyrimidinic endonuclease	.	-	|<	29	
+NC_000964.3	2597468	2597469	putative GTP cyclohydrolase	.	-	|<	33	
+NC_000964.3	2597503	2597504	1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate reductase	.	+	>|	25	
+NC_000964.3	2599460	2599461	cytochrome c550	.	-	|<	62	
+NC_000964.3	2600181	2600182	RNA polymerase major sigma-43 factor (sigma-A)	.	-	|<	32	
+NC_000964.3	2605683	2605684	glycyl-tRNA synthetase (beta subunit)	.	-	|<	46	
+NC_000964.3	2614457	2614458	phosphate starvation-induced protein	.	-	|<	38	
+NC_000964.3	2616951	2616952	hypothetical protein	.	-	|<	53	
+NC_000964.3	2619866	2619867	conserved protein of unknown function with tRNA aminoacid amidase domain	.	-	|<	43	
+NC_000964.3	2621638	2621639	tRNA N(6)-threonylcarbamoyladenosine (t(6)A) methylthiotransferase	.	-	|<	38	
+NC_000964.3	2625998	2625999	molecular chaperone%2C ATP-dependent	.	-	|<	113	
+NC_000964.3	2630876	2630877	ribosomal elongation factor%2C GTPase	.	-	|<	33	
+NC_000964.3	2636082	2636083	ribosomal protein S20 (BS20)|DNA polymerase clamp loader delta subunit	.	-	>|<	2,13	
+NC_000964.3	2636119	2636120	ribosomal protein S20 (BS20)	.	+	>|	39	
+NC_000964.3	2637543	2637544	hypothetical protein	.	+	>|	41	
+NC_000964.3	2642086	2642087	putative pyrroline-5'-carboxylate reductase|putative methyltransferase	.	-	>|<	52,14	
+NC_000964.3	2647710	2647711	check point factor coupling initiation of sporulation and replication initiation	.	-	>|	97	conflict
+NC_000964.3	2650498	2650499	conserved membrane protein of unknown function	.	+	>|	31	
+NC_000964.3	2652385	2652386	hypothetical protein|sporulation-specific matrix degrading exported DNase	.	+	>|<	32,1	
+NC_000964.3	2653692	2653693	-	.	+	-	896	
+NC_000964.3	2655275	2655276	thioredoxin-coupled arsenate reductase%3B skin element	.	-	|<	46	
+NC_000964.3	2660519	2660520	regulator peptide of the activity of phosphatase RapE%3B skin element	.	+	>|	56	
+NC_000964.3	2663350	2663351	antitoxin factor of ribonuclease toxin RttG%3B skin element	.	+	>|	61	
+NC_000964.3	2663514	2663515	hypothetical protein%3B skin element	.	-	|<	36	
+NC_000964.3	2678344	2678345	-	.	-	-	454	
+NC_000964.3	2678465	2678466	toxic peptide of toxin-antitoxin system%3B skin element	.	+	>|	47	
+NC_000964.3	2679013	2679014	skin region%3B type I toxin	.	+	>|	126	
+NC_000964.3	2691468	2691469	-	.	-	-	25	
+NC_000964.3	2692615	2692616	conserved phage protein of unknown function%3B skin element|conserved phage protein of unknown function%3B skin element	.	+	>|<	45,29	
+NC_000964.3	2692928	2692929	putative Holliday junction resolvase%3B skin element	.	+	|<	4	conflict
+NC_000964.3	2697097	2697098	-	.	+	-	109	
+NC_000964.3	2699395	2699396	conserved phage protein of unknown function%3B skin element	.	+	|<	114	conflict
+NC_000964.3	2714763	2714764	-	.	-	-	169	
+NC_000964.3	2718881	2718882	spermine/spermidine acetyltransferase|putative membrane associated protein	.	-	>|<	80,77	
+NC_000964.3	2718921	2718922	spermine/spermidine acetyltransferase|putative membrane associated protein	.	+	>|<	120,37	
+NC_000964.3	2722764	2722765	transcriptional regulator (LysR family)|putative oxidoreductase	.	+	>|<	121,2	
+NC_000964.3	2726817	2726818	transcriptional regulator (LysR family)|hypothetical protein	.	-	>|<	91,67	
+NC_000964.3	2726857	2726858	hypothetical protein	.	+	|<	27	conflict
+NC_000964.3	2732919	2732920	putative hydrolase	.	-	|<	60	
+NC_000964.3	2739178	2739179	glutamate racemase	.	+	>|	74	
+NC_000964.3	2740273	2740274	putative lipoprotein	.	+	>|	81	
+NC_000964.3	2740906	2740907	expressed polypeptide of unknown function	.	+	>|	61	
+NC_000964.3	2747913	2747914	chitosanase	.	-	|<	70	
+NC_000964.3	2749565	2749566	hypothetical protein	.	+	>|	43	
+NC_000964.3	2758039	2758040	deglycase%3B general stress protecting enzyme%3B protects against methylglyoxal toxicity|levanase	.	+	>|<	39,3	
+NC_000964.3	2767946	2767947	small amino acid permease|putative amino acid exporter	.	-	>|<	1,95	
+NC_000964.3	2767984	2767985	small amino acid permease|putative amino acid exporter	.	+	>|<	39,57	
+NC_000964.3	2773851	2773852	cytochrome P450 CYP102A3	.	-	|<	38	
+NC_000964.3	2779145	2779146	-	.	-	-	74	
+NC_000964.3	2784653	2784654	hypothetical protein|hypothetical protein	.	-	>|<	2,34	
+NC_000964.3	2784689	2784690	hypothetical protein	.	+	>|	38	
+NC_000964.3	2788885	2788886	hypothetical protein|hypothetical protein	.	-	>|<	3,34	
+NC_000964.3	2788919	2788920	hypothetical protein	.	+	>|	37	
+NC_000964.3	2791441	2791442	transcription elongation factor resolving backtracking / stalling	.	-	|<	52	
+NC_000964.3	2795858	2795859	conserved membrane associated protein	.	-	|<	28	
+NC_000964.3	2797052	2797053	putative nucleic acid binding protein	.	-	|<	47	
+NC_000964.3	2806258	2806259	5'-3' helicase associated to SSB%3B exonuclease V	.	-	|<	27	
+NC_000964.3	2809374	2809375	tRNA-specific 2-thiouridylase	.	-	|<	38	
+NC_000964.3	2813604	2813605	DNA-dependent ATPase active at replication forks|tRNA threonylcarbamoyladenosine dehydratase (t(6)A37 dehydratase)	.	-	>|<	4,38	
+NC_000964.3	2813639	2813640	DNA-dependent ATPase active at replication forks|tRNA threonylcarbamoyladenosine dehydratase (t(6)A37 dehydratase)	.	+	>|<	39,3	
+NC_000964.3	2820048	2820049	gly-tRNA(Ala) deacylase / D-Tyr-tRNATyr deacylase	.	-	|<	28	
+NC_000964.3	2820079	2820080	putative N-acetylmuramoyl-L-alanine amidase%2C family 3	.	+	>|	30	
+NC_000964.3	2822852	2822853	adenine phosphoribosyltransferase	.	-	|<	48	
+NC_000964.3	2826861	2826862	protein-export membrane protein	.	-	|<	38	
+NC_000964.3	2832366	2832367	component of the preprotein translocase	.	-	|<	57	
+NC_000964.3	2836870	2836871	bypass of forespore C%2C intercompartmental signaling factor	.	-	|<	38	
+NC_000964.3	2840795	2840796	putative serine/threonine-protein kinase|hypothetical protein	.	+	>|<	39,7	
+NC_000964.3	2841484	2841485	hypothetical protein	.	+	>|	38	
+NC_000964.3	2843070	2843071	sodium/proton-dependent alanine transporter|putative factor regulating gene expression	.	-	>|<	6,35	
+NC_000964.3	2843109	2843110	sodium/proton-dependent alanine transporter	.	+	>|	45	
+NC_000964.3	2851256	2851257	prephenate dehydratase	.	-	|<	26	
+NC_000964.3	2851285	2851286	transcriptional repressor of de novo NAD biosynthesis	.	+	>|	28	
+NC_000964.3	2854838	2854839	hypothetical protein|ribosomal protein L27 (BL24)	.	-	>|<	80,41	
+NC_000964.3	2857719	2857720	ATPase activator of MinC	.	-	|<	56	
+NC_000964.3	2865266	2865267	folyl-polyglutamate synthase	.	-	|<	45	
+NC_000964.3	2866623	2866624	valyl-tRNA synthetase	.	-	|<	40	
+NC_000964.3	2869343	2869344	-	.	-	-	38	
+NC_000964.3	2872837	2872838	glutamate-1-semialdehyde 2%2C1-aminomutase	.	-	|<	42	
+NC_000964.3	2877627	2877628	-	.	-	-	138	
+NC_000964.3	2879859	2879860	GTPase involved in ribosome 50S subunit assembly (maturation of the central 50S protuberance)	.	-	|<	22	
+NC_000964.3	2879896	2879897	putative integral inner membrane protein	.	+	>|	37	
+NC_000964.3	2884735	2884736	protein unfolding ATPase required for presentation of proteins to proteases%3B Maxwell's demon	.	-	|<	45	
+NC_000964.3	2886255	2886256	prolyl isomerase (trigger factor)	.	-	|<	59	
+NC_000964.3	2888904	2888905	3-isopropylmalate dehydratase (small subunit)	.	-	|<	35	
+NC_000964.3	2903184	2903185	glutamate racemase	.	-	|<	32	
+NC_000964.3	2904687	2904688	transcriptional regulator required for the expression of late spore coat genes	.	-	|<	39	
+NC_000964.3	2905533	2905534	succinate dehydrogenase (iron-sulfur protein)	.	-	|<	37	
+NC_000964.3	2909476	2909477	hypothetical protein|aspartokinase II alpha subunit (aa 1->408)	.	-	>|<	1,43	
+NC_000964.3	2909513	2909514	hypothetical protein|aspartokinase II alpha subunit (aa 1->408)	.	+	>|<	38,6	
+NC_000964.3	2910809	2910810	-	.	-	-	64	
+NC_000964.3	2912973	2912974	thioredoxin	.	-	|<	50	
+NC_000964.3	2913620	2913621	exo-alpha-L-arabinofuranosidase	.	-	|<	40	
+NC_000964.3	2915329	2915330	electron transfer flavoprotein (alpha subunit)	.	-	|<	35	
+NC_000964.3	2926971	2926972	phenylalanyl-tRNA synthetase (beta subunit)	.	-	|<	36	
+NC_000964.3	2927009	2927010	ribonuclease HIII	.	+	>|	38	
+NC_000964.3	2930522	2930523	-	.	-	-	31	
+NC_000964.3	2935926	2935927	hypothetical protein	.	-	|<	40	
+NC_000964.3	2935965	2935966	glycolate oxidase (iron-sulfur subunit)|hypothetical protein	.	+	>|<	38,1	
+NC_000964.3	2951859	2951860	putative membrane component	.	-	|<	38	
+NC_000964.3	2951902	2951903	hypothetical protein	.	+	>|	21	
+NC_000964.3	2952188	2952189	ribosomal protein L20	.	-	|<	35	
+NC_000964.3	2953413	2953414	-	.	-	-	65	
+NC_000964.3	2954464	2954465	putative lipoprotein|pyruvate import system subunit B	.	-	>|<	5,27	
+NC_000964.3	2954499	2954500	putative lipoprotein	.	+	>|	40	
+NC_000964.3	2955767	2955768	two-component response regulator [LytS]	.	-	|<	15	
+NC_000964.3	2959214	2959215	threonyl-tRNA synthetase	.	-	|<	42	
+NC_000964.3	2959255	2959256	promiscuous phosphatase|threonyl-tRNA synthetase	.	+	>|<	40,1	
+NC_000964.3	2965646	2965647	negative regulator of transcription of ribonucleotide reductase nrd genes and operons	.	-	|<	34	
+NC_000964.3	2968220	2968221	putative transcriptional regulator (HxlR family)	.	-	|<	39	
+NC_000964.3	2970884	2970885	promiscuous aldo/keto reductase|dephosphocoenzyme A kinase	.	-	>|<	5,37	
+NC_000964.3	2970920	2970921	promiscuous aldo/keto reductase|dephosphocoenzyme A kinase	.	+	>|<	41,1	
+NC_000964.3	2975944	2975945	two-component sensor histidine kinase	.	-	|<	123	
+NC_000964.3	2978692	2978693	malate dehydrogenase (NAD-dependent)	.	-	|<	41	
+NC_000964.3	2982573	2982574	putative integral membrane protein	.	-	|<	29	
+NC_000964.3	2984275	2984276	putative integral inner membrane protein	.	-	|<	36	
+NC_000964.3	2984748	2984749	pyruvate kinase	.	-	|<	39	
+NC_000964.3	2987696	2987697	acetyl-CoA carboxylase (carboxyltransferase alpha subunit)	.	-	|<	34	
+NC_000964.3	3009873	3009874	transcriptional regulator of operon snaA-ytnM degrading cysteine-containing compounds (AscR-N-acetylcysteine)|putative metal-dependent hydrolase	.	-	>|<	10,41	
+NC_000964.3	3011528	3011529	hypothetical protein	.	-	|<	26	
+NC_000964.3	3014464	3014465	molybdopterin GTP-binding precursor Z biosynthesis component	.	-	|<	49	
+NC_000964.3	3015072	3015073	acetate kinase	.	-	|<	38	
+NC_000964.3	3016588	3016589	putative nucleic acid methyltransferase	.	-	|<	57	
+NC_000964.3	3017655	3017656	thiol peroxidase (lipid hydroperoxide reductase)	.	-	|<	40	
+NC_000964.3	3019501	3019502	putative integral inner membrane protein	.	-	|<	31	
+NC_000964.3	3022039	3022040	inorganic polyphosphate/ATP-NAD kinase|putative N-substituted formamide deformylase%2C dihydropyrimidinase or isoaspartyl peptidase	.	-	>|<	4,28	
+NC_000964.3	3022073	3022074	inorganic polyphosphate/ATP-NAD kinase	.	+	>|	38	
+NC_000964.3	3025394	3025395	small acid-soluble spore protein (alpha-type SASP)	.	-	|<	50	
+NC_000964.3	3029673	3029674	branched-chain amino acid-Na+ symporter|negative regulator of FtsZ ring formation	.	+	>|<	40,55	
+NC_000964.3	3029675	3029676	branched-chain amino acid-Na+ symporter|negative regulator of FtsZ ring formation	.	-	>|<	42,53	
+NC_000964.3	3033658	3033659	free methionine-(R)-sulfoxide reductase|diguanylate cyclase	.	-	>|<	1,37	
+NC_000964.3	3033698	3033699	free methionine-(R)-sulfoxide reductase	.	+	>|	41	
+NC_000964.3	3036374	3036375	ribosomal protein S4 (BS4)	.	+	>|	43	
+NC_000964.3	3036563	3036564	tyrosyl-tRNA synthetase	.	-	|<	39	
+NC_000964.3	3036603	3036604	-	.	+	-	272	
+NC_000964.3	3037900	3037901	-	.	-	-	30	
+NC_000964.3	3042551	3042552	sodium channel stator-force generator peptidoglycan binding subunit of flagellar rotation	.	-	|<	14	
+NC_000964.3	3042587	3042588	protein deacetylase (regulates AcsA activity)	.	+	>|	33	
+NC_000964.3	3044116	3044117	transcriptional regulator of catabolite repression (Lacl family)	.	-	|<	48	
+NC_000964.3	3045407	3045408	bifunctional chorismate mutase type II-isozyme 3 (regulatory domain)%3B 3-deoxy-D-arabino-heptulosonate 7-phosphate synthase	.	-	|<	37	
+NC_000964.3	3046721	3046722	bacilliredoxin involved in debacillithiolation	.	-	|<	35	
+NC_000964.3	3048146	3048147	UDP-N-acetyl muramate-alanine ligase	.	-	|<	30	
+NC_000964.3	3052671	3052672	putative tRNA binding enzyme	.	-	|<	71	
+NC_000964.3	3055192	3055193	putative enzyme with sugar binding fold|putative modified amino acid aminopeptidase	.	-	>|<	1,54	
+NC_000964.3	3056847	3056848	hypothetical protein|NAD-dependent malic enzyme (conversion of malate into pyruvate)	.	+	>|<	52,1	
+NC_000964.3	3060292	3060293	-	.	-	-	102	
+NC_000964.3	3067385	3067386	putative promiscuous peptidase/deacylase	.	-	|<	34	
+NC_000964.3	3067424	3067425	putative cysteine synthase-like enzyme	.	+	>|	39	
+NC_000964.3	3070213	3070214	hypoxanthine/guanine permease|putative ABC transporter (permease)	.	-	>|<	8,32	
+NC_000964.3	3070250	3070251	hypoxanthine/guanine permease	.	+	>|	45	
+NC_000964.3	3072701	3072702	putative transcriptional regulator (DeoR family)|16S rRNA pseudouridylate 516 synthase	.	+	>|<	80,41	
+NC_000964.3	3072708	3072709	putative transcriptional regulator (DeoR family)|16S rRNA pseudouridylate 516 synthase	.	-	>|<	87,34	
+NC_000964.3	3073480	3073481	lipid II flippase	.	-	|<	50	
+NC_000964.3	3078396	3078397	glycine betaine transporter	.	+	>|	41	
+NC_000964.3	3085755	3085756	putative ABC transporter (binding lipoprotein)	.	-	|<	44	
+NC_000964.3	3102213	3102214	alpha-D-galactoside galactohydrolase	.	+	>|	35	
+NC_000964.3	3102589	3102590	leucyl-tRNA synthetase	.	-	|<	39	
+NC_000964.3	3105134	3105135	-	.	-	-	92	
+NC_000964.3	3107074	3107075	blue light GTP-binding receptor	.	+	>|	80	
+NC_000964.3	3107197	3107198	putative efflux transporter	.	-	|<	34	
+NC_000964.3	3107232	3107233	-	.	+	-	238	
+NC_000964.3	3109394	3109395	hypothetical protein|ABC transporter (permease)	.	+	>|<	35,2	
+NC_000964.3	3112166	3112167	two-component sensor histidine kinase controlling resistance to antibiotics affecting the envelope [YtsA]	.	-	|<	23	
+NC_000964.3	3113944	3113945	metabolite permease involved in resistance to cell wall inhibitors	.	-	|<	34	
+NC_000964.3	3119531	3119532	hypothetical protein	.	-	|<	33	
+NC_000964.3	3121522	3121523	tetraprenyl-beta-curcumene synthase	.	-	|<	15	
+NC_000964.3	3121564	3121565	putative RNA methylase	.	+	>|	17	
+NC_000964.3	3124098	3124099	putative enzyme of the carbonic anhydrase family	.	+	>|	94	
+NC_000964.3	3124219	3124220	putative amino acid permease	.	-	|<	30	
+NC_000964.3	3127790	3127791	S-adenosylmethionine synthetase	.	-	|<	34	
+NC_000964.3	3129147	3129148	-	.	-	-	121	
+NC_000964.3	3131115	3131116	phosphoenolpyruvate carboxykinase|hypothetical protein	.	-	>|<	3,36	
+NC_000964.3	3131153	3131154	phosphoenolpyruvate carboxykinase	.	+	>|	41	
+NC_000964.3	3134952	3134953	nucleoside and RNA triphosphate phosphohydrolase	.	-	|<	30	
+NC_000964.3	3136186	3136187	DNA-protecting protein%2C mini-ferritin	.	-	|<	51	
+NC_000964.3	3137451	3137452	S-ribosylhomocysteine lyase	.	-	|<	43	
+NC_000964.3	3138951	3138952	ribosomal protein L31	.	-	|<	26	
+NC_000964.3	3142061	3142062	hypothetical protein|manganese ABC transporter (permease)	.	-	>|<	4,15	
+NC_000964.3	3146127	3146128	O-succinylbenzoate-CoA synthase	.	-	|<	110	
+NC_000964.3	3148846	3148847	dihydroxynapthoic acid synthetase	.	-	|<	54	
+NC_000964.3	3150321	3150322	-	.	-	-	241	
+NC_000964.3	3179887	3179888	thiamin permease|putative N-acetyltransferase	.	-	>|<	4,38	
+NC_000964.3	3179925	3179926	thiamin permease	.	+	>|	42	
+NC_000964.3	3183180	3183181	hypothetical protein	.	-	|<	20	
+NC_000964.3	3183215	3183216	hypothetical protein	.	+	>|	21	
+NC_000964.3	3187340	3187341	transcriptional repressor for gbsAB	.	+	>|	36	
+NC_000964.3	3188081	3188082	biofilm hydrophobic layer component	.	+	>|	34	
+NC_000964.3	3190465	3190466	potassium transporter ATPase	.	+	>|	40	
+NC_000964.3	3191798	3191799	putative efflux transporter	.	-	|<	44	
+NC_000964.3	3193430	3193431	-	.	-	-	53	
+NC_000964.3	3197889	3197890	L-rhamnose isomerase	.	-	|<	43	
+NC_000964.3	3197933	3197934	scyllo-inositol dehydrogenase (NADP+-dependent)%3B biofilm formation	.	+	>|	42	
+NC_000964.3	3204029	3204030	methyl-accepting chemotaxis protein	.	-	|<	37	
+NC_000964.3	3210408	3210409	methyl-accepting chemotaxis protein	.	-	|<	36	
+NC_000964.3	3213327	3213328	hypothetical protein	.	-	|<	14	
+NC_000964.3	3214344	3214345	putative oligo-1%2C6-glucosidase	.	-	|<	27	
+NC_000964.3	3217452	3217453	putative metal-dependent protease/peptidase	.	-	|<	43	
+NC_000964.3	3219764	3219765	hypothetical protein	.	-	|<	72	
+NC_000964.3	3220691	3220692	glucose-6-phosphate isomerase	.	-	|<	39	
+NC_000964.3	3222157	3222158	NADH-dependent butanol dehydrogenase subunit	.	-	|<	37	
+NC_000964.3	3223473	3223474	-	.	+	-	107	
+NC_000964.3	3225136	3225137	hypothetical protein|putative RNA degradation protein%3B putative phosphorylase or nucleotidyl transferase%3B general stress protein	.	-	>|<	37,41	
+NC_000964.3	3225771	3225772	-	.	+	-	202	
+NC_000964.3	3228403	3228404	putative hydrolase|hypothetical protein	.	-	>|<	2,27	
+NC_000964.3	3229987	3229988	promiscuous cystathionine / cystine beta-lyase / cysteine desulfhydrase	.	+	>|	47	
+NC_000964.3	3236222	3236223	putative thiol-disulfide oxidoreductase	.	-	>|	4	conflict
+NC_000964.3	3236296	3236297	putative thiol-disulfide oxidoreductase|putative integral membrane protein	.	+	>|<	78,125	
+NC_000964.3	3236448	3236449	-	.	+	-	230	
+NC_000964.3	3239496	3239497	two-component response regulator for malate metabolism [MaeL]	.	+	>|	39	
+NC_000964.3	3246153	3246154	Na+/malate symporter	.	+	>|	38	
+NC_000964.3	3252368	3252369	non essential component of Na+/H+ antiporter|putative proofreading thioesterase in bacillibactin biosynthesis	.	-	>|<	3,36	
+NC_000964.3	3252405	3252406	non essential component of Na+/H+ antiporter	.	+	>|	40	
+NC_000964.3	3257590	3257591	hypothetical protein	.	-	>|	12	conflict
+NC_000964.3	3259362	3259363	nicotinate phosphoribosyltransferase	.	-	|<	40	
+NC_000964.3	3261511	3261512	hypothetical protein	.	-	|<	27	
+NC_000964.3	3265382	3265383	benzil reductase (benzoin forming)	.	-	|<	23	
+NC_000964.3	3266638	3266639	ESX secretion system%3B calcium-dependent phage SPP1 attachment site	.	-	|<	48	
+NC_000964.3	3276089	3276090	small WGX100 secreted protein (ESX-dependent secretion)	.	-	|<	51	
+NC_000964.3	3278246	3278247	transcriptional activator (AdeR-alanine)	.	+	>|	24	
+NC_000964.3	3279501	3279502	L-alanine dehydrogenase (NAD-dependent)	.	+	>|	41	
+NC_000964.3	3280289	3280290	hypothetical protein|stimulator of DhbF tyrosine adenylation activity	.	+	>|<	40,4	
+NC_000964.3	3292470	3292471	bacillibactin trilactone hydrolase	.	-	|<	19	
+NC_000964.3	3293477	3293478	putative molybdopterin containing enzyme subunit	.	-	|<	95	
+NC_000964.3	3294899	3294900	putative biotin transporter|histidine / basic amino acid transporter	.	+	>|<	28,42	
+NC_000964.3	3296377	3296378	cytosol aminopeptidase	.	-	|<	39	
+NC_000964.3	3298552	3298553	stationary phase survival protein	.	-	|<	31	
+NC_000964.3	3298589	3298590	putative integral inner membrane protein	.	+	>|	37	
+NC_000964.3	3299314	3299315	hypothetical protein	.	-	|<	29	
+NC_000964.3	3300009	3300010	putative NAD-disulfide oxidoreductase	.	-	|<	24	
+NC_000964.3	3302586	3302587	ferredoxin-NADP+ reductase (flavodoxin)|conserved protein or unknown function	.	-	>|<	3,36	
+NC_000964.3	3302625	3302626	ferredoxin-NADP+ reductase (flavodoxin)	.	+	>|	42	
+NC_000964.3	3304026	3304027	GMP reductase (NADP-dependent)|transcriptional regulator (regulates paiA expression)	.	-	>|<	5,69	
+NC_000964.3	3304074	3304075	GMP reductase (NADP-dependent)|transcriptional regulator (regulates paiA expression)	.	+	>|<	53,21	
+NC_000964.3	3305526	3305527	sulfur carrier chaperone involved in Fe-S cluster assembly	.	-	|<	72	
+NC_000964.3	3306976	3306977	putative Na+(H+)/nucleoside cotransporter	.	-	|<	40	
+NC_000964.3	3308338	3308339	hypothetical protein	.	-	|<	29	
+NC_000964.3	3309939	3309940	putative NADH dehydrogenase|putative sulfur oxido-reduction management enzyme	.	-	>|<	6,20	
+NC_000964.3	3309973	3309974	putative NADH dehydrogenase	.	+	>|	40	
+NC_000964.3	3310723	3310724	putative iron-sulfur scaffold protein|putative acylaminoacyl-peptidase	.	-	>|<	3,39	
+NC_000964.3	3310761	3310762	putative iron-sulfur scaffold protein|putative acylaminoacyl-peptidase	.	+	>|<	41,1	
+NC_000964.3	3312800	3312801	homoserine kinase	.	-	|<	43	
+NC_000964.3	3317996	3317997	5' nucleotidase%2C promiscuous	.	-	|<	32	
+NC_000964.3	3320290	3320291	lipoyl synthase (lipoic acid synthetase)	.	-	|<	33	
+NC_000964.3	3322435	3322436	sporulation-specific L-Ala-D-Glu endopeptidase|protein required for membrane fission during spore formation	.	-	>|<	1,27	
+NC_000964.3	3323227	3323228	hypothetical protein	.	-	|<	72	
+NC_000964.3	3344978	3344979	fructose-amino acid ABC transporter (ATP-binding subunit)	.	-	|<	34	
+NC_000964.3	3352252	3352253	putative excinuclease	.	-	|<	59	
+NC_000964.3	3354484	3354485	methylglyoxalase%3B lactoylbacillithiol lyase	.	-	|<	66	
+NC_000964.3	3355480	3355481	FeS cluster formation scaffold protein	.	-	|<	112	
+NC_000964.3	3360929	3360930	putative toxin of a toxin antitoxin system	.	-	|<	44	
+NC_000964.3	3361730	3361731	methionine ABC transporter%2C substrate binding lipoprotein	.	-	|<	36	
+NC_000964.3	3364345	3364346	-	.	-	-	55	
+NC_000964.3	3364385	3364386	-	.	+	-	95	
+NC_000964.3	3365801	3365802	hypothetical protein	.	-	|<	29	
+NC_000964.3	3367004	3367005	acyl-CoA dehydrogenase (FAD dependent)	.	-	|<	35	
+NC_000964.3	3374385	3374386	putative spore coat-like protein	.	+	>|	53	
+NC_000964.3	3376618	3376619	multidrug-efflux transporter	.	+	>|	38	
+NC_000964.3	3378759	3378760	hypothetical protein	.	-	|<	40	
+NC_000964.3	3378801	3378802	transcriptional regulator of unknown specificity (LysR family)	.	+	>|	22	
+NC_000964.3	3379068	3379069	iron(III)-siderophore transporter (ATP binding component)	.	-	|<	43	
+NC_000964.3	3379106	3379107	iron(III)-siderophore transporter (ATP binding component)	.	+	|<	5	conflict
+NC_000964.3	3380666	3380667	-	.	-	-	73	
+NC_000964.3	3384026	3384027	metalloregulation DNA-binding stress protein|protease-associated chaperone for the extracytoplasmic folding and quality control of exported proteins	.	-	>|<	1,43	
+NC_000964.3	3384064	3384065	metalloregulation DNA-binding stress protein|protease-associated chaperone for the extracytoplasmic folding and quality control of exported proteins	.	+	>|<	39,5	
+NC_000964.3	3387782	3387783	folding stress-sensitive two-component sensor histidine kinase	.	+	>|	30	
+NC_000964.3	3388985	3388986	fumarate hydratase	.	-	|<	38	
+NC_000964.3	3389022	3389023	putative transcriptional regulator|fumarate hydratase	.	+	>|<	35,1	
+NC_000964.3	3397802	3397803	modulator of liaIHGFSR (yvqIHGFEC) operon expression	.	-	|<	43	
+NC_000964.3	3400488	3400489	putative ATP:cob(I)alamin adenosyltransferase	.	-	|<	48	
+NC_000964.3	3403268	3403269	-	.	-	-	224	
+NC_000964.3	3405629	3405630	putative oxidoreductase|putative sugar lactone lactonase	.	-	>|<	4,34	
+NC_000964.3	3405665	3405666	putative oxidoreductase	.	+	>|	40	
+NC_000964.3	3412093	3412094	putative ABC transporter (ATP-binding protein)	.	-	|<	34	
+NC_000964.3	3415355	3415356	ferrichrome ABC transporter (ATP-binding protein)	.	-	|<	31	
+NC_000964.3	3419455	3419456	ferrichrome ABC transporter (ferrichrome-binding lipoprotein)	.	+	>|	35	
+NC_000964.3	3419620	3419621	lysine permease	.	-	|<	35	
+NC_000964.3	3419656	3419657	-	.	+	-	236	
+NC_000964.3	3421119	3421120	-	.	-	-	55	
+NC_000964.3	3424205	3424206	putative molybdate binding regulator	.	-	|<	29	
+NC_000964.3	3424238	3424239	primase of polyglycerolphosphate lipoteichoic acid (LTA) synthesis	.	+	>|	32	
+NC_000964.3	3426716	3426717	promiscuous glyoxal/methylglyoxal reductase	.	-	|<	32	
+NC_000964.3	3426748	3426749	molybdenum transport permease	.	+	>|	31	
+NC_000964.3	3428290	3428291	exported stress induced factor|Na+/H+ antiporter	.	-	>|<	4,40	
+NC_000964.3	3430553	3430554	assimilatory sulfite reductase (hemoprotein beta-subunit)	.	-	|<	44	
+NC_000964.3	3434300	3434301	transcription factor	.	-	|<	26	
+NC_000964.3	3436798	3436799	putative integral membrane protein	.	+	|<	50	conflict
+NC_000964.3	3436808	3436809	putative integral membrane protein	.	-	|<	40	
+NC_000964.3	3437607	3437608	thiol-disulfide oxidoreductase	.	-	|<	36	
+NC_000964.3	3441093	3441094	copper transporter ATPase	.	-	|<	27	
+NC_000964.3	3443574	3443575	copper insertion chaperone and transporter component	.	-	|<	38	
+NC_000964.3	3445405	3445406	scyllo-inositol 2-dehydrogenase (NADP(+)-dependent)|NADH:dichloroindophenol oxidoreductase (2-methylhydroquinone resistance)	.	-	>|<	1,36	
+NC_000964.3	3445441	3445442	scyllo-inositol 2-dehydrogenase (NADP(+)-dependent)	.	+	>|	37	
+NC_000964.3	3448231	3448232	putative integral inner membrane protein	.	-	|<	63	
+NC_000964.3	3449705	3449706	putative oxidoreductase	.	-	|<	26	
+NC_000964.3	3450663	3450664	-	.	-	-	138	
+NC_000964.3	3450699	3450700	-	.	+	-	174	
+NC_000964.3	3451818	3451819	ribonuclease R	.	-	|<	44	
+NC_000964.3	3455048	3455049	preprotein translocase subunit	.	-	|<	44	
+NC_000964.3	3457989	3457990	transcriptional regulator of catechol dioxygenase	.	+	>|	49	
+NC_000964.3	3459803	3459804	putative methyl-accepting transducer|choline ABC transporter (permease)	.	+	>|<	38,2	
+NC_000964.3	3464062	3464063	-	.	-	-	226	
+NC_000964.3	3466435	3466436	precursor of killing factor SdpC	.	+	>|	49	
+NC_000964.3	3473284	3473285	hypothetical protein	.	+	>|	45	
+NC_000964.3	3474069	3474070	hypothetical protein	.	-	|<	36	
+NC_000964.3	3474108	3474109	hypothetical protein	.	+	>|	39	
+NC_000964.3	3476517	3476518	putative N-acyltransferase|enolase	.	-	>|<	8,37	
+NC_000964.3	3476554	3476555	putative N-acyltransferase	.	+	>|	45	
+NC_000964.3	3481600	3481601	glyceraldehyde-3-phosphate dehydrogenase (NAD-dependent%2C glycolytic)	.	-	|<	97	
+NC_000964.3	3486756	3486757	putative alkanal monooxygenase	.	-	|<	50	
+NC_000964.3	3486800	3486801	transcriptional repressor of the ara regulon (LacI family)|putative alkanal monooxygenase	.	+	>|<	43,6	
+NC_000964.3	3489868	3489869	putative leucine permease	.	-	|<	41	
+NC_000964.3	3489908	3489909	cysteine and O-acetylserine efflux permease|putative leucine permease	.	+	>|<	40,1	
+NC_000964.3	3492758	3492759	component of an iron-sulfur oxidase for L-lactate utilization	.	-	|<	38	
+NC_000964.3	3495838	3495839	two-component response regulator [YvfT]	.	-	|<	37	
+NC_000964.3	3501597	3501598	phosphoserine protein-phosphatase|endo-beta-1%2C4-galactanase	.	-	>|<	1,53	
+NC_000964.3	3501646	3501647	phosphoserine protein-phosphatase|endo-beta-1%2C4-galactanase	.	+	>|<	50,4	
+NC_000964.3	3502986	3502987	short chain beta-1%2C4-galacto-oligosaccharides beta-galactosidase (beta-galacto-pyranoside hydrolase)	.	-	|<	33	
+NC_000964.3	3509749	3509750	L-lactate utilization global transcriptional regulator (GntR family)	.	-	|<	81	
+NC_000964.3	3512469	3512470	RNA polymerase sigma-54 factor (sigma-L)	.	-	|<	28	
+NC_000964.3	3512502	3512503	L-lactate permease	.	+	>|	32	
+NC_000964.3	3514141	3514142	hypothetical protein	.	+	>|	37	
+NC_000964.3	3532319	3532320	hypothetical protein|phenolic acid decarboxylase	.	+	>|<	22,5	
+NC_000964.3	3541439	3541440	putative transcriptional regulator (TetR/AcrR family)	.	+	>|	34	
+NC_000964.3	3542178	3542179	sodium-proton two component antiporter subunit	.	+	>|	36	
+NC_000964.3	3542368	3542369	-	.	+	-	226	
+NC_000964.3	3546829	3546830	ATP-dependent Clp protease proteolytic subunit%3B Maxwell's demon|bifunctional beta-phosphoglucomutase / glucose-1-phosphate phosphodismutase	.	-	>|<	3,43	
+NC_000964.3	3546868	3546869	ATP-dependent Clp protease proteolytic subunit%3B Maxwell's demon|bifunctional beta-phosphoglucomutase / glucose-1-phosphate phosphodismutase	.	+	>|<	42,4	
+NC_000964.3	3558825	3558826	putative enzyme	.	-	|<	114	
+NC_000964.3	3559949	3559950	putative anion transporter	.	-	|<	29	
+NC_000964.3	3559980	3559981	putative pyrophosphohydrolase	.	+	>|	29	
+NC_000964.3	3563545	3563546	putative 2-ketogluconate reductase%3B hydroxypyruvate / glyoxylate reductase|lantibiotic ABC transporter (permease)	.	-	>|<	3,35	
+NC_000964.3	3563579	3563580	putative 2-ketogluconate reductase%3B hydroxypyruvate / glyoxylate reductase|lantibiotic ABC transporter (permease)	.	+	>|<	37,1	
+NC_000964.3	3568490	3568491	putative arylamine N-acetyltransferase	.	-	|<	36	
+NC_000964.3	3568526	3568527	putative lipoprotein	.	+	>|	36	
+NC_000964.3	3573047	3573048	-	.	-	-	159	
+NC_000964.3	3574320	3574321	secreted cell wall DL-endopeptidase	.	-	|<	42	
+NC_000964.3	3576123	3576124	hypothetical protein	.	-	|<	41	
+NC_000964.3	3579637	3579638	hypothetical protein	.	-	|<	41	
+NC_000964.3	3582909	3582910	bifunctional phosphoribosyl-AMP cyclohydrolase%3B phosphoribosyl-ATP pyrophosphohydrolase	.	-	|<	26	
+NC_000964.3	3591270	3591271	secreted pectate (polygalacturonate) lyase|dephosphorylated heptaprenylglyceryl phosphate O-acetyltransferase	.	-	>|<	3,17	
+NC_000964.3	3591307	3591308	secreted pectate (polygalacturonate) lyase	.	+	>|	40	
+NC_000964.3	3598020	3598021	transcriptional regulator (GntR family)|putative exported hydrolase	.	-	>|<	1,19	
+NC_000964.3	3602547	3602548	putative transcriptional regulator|cyclo-L-leucyl-L-leucyl dipeptide oxidase%2C pulcheriminic synthase	.	-	>|<	1,40	
+NC_000964.3	3605360	3605361	-	.	-	-	162	
+NC_000964.3	3606730	3606731	putative integral phage holin-like membrane protein	.	-	|<	31	
+NC_000964.3	3606765	3606766	pulcherriminic acid efflux transporter	.	+	>|	32	
+NC_000964.3	3609294	3609295	hypothetical protein	.	+	>|	74	
+NC_000964.3	3609996	3609997	excinuclease ABC (subunit A)	.	-	|<	67	
+NC_000964.3	3615055	3615056	conserved membrane protein of unknown function	.	-	|<	60	
+NC_000964.3	3620300	3620301	putative efflux transporter|topological determinant of cell division	.	-	>|<	3,45	
+NC_000964.3	3620346	3620347	putative efflux transporter	.	+	>|	49	
+NC_000964.3	3623899	3623900	cell-division ABC transporter	.	-	|<	38	
+NC_000964.3	3625699	3625700	cytochrome c551	.	-	|<	41	
+NC_000964.3	3627100	3627101	peptide chain release factor 2	.	-	|<	38	
+NC_000964.3	3630963	3630964	ribosome-associated sigma 54 modulation protein%3B ribosome dimerisation factor	.	-	|<	39	
+NC_000964.3	3631989	3631990	-	.	-	-	160	
+NC_000964.3	3634949	3634950	flagellin protein	.	-	|<	37	
+NC_000964.3	3636037	3636038	carbon storage regulator	.	-	|<	8	
+NC_000964.3	3637312	3637313	flagellar hook-filament junction protein	.	-	|<	25	
+NC_000964.3	3643629	3643630	fatty acid kinase fatty acid binding subunit A	.	-	|<	34	
+NC_000964.3	3648619	3648620	teichoic acid-peptidoglycan tethering enzyme (LCP component) with transcription regulator domain|UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase	.	+	>|<	39,34	
+NC_000964.3	3648622	3648623	teichoic acid-peptidoglycan tethering enzyme (LCP component) with transcription regulator domain|UDP-N-acetylglucosamine:undecaprenyl-P N-acetylglucosaminyl-1-P transferase	.	-	>|<	42,31	
+NC_000964.3	3659078	3659079	N-acetylmuramoyl-L-alanine amidase (major autolysin)	.	-	|<	40	
+NC_000964.3	3664204	3664205	teichoic acid-peptidoglycan tethering enzyme (LCP component) with transcription regulator domain of major autolysin expression|UDP-N-acetylmannosamine 2-epimerase	.	-	>|<	4,36	
+NC_000964.3	3664243	3664244	teichoic acid-peptidoglycan tethering enzyme (LCP component) with transcription regulator domain of major autolysin expression	.	+	>|	43	
+NC_000964.3	3666508	3666509	UTP-glucose-1-phosphate uridylyltransferase	.	-	>|	2	conflict
+NC_000964.3	3666548	3666549	UTP-glucose-1-phosphate uridylyltransferase	.	+	>|	42	
+NC_000964.3	3667144	3667145	hypothetical protein|poly(glucosyl N-acetylgalactosamine 1-phosphate) glucosyltransferase	.	-	>|<	86,64	
+NC_000964.3	3672150	3672151	-	.	-	-	1413	
+NC_000964.3	3673526	3673527	ATP-binding teichoic acid precursor transporter component	.	-	|<	37	
+NC_000964.3	3673566	3673567	-	.	+	-	1600	
+NC_000964.3	3676108	3676109	CDP-glycerol:polyglycerol phosphate glycero-phosphotransferase (poly(glycerol phosphate) polymerase)	.	-	|<	50	
+NC_000964.3	3680508	3680509	glycerol-3-phosphate cytidylyltransferase	.	-	|<	72	
+NC_000964.3	3683356	3683357	teichoic acid primase%2C CDP-glycerol:N-acetyl-beta-d-mannosaminyl-1%2C 4-N-acetyl-d-glucosaminyldiphosphoundecaprenyl glycerophosphotransferase	.	+	>|	39	
+NC_000964.3	3684769	3684770	putative polyglycerol phosphate assembly and export protein (teichoic acid biosynthesis)|exported N-acetylglucosaminidase (major autolysin) (CWBP90)	.	-	>|<	4,56	
+NC_000964.3	3684811	3684812	putative polyglycerol phosphate assembly and export protein (teichoic acid biosynthesis)|exported N-acetylglucosaminidase (major autolysin) (CWBP90)	.	+	>|<	46,14	
+NC_000964.3	3686215	3686216	-	.	+	-	1381	
+NC_000964.3	3687566	3687567	mannose-6-phosphate isomerase (active on aldose substrates with hydroxyl groups oriented in the same direction at the C-2 and C-3 positions as in mannose)	.	-	|<	30	
+NC_000964.3	3692499	3692500	lipoprotein component of the germination receptor B|putative carbohydrate/proton transporter	.	-	>|<	4,33	
+NC_000964.3	3696222	3696223	gamma-DD-glutamyl hydrolase (PGA depolymerase)	.	-	|<	34	
+NC_000964.3	3696256	3696257	5-amino-6-ribitylamino-2%2C4(1H%2C 3H)-pyrimidinedione 5'-phosphate phosphatase (promiscuous activity)	.	+	>|	34	
+NC_000964.3	3707718	3707719	putative cell wall binding enzyme	.	+	>|	39	
+NC_000964.3	3708175	3708176	hypothetical protein	.	+	>|	44	
+NC_000964.3	3718743	3718744	-	.	+	-	50	
+NC_000964.3	3722539	3722540	hypothetical protein	.	-	|<	28	
+NC_000964.3	3722572	3722573	chromate transporter subunit C	.	+	>|	32	
+NC_000964.3	3724386	3724387	putative transcriptional regulator (LysR family)|endonuclease V	.	-	>|<	52,33	
+NC_000964.3	3728362	3728363	-	.	-	-	148	
+NC_000964.3	3729449	3729450	UDP-glucose dehydrogenase	.	-	|<	38	
+NC_000964.3	3731791	3731792	maintenance protein tyrosine kinase involved in biofilm formation	.	-	|<	30	
+NC_000964.3	3738224	3738225	ATPase involved in RNA remodelling DNA recombination and repair|phosphatase of unidentified specificity (possibly promiscuous)	.	-	>|<	8,118	
+NC_000964.3	3738261	3738262	ATPase involved in RNA remodelling DNA recombination and repair|phosphatase of unidentified specificity (possibly promiscuous)	.	+	>|<	45,81	
+NC_000964.3	3740110	3740111	single-strand DNA-binding protein	.	-	|<	95	
+NC_000964.3	3741673	3741674	hypothetical protein|putative sortase	.	-	>|<	82,58	
+NC_000964.3	3741709	3741710	hypothetical protein|putative sortase	.	+	>|<	118,22	
+NC_000964.3	3743235	3743236	putative two-component sensor histidine kinase|large conductance mechanosensitive channel protein	.	-	>|<	16,31	
+NC_000964.3	3743688	3743689	beta-hydroxyacyl-[acyl carrier protein] dehydratase	.	-	|<	43	
+NC_000964.3	3747215	3747216	MreB-like morphogen	.	-	|<	38	
+NC_000964.3	3750714	3750715	putative efflux transporter|putative pectin lyase	.	+	>|<	38,53	
+NC_000964.3	3753898	3753899	putative efflux transporter	.	-	|<	34	
+NC_000964.3	3758405	3758406	nitrogen-regulated PII-like regulator protein	.	+	>|	40	
+NC_000964.3	3759132	3759133	undecaprenyl pyrophosphate phosphatase (bacitracin resistance)|putative integral inner membrane protein	.	-	>|<	5,36	
+NC_000964.3	3759174	3759175	undecaprenyl pyrophosphate phosphatase (bacitracin resistance)	.	+	>|	47	
+NC_000964.3	3759663	3759664	forespore protein required for alternative engulfment	.	-	|<	38	
+NC_000964.3	3761753	3761754	putative integral inner membrane protein	.	+	>|	54	
+NC_000964.3	3761934	3761935	hypothetical protein	.	-	|<	52	
+NC_000964.3	3764153	3764154	cardiolipin synthase (major)	.	+	>|	42	
+NC_000964.3	3765436	3765437	putative integral inner membrane protein|putative oxidoreductase	.	-	>|<	3,32	
+NC_000964.3	3765469	3765470	putative integral inner membrane protein	.	+	>|	36	
+NC_000964.3	3766157	3766158	putative transcriptional regulator	.	-	|<	20	
+NC_000964.3	3770060	3770061	stress response protein	.	-	|<	43	
+NC_000964.3	3770966	3770967	response regulator aspartate phosphatase	.	-	|<	33	
+NC_000964.3	3772281	3772282	GTP 3'%2C8-cyclase	.	-	|<	43	
+NC_000964.3	3775653	3775654	-	.	+	-	132	
+NC_000964.3	3776692	3776693	lytic transglycosylase%3B autolysin required for complete dissolution of the asymmetric septum (stage II sporulation)	.	-	|<	29	
+NC_000964.3	3777903	3777904	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	-	|<	45	
+NC_000964.3	3781033	3781034	ATP synthase (subunit epsilon%2C F1 subunit)	.	-	|<	35	
+NC_000964.3	3781069	3781070	hypothetical protein	.	+	>|	35	
+NC_000964.3	3783833	3783834	ATP synthase (subunit alpha%2C component F1)	.	-	|<	44	
+NC_000964.3	3788393	3788394	uracil phosphoribosyltransferase	.	-	|<	32	
+NC_000964.3	3789147	3789148	serine hydroxymethyltransferase	.	-	|<	42	
+NC_000964.3	3790616	3790617	hypothetical protein	.	-	|<	27	
+NC_000964.3	3792893	3792894	tRNA(NNU) t(6)A37 threonylcarbamoyladenosine modification%3B threonine-dependent ADP-forming ATPase	.	-	|<	75	
+NC_000964.3	3795837	3795838	hypothetical protein	.	-	|<	32	
+NC_000964.3	3795870	3795871	putative integral inner membrane protein	.	+	>|	18	
+NC_000964.3	3797044	3797045	peptide chain release factor 1	.	-	|<	40	
+NC_000964.3	3799344	3799345	chromosome-pole-anchoring protein RacA|putative metabolite transporter	.	-	>|<	2,32	
+NC_000964.3	3799376	3799377	chromosome-pole-anchoring protein RacA	.	+	>|	34	
+NC_000964.3	3802350	3802351	thymidine kinase	.	-	|<	54	
+NC_000964.3	3803037	3803038	ribosomal protein L31	.	-	|<	43	
+NC_000964.3	3805054	3805055	fructose 1%2C6-bisphosphatase class II	.	-	|<	35	
+NC_000964.3	3808462	3808463	fructose-1%2C6-bisphosphate aldolase	.	-	|<	49	
+NC_000964.3	3810648	3810649	hypothetical protein|CTP synthetase	.	-	>|<	38,44	
+NC_000964.3	3819186	3819187	hypothetical protein|putative oxidoreductase	.	-	>|<	9,33	
+NC_000964.3	3819221	3819222	hypothetical protein	.	+	>|	44	
+NC_000964.3	3831477	3831478	transcriptional regulator of anaerobic metabolism (FNR/CAP family)	.	-	|<	34	
+NC_000964.3	3831514	3831515	putative integral inner membrane protein	.	+	>|	35	
+NC_000964.3	3833607	3833608	arginyl-tRNA synthetase	.	-	|<	42	
+NC_000964.3	3847273	3847274	secreted regulator of the activity of phosphatase RapF	.	+	>|	25	
+NC_000964.3	3847820	3847821	agmatinase	.	-	|<	32	
+NC_000964.3	3848749	3848750	spermidine synthase%3B polyamine metabolism	.	-	|<	36	
+NC_000964.3	3851891	3851892	-	.	-	-	294	
+NC_000964.3	3852063	3852064	hypothetical protein	.	-	|<	122	
+NC_000964.3	3853712	3853713	2-hydroxymuconate tautomerase (promiscuous)|putative transcriptional regulator (MarR family)	.	+	>|<	39,4	
+NC_000964.3	3856712	3856713	hypothetical protein	.	-	|<	69	
+NC_000964.3	3858956	3858957	hypothetical protein	.	-	|<	42	
+NC_000964.3	3860953	3860954	hypothetical protein	.	-	|<	44	
+NC_000964.3	3862216	3862217	prespore-specific transcription regulatory gene	.	-	>|	4	conflict
+NC_000964.3	3863374	3863375	amidotransferase of the octanoyl moiety from octanoyl-GcvH to the E2 subunit of pyruvate dehydrogenase	.	-	|<	40	
+NC_000964.3	3865309	3865310	phosphotransacetylase	.	-	|<	45	
+NC_000964.3	3867394	3867395	iron-coproporphyrin (coproheme) decarboxylase	.	+	>|	35	
+NC_000964.3	3868269	3868270	phenylalanine aminotransferase forming tetrahydrotyrosine in bacilysin synthesis	.	-	|<	17	
+NC_000964.3	3878915	3878916	delta-1-pyrroline-5 carboxylate dehydrogenase	.	-	|<	50	
+NC_000964.3	3882143	3882144	biofilm protein%2C member of the processed secretome contributing to biofilm hydrophobicity	.	-	|<	47	
+NC_000964.3	3893986	3893987	inner spore coat protein|hypothetical protein	.	-	>|<	1,43	
+NC_000964.3	3897657	3897658	uracil-DNA glycosylase	.	-	|<	27	
+NC_000964.3	3897689	3897690	putative aldehyde dehydrogenase	.	+	>|	30	
+NC_000964.3	3901778	3901779	pyridoxine%2C pyridoxal%2C and pyridoxamine kinase|hypothetical protein	.	-	>|<	1,89	
+NC_000964.3	3901815	3901816	pyridoxine%2C pyridoxal%2C and pyridoxamine kinase|hypothetical protein	.	+	>|<	38,52	
+NC_000964.3	3901838	3901839	pyridoxine%2C pyridoxal%2C and pyridoxamine kinase|hypothetical protein	.	-	>|<	61,29	
+NC_000964.3	3906102	3906103	transcriptional antiterminator of sacAP expression	.	-	|<	39	
+NC_000964.3	3910263	3910264	putative monooxygenase	.	-	|<	38	
+NC_000964.3	3911446	3911447	FMN-containing NADPH-linked nitro/flavin reductase	.	-	|<	30	
+NC_000964.3	3912297	3912298	glycosyltransferase involved in extension of the lateral walls of the cell	.	-	|<	34	
+NC_000964.3	3914278	3914279	holin-like protein required for proper spore morphogenesis and germination|cytochrome aa3-600 quinol oxidase (subunit IV)	.	-	>|<	7,36	
+NC_000964.3	3919076	3919077	hypothetical protein|galactose-1-phosphate uridyltransferase	.	-	>|<	55,16	
+NC_000964.3	3925764	3925765	putative sulfur oxido-reductase	.	-	|<	32	
+NC_000964.3	3926462	3926463	-	.	-	-	64	
+NC_000964.3	3930657	3930658	thiamine-phosphate pyrophosphorylase (thiamine phosphate synthase)	.	-	|<	49	
+NC_000964.3	3934284	3934285	metabolic regulator controlling activity of murein hydrolases	.	+	>|	31	
+NC_000964.3	3935787	3935788	large subunit ribosomal RNA m5C1962 methyltransferase	.	-	|<	36	
+NC_000964.3	3935823	3935824	hypothetical protein	.	+	>|	36	
+NC_000964.3	3937555	3937556	glyoxalase I%3B hemithioacetal-bacillithiol lactoyl-bacillithiol formation	.	+	>|	41	
+NC_000964.3	3941852	3941853	extracellular serine protease	.	+	>|	47	
+NC_000964.3	3944515	3944516	transcriptional antiterminator|putative glycosyl transferase (general stress protein)	.	-	>|<	7,44	
+NC_000964.3	3944554	3944555	transcriptional antiterminator|putative glycosyl transferase (general stress protein)	.	+	>|<	46,5	
+NC_000964.3	3947134	3947135	-	.	+	-	23	
+NC_000964.3	3948447	3948448	tyrosyl-tRNA synthetase	.	+	>|	49	
+NC_000964.3	3949921	3949922	(p)ppGpp synthetase	.	-	|<	30	
+NC_000964.3	3950689	3950690	1%2C4-dihydroxy-2-naphthoate octaprenyltransferase	.	-	|<	36	
+NC_000964.3	3957266	3957267	putative oxidoreductase	.	+	>|	17	
+NC_000964.3	3958482	3958483	branched-chain amino acid aminotransferase|6-phospho-beta-glucosidase	.	-	>|<	1,33	
+NC_000964.3	3958518	3958519	branched-chain amino acid aminotransferase	.	+	>|	37	
+NC_000964.3	3964075	3964076	hypothetical protein	.	-	|<	15	
+NC_000964.3	3966679	3966680	major catalase in spores	.	+	>|	40	
+NC_000964.3	3983046	3983047	-	.	-	-	132	
+NC_000964.3	3983187	3983188	putative bacteriocin	.	+	>|	15	
+NC_000964.3	3984092	3984093	multiple sugar (maltodextrins) transporter ATP-binding protein	.	-	|<	40	
+NC_000964.3	3987887	3987888	putative aldehyde dehydrogenase|guanidinium exporter	.	-	>|<	3,39	
+NC_000964.3	3988802	3988803	-	.	-	-	40	
+NC_000964.3	3989912	3989913	hypothetical protein|UDP-glucose 4-epimerase	.	+	>|<	40,35	
+NC_000964.3	3989913	3989914	hypothetical protein|UDP-glucose 4-epimerase	.	-	>|<	41,34	
+NC_000964.3	3996345	3996346	peptidase T (tripeptidase)	.	+	>|	39	
+NC_000964.3	3997140	3997141	hypothetical protein	.	+	>|	49	
+NC_000964.3	3997931	3997932	-	.	+	-	32	
+NC_000964.3	3999319	3999320	-	.	+	-	30	
+NC_000964.3	4000493	4000494	putative methyltetrahydrofolate methyltransferase (biofilm formation)|putative hydroxyacid dehydrogenase	.	-	>|<	8,45	
+NC_000964.3	4004247	4004248	23S rRNA m(1)G748 methyltransferase (class II)	.	-	|<	40	
+NC_000964.3	4006986	4006987	purine nucleoside transporter	.	+	>|	42	
+NC_000964.3	4007775	4007776	hypothetical protein	.	-	|<	27	
+NC_000964.3	4007807	4007808	-	.	+	-	335	
+NC_000964.3	4011797	4011798	secondary transporter of divalent metal ions/citrate complexes|endo-beta-1%2C3-1%2C4 glucanase	.	-	>|<	114,44	
+NC_000964.3	4011833	4011834	endo-beta-1%2C3-1%2C4 glucanase	.	+	|<	8	conflict
+NC_000964.3	4015947	4015948	ATP-dependent RNA helicase for 23S ribosomal RNA maturation	.	-	|<	39	
+NC_000964.3	4015988	4015989	putative efflux transporter	.	+	>|	21	
+NC_000964.3	4022823	4022824	-	.	-	-	96	
+NC_000964.3	4030678	4030679	putative transporter	.	-	|<	31	
+NC_000964.3	4035671	4035672	-	.	+	-	65	
+NC_000964.3	4035946	4035947	hypothetical protein	.	-	|<	43	
+NC_000964.3	4042010	4042011	transcriptional antiterminator	.	+	>|	73	
+NC_000964.3	4048967	4048968	histidine degradation metabolites permease|pyrimidine-nucleoside phosphorylase	.	-	>|<	3,41	
+NC_000964.3	4062491	4062492	penicillin V amidase	.	-	|<	51	
+NC_000964.3	4063648	4063649	sugar-phosphate hydrolase (promiscuous)	.	-	|<	35	
+NC_000964.3	4066566	4066567	hypothetical protein|putative integral membrane protein of unknown function	.	-	>|<	4,40	
+NC_000964.3	4068147	4068148	hypothetical protein	.	-	|<	41	
+NC_000964.3	4068184	4068185	desferrioxamine-and ferrichrome-binding transporter lipoprotein (shuttle system)|hypothetical protein	.	+	>|<	37,4	
+NC_000964.3	4073046	4073047	2-deoxy-5-keto-D-gluconic acid 6-phosphate aldolase	.	-	|<	34	
+NC_000964.3	4074839	4074840	putative sugar-phosphate epimerase/isomerase	.	-	|<	56	
+NC_000964.3	4086580	4086581	putative aldo-keto reductase	.	+	>|	41	
+NC_000964.3	4087808	4087809	hypothetical protein	.	+	>|	45	
+NC_000964.3	4089386	4089387	class III heat-shock protein (ATP-dependent molecular chaperone HSP90)	.	-	|<	42	
+NC_000964.3	4089427	4089428	putative metabolite transporter|class III heat-shock protein (ATP-dependent molecular chaperone HSP90)	.	+	>|<	41,1	
+NC_000964.3	4092660	4092661	putative transcriptional regulator	.	-	|<	34	
+NC_000964.3	4095360	4095361	putative aldehyde dehydrogenase	.	+	>|	44	
+NC_000964.3	4102380	4102381	putative efflux transporter|membrane associated protein kinase with beta-propeller domain	.	-	>|<	16,48	
+NC_000964.3	4104901	4104902	putative integral membrane protein of unknown function|integral inner membrane protein involved in response to flavonoids	.	-	>|<	3,27	
+NC_000964.3	4104942	4104943	putative integral membrane protein of unknown function	.	+	>|	44	
+NC_000964.3	4109139	4109140	putative oxidoreductase|putative transcriptional regulator (MarR family)	.	-	>|<	12,45	
+NC_000964.3	4110911	4110912	putative murein hydrolase export regulator|putative exopolysaccharide pyruvyl transferase (biofilm formation)	.	-	>|<	3,37	
+NC_000964.3	4110947	4110948	putative murein hydrolase export regulator|putative exopolysaccharide pyruvyl transferase (biofilm formation)	.	+	>|<	39,1	
+NC_000964.3	4118492	4118493	6-phosphogluconate dehydrogenase (NAD+-dependent)	.	-	>|	7	conflict
+NC_000964.3	4118532	4118533	6-phosphogluconate dehydrogenase (NAD+-dependent)	.	+	>|	47	
+NC_000964.3	4121060	4121061	alkyl hydroperoxide reductase (large subunit)|aryl-6-phospho-beta-glucosidase	.	-	>|<	5,105	
+NC_000964.3	4121105	4121106	alkyl hydroperoxide reductase (large subunit)|aryl-6-phospho-beta-glucosidase	.	+	>|<	50,60	
+NC_000964.3	4124184	4124185	hypothetical protein|permease for export of regulatory peptide LiaD*	.	-	>|<	96,35	
+NC_000964.3	4124218	4124219	permease for export of regulatory peptide LiaD*	.	+	|<	1	conflict
+NC_000964.3	4127458	4127459	precursor of exported modified peptide (epipeptide) controlling LiaRS activity	.	-	|<	39	
+NC_000964.3	4141554	4141555	secreted regulator of the activity of phosphatase RapG	.	+	>|	81	
+NC_000964.3	4141678	4141679	arginase	.	-	|<	32	
+NC_000964.3	4147524	4147525	sporulation membrane serine protease	.	+	|<	42	conflict
+NC_000964.3	4147530	4147531	sporulation membrane serine protease	.	-	|<	36	
+NC_000964.3	4155391	4155392	adenylosuccinate synthetase	.	-	|<	41	
+NC_000964.3	4157441	4157442	replicative DNA helicase	.	-	|<	29	
+NC_000964.3	4161025	4161026	putative anion ABC transporter (permease)	.	+	>|	28	
+NC_000964.3	4163159	4163160	ribosomal protein L9	.	-	|<	37	
+NC_000964.3	4163196	4163197	putative glycosyl transferase	.	+	>|	37	
+NC_000964.3	4166620	4166621	-	.	-	-	33	
+NC_000964.3	4166777	4166778	hypothetical protein	.	-	|<	37	
+NC_000964.3	4167591	4167592	transcriptional regulator (Cys-activated by oxidative stress)	.	-	|<	30	
+NC_000964.3	4169168	4169169	inorganic pyrophosphatase (Mn2+-dependent)	.	+	>|	36	
+NC_000964.3	4169801	4169802	-	.	-	-	190	
+NC_000964.3	4171357	4171358	putative permease	.	-	>|	6	conflict
+NC_000964.3	4171392	4171393	putative permease	.	+	>|	41	
+NC_000964.3	4173637	4173638	hypothetical protein	.	+	>|	87	
+NC_000964.3	4176886	4176887	inner spore coat protein	.	+	|<	13	conflict
+NC_000964.3	4179127	4179128	putative permease	.	-	|<	35	
+NC_000964.3	4179160	4179161	hypothetical protein|putative permease	.	+	>|<	31,2	
+NC_000964.3	4182462	4182463	putative integral membrane protein	.	-	>|	2	conflict
+NC_000964.3	4182501	4182502	putative integral membrane protein	.	+	>|	41	
+NC_000964.3	4187212	4187213	putative oxidoreductase	.	-	>|	39	conflict
+NC_000964.3	4187253	4187254	putative oxidoreductase	.	+	>|	80	
+NC_000964.3	4189735	4189736	hypothetical protein	.	+	>|	91	
+NC_000964.3	4193287	4193288	hypothetical protein	.	+	>|	21	
+NC_000964.3	4195744	4195745	putative transporter|maltose O-acetyltransferase	.	-	>|<	1,33	
+NC_000964.3	4197742	4197743	apurinic/apyrimidinic endonuclease	.	-	|<	37	
+NC_000964.3	4198558	4198559	ribosomal protein S18	.	-	|<	44	
+NC_000964.3	4203099	4203100	putative nucleic acid binding protein	.	-	|<	24	
+NC_000964.3	4204566	4204567	-	.	-	-	127	
+NC_000964.3	4205517	4205518	spore-specific protease|site-specific DNA-binding protein	.	-	>|<	1,38	
+NC_000964.3	4207865	4207866	putative antibiotic immunity protein|DNA-binding protein Spo0J-like	.	-	>|<	20,31	
+NC_000964.3	4213157	4213158	SpoIIIJ-associated RNA/ssDNA-binding protein	.	-	|<	42	
+NC_000964.3	4215227	4215228	ribosomal protein L34	.	-	|<	27	

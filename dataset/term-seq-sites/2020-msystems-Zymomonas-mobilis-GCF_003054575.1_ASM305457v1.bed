@@ -1,0 +1,2040 @@
+NZ_CP023715.1	3657	3658	histidinol-phosphate aminotransferase family protein|adenylyl-sulfate kinase	.	-	>|<	5,39	
+NZ_CP023715.1	3767	3768	histidinol-phosphate aminotransferase family protein	.	+	>|	115	
+NZ_CP023715.1	8304	8305	phosphoadenylyl-sulfate reductase	.	-	|<	81	
+NZ_CP023715.1	8308	8309	phosphoadenylyl-sulfate reductase	.	-	|<	77	
+NZ_CP023715.1	8309	8310	phosphoadenylyl-sulfate reductase	.	-	|<	76	
+NZ_CP023715.1	8909	8910	-	.	-	-	221	
+NZ_CP023715.1	8913	8914	-	.	-	-	217	
+NZ_CP023715.1	9208	9209	-	.	-	-	89	
+NZ_CP023715.1	9576	9577	-	.	-	-	457	
+NZ_CP023715.1	11116	11117	-	.	-	-	274	
+NZ_CP023715.1	12569	12570	-	.	-	-	436	
+NZ_CP023715.1	12572	12573	-	.	-	-	433	
+NZ_CP023715.1	12619	12620	-	.	-	-	386	
+NZ_CP023715.1	14730	14731	-	.	+	-	258	
+NZ_CP023715.1	17482	17483	-	.	+	-	403	
+NZ_CP023715.1	17889	17890	-	.	+	-	477	
+NZ_CP023715.1	17895	17896	-	.	+	-	471	
+NZ_CP023715.1	18156	18157	-	.	+	-	210	
+NZ_CP023715.1	18417	18418	heat-inducible transcriptional repressor HrcA	.	+	>|	48	
+NZ_CP023715.1	18574	18575	-	.	+	-	205	
+NZ_CP023715.1	18995	18996	nucleotide exchange factor GrpE	.	+	>|	57	
+NZ_CP023715.1	19059	19060	nucleotide exchange factor GrpE	.	+	>|	121	
+NZ_CP023715.1	19060	19061	nucleotide exchange factor GrpE	.	+	>|	122	
+NZ_CP023715.1	19081	19082	-	.	+	-	143	
+NZ_CP023715.1	19082	19083	-	.	+	-	144	
+NZ_CP023715.1	19083	19084	-	.	+	-	145	
+NZ_CP023715.1	20519	20520	RsmB/NOP family class I SAM-dependent RNA methyltransferase	.	+	>|	119	
+NZ_CP023715.1	20520	20521	RsmB/NOP family class I SAM-dependent RNA methyltransferase	.	+	>|	120	
+NZ_CP023715.1	38560	38561	DUF1491 family protein	.	-	|<	62	
+NZ_CP023715.1	38561	38562	DUF1491 family protein	.	-	|<	61	
+NZ_CP023715.1	38562	38563	DUF1491 family protein	.	-	|<	60	
+NZ_CP023715.1	39379	39380	-	.	-	-	243	
+NZ_CP023715.1	39462	39463	-	.	-	-	41	
+NZ_CP023715.1	39464	39465	-	.	-	-	43	
+NZ_CP023715.1	39533	39534	ribosome-associated translation inhibitor RaiA	.	-	|<	89	
+NZ_CP023715.1	39534	39535	ribosome-associated translation inhibitor RaiA	.	-	|<	88	
+NZ_CP023715.1	39535	39536	ribosome-associated translation inhibitor RaiA	.	-	|<	87	
+NZ_CP023715.1	39536	39537	ribosome-associated translation inhibitor RaiA	.	-	|<	86	
+NZ_CP023715.1	39537	39538	ribosome-associated translation inhibitor RaiA	.	-	|<	85	
+NZ_CP023715.1	39538	39539	ribosome-associated translation inhibitor RaiA	.	-	|<	84	
+NZ_CP023715.1	39555	39556	ribosome-associated translation inhibitor RaiA	.	-	|<	67	
+NZ_CP023715.1	39563	39564	ribosome-associated translation inhibitor RaiA	.	-	|<	59	
+NZ_CP023715.1	39566	39567	ribosome-associated translation inhibitor RaiA	.	-	|<	56	
+NZ_CP023715.1	39594	39595	ribosome-associated translation inhibitor RaiA	.	-	|<	28	
+NZ_CP023715.1	39685	39686	-	.	-	-	264	
+NZ_CP023715.1	39814	39815	-	.	-	-	393	
+NZ_CP023715.1	39815	39816	-	.	-	-	394	
+NZ_CP023715.1	39816	39817	-	.	-	-	395	
+NZ_CP023715.1	39817	39818	-	.	-	-	396	
+NZ_CP023715.1	39942	39943	-	.	-	-	395	
+NZ_CP023715.1	40050	40051	-	.	-	-	287	
+NZ_CP023715.1	40051	40052	-	.	-	-	286	
+NZ_CP023715.1	40056	40057	-	.	-	-	281	
+NZ_CP023715.1	40063	40064	-	.	-	-	274	
+NZ_CP023715.1	40081	40082	-	.	-	-	256	
+NZ_CP023715.1	40099	40100	-	.	-	-	238	
+NZ_CP023715.1	40171	40172	-	.	-	-	166	
+NZ_CP023715.1	49933	49934	MarR family transcriptional regulator|sulfite exporter TauE/SafE family protein	.	-	>|<	77,60	
+NZ_CP023715.1	49934	49935	MarR family transcriptional regulator|sulfite exporter TauE/SafE family protein	.	-	>|<	78,59	
+NZ_CP023715.1	49935	49936	MarR family transcriptional regulator|sulfite exporter TauE/SafE family protein	.	-	>|<	79,58	
+NZ_CP023715.1	49952	49953	MarR family transcriptional regulator|sulfite exporter TauE/SafE family protein	.	-	>|<	96,41	
+NZ_CP023715.1	50600	50601	-	.	-	-	368	
+NZ_CP023715.1	81712	81713	SDR family oxidoreductase	.	-	|<	48	
+NZ_CP023715.1	84873	84874	biotin synthase BioB|hypothetical protein	.	-	>|<	6,77	
+NZ_CP023715.1	84874	84875	biotin synthase BioB|hypothetical protein	.	-	>|<	7,76	
+NZ_CP023715.1	84875	84876	biotin synthase BioB|hypothetical protein	.	-	>|<	8,75	
+NZ_CP023715.1	84893	84894	biotin synthase BioB|hypothetical protein	.	-	>|<	26,57	
+NZ_CP023715.1	84894	84895	biotin synthase BioB|hypothetical protein	.	-	>|<	27,56	
+NZ_CP023715.1	84942	84943	biotin synthase BioB|hypothetical protein	.	-	>|<	75,8	
+NZ_CP023715.1	93738	93739	3-isopropylmalate dehydratase small subunit|nucleotidyltransferase family protein	.	+	>|<	58,7	
+NZ_CP023715.1	104199	104200	-	.	+	-	321	
+NZ_CP023715.1	104200	104201	-	.	+	-	320	
+NZ_CP023715.1	104372	104373	-	.	+	-	148	
+NZ_CP023715.1	104373	104374	-	.	+	-	147	
+NZ_CP023715.1	106217	106218	hydroxylamine reductase	.	+	>|	60	
+NZ_CP023715.1	106218	106219	hydroxylamine reductase	.	+	>|	61	
+NZ_CP023715.1	110614	110615	-	.	+	-	287	
+NZ_CP023715.1	110884	110885	hypothetical protein	.	+	>|	35	
+NZ_CP023715.1	110900	110901	hypothetical protein	.	+	>|	51	
+NZ_CP023715.1	110901	110902	hypothetical protein	.	+	>|	52	
+NZ_CP023715.1	110902	110903	hypothetical protein	.	+	>|	53	
+NZ_CP023715.1	110903	110904	hypothetical protein	.	+	>|	54	
+NZ_CP023715.1	110904	110905	hypothetical protein	.	+	>|	55	
+NZ_CP023715.1	113978	113979	-	.	-	-	614	
+NZ_CP023715.1	125131	125132	sel1 repeat family protein	.	+	>|	64	
+NZ_CP023715.1	138992	138993	pyruvate kinase	.	-	|<	59	
+NZ_CP023715.1	138993	138994	pyruvate kinase	.	-	|<	58	
+NZ_CP023715.1	138994	138995	pyruvate kinase	.	-	|<	57	
+NZ_CP023715.1	139012	139013	pyruvate kinase	.	-	|<	39	
+NZ_CP023715.1	139013	139014	pyruvate kinase	.	-	|<	38	
+NZ_CP023715.1	139014	139015	pyruvate kinase	.	-	|<	37	
+NZ_CP023715.1	139052	139053	-	.	-	-	268	
+NZ_CP023715.1	139053	139054	-	.	-	-	269	
+NZ_CP023715.1	139389	139390	-	.	-	-	605	
+NZ_CP023715.1	139409	139410	-	.	-	-	625	
+NZ_CP023715.1	139693	139694	-	.	-	-	909	
+NZ_CP023715.1	139743	139744	-	.	-	-	959	
+NZ_CP023715.1	139759	139760	-	.	-	-	975	
+NZ_CP023715.1	139814	139815	-	.	-	-	984	
+NZ_CP023715.1	139815	139816	-	.	-	-	983	
+NZ_CP023715.1	139816	139817	-	.	-	-	982	
+NZ_CP023715.1	140064	140065	-	.	-	-	734	
+NZ_CP023715.1	140125	140126	-	.	-	-	673	
+NZ_CP023715.1	140126	140127	-	.	-	-	672	
+NZ_CP023715.1	140127	140128	-	.	-	-	671	
+NZ_CP023715.1	140236	140237	-	.	-	-	562	
+NZ_CP023715.1	140311	140312	-	.	-	-	487	
+NZ_CP023715.1	140317	140318	-	.	-	-	481	
+NZ_CP023715.1	140342	140343	-	.	-	-	456	
+NZ_CP023715.1	140344	140345	-	.	-	-	454	
+NZ_CP023715.1	140345	140346	-	.	-	-	453	
+NZ_CP023715.1	140401	140402	-	.	-	-	397	
+NZ_CP023715.1	140415	140416	-	.	-	-	383	
+NZ_CP023715.1	140490	140491	-	.	-	-	12	
+NZ_CP023715.1	142444	142445	-	.	+	-	203	
+NZ_CP023715.1	142448	142449	-	.	+	-	207	
+NZ_CP023715.1	143473	143474	Holliday junction branch migration protein RuvA|hypothetical protein	.	-	>|<	11,49	
+NZ_CP023715.1	143474	143475	Holliday junction branch migration protein RuvA|hypothetical protein	.	-	>|<	12,48	
+NZ_CP023715.1	144029	144030	2-hydroxyacid dehydrogenase	.	-	|<	64	
+NZ_CP023715.1	144030	144031	2-hydroxyacid dehydrogenase	.	-	|<	63	
+NZ_CP023715.1	150407	150408	-	.	+	-	375	
+NZ_CP023715.1	151002	151003	-	.	+	-	347	
+NZ_CP023715.1	151106	151107	-	.	+	-	384	
+NZ_CP023715.1	151107	151108	-	.	+	-	383	
+NZ_CP023715.1	151312	151313	-	.	+	-	178	
+NZ_CP023715.1	151350	151351	peptidoglycan-associated lipoprotein Pal	.	+	>|	38	
+NZ_CP023715.1	151351	151352	peptidoglycan-associated lipoprotein Pal	.	+	>|	39	
+NZ_CP023715.1	151365	151366	peptidoglycan-associated lipoprotein Pal|hypothetical protein	.	+	>|<	53,125	
+NZ_CP023715.1	151366	151367	peptidoglycan-associated lipoprotein Pal|hypothetical protein	.	+	>|<	54,124	
+NZ_CP023715.1	151367	151368	peptidoglycan-associated lipoprotein Pal|hypothetical protein	.	+	>|<	55,123	
+NZ_CP023715.1	151385	151386	peptidoglycan-associated lipoprotein Pal|hypothetical protein	.	+	>|<	73,105	
+NZ_CP023715.1	151386	151387	peptidoglycan-associated lipoprotein Pal|hypothetical protein	.	+	>|<	74,104	
+NZ_CP023715.1	153167	153168	SDR family oxidoreductase	.	-	|<	64	
+NZ_CP023715.1	153168	153169	SDR family oxidoreductase	.	-	|<	63	
+NZ_CP023715.1	153169	153170	SDR family oxidoreductase	.	-	|<	62	
+NZ_CP023715.1	157728	157729	-	.	+	-	83	
+NZ_CP023715.1	157729	157730	-	.	+	-	82	
+NZ_CP023715.1	159475	159476	-	.	+	-	668	
+NZ_CP023715.1	159699	159700	phosphomethylpyrimidine synthase ThiC	.	+	>|	74	
+NZ_CP023715.1	159700	159701	phosphomethylpyrimidine synthase ThiC	.	+	>|	75	
+NZ_CP023715.1	159970	159971	-	.	-	-	173	
+NZ_CP023715.1	159971	159972	-	.	-	-	172	
+NZ_CP023715.1	159972	159973	-	.	-	-	171	
+NZ_CP023715.1	163511	163512	-	.	+	-	366	
+NZ_CP023715.1	163786	163787	-	.	+	-	91	
+NZ_CP023715.1	163787	163788	-	.	+	-	90	
+NZ_CP023715.1	163841	163842	transketolase	.	+	>|	14	
+NZ_CP023715.1	163921	163922	transketolase	.	+	>|	94	
+NZ_CP023715.1	163922	163923	transketolase	.	+	>|	95	
+NZ_CP023715.1	163938	163939	transketolase	.	+	>|	111	
+NZ_CP023715.1	164209	164210	-	.	+	-	382	
+NZ_CP023715.1	164368	164369	-	.	+	-	541	
+NZ_CP023715.1	164370	164371	-	.	+	-	543	
+NZ_CP023715.1	164571	164572	-	.	+	-	542	
+NZ_CP023715.1	164668	164669	-	.	+	-	445	
+NZ_CP023715.1	164819	164820	-	.	+	-	294	
+NZ_CP023715.1	164888	164889	-	.	+	-	225	
+NZ_CP023715.1	164959	164960	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	69	
+NZ_CP023715.1	164960	164961	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	70	
+NZ_CP023715.1	164961	164962	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	71	
+NZ_CP023715.1	165028	165029	-	.	+	-	85	
+NZ_CP023715.1	165273	165274	-	.	+	-	383	
+NZ_CP023715.1	165282	165283	-	.	+	-	392	
+NZ_CP023715.1	165535	165536	-	.	+	-	645	
+NZ_CP023715.1	165915	165916	-	.	+	-	1025	
+NZ_CP023715.1	165957	165958	-	.	+	-	1067	
+NZ_CP023715.1	166258	166259	-	.	+	-	817	
+NZ_CP023715.1	166347	166348	phosphoglycerate kinase	.	+	>|	41	
+NZ_CP023715.1	166348	166349	phosphoglycerate kinase	.	+	>|	42	
+NZ_CP023715.1	166349	166350	phosphoglycerate kinase	.	+	>|	43	
+NZ_CP023715.1	166350	166351	phosphoglycerate kinase	.	+	>|	44	
+NZ_CP023715.1	166351	166352	phosphoglycerate kinase	.	+	>|	45	
+NZ_CP023715.1	166352	166353	phosphoglycerate kinase	.	+	>|	46	
+NZ_CP023715.1	168087	168088	class I fructose-bisphosphate aldolase|flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	.	-	>|<	98,59	
+NZ_CP023715.1	168088	168089	class I fructose-bisphosphate aldolase|flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	.	-	>|<	99,58	
+NZ_CP023715.1	169037	169038	-	.	-	-	620	
+NZ_CP023715.1	171128	171129	adenosylhomocysteinase	.	+	>|	77	
+NZ_CP023715.1	171129	171130	adenosylhomocysteinase	.	+	>|	78	
+NZ_CP023715.1	171130	171131	adenosylhomocysteinase	.	+	>|	79	
+NZ_CP023715.1	171299	171300	energy-dependent translational throttle protein EttA	.	-	|<	46	
+NZ_CP023715.1	171300	171301	energy-dependent translational throttle protein EttA	.	-	|<	45	
+NZ_CP023715.1	173866	173867	-	.	+	-	330	
+NZ_CP023715.1	173872	173873	-	.	+	-	324	
+NZ_CP023715.1	173950	173951	-	.	+	-	246	
+NZ_CP023715.1	173991	173992	hypothetical protein	.	+	>|	16	
+NZ_CP023715.1	174012	174013	hypothetical protein	.	+	>|	37	
+NZ_CP023715.1	174055	174056	hypothetical protein	.	+	>|	80	
+NZ_CP023715.1	174071	174072	hypothetical protein	.	+	>|	96	
+NZ_CP023715.1	174072	174073	hypothetical protein	.	+	>|	97	
+NZ_CP023715.1	174073	174074	hypothetical protein	.	+	>|	98	
+NZ_CP023715.1	174074	174075	hypothetical protein	.	+	>|	99	
+NZ_CP023715.1	174075	174076	hypothetical protein	.	+	>|	100	
+NZ_CP023715.1	199115	199116	methyl-accepting chemotaxis protein	.	+	>|	60	
+NZ_CP023715.1	199116	199117	methyl-accepting chemotaxis protein	.	+	>|	61	
+NZ_CP023715.1	203435	203436	GNAT family N-acetyltransferase	.	-	|<	47	
+NZ_CP023715.1	203436	203437	GNAT family N-acetyltransferase	.	-	|<	46	
+NZ_CP023715.1	203437	203438	GNAT family N-acetyltransferase	.	-	|<	45	
+NZ_CP023715.1	203442	203443	GNAT family N-acetyltransferase	.	-	|<	40	
+NZ_CP023715.1	203495	203496	-	.	-	-	105	
+NZ_CP023715.1	203737	203738	-	.	-	-	347	
+NZ_CP023715.1	204045	204046	-	.	-	-	238	
+NZ_CP023715.1	204046	204047	-	.	-	-	237	
+NZ_CP023715.1	204135	204136	-	.	-	-	45	
+NZ_CP023715.1	204164	204165	50S ribosomal protein L27	.	-	|<	119	
+NZ_CP023715.1	204165	204166	50S ribosomal protein L27	.	-	|<	118	
+NZ_CP023715.1	204183	204184	50S ribosomal protein L27	.	-	|<	100	
+NZ_CP023715.1	204184	204185	50S ribosomal protein L27	.	-	|<	99	
+NZ_CP023715.1	204185	204186	50S ribosomal protein L27	.	-	|<	98	
+NZ_CP023715.1	204186	204187	50S ribosomal protein L27	.	-	|<	97	
+NZ_CP023715.1	204187	204188	50S ribosomal protein L27	.	-	|<	96	
+NZ_CP023715.1	204188	204189	50S ribosomal protein L27	.	-	|<	95	
+NZ_CP023715.1	204241	204242	50S ribosomal protein L27	.	-	|<	42	
+NZ_CP023715.1	204242	204243	50S ribosomal protein L27	.	-	|<	41	
+NZ_CP023715.1	204243	204244	50S ribosomal protein L27	.	-	|<	40	
+NZ_CP023715.1	204244	204245	50S ribosomal protein L27	.	-	|<	39	
+NZ_CP023715.1	204278	204279	50S ribosomal protein L27	.	-	|<	5	
+NZ_CP023715.1	204305	204306	-	.	-	-	215	
+NZ_CP023715.1	204460	204461	-	.	-	-	225	
+NZ_CP023715.1	204469	204470	-	.	-	-	216	
+NZ_CP023715.1	204542	204543	-	.	-	-	143	
+NZ_CP023715.1	204585	204586	50S ribosomal protein L21	.	-	|<	100	
+NZ_CP023715.1	204638	204639	50S ribosomal protein L21	.	-	|<	47	
+NZ_CP023715.1	204817	204818	-	.	-	-	265	
+NZ_CP023715.1	204925	204926	-	.	-	-	372	
+NZ_CP023715.1	204926	204927	-	.	-	-	371	
+NZ_CP023715.1	204960	204961	-	.	-	-	337	
+NZ_CP023715.1	216806	216807	ferredoxin family protein	.	+	>|	89	
+NZ_CP023715.1	216807	216808	ferredoxin family protein	.	+	>|	90	
+NZ_CP023715.1	216808	216809	ferredoxin family protein	.	+	>|	91	
+NZ_CP023715.1	217669	217670	CarD family transcriptional regulator	.	+	>|	69	
+NZ_CP023715.1	217686	217687	CarD family transcriptional regulator	.	+	>|	86	
+NZ_CP023715.1	228819	228820	hypothetical protein|23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	.	+	>|<	49,68	
+NZ_CP023715.1	228820	228821	hypothetical protein|23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	.	+	>|<	50,67	
+NZ_CP023715.1	228822	228823	hypothetical protein|23S rRNA (guanosine(2251)-2'-O)-methyltransferase RlmB	.	+	>|<	52,65	
+NZ_CP023715.1	230638	230639	Do family serine endopeptidase	.	-	|<	50	
+NZ_CP023715.1	230796	230797	-	.	-	-	201	
+NZ_CP023715.1	233991	233992	-	.	+	-	164	
+NZ_CP023715.1	234223	234224	-	.	+	-	38	
+NZ_CP023715.1	234224	234225	-	.	+	-	37	
+NZ_CP023715.1	234354	234355	-	.	+	-	464	
+NZ_CP023715.1	234786	234787	-	.	+	-	32	
+NZ_CP023715.1	234881	234882	F0F1 ATP synthase subunit delta	.	+	>|	66	
+NZ_CP023715.1	234927	234928	F0F1 ATP synthase subunit delta	.	+	>|	112	
+NZ_CP023715.1	235026	235027	-	.	+	-	211	
+NZ_CP023715.1	235694	235695	-	.	+	-	687	
+NZ_CP023715.1	235787	235788	-	.	+	-	594	
+NZ_CP023715.1	236230	236231	-	.	+	-	151	
+NZ_CP023715.1	236379	236380	F0F1 ATP synthase subunit alpha	.	+	>|	32	
+NZ_CP023715.1	236574	236575	-	.	+	-	227	
+NZ_CP023715.1	236751	236752	-	.	+	-	404	
+NZ_CP023715.1	236800	236801	-	.	+	-	453	
+NZ_CP023715.1	237436	237437	-	.	+	-	159	
+NZ_CP023715.1	237613	237614	-	.	+	-	336	
+NZ_CP023715.1	237808	237809	-	.	+	-	531	
+NZ_CP023715.1	237922	237923	-	.	+	-	645	
+NZ_CP023715.1	237975	237976	-	.	+	-	698	
+NZ_CP023715.1	238063	238064	-	.	+	-	757	
+NZ_CP023715.1	238191	238192	-	.	+	-	629	
+NZ_CP023715.1	238258	238259	-	.	+	-	562	
+NZ_CP023715.1	238347	238348	-	.	+	-	473	
+NZ_CP023715.1	238348	238349	-	.	+	-	472	
+NZ_CP023715.1	238354	238355	-	.	+	-	466	
+NZ_CP023715.1	238408	238409	-	.	+	-	412	
+NZ_CP023715.1	238411	238412	-	.	+	-	409	
+NZ_CP023715.1	238466	238467	-	.	+	-	354	
+NZ_CP023715.1	238808	238809	F0F1 ATP synthase subunit beta	.	+	>|	48	
+NZ_CP023715.1	238809	238810	F0F1 ATP synthase subunit beta	.	+	>|	49	
+NZ_CP023715.1	238810	238811	F0F1 ATP synthase subunit beta	.	+	>|	50	
+NZ_CP023715.1	239146	239147	ATP synthase F1 subunit epsilon	.	+	>|	60	
+NZ_CP023715.1	239163	239164	ATP synthase F1 subunit epsilon	.	+	>|	77	
+NZ_CP023715.1	239165	239166	ATP synthase F1 subunit epsilon	.	+	>|	79	
+NZ_CP023715.1	239166	239167	ATP synthase F1 subunit epsilon	.	+	>|	80	
+NZ_CP023715.1	239167	239168	ATP synthase F1 subunit epsilon	.	+	>|	81	
+NZ_CP023715.1	240531	240532	HU family DNA-binding protein	.	-	|<	52	
+NZ_CP023715.1	240532	240533	HU family DNA-binding protein	.	-	|<	51	
+NZ_CP023715.1	240533	240534	HU family DNA-binding protein	.	-	|<	50	
+NZ_CP023715.1	240549	240550	HU family DNA-binding protein	.	-	|<	34	
+NZ_CP023715.1	240550	240551	HU family DNA-binding protein	.	-	|<	33	
+NZ_CP023715.1	240829	240830	-	.	-	-	508	
+NZ_CP023715.1	240978	240979	-	.	-	-	120	
+NZ_CP023715.1	243319	243320	ATP-dependent protease ATPase subunit HslU	.	+	>|	55	
+NZ_CP023715.1	243512	243513	-	.	+	-	38	
+NZ_CP023715.1	243710	243711	response regulator	.	+	|<	123	conflict
+NZ_CP023715.1	243821	243822	50S ribosomal protein L33|response regulator	.	+	>|<	104,12	
+NZ_CP023715.1	243822	243823	50S ribosomal protein L33|response regulator	.	+	>|<	105,11	
+NZ_CP023715.1	243823	243824	50S ribosomal protein L33|response regulator	.	+	>|<	106,10	
+NZ_CP023715.1	243825	243826	50S ribosomal protein L33|response regulator	.	+	>|<	108,8	
+NZ_CP023715.1	243826	243827	50S ribosomal protein L33|response regulator	.	+	>|<	109,7	
+NZ_CP023715.1	244716	244717	-	.	+	-	458	
+NZ_CP023715.1	244887	244888	RidA family protein	.	+	>|	62	
+NZ_CP023715.1	244888	244889	RidA family protein	.	+	>|	63	
+NZ_CP023715.1	244890	244891	RidA family protein	.	+	>|	65	
+NZ_CP023715.1	260914	260915	-	.	+	-	81	
+NZ_CP023715.1	260915	260916	-	.	+	-	80	
+NZ_CP023715.1	260916	260917	-	.	+	-	79	
+NZ_CP023715.1	280302	280303	methionine adenosyltransferase|RNA polymerase factor sigma-54	.	+	>|<	72,3	
+NZ_CP023715.1	285328	285329	-	.	+	-	292	
+NZ_CP023715.1	285393	285394	-	.	+	-	227	
+NZ_CP023715.1	285466	285467	cold-shock protein	.	+	>|	15	
+NZ_CP023715.1	285713	285714	-	.	+	-	262	
+NZ_CP023715.1	285796	285797	-	.	+	-	345	
+NZ_CP023715.1	285854	285855	cold-shock protein	.	+	>|	55	
+NZ_CP023715.1	285855	285856	cold-shock protein	.	+	>|	56	
+NZ_CP023715.1	285856	285857	cold-shock protein	.	+	>|	57	
+NZ_CP023715.1	292924	292925	efflux transporter outer membrane subunit|SIMPL domain-containing protein	.	-	>|<	6,41	
+NZ_CP023715.1	292925	292926	efflux transporter outer membrane subunit|SIMPL domain-containing protein	.	-	>|<	7,40	
+NZ_CP023715.1	292926	292927	efflux transporter outer membrane subunit|SIMPL domain-containing protein	.	-	>|<	8,39	
+NZ_CP023715.1	299792	299793	50S ribosomal protein L28	.	-	|<	65	
+NZ_CP023715.1	299793	299794	50S ribosomal protein L28	.	-	|<	64	
+NZ_CP023715.1	299794	299795	50S ribosomal protein L28	.	-	|<	63	
+NZ_CP023715.1	299795	299796	50S ribosomal protein L28	.	-	|<	62	
+NZ_CP023715.1	299797	299798	50S ribosomal protein L28	.	-	|<	60	
+NZ_CP023715.1	299822	299823	50S ribosomal protein L28	.	-	|<	35	
+NZ_CP023715.1	299823	299824	50S ribosomal protein L28	.	-	|<	34	
+NZ_CP023715.1	299889	299890	-	.	-	-	561	
+NZ_CP023715.1	299892	299893	-	.	-	-	558	
+NZ_CP023715.1	299942	299943	-	.	-	-	508	
+NZ_CP023715.1	299971	299972	-	.	-	-	479	
+NZ_CP023715.1	300017	300018	-	.	-	-	433	
+NZ_CP023715.1	300052	300053	-	.	-	-	398	
+NZ_CP023715.1	300154	300155	-	.	-	-	10	
+NZ_CP023715.1	300169	300170	-	.	-	-	25	
+NZ_CP023715.1	300170	300171	-	.	-	-	26	
+NZ_CP023715.1	313622	313623	SDR family oxidoreductase|pyrroline-5-carboxylate reductase	.	-	>|<	6,60	
+NZ_CP023715.1	313624	313625	SDR family oxidoreductase|pyrroline-5-carboxylate reductase	.	-	>|<	8,58	
+NZ_CP023715.1	313674	313675	SDR family oxidoreductase|pyrroline-5-carboxylate reductase	.	+	>|<	58,8	
+NZ_CP023715.1	313675	313676	SDR family oxidoreductase|pyrroline-5-carboxylate reductase	.	+	>|<	59,7	
+NZ_CP023715.1	319066	319067	-	.	+	-	365	
+NZ_CP023715.1	319432	319433	SDR family oxidoreductase	.	+	>|	74	
+NZ_CP023715.1	319433	319434	SDR family oxidoreductase	.	+	>|	75	
+NZ_CP023715.1	330436	330437	inositol monophosphatase	.	+	>|	69	
+NZ_CP023715.1	330981	330982	-	.	+	-	493	
+NZ_CP023715.1	331081	331082	-	.	+	-	393	
+NZ_CP023715.1	331462	331463	DUF882 domain-containing protein|thiamine phosphate synthase	.	+	>|<	53,12	
+NZ_CP023715.1	331463	331464	DUF882 domain-containing protein|thiamine phosphate synthase	.	+	>|<	54,11	
+NZ_CP023715.1	331464	331465	DUF882 domain-containing protein|thiamine phosphate synthase	.	+	>|<	55,10	
+NZ_CP023715.1	335001	335002	-	.	+	-	841	
+NZ_CP023715.1	335709	335710	phosphomannomutase/phosphoglucomutase	.	+	>|	54	
+NZ_CP023715.1	335711	335712	phosphomannomutase/phosphoglucomutase	.	+	>|	56	
+NZ_CP023715.1	341703	341704	-	.	+	-	271	
+NZ_CP023715.1	343067	343068	ammonium transporter	.	+	>|	85	
+NZ_CP023715.1	343068	343069	ammonium transporter	.	+	>|	86	
+NZ_CP023715.1	343069	343070	ammonium transporter	.	+	>|	87	
+NZ_CP023715.1	344987	344988	-	.	+	-	275	
+NZ_CP023715.1	345465	345466	-	.	+	-	224	
+NZ_CP023715.1	357309	357310	-	.	+	-	67	
+NZ_CP023715.1	370999	371000	-	.	+	-	82	
+NZ_CP023715.1	371000	371001	-	.	+	-	81	
+NZ_CP023715.1	371071	371072	-	.	+	-	10	
+NZ_CP023715.1	371136	371137	-	.	+	-	428	
+NZ_CP023715.1	371195	371196	-	.	+	-	487	
+NZ_CP023715.1	371196	371197	-	.	+	-	488	
+NZ_CP023715.1	371250	371251	-	.	+	-	542	
+NZ_CP023715.1	371303	371304	-	.	+	-	595	
+NZ_CP023715.1	371675	371676	-	.	+	-	967	
+NZ_CP023715.1	371679	371680	-	.	+	-	969	
+NZ_CP023715.1	371859	371860	-	.	+	-	789	
+NZ_CP023715.1	371947	371948	-	.	+	-	701	
+NZ_CP023715.1	372086	372087	-	.	+	-	562	
+NZ_CP023715.1	372162	372163	-	.	+	-	486	
+NZ_CP023715.1	372416	372417	-	.	+	-	232	
+NZ_CP023715.1	372503	372504	sugar porter family MFS transporter	.	+	>|	1	
+NZ_CP023715.1	372545	372546	sugar porter family MFS transporter	.	+	>|	43	
+NZ_CP023715.1	372629	372630	sugar porter family MFS transporter	.	+	>|	127	
+NZ_CP023715.1	372630	372631	-	.	+	-	18	
+NZ_CP023715.1	372631	372632	-	.	+	-	17	
+NZ_CP023715.1	372632	372633	-	.	+	-	16	
+NZ_CP023715.1	372633	372634	-	.	+	-	15	
+NZ_CP023715.1	372634	372635	-	.	+	-	14	
+NZ_CP023715.1	372709	372710	-	.	+	-	207	
+NZ_CP023715.1	372765	372766	-	.	+	-	263	
+NZ_CP023715.1	372979	372980	-	.	+	-	477	
+NZ_CP023715.1	373114	373115	-	.	+	-	612	
+NZ_CP023715.1	374167	374168	glucose-6-phosphate dehydrogenase	.	+	>|	62	
+NZ_CP023715.1	374831	374832	-	.	+	-	726	
+NZ_CP023715.1	374832	374833	-	.	+	-	727	
+NZ_CP023715.1	374892	374893	-	.	+	-	787	
+NZ_CP023715.1	374957	374958	-	.	+	-	852	
+NZ_CP023715.1	374958	374959	-	.	+	-	853	
+NZ_CP023715.1	375075	375076	-	.	+	-	970	
+NZ_CP023715.1	375229	375230	-	.	+	-	825	
+NZ_CP023715.1	375424	375425	-	.	+	-	630	
+NZ_CP023715.1	375488	375489	-	.	+	-	566	
+NZ_CP023715.1	375515	375516	-	.	+	-	539	
+NZ_CP023715.1	375997	375998	phosphogluconate dehydratase	.	+	>|	76	
+NZ_CP023715.1	375998	375999	phosphogluconate dehydratase	.	+	>|	77	
+NZ_CP023715.1	376206	376207	-	.	+	-	285	
+NZ_CP023715.1	376530	376531	-	.	+	-	609	
+NZ_CP023715.1	377095	377096	glucokinase	.	+	>|	67	
+NZ_CP023715.1	377096	377097	glucokinase	.	+	>|	68	
+NZ_CP023715.1	377097	377098	glucokinase	.	+	>|	69	
+NZ_CP023715.1	377098	377099	glucokinase	.	+	>|	70	
+NZ_CP023715.1	377099	377100	glucokinase	.	+	>|	71	
+NZ_CP023715.1	384743	384744	-	.	-	-	879	
+NZ_CP023715.1	407896	407897	-	.	+	-	1135	
+NZ_CP023715.1	409933	409934	-	.	+	-	190	
+NZ_CP023715.1	410015	410016	ABC transporter permease	.	+	|<	108	conflict
+NZ_CP023715.1	410093	410094	ATP-dependent Clp protease ATP-binding subunit ClpA|ABC transporter permease	.	+	>|<	60,30	
+NZ_CP023715.1	410094	410095	ATP-dependent Clp protease ATP-binding subunit ClpA|ABC transporter permease	.	+	>|<	61,29	
+NZ_CP023715.1	410095	410096	ATP-dependent Clp protease ATP-binding subunit ClpA|ABC transporter permease	.	+	>|<	62,28	
+NZ_CP023715.1	411952	411953	-	.	+	-	71	
+NZ_CP023715.1	411953	411954	-	.	+	-	70	
+NZ_CP023715.1	413107	413108	-	.	+	-	137	
+NZ_CP023715.1	414091	414092	-	.	+	-	223	
+NZ_CP023715.1	414288	414289	ornithine carbamoyltransferase	.	+	>|	103	
+NZ_CP023715.1	414289	414290	ornithine carbamoyltransferase	.	+	>|	104	
+NZ_CP023715.1	414469	414470	-	.	+	-	284	
+NZ_CP023715.1	417196	417197	-	.	-	-	294	
+NZ_CP023715.1	417197	417198	-	.	-	-	293	
+NZ_CP023715.1	417198	417199	-	.	-	-	292	
+NZ_CP023715.1	417240	417241	-	.	-	-	250	
+NZ_CP023715.1	417241	417242	-	.	-	-	249	
+NZ_CP023715.1	417242	417243	-	.	-	-	248	
+NZ_CP023715.1	417271	417272	-	.	-	-	219	
+NZ_CP023715.1	417289	417290	-	.	-	-	201	
+NZ_CP023715.1	417341	417342	DNA topoisomerase IV subunit B	.	-	>|	47	conflict
+NZ_CP023715.1	417342	417343	DNA topoisomerase IV subunit B	.	-	>|	48	conflict
+NZ_CP023715.1	417343	417344	DNA topoisomerase IV subunit B	.	-	>|	49	conflict
+NZ_CP023715.1	417344	417345	DNA topoisomerase IV subunit B	.	-	>|	50	conflict
+NZ_CP023715.1	417358	417359	DNA topoisomerase IV subunit B	.	-	>|	64	conflict
+NZ_CP023715.1	417360	417361	DNA topoisomerase IV subunit B	.	-	>|	66	conflict
+NZ_CP023715.1	425577	425578	-	.	+	-	355	
+NZ_CP023715.1	434192	434193	guanylate kinase	.	-	|<	67	
+NZ_CP023715.1	434998	434999	glycine zipper 2TM domain-containing protein	.	-	|<	65	
+NZ_CP023715.1	434999	435000	glycine zipper 2TM domain-containing protein	.	-	|<	64	
+NZ_CP023715.1	435000	435001	glycine zipper 2TM domain-containing protein	.	-	|<	63	
+NZ_CP023715.1	435001	435002	glycine zipper 2TM domain-containing protein	.	-	|<	62	
+NZ_CP023715.1	435002	435003	glycine zipper 2TM domain-containing protein	.	-	|<	61	
+NZ_CP023715.1	435093	435094	-	.	-	-	184	
+NZ_CP023715.1	435094	435095	-	.	-	-	185	
+NZ_CP023715.1	438962	438963	ATPase	.	+	>|	40	
+NZ_CP023715.1	439625	439626	HAD family phosphatase|ribonucleotide-diphosphate reductase subunit beta	.	-	>|<	30,54	
+NZ_CP023715.1	439658	439659	HAD family phosphatase|ribonucleotide-diphosphate reductase subunit beta	.	+	>|<	63,21	
+NZ_CP023715.1	450627	450628	ribosome biogenesis GTPase Der|formate--tetrahydrofolate ligase	.	-	>|<	6,58	
+NZ_CP023715.1	457412	457413	CTP synthase	.	+	|<	69	conflict
+NZ_CP023715.1	457413	457414	CTP synthase	.	+	|<	68	conflict
+NZ_CP023715.1	457435	457436	CTP synthase	.	+	|<	46	conflict
+NZ_CP023715.1	457436	457437	CTP synthase	.	+	|<	45	conflict
+NZ_CP023715.1	457437	457438	CTP synthase	.	+	|<	44	conflict
+NZ_CP023715.1	457438	457439	CTP synthase	.	+	|<	43	conflict
+NZ_CP023715.1	461095	461096	-	.	+	-	484	
+NZ_CP023715.1	466960	466961	6%2C7-dimethyl-8-ribityllumazine synthase	.	-	|<	54	
+NZ_CP023715.1	466961	466962	6%2C7-dimethyl-8-ribityllumazine synthase	.	-	|<	53	
+NZ_CP023715.1	466962	466963	6%2C7-dimethyl-8-ribityllumazine synthase	.	-	|<	52	
+NZ_CP023715.1	486185	486186	-	.	+	-	246	
+NZ_CP023715.1	488070	488071	-	.	+	-	207	
+NZ_CP023715.1	488199	488200	-	.	+	-	230	
+NZ_CP023715.1	488313	488314	-	.	+	-	116	
+NZ_CP023715.1	488732	488733	-	.	+	-	397	
+NZ_CP023715.1	488863	488864	-	.	+	-	528	
+NZ_CP023715.1	489291	489292	-	.	+	-	746	
+NZ_CP023715.1	489490	489491	-	.	+	-	547	
+NZ_CP023715.1	489732	489733	-	.	+	-	305	
+NZ_CP023715.1	489793	489794	-	.	+	-	244	
+NZ_CP023715.1	489794	489795	-	.	+	-	243	
+NZ_CP023715.1	489906	489907	type I glutamate--ammonia ligase	.	+	>|	65	
+NZ_CP023715.1	489925	489926	type I glutamate--ammonia ligase	.	+	>|	84	
+NZ_CP023715.1	489926	489927	type I glutamate--ammonia ligase	.	+	>|	85	
+NZ_CP023715.1	489927	489928	type I glutamate--ammonia ligase	.	+	>|	86	
+NZ_CP023715.1	489928	489929	type I glutamate--ammonia ligase	.	+	>|	87	
+NZ_CP023715.1	489929	489930	type I glutamate--ammonia ligase	.	+	>|	88	
+NZ_CP023715.1	499918	499919	bifunctional UDP-N-acetylglucosamine diphosphorylase/glucosamine-1-phosphate N-acetyltransferase GlmU	.	+	>|	30	
+NZ_CP023715.1	505357	505358	-	.	-	-	504	
+NZ_CP023715.1	515577	515578	-	.	+	-	186	
+NZ_CP023715.1	515619	515620	-	.	+	-	144	
+NZ_CP023715.1	515673	515674	-	.	+	-	90	
+NZ_CP023715.1	515700	515701	-	.	+	-	63	
+NZ_CP023715.1	515799	515800	-	.	+	-	351	
+NZ_CP023715.1	515940	515941	-	.	+	-	210	
+NZ_CP023715.1	516383	516384	-	.	+	-	249	
+NZ_CP023715.1	516668	516669	30S ribosomal protein S7	.	+	>|	48	
+NZ_CP023715.1	516669	516670	30S ribosomal protein S7	.	+	>|	49	
+NZ_CP023715.1	516796	516797	-	.	+	-	176	
+NZ_CP023715.1	516866	516867	-	.	+	-	246	
+NZ_CP023715.1	516914	516915	-	.	+	-	294	
+NZ_CP023715.1	516947	516948	-	.	+	-	327	
+NZ_CP023715.1	517068	517069	-	.	+	-	448	
+NZ_CP023715.1	517229	517230	-	.	+	-	609	
+NZ_CP023715.1	517232	517233	-	.	+	-	612	
+NZ_CP023715.1	517324	517325	-	.	+	-	704	
+NZ_CP023715.1	517328	517329	-	.	+	-	708	
+NZ_CP023715.1	517380	517381	-	.	+	-	760	
+NZ_CP023715.1	517679	517680	-	.	+	-	1059	
+NZ_CP023715.1	517785	517786	-	.	+	-	1070	
+NZ_CP023715.1	518051	518052	-	.	+	-	804	
+NZ_CP023715.1	518441	518442	-	.	+	-	414	
+NZ_CP023715.1	518551	518552	-	.	+	-	304	
+NZ_CP023715.1	518568	518569	-	.	+	-	287	
+NZ_CP023715.1	518751	518752	-	.	+	-	104	
+NZ_CP023715.1	518799	518800	elongation factor G	.	+	>|	48	
+NZ_CP023715.1	518800	518801	elongation factor G	.	+	>|	49	
+NZ_CP023715.1	518801	518802	elongation factor G	.	+	>|	50	
+NZ_CP023715.1	519042	519043	-	.	+	-	291	
+NZ_CP023715.1	519054	519055	-	.	+	-	303	
+NZ_CP023715.1	519077	519078	-	.	+	-	326	
+NZ_CP023715.1	519123	519124	-	.	+	-	372	
+NZ_CP023715.1	519261	519262	-	.	+	-	510	
+NZ_CP023715.1	519361	519362	-	.	+	-	610	
+NZ_CP023715.1	519362	519363	-	.	+	-	611	
+NZ_CP023715.1	519400	519401	-	.	+	-	649	
+NZ_CP023715.1	519402	519403	-	.	+	-	651	
+NZ_CP023715.1	519423	519424	-	.	+	-	672	
+NZ_CP023715.1	519436	519437	-	.	+	-	685	
+NZ_CP023715.1	519454	519455	-	.	+	-	701	
+NZ_CP023715.1	519888	519889	-	.	+	-	267	
+NZ_CP023715.1	520085	520086	elongation factor Tu	.	+	>|	37	
+NZ_CP023715.1	520130	520131	elongation factor Tu	.	+	>|	82	
+NZ_CP023715.1	520134	520135	elongation factor Tu	.	+	>|	86	
+NZ_CP023715.1	520135	520136	elongation factor Tu	.	+	>|	87	
+NZ_CP023715.1	520136	520137	elongation factor Tu	.	+	>|	88	
+NZ_CP023715.1	520186	520187	-	.	+	-	138	
+NZ_CP023715.1	520187	520188	-	.	+	-	139	
+NZ_CP023715.1	520202	520203	-	.	+	-	154	
+NZ_CP023715.1	520286	520287	-	.	+	-	238	
+NZ_CP023715.1	520309	520310	-	.	+	-	261	
+NZ_CP023715.1	520364	520365	-	.	+	-	316	
+NZ_CP023715.1	520416	520417	-	.	+	-	365	
+NZ_CP023715.1	520642	520643	-	.	+	-	139	
+NZ_CP023715.1	520644	520645	-	.	+	-	137	
+NZ_CP023715.1	520645	520646	-	.	+	-	136	
+NZ_CP023715.1	520733	520734	-	.	+	-	48	
+NZ_CP023715.1	520734	520735	-	.	+	-	47	
+NZ_CP023715.1	520735	520736	-	.	+	-	46	
+NZ_CP023715.1	520736	520737	-	.	+	-	45	
+NZ_CP023715.1	520846	520847	-	.	+	-	380	
+NZ_CP023715.1	520883	520884	-	.	+	-	417	
+NZ_CP023715.1	521148	521149	-	.	+	-	364	
+NZ_CP023715.1	521255	521256	-	.	+	-	257	
+NZ_CP023715.1	521256	521257	-	.	+	-	256	
+NZ_CP023715.1	521257	521258	-	.	+	-	255	
+NZ_CP023715.1	521720	521721	-	.	+	-	211	
+NZ_CP023715.1	522029	522030	-	.	+	-	99	
+NZ_CP023715.1	522180	522181	50S ribosomal protein L4	.	+	>|	45	
+NZ_CP023715.1	522279	522280	-	.	+	-	144	
+NZ_CP023715.1	522364	522365	-	.	+	-	80	
+NZ_CP023715.1	522383	522384	-	.	+	-	61	
+NZ_CP023715.1	522385	522386	-	.	+	-	59	
+NZ_CP023715.1	522892	522893	-	.	+	-	391	
+NZ_CP023715.1	522973	522974	-	.	+	-	310	
+NZ_CP023715.1	523272	523273	-	.	+	-	11	
+NZ_CP023715.1	523296	523297	50S ribosomal protein L2	.	+	>|	16	
+NZ_CP023715.1	523332	523333	50S ribosomal protein L2	.	+	>|	52	
+NZ_CP023715.1	523333	523334	50S ribosomal protein L2	.	+	>|	53	
+NZ_CP023715.1	523450	523451	-	.	+	-	108	
+NZ_CP023715.1	523451	523452	-	.	+	-	107	
+NZ_CP023715.1	523559	523560	30S ribosomal protein S19	.	+	>|	1	
+NZ_CP023715.1	523774	523775	-	.	+	-	166	
+NZ_CP023715.1	523907	523908	-	.	+	-	33	
+NZ_CP023715.1	523950	523951	50S ribosomal protein L22	.	+	>|	12	
+NZ_CP023715.1	523951	523952	50S ribosomal protein L22	.	+	>|	13	
+NZ_CP023715.1	524166	524167	-	.	+	-	228	
+NZ_CP023715.1	524262	524263	-	.	+	-	324	
+NZ_CP023715.1	524516	524517	-	.	+	-	183	
+NZ_CP023715.1	524517	524518	-	.	+	-	182	
+NZ_CP023715.1	524556	524557	-	.	+	-	143	
+NZ_CP023715.1	524665	524666	30S ribosomal protein S3	.	+	>|	30	
+NZ_CP023715.1	524666	524667	30S ribosomal protein S3	.	+	>|	31	
+NZ_CP023715.1	524721	524722	30S ribosomal protein S3	.	+	>|	86	
+NZ_CP023715.1	524722	524723	30S ribosomal protein S3	.	+	>|	87	
+NZ_CP023715.1	524808	524809	-	.	+	-	173	
+NZ_CP023715.1	524810	524811	-	.	+	-	175	
+NZ_CP023715.1	524986	524987	-	.	+	-	147	
+NZ_CP023715.1	525012	525013	-	.	+	-	121	
+NZ_CP023715.1	525318	525319	-	.	+	-	31	
+NZ_CP023715.1	525332	525333	-	.	+	-	17	
+NZ_CP023715.1	525432	525433	50S ribosomal protein L29	.	+	>|	96	
+NZ_CP023715.1	525504	525505	-	.	+	-	165	
+NZ_CP023715.1	525528	525529	-	.	+	-	141	
+NZ_CP023715.1	526313	526314	-	.	+	-	37	
+NZ_CP023715.1	526315	526316	-	.	+	-	35	
+NZ_CP023715.1	526420	526421	50S ribosomal protein L24	.	+	>|	63	
+NZ_CP023715.1	526506	526507	-	.	+	-	149	
+NZ_CP023715.1	526952	526953	50S ribosomal protein L5	.	+	>|	24	
+NZ_CP023715.1	527039	527040	50S ribosomal protein L5	.	+	>|	111	
+NZ_CP023715.1	527042	527043	50S ribosomal protein L5	.	+	>|	114	
+NZ_CP023715.1	527220	527221	-	.	+	-	71	
+NZ_CP023715.1	527238	527239	-	.	+	-	53	
+NZ_CP023715.1	527287	527288	30S ribosomal protein S14	.	+	>|	10	
+NZ_CP023715.1	527289	527290	30S ribosomal protein S14	.	+	>|	12	
+NZ_CP023715.1	527567	527568	-	.	+	-	119	
+NZ_CP023715.1	527575	527576	-	.	+	-	111	
+NZ_CP023715.1	527703	527704	30S ribosomal protein S8	.	+	>|	17	
+NZ_CP023715.1	527717	527718	30S ribosomal protein S8	.	+	>|	31	
+NZ_CP023715.1	527875	527876	-	.	+	-	189	
+NZ_CP023715.1	527934	527935	-	.	+	-	248	
+NZ_CP023715.1	528099	528100	-	.	+	-	120	
+NZ_CP023715.1	528385	528386	-	.	+	-	166	
+NZ_CP023715.1	528625	528626	50S ribosomal protein L18	.	+	>|	50	
+NZ_CP023715.1	528757	528758	-	.	+	-	182	
+NZ_CP023715.1	528758	528759	-	.	+	-	183	
+NZ_CP023715.1	528784	528785	-	.	+	-	209	
+NZ_CP023715.1	528856	528857	-	.	+	-	281	
+NZ_CP023715.1	529053	529054	-	.	+	-	232	
+NZ_CP023715.1	529054	529055	-	.	+	-	231	
+NZ_CP023715.1	529392	529393	30S ribosomal protein S5	.	+	>|	115	
+NZ_CP023715.1	529514	529515	50S ribosomal protein L30	.	+	>|	53	
+NZ_CP023715.1	529533	529534	50S ribosomal protein L30	.	+	>|	72	
+NZ_CP023715.1	529534	529535	50S ribosomal protein L30	.	+	>|	73	
+NZ_CP023715.1	529535	529536	50S ribosomal protein L30	.	+	>|	74	
+NZ_CP023715.1	529778	529779	-	.	+	-	317	
+NZ_CP023715.1	529914	529915	-	.	+	-	453	
+NZ_CP023715.1	530175	530176	50S ribosomal protein L15	.	+	>|	72	
+NZ_CP023715.1	530176	530177	50S ribosomal protein L15	.	+	>|	73	
+NZ_CP023715.1	530177	530178	50S ribosomal protein L15	.	+	>|	74	
+NZ_CP023715.1	530459	530460	-	.	+	-	356	
+NZ_CP023715.1	532538	532539	adenylate kinase	.	+	>|	57	
+NZ_CP023715.1	532736	532737	-	.	+	-	80	
+NZ_CP023715.1	532870	532871	-	.	+	-	379	
+NZ_CP023715.1	533660	533661	30S ribosomal protein S11	.	+	>|	22	
+NZ_CP023715.1	533715	533716	30S ribosomal protein S11	.	+	>|	77	
+NZ_CP023715.1	533716	533717	30S ribosomal protein S11	.	+	>|	78	
+NZ_CP023715.1	533717	533718	30S ribosomal protein S11	.	+	>|	79	
+NZ_CP023715.1	534035	534036	-	.	+	-	397	
+NZ_CP023715.1	534036	534037	-	.	+	-	398	
+NZ_CP023715.1	534193	534194	-	.	+	-	555	
+NZ_CP023715.1	534830	534831	DNA-directed RNA polymerase subunit alpha	.	+	>|	38	
+NZ_CP023715.1	534988	534989	-	.	+	-	196	
+NZ_CP023715.1	535388	535389	50S ribosomal protein L17	.	+	>|	54	
+NZ_CP023715.1	535389	535390	50S ribosomal protein L17	.	+	>|	55	
+NZ_CP023715.1	539646	539647	-	.	+	-	163	
+NZ_CP023715.1	542548	542549	SulP family inorganic anion transporter	.	-	>|	105	conflict
+NZ_CP023715.1	542549	542550	SulP family inorganic anion transporter	.	-	>|	106	conflict
+NZ_CP023715.1	542550	542551	SulP family inorganic anion transporter	.	-	>|	107	conflict
+NZ_CP023715.1	542701	542702	-	.	-	-	247	
+NZ_CP023715.1	542705	542706	-	.	-	-	243	
+NZ_CP023715.1	542706	542707	-	.	-	-	242	
+NZ_CP023715.1	542707	542708	-	.	-	-	241	
+NZ_CP023715.1	542780	542781	-	.	+	-	168	
+NZ_CP023715.1	542836	542837	voltage-gated chloride channel family protein	.	-	|<	112	
+NZ_CP023715.1	544448	544449	-	.	-	-	10	
+NZ_CP023715.1	545716	545717	polyribonucleotide nucleotidyltransferase	.	-	|<	55	
+NZ_CP023715.1	545717	545718	polyribonucleotide nucleotidyltransferase	.	-	|<	54	
+NZ_CP023715.1	545718	545719	polyribonucleotide nucleotidyltransferase	.	-	|<	53	
+NZ_CP023715.1	546065	546066	-	.	-	-	447	
+NZ_CP023715.1	546443	546444	-	.	-	-	825	
+NZ_CP023715.1	546797	546798	-	.	-	-	1179	
+NZ_CP023715.1	547059	547060	-	.	-	-	1072	
+NZ_CP023715.1	547940	547941	-	.	-	-	191	
+NZ_CP023715.1	548093	548094	30S ribosomal protein S15	.	-	|<	38	
+NZ_CP023715.1	548094	548095	30S ribosomal protein S15	.	-	|<	37	
+NZ_CP023715.1	548095	548096	30S ribosomal protein S15	.	-	|<	36	
+NZ_CP023715.1	548096	548097	30S ribosomal protein S15	.	-	|<	35	
+NZ_CP023715.1	550447	550448	translation initiation factor IF-2	.	-	|<	56	
+NZ_CP023715.1	550448	550449	translation initiation factor IF-2	.	-	|<	55	
+NZ_CP023715.1	550449	550450	translation initiation factor IF-2	.	-	|<	54	
+NZ_CP023715.1	550468	550469	translation initiation factor IF-2	.	-	|<	35	
+NZ_CP023715.1	550514	550515	-	.	-	-	158	
+NZ_CP023715.1	554046	554047	-	.	-	-	231	
+NZ_CP023715.1	556418	556419	-	.	-	-	436	
+NZ_CP023715.1	556564	556565	-	.	-	-	111	
+NZ_CP023715.1	559534	559535	-	.	+	-	449	
+NZ_CP023715.1	560524	560525	pyridoxal phosphate-dependent aminotransferase|TonB-dependent receptor	.	+	>|<	124,11	
+NZ_CP023715.1	564367	564368	pyridoxal phosphate-dependent aminotransferase|chorismate mutase	.	-	>|<	90,53	
+NZ_CP023715.1	569983	569984	succinate--CoA ligase subunit alpha	.	-	|<	90	
+NZ_CP023715.1	582402	582403	dicarboxylate/amino acid:cation symporter	.	-	|<	47	
+NZ_CP023715.1	582754	582755	-	.	-	-	444	
+NZ_CP023715.1	596093	596094	-	.	-	-	192	
+NZ_CP023715.1	600398	600399	acetyl-CoA carboxylase carboxyltransferase subunit alpha	.	+	>|	79	
+NZ_CP023715.1	611858	611859	-	.	-	-	248	
+NZ_CP023715.1	611927	611928	-	.	-	-	317	
+NZ_CP023715.1	611928	611929	-	.	-	-	318	
+NZ_CP023715.1	611929	611930	-	.	-	-	319	
+NZ_CP023715.1	611930	611931	-	.	-	-	320	
+NZ_CP023715.1	611931	611932	-	.	-	-	321	
+NZ_CP023715.1	612045	612046	-	.	-	-	407	
+NZ_CP023715.1	612124	612125	-	.	-	-	328	
+NZ_CP023715.1	612125	612126	-	.	-	-	327	
+NZ_CP023715.1	612126	612127	-	.	-	-	326	
+NZ_CP023715.1	612127	612128	-	.	-	-	325	
+NZ_CP023715.1	613690	613691	flagellar hook capping protein	.	-	|<	38	
+NZ_CP023715.1	624408	624409	glycosyl transferase family 2|flagellin	.	-	>|<	26,65	
+NZ_CP023715.1	624409	624410	glycosyl transferase family 2|flagellin	.	-	>|<	27,64	
+NZ_CP023715.1	624410	624411	glycosyl transferase family 2|flagellin	.	-	>|<	28,63	
+NZ_CP023715.1	624411	624412	glycosyl transferase family 2|flagellin	.	-	>|<	29,62	
+NZ_CP023715.1	624426	624427	glycosyl transferase family 2|flagellin	.	-	>|<	44,47	
+NZ_CP023715.1	624428	624429	glycosyl transferase family 2|flagellin	.	-	>|<	46,45	
+NZ_CP023715.1	624444	624445	glycosyl transferase family 2|flagellin	.	+	>|<	62,29	
+NZ_CP023715.1	624471	624472	glycosyl transferase family 2|flagellin	.	-	>|<	89,2	
+NZ_CP023715.1	624568	624569	-	.	-	-	186	
+NZ_CP023715.1	624704	624705	-	.	-	-	322	
+NZ_CP023715.1	625125	625126	-	.	-	-	743	
+NZ_CP023715.1	626033	626034	-	.	+	-	724	
+NZ_CP023715.1	626336	626337	-	.	+	-	1027	
+NZ_CP023715.1	626393	626394	-	.	+	-	1017	
+NZ_CP023715.1	643240	643241	flagellar protein FliS|AI-2E family transporter	.	+	>|<	65,28	
+NZ_CP023715.1	649572	649573	adenosine deaminase|phosphoribosyltransferase	.	-	>|<	73,55	
+NZ_CP023715.1	653739	653740	-	.	+	-	276	
+NZ_CP023715.1	653850	653851	-	.	+	-	387	
+NZ_CP023715.1	653944	653945	-	.	+	-	481	
+NZ_CP023715.1	654060	654061	-	.	+	-	597	
+NZ_CP023715.1	654092	654093	-	.	+	-	629	
+NZ_CP023715.1	654158	654159	-	.	+	-	695	
+NZ_CP023715.1	654159	654160	-	.	+	-	696	
+NZ_CP023715.1	654160	654161	-	.	+	-	697	
+NZ_CP023715.1	654413	654414	-	.	+	-	950	
+NZ_CP023715.1	654574	654575	-	.	+	-	1111	
+NZ_CP023715.1	654687	654688	-	.	+	-	1035	
+NZ_CP023715.1	655241	655242	-	.	+	-	481	
+NZ_CP023715.1	655678	655679	molecular chaperone DnaK	.	+	>|	76	
+NZ_CP023715.1	655702	655703	molecular chaperone DnaK	.	+	>|	100	
+NZ_CP023715.1	655703	655704	molecular chaperone DnaK	.	+	>|	101	
+NZ_CP023715.1	655704	655705	molecular chaperone DnaK	.	+	>|	102	
+NZ_CP023715.1	655705	655706	molecular chaperone DnaK	.	+	>|	103	
+NZ_CP023715.1	655989	655990	-	.	+	-	387	
+NZ_CP023715.1	656910	656911	molecular chaperone DnaJ|adenylosuccinate lyase	.	-	>|<	61,50	
+NZ_CP023715.1	656911	656912	molecular chaperone DnaJ|adenylosuccinate lyase	.	-	>|<	62,49	
+NZ_CP023715.1	656944	656945	molecular chaperone DnaJ|adenylosuccinate lyase	.	+	>|<	95,16	
+NZ_CP023715.1	663286	663287	-	.	+	-	263	
+NZ_CP023715.1	663288	663289	-	.	+	-	265	
+NZ_CP023715.1	663968	663969	-	.	+	-	380	
+NZ_CP023715.1	663969	663970	-	.	+	-	381	
+NZ_CP023715.1	664086	664087	-	.	+	-	383	
+NZ_CP023715.1	664089	664090	-	.	+	-	380	
+NZ_CP023715.1	664193	664194	-	.	+	-	276	
+NZ_CP023715.1	664246	664247	-	.	+	-	223	
+NZ_CP023715.1	664709	664710	F0F1 ATP synthase subunit C	.	+	>|	1	
+NZ_CP023715.1	664711	664712	F0F1 ATP synthase subunit C	.	+	>|	3	
+NZ_CP023715.1	664762	664763	F0F1 ATP synthase subunit C	.	+	>|	54	
+NZ_CP023715.1	664763	664764	F0F1 ATP synthase subunit C	.	+	>|	55	
+NZ_CP023715.1	664764	664765	F0F1 ATP synthase subunit C	.	+	>|	56	
+NZ_CP023715.1	664765	664766	F0F1 ATP synthase subunit C	.	+	>|	57	
+NZ_CP023715.1	664766	664767	F0F1 ATP synthase subunit C	.	+	>|	58	
+NZ_CP023715.1	664767	664768	F0F1 ATP synthase subunit C	.	+	>|	59	
+NZ_CP023715.1	665344	665345	ATPase	.	+	>|	14	
+NZ_CP023715.1	665398	665399	ATPase	.	+	>|	68	
+NZ_CP023715.1	665429	665430	ATPase	.	+	>|	99	
+NZ_CP023715.1	665795	665796	-	.	+	-	342	
+NZ_CP023715.1	665971	665972	-	.	+	-	166	
+NZ_CP023715.1	666036	666037	ATPase	.	+	>|	54	
+NZ_CP023715.1	666037	666038	ATPase	.	+	>|	55	
+NZ_CP023715.1	666038	666039	ATPase	.	+	>|	56	
+NZ_CP023715.1	666039	666040	ATPase	.	+	>|	57	
+NZ_CP023715.1	666040	666041	ATPase	.	+	>|	58	
+NZ_CP023715.1	666041	666042	ATPase	.	+	>|	59	
+NZ_CP023715.1	670277	670278	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	.	-	|<	93	
+NZ_CP023715.1	670278	670279	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	.	-	|<	92	
+NZ_CP023715.1	670279	670280	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	.	-	|<	91	
+NZ_CP023715.1	670280	670281	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme	.	-	|<	90	
+NZ_CP023715.1	683216	683217	histidine kinase|acetolactate synthase large subunit	.	-	>|<	43,44	
+NZ_CP023715.1	686045	686046	Gfo/Idh/MocA family oxidoreductase	.	-	|<	97	
+NZ_CP023715.1	686046	686047	Gfo/Idh/MocA family oxidoreductase	.	-	|<	96	
+NZ_CP023715.1	686047	686048	Gfo/Idh/MocA family oxidoreductase	.	-	|<	95	
+NZ_CP023715.1	686048	686049	Gfo/Idh/MocA family oxidoreductase	.	-	|<	94	
+NZ_CP023715.1	686223	686224	-	.	-	-	291	
+NZ_CP023715.1	686510	686511	-	.	-	-	578	
+NZ_CP023715.1	687286	687287	-	.	-	-	785	
+NZ_CP023715.1	692219	692220	organic hydroperoxide resistance protein	.	-	|<	87	
+NZ_CP023715.1	692220	692221	organic hydroperoxide resistance protein	.	-	|<	86	
+NZ_CP023715.1	692221	692222	organic hydroperoxide resistance protein	.	-	|<	85	
+NZ_CP023715.1	692246	692247	organic hydroperoxide resistance protein	.	-	|<	60	
+NZ_CP023715.1	692308	692309	-	.	-	-	71	
+NZ_CP023715.1	692584	692585	-	.	-	-	347	
+NZ_CP023715.1	692587	692588	-	.	-	-	350	
+NZ_CP023715.1	692649	692650	-	.	-	-	364	
+NZ_CP023715.1	692957	692958	YfdX family protein	.	-	|<	56	
+NZ_CP023715.1	692958	692959	YfdX family protein	.	-	|<	55	
+NZ_CP023715.1	722438	722439	-	.	+	-	958	
+NZ_CP023715.1	723700	723701	-	.	+	-	480	
+NZ_CP023715.1	723701	723702	-	.	+	-	479	
+NZ_CP023715.1	723781	723782	M13 family metallopeptidase	.	+	>|	61	
+NZ_CP023715.1	725392	725393	-	.	+	-	63	
+NZ_CP023715.1	725422	725423	-	.	+	-	33	
+NZ_CP023715.1	725798	725799	-	.	+	-	348	
+NZ_CP023715.1	726128	726129	-	.	+	-	293	
+NZ_CP023715.1	726233	726234	50S ribosomal protein L1	.	+	>|	77	
+NZ_CP023715.1	726289	726290	-	.	+	-	132	
+NZ_CP023715.1	726291	726292	-	.	+	-	130	
+NZ_CP023715.1	726292	726293	-	.	+	-	129	
+NZ_CP023715.1	726295	726296	-	.	+	-	126	
+NZ_CP023715.1	726583	726584	-	.	+	-	411	
+NZ_CP023715.1	726970	726971	50S ribosomal protein L10	.	+	>|	34	
+NZ_CP023715.1	727069	727070	-	.	+	-	133	
+NZ_CP023715.1	727115	727116	-	.	+	-	179	
+NZ_CP023715.1	727154	727155	-	.	+	-	218	
+NZ_CP023715.1	727214	727215	-	.	+	-	278	
+NZ_CP023715.1	727248	727249	-	.	+	-	312	
+NZ_CP023715.1	727262	727263	-	.	+	-	326	
+NZ_CP023715.1	727276	727277	-	.	+	-	340	
+NZ_CP023715.1	727303	727304	-	.	+	-	367	
+NZ_CP023715.1	727323	727324	-	.	+	-	387	
+NZ_CP023715.1	727324	727325	-	.	+	-	388	
+NZ_CP023715.1	727325	727326	-	.	+	-	389	
+NZ_CP023715.1	727373	727374	50S ribosomal protein L7/L12	.	+	>|	8	
+NZ_CP023715.1	727405	727406	50S ribosomal protein L7/L12	.	+	>|	40	
+NZ_CP023715.1	727421	727422	50S ribosomal protein L7/L12	.	+	>|	56	
+NZ_CP023715.1	727422	727423	50S ribosomal protein L7/L12	.	+	>|	57	
+NZ_CP023715.1	727423	727424	50S ribosomal protein L7/L12	.	+	>|	58	
+NZ_CP023715.1	727424	727425	50S ribosomal protein L7/L12	.	+	>|	59	
+NZ_CP023715.1	727728	727729	-	.	+	-	101	
+NZ_CP023715.1	727729	727730	-	.	+	-	100	
+NZ_CP023715.1	727732	727733	-	.	+	-	97	
+NZ_CP023715.1	727733	727734	-	.	+	-	96	
+NZ_CP023715.1	728304	728305	-	.	+	-	939	
+NZ_CP023715.1	728347	728348	-	.	+	-	982	
+NZ_CP023715.1	728577	728578	-	.	+	-	1212	
+NZ_CP023715.1	729477	729478	-	.	+	-	2112	
+NZ_CP023715.1	729478	729479	-	.	+	-	2113	
+NZ_CP023715.1	729739	729740	-	.	+	-	2374	
+NZ_CP023715.1	730128	730129	-	.	+	-	1989	
+NZ_CP023715.1	731279	731280	-	.	+	-	838	
+NZ_CP023715.1	731577	731578	-	.	+	-	540	
+NZ_CP023715.1	731979	731980	-	.	+	-	138	
+NZ_CP023715.1	732009	732010	-	.	+	-	108	
+NZ_CP023715.1	732079	732080	DNA-directed RNA polymerase subunit beta	.	+	>|	45	
+NZ_CP023715.1	732080	732081	DNA-directed RNA polymerase subunit beta	.	+	>|	46	
+NZ_CP023715.1	732082	732083	DNA-directed RNA polymerase subunit beta	.	+	>|	48	
+NZ_CP023715.1	733003	733004	-	.	+	-	969	
+NZ_CP023715.1	733106	733107	-	.	+	-	1072	
+NZ_CP023715.1	733357	733358	-	.	+	-	1323	
+NZ_CP023715.1	733526	733527	-	.	+	-	1492	
+NZ_CP023715.1	733663	733664	-	.	+	-	1629	
+NZ_CP023715.1	733807	733808	-	.	+	-	1773	
+NZ_CP023715.1	733921	733922	-	.	+	-	1887	
+NZ_CP023715.1	734230	734231	-	.	+	-	2191	
+NZ_CP023715.1	734719	734720	-	.	+	-	1702	
+NZ_CP023715.1	735975	735976	-	.	+	-	446	
+NZ_CP023715.1	736133	736134	-	.	+	-	288	
+NZ_CP023715.1	736229	736230	-	.	+	-	192	
+NZ_CP023715.1	736333	736334	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	41,88	
+NZ_CP023715.1	736334	736335	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	42,87	
+NZ_CP023715.1	736350	736351	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	58,71	
+NZ_CP023715.1	736351	736352	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	59,70	
+NZ_CP023715.1	736352	736353	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	60,69	
+NZ_CP023715.1	736353	736354	DNA-directed RNA polymerase subunit beta'|acetyltransferase	.	+	>|<	61,68	
+NZ_CP023715.1	737944	737945	3'(2')%2C5'-bisphosphate nucleotidase CysQ|acetyl-CoA carboxylase biotin carboxylase subunit	.	+	>|<	37,23	
+NZ_CP023715.1	737945	737946	3'(2')%2C5'-bisphosphate nucleotidase CysQ|acetyl-CoA carboxylase biotin carboxylase subunit	.	+	>|<	38,22	
+NZ_CP023715.1	741444	741445	thiazole synthase|antibiotic biosynthesis monooxygenase	.	-	>|<	22,45	
+NZ_CP023715.1	741445	741446	thiazole synthase|antibiotic biosynthesis monooxygenase	.	-	>|<	23,44	
+NZ_CP023715.1	741446	741447	thiazole synthase|antibiotic biosynthesis monooxygenase	.	-	>|<	24,43	
+NZ_CP023715.1	741476	741477	thiazole synthase|antibiotic biosynthesis monooxygenase	.	+	>|<	54,13	
+NZ_CP023715.1	741477	741478	thiazole synthase|antibiotic biosynthesis monooxygenase	.	+	>|<	55,12	
+NZ_CP023715.1	741961	741962	-	.	+	-	45	
+NZ_CP023715.1	742165	742166	-	.	+	-	380	
+NZ_CP023715.1	742196	742197	-	.	+	-	411	
+NZ_CP023715.1	742237	742238	-	.	+	-	373	
+NZ_CP023715.1	742266	742267	-	.	+	-	344	
+NZ_CP023715.1	742275	742276	-	.	+	-	335	
+NZ_CP023715.1	742276	742277	-	.	+	-	334	
+NZ_CP023715.1	742278	742279	-	.	+	-	332	
+NZ_CP023715.1	742353	742354	CsbD family protein	.	+	>|	75	
+NZ_CP023715.1	742369	742370	CsbD family protein	.	+	>|	91	
+NZ_CP023715.1	742370	742371	CsbD family protein	.	+	>|	92	
+NZ_CP023715.1	742371	742372	CsbD family protein	.	+	>|	93	
+NZ_CP023715.1	742372	742373	CsbD family protein	.	+	>|	94	
+NZ_CP023715.1	747329	747330	-	.	-	-	140	
+NZ_CP023715.1	747400	747401	cysteine synthase A	.	-	|<	69	
+NZ_CP023715.1	747401	747402	cysteine synthase A	.	-	|<	68	
+NZ_CP023715.1	747402	747403	cysteine synthase A	.	-	|<	67	
+NZ_CP023715.1	747425	747426	cysteine synthase A	.	-	|<	44	
+NZ_CP023715.1	747670	747671	-	.	-	-	244	
+NZ_CP023715.1	748538	748539	RNA polymerase sigma factor RpoH	.	-	|<	64	
+NZ_CP023715.1	748539	748540	RNA polymerase sigma factor RpoH	.	-	|<	63	
+NZ_CP023715.1	748540	748541	RNA polymerase sigma factor RpoH	.	-	|<	62	
+NZ_CP023715.1	748541	748542	RNA polymerase sigma factor RpoH	.	-	|<	61	
+NZ_CP023715.1	748555	748556	RNA polymerase sigma factor RpoH	.	-	|<	47	
+NZ_CP023715.1	748573	748574	RNA polymerase sigma factor RpoH	.	+	|<	29	conflict
+NZ_CP023715.1	748593	748594	RNA polymerase sigma factor RpoH	.	-	|<	9	
+NZ_CP023715.1	748625	748626	-	.	-	-	233	
+NZ_CP023715.1	748742	748743	-	.	-	-	350	
+NZ_CP023715.1	748752	748753	-	.	-	-	360	
+NZ_CP023715.1	748783	748784	-	.	-	-	391	
+NZ_CP023715.1	748946	748947	-	.	-	-	554	
+NZ_CP023715.1	749066	749067	-	.	-	-	497	
+NZ_CP023715.1	749400	749401	-	.	-	-	163	
+NZ_CP023715.1	749584	749585	-	.	-	-	74	
+NZ_CP023715.1	751973	751974	-	.	+	-	213	
+NZ_CP023715.1	752003	752004	-	.	+	-	221	
+NZ_CP023715.1	752205	752206	glutaredoxin 3	.	+	>|	19	
+NZ_CP023715.1	752266	752267	glutaredoxin 3	.	+	>|	80	
+NZ_CP023715.1	752450	752451	-	.	+	-	151	
+NZ_CP023715.1	752497	752498	tetratricopeptide repeat protein	.	+	|<	104	conflict
+NZ_CP023715.1	752544	752545	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	18,57	
+NZ_CP023715.1	752545	752546	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	19,56	
+NZ_CP023715.1	752546	752547	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	20,55	
+NZ_CP023715.1	752583	752584	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	57,18	
+NZ_CP023715.1	752584	752585	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	58,17	
+NZ_CP023715.1	752585	752586	SCP2 sterol-binding domain-containing protein|tetratricopeptide repeat protein	.	+	>|<	59,16	
+NZ_CP023715.1	761500	761501	-	.	+	-	146	
+NZ_CP023715.1	761502	761503	-	.	+	-	148	
+NZ_CP023715.1	761831	761832	-	.	+	-	477	
+NZ_CP023715.1	770354	770355	peptidylprolyl isomerase	.	+	>|	49	
+NZ_CP023715.1	770355	770356	peptidylprolyl isomerase	.	+	>|	50	
+NZ_CP023715.1	770356	770357	peptidylprolyl isomerase	.	+	>|	51	
+NZ_CP023715.1	770357	770358	peptidylprolyl isomerase	.	+	>|	52	
+NZ_CP023715.1	771442	771443	-	.	+	-	227	
+NZ_CP023715.1	771470	771471	-	.	+	-	255	
+NZ_CP023715.1	771472	771473	-	.	+	-	257	
+NZ_CP023715.1	771473	771474	-	.	+	-	258	
+NZ_CP023715.1	771474	771475	-	.	+	-	259	
+NZ_CP023715.1	771475	771476	-	.	+	-	260	
+NZ_CP023715.1	771476	771477	-	.	+	-	261	
+NZ_CP023715.1	795022	795023	prolyl oligopeptidase family serine peptidase	.	-	|<	47	
+NZ_CP023715.1	819314	819315	hypothetical protein	.	-	|<	37	
+NZ_CP023715.1	819315	819316	DNA recombination protein RmuC|hypothetical protein	.	-	>|<	1,36	
+NZ_CP023715.1	819316	819317	DNA recombination protein RmuC|hypothetical protein	.	-	>|<	2,35	
+NZ_CP023715.1	819525	819526	-	.	-	-	211	
+NZ_CP023715.1	819713	819714	hypothetical protein	.	-	|<	89	
+NZ_CP023715.1	819714	819715	hypothetical protein	.	-	|<	88	
+NZ_CP023715.1	819732	819733	hypothetical protein	.	-	|<	70	
+NZ_CP023715.1	819733	819734	hypothetical protein	.	-	|<	69	
+NZ_CP023715.1	819734	819735	hypothetical protein	.	-	|<	68	
+NZ_CP023715.1	819753	819754	hypothetical protein	.	-	|<	49	
+NZ_CP023715.1	819759	819760	hypothetical protein	.	-	|<	43	
+NZ_CP023715.1	819761	819762	hypothetical protein	.	-	|<	41	
+NZ_CP023715.1	819763	819764	hypothetical protein	.	-	|<	39	
+NZ_CP023715.1	819766	819767	hypothetical protein	.	-	|<	36	
+NZ_CP023715.1	819773	819774	hypothetical protein	.	-	|<	29	
+NZ_CP023715.1	819778	819779	hypothetical protein	.	-	|<	24	
+NZ_CP023715.1	819807	819808	-	.	-	-	217	
+NZ_CP023715.1	819808	819809	-	.	-	-	218	
+NZ_CP023715.1	819809	819810	-	.	-	-	219	
+NZ_CP023715.1	819815	819816	-	.	-	-	225	
+NZ_CP023715.1	819816	819817	-	.	-	-	226	
+NZ_CP023715.1	819817	819818	-	.	-	-	227	
+NZ_CP023715.1	819818	819819	-	.	-	-	228	
+NZ_CP023715.1	819859	819860	-	.	-	-	269	
+NZ_CP023715.1	819880	819881	-	.	-	-	290	
+NZ_CP023715.1	842319	842320	-	.	+	-	82	
+NZ_CP023715.1	845381	845382	cell division protein FtsZ	.	+	>|	71	
+NZ_CP023715.1	845382	845383	cell division protein FtsZ	.	+	>|	72	
+NZ_CP023715.1	853903	853904	-	.	+	-	850	
+NZ_CP023715.1	859445	859446	-	.	+	-	1143	
+NZ_CP023715.1	860336	860337	carbohydrate porin	.	+	>|	35	
+NZ_CP023715.1	860359	860360	carbohydrate porin	.	+	>|	58	
+NZ_CP023715.1	860360	860361	carbohydrate porin	.	+	>|	59	
+NZ_CP023715.1	862582	862583	-	.	+	-	392	
+NZ_CP023715.1	864015	864016	pyridoxamine 5'-phosphate oxidase	.	-	|<	45	
+NZ_CP023715.1	864016	864017	pyridoxamine 5'-phosphate oxidase	.	-	|<	44	
+NZ_CP023715.1	867394	867395	polyprenyl synthetase family protein	.	-	|<	65	
+NZ_CP023715.1	867395	867396	polyprenyl synthetase family protein	.	-	|<	64	
+NZ_CP023715.1	871372	871373	-	.	+	-	153	
+NZ_CP023715.1	871373	871374	-	.	+	-	154	
+NZ_CP023715.1	871419	871420	-	.	+	-	157	
+NZ_CP023715.1	871420	871421	-	.	+	-	156	
+NZ_CP023715.1	873994	873995	YbaB/EbfC family nucleoid-associated protein|dCTP deaminase	.	+	>|<	41,11	
+NZ_CP023715.1	873995	873996	YbaB/EbfC family nucleoid-associated protein|dCTP deaminase	.	+	>|<	42,10	
+NZ_CP023715.1	885716	885717	-	.	-	-	254	
+NZ_CP023715.1	885918	885919	adenosyl-hopene transferase HpnH	.	-	|<	52	
+NZ_CP023715.1	886507	886508	-	.	-	-	481	
+NZ_CP023715.1	886681	886682	-	.	-	-	438	
+NZ_CP023715.1	889279	889280	HpnM family protein|hypothetical protein	.	+	>|<	52,18	
+NZ_CP023715.1	889280	889281	HpnM family protein|hypothetical protein	.	+	>|<	53,17	
+NZ_CP023715.1	889561	889562	chemotaxis-specific protein-glutamate methyltransferase CheB	.	-	|<	56	
+NZ_CP023715.1	894431	894432	30S ribosomal protein S9	.	-	|<	71	
+NZ_CP023715.1	894432	894433	30S ribosomal protein S9	.	-	|<	70	
+NZ_CP023715.1	894433	894434	30S ribosomal protein S9	.	-	|<	69	
+NZ_CP023715.1	894481	894482	30S ribosomal protein S9	.	-	|<	21	
+NZ_CP023715.1	894483	894484	30S ribosomal protein S9	.	-	|<	19	
+NZ_CP023715.1	894537	894538	-	.	-	-	241	
+NZ_CP023715.1	894538	894539	-	.	-	-	242	
+NZ_CP023715.1	894649	894650	-	.	-	-	353	
+NZ_CP023715.1	894694	894695	-	.	-	-	356	
+NZ_CP023715.1	894832	894833	-	.	-	-	218	
+NZ_CP023715.1	894859	894860	-	.	-	-	191	
+NZ_CP023715.1	894911	894912	-	.	-	-	139	
+NZ_CP023715.1	894994	894995	50S ribosomal protein L13	.	-	|<	56	
+NZ_CP023715.1	895124	895125	-	.	-	-	74	
+NZ_CP023715.1	895126	895127	-	.	-	-	76	
+NZ_CP023715.1	895243	895244	-	.	-	-	193	
+NZ_CP023715.1	895281	895282	-	.	-	-	231	
+NZ_CP023715.1	897781	897782	galactose mutarotase	.	-	|<	65	
+NZ_CP023715.1	909822	909823	-	.	+	-	141	
+NZ_CP023715.1	913973	913974	2-isopropylmalate synthase	.	-	|<	61	
+NZ_CP023715.1	913974	913975	2-isopropylmalate synthase	.	-	|<	60	
+NZ_CP023715.1	913975	913976	2-isopropylmalate synthase	.	-	|<	59	
+NZ_CP023715.1	915810	915811	-	.	-	-	76	
+NZ_CP023715.1	915853	915854	-	.	-	-	119	
+NZ_CP023715.1	915857	915858	-	.	-	-	123	
+NZ_CP023715.1	928283	928284	polysaccharide biosynthesis/export family protein	.	+	>|	61	
+NZ_CP023715.1	930296	930297	DUF885 family protein|branched-chain amino acid aminotransferase	.	-	>|<	9,40	
+NZ_CP023715.1	930297	930298	DUF885 family protein|branched-chain amino acid aminotransferase	.	-	>|<	10,39	
+NZ_CP023715.1	935072	935073	copper ion binding protein	.	-	>|	38	conflict
+NZ_CP023715.1	935073	935074	copper ion binding protein	.	-	>|	39	conflict
+NZ_CP023715.1	935074	935075	copper ion binding protein	.	-	>|	40	conflict
+NZ_CP023715.1	935076	935077	copper ion binding protein	.	-	>|	42	conflict
+NZ_CP023715.1	935095	935096	copper ion binding protein	.	+	>|	61	
+NZ_CP023715.1	935117	935118	copper ion binding protein	.	+	>|	83	
+NZ_CP023715.1	935118	935119	copper ion binding protein	.	+	>|	84	
+NZ_CP023715.1	938044	938045	-	.	+	-	845	
+NZ_CP023715.1	954303	954304	glutathione S-transferase	.	-	|<	38	
+NZ_CP023715.1	954304	954305	glutathione S-transferase	.	-	|<	37	
+NZ_CP023715.1	954305	954306	glutathione S-transferase	.	-	|<	36	
+NZ_CP023715.1	954306	954307	glutathione S-transferase	.	-	|<	35	
+NZ_CP023715.1	962596	962597	-	.	+	-	206	
+NZ_CP023715.1	964396	964397	aldose 1-epimerase family protein	.	+	|<	74	conflict
+NZ_CP023715.1	966932	966933	-	.	+	-	262	
+NZ_CP023715.1	967291	967292	trigger factor	.	+	>|	115	
+NZ_CP023715.1	967292	967293	trigger factor	.	+	>|	116	
+NZ_CP023715.1	967293	967294	trigger factor	.	+	>|	117	
+NZ_CP023715.1	967294	967295	trigger factor	.	+	>|	118	
+NZ_CP023715.1	968287	968288	-	.	+	-	128	
+NZ_CP023715.1	970348	970349	ATP-dependent Clp protease ATP-binding subunit ClpX	.	+	>|	60	
+NZ_CP023715.1	970349	970350	ATP-dependent Clp protease ATP-binding subunit ClpX	.	+	>|	61	
+NZ_CP023715.1	970381	970382	ATP-dependent Clp protease ATP-binding subunit ClpX	.	+	>|	93	
+NZ_CP023715.1	993300	993301	hopanoid biosynthesis-associated protein HpnK	.	+	>|	77	
+NZ_CP023715.1	994557	994558	aldo/keto reductase	.	-	|<	51	
+NZ_CP023715.1	994560	994561	aldo/keto reductase	.	-	|<	48	
+NZ_CP023715.1	1009053	1009054	YdcH family protein	.	+	|<	96	conflict
+NZ_CP023715.1	1009061	1009062	YdcH family protein	.	+	|<	88	conflict
+NZ_CP023715.1	1009108	1009109	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	7,41	
+NZ_CP023715.1	1009109	1009110	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	8,40	
+NZ_CP023715.1	1009110	1009111	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	9,39	
+NZ_CP023715.1	1009111	1009112	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	10,38	
+NZ_CP023715.1	1009128	1009129	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	27,21	
+NZ_CP023715.1	1009129	1009130	RNA polymerase-binding protein DksA|YdcH family protein	.	-	>|<	28,20	
+NZ_CP023715.1	1009146	1009147	RNA polymerase-binding protein DksA|YdcH family protein	.	+	>|<	45,3	
+NZ_CP023715.1	1009147	1009148	RNA polymerase-binding protein DksA|YdcH family protein	.	+	>|<	46,2	
+NZ_CP023715.1	1009148	1009149	RNA polymerase-binding protein DksA|YdcH family protein	.	+	>|<	47,1	
+NZ_CP023715.1	1009149	1009150	RNA polymerase-binding protein DksA	.	+	>|	48	
+NZ_CP023715.1	1009735	1009736	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	29,67	
+NZ_CP023715.1	1009736	1009737	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	30,66	
+NZ_CP023715.1	1009737	1009738	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	31,65	
+NZ_CP023715.1	1009754	1009755	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	48,48	
+NZ_CP023715.1	1009755	1009756	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	49,47	
+NZ_CP023715.1	1009773	1009774	DUF465 domain-containing protein|Hsp20 family protein	.	+	>|<	67,29	
+NZ_CP023715.1	1009775	1009776	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	69,27	
+NZ_CP023715.1	1009776	1009777	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	70,26	
+NZ_CP023715.1	1009777	1009778	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	71,25	
+NZ_CP023715.1	1009778	1009779	DUF465 domain-containing protein|Hsp20 family protein	.	-	>|<	72,24	
+NZ_CP023715.1	1010116	1010117	-	.	-	-	410	
+NZ_CP023715.1	1012610	1012611	hypothetical protein	.	-	|<	59	
+NZ_CP023715.1	1012611	1012612	hypothetical protein	.	-	|<	58	
+NZ_CP023715.1	1012612	1012613	hypothetical protein	.	-	|<	57	
+NZ_CP023715.1	1012613	1012614	hypothetical protein	.	-	|<	56	
+NZ_CP023715.1	1012614	1012615	hypothetical protein	.	-	|<	55	
+NZ_CP023715.1	1012629	1012630	hypothetical protein	.	-	|<	40	
+NZ_CP023715.1	1012655	1012656	hypothetical protein	.	-	|<	14	
+NZ_CP023715.1	1012656	1012657	hypothetical protein	.	-	|<	13	
+NZ_CP023715.1	1012657	1012658	hypothetical protein	.	-	|<	12	
+NZ_CP023715.1	1012756	1012757	-	.	-	-	462	
+NZ_CP023715.1	1014665	1014666	mechanosensitive ion channel family protein	.	+	>|	42	
+NZ_CP023715.1	1014702	1014703	mechanosensitive ion channel family protein	.	+	>|	79	
+NZ_CP023715.1	1014714	1014715	mechanosensitive ion channel family protein	.	+	>|	91	
+NZ_CP023715.1	1014834	1014835	-	.	+	-	211	
+NZ_CP023715.1	1014930	1014931	-	.	+	-	307	
+NZ_CP023715.1	1015055	1015056	-	.	+	-	432	
+NZ_CP023715.1	1015091	1015092	-	.	+	-	468	
+NZ_CP023715.1	1015100	1015101	-	.	+	-	477	
+NZ_CP023715.1	1015123	1015124	-	.	+	-	467	
+NZ_CP023715.1	1015169	1015170	-	.	+	-	421	
+NZ_CP023715.1	1015182	1015183	-	.	+	-	408	
+NZ_CP023715.1	1015216	1015217	-	.	+	-	374	
+NZ_CP023715.1	1015251	1015252	-	.	+	-	339	
+NZ_CP023715.1	1015252	1015253	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	1	
+NZ_CP023715.1	1015260	1015261	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	9	
+NZ_CP023715.1	1015292	1015293	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	41	
+NZ_CP023715.1	1015306	1015307	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	55	
+NZ_CP023715.1	1015307	1015308	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	56	
+NZ_CP023715.1	1015308	1015309	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	57	
+NZ_CP023715.1	1015309	1015310	bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase	.	+	>|	58	
+NZ_CP023715.1	1015660	1015661	-	.	+	-	409	
+NZ_CP023715.1	1017379	1017380	-	.	+	-	201	
+NZ_CP023715.1	1017446	1017447	-	.	+	-	134	
+NZ_CP023715.1	1017691	1017692	-	.	+	-	541	
+NZ_CP023715.1	1017749	1017750	-	.	+	-	599	
+NZ_CP023715.1	1017750	1017751	-	.	+	-	600	
+NZ_CP023715.1	1017808	1017809	-	.	+	-	658	
+NZ_CP023715.1	1017896	1017897	-	.	+	-	746	
+NZ_CP023715.1	1017951	1017952	-	.	+	-	801	
+NZ_CP023715.1	1018208	1018209	-	.	+	-	1058	
+NZ_CP023715.1	1018576	1018577	-	.	+	-	1426	
+NZ_CP023715.1	1018694	1018695	-	.	+	-	1418	
+NZ_CP023715.1	1018900	1018901	-	.	+	-	1212	
+NZ_CP023715.1	1019100	1019101	-	.	+	-	1012	
+NZ_CP023715.1	1019663	1019664	-	.	+	-	449	
+NZ_CP023715.1	1019727	1019728	-	.	+	-	385	
+NZ_CP023715.1	1019792	1019793	-	.	+	-	320	
+NZ_CP023715.1	1019794	1019795	-	.	+	-	318	
+NZ_CP023715.1	1019923	1019924	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	.	+	>|	64	
+NZ_CP023715.1	1019924	1019925	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	.	+	>|	65	
+NZ_CP023715.1	1019925	1019926	5-methyltetrahydropteroyltriglutamate--homocysteine S-methyltransferase	.	+	>|	66	
+NZ_CP023715.1	1030473	1030474	SapC family protein	.	+	>|	63	
+NZ_CP023715.1	1030474	1030475	SapC family protein	.	+	>|	64	
+NZ_CP023715.1	1032959	1032960	translation initiation factor IF-1	.	-	|<	64	
+NZ_CP023715.1	1032965	1032966	translation initiation factor IF-1	.	-	|<	58	
+NZ_CP023715.1	1033195	1033196	-	.	-	-	178	
+NZ_CP023715.1	1037062	1037063	deoxyhypusine synthase	.	-	|<	58	
+NZ_CP023715.1	1039436	1039437	-	.	-	-	1	
+NZ_CP023715.1	1039437	1039438	-	.	-	-	2	
+NZ_CP023715.1	1039439	1039440	-	.	-	-	4	
+NZ_CP023715.1	1045056	1045057	ribonucleoside triphosphate reductase	.	+	>|	61	
+NZ_CP023715.1	1045057	1045058	ribonucleoside triphosphate reductase	.	+	>|	62	
+NZ_CP023715.1	1045058	1045059	ribonucleoside triphosphate reductase	.	+	>|	63	
+NZ_CP023715.1	1048830	1048831	23S rRNA (adenine(2503)-C(2))-methyltransferase RlmN	.	+	>|	104	
+NZ_CP023715.1	1050099	1050100	cyclopropane-fatty-acyl-phospholipid synthase family protein|EF-hand domain-containing protein	.	-	>|<	70,51	
+NZ_CP023715.1	1050100	1050101	cyclopropane-fatty-acyl-phospholipid synthase family protein|EF-hand domain-containing protein	.	-	>|<	71,50	
+NZ_CP023715.1	1050101	1050102	cyclopropane-fatty-acyl-phospholipid synthase family protein|EF-hand domain-containing protein	.	-	>|<	72,49	
+NZ_CP023715.1	1050102	1050103	cyclopropane-fatty-acyl-phospholipid synthase family protein|EF-hand domain-containing protein	.	-	>|<	73,48	
+NZ_CP023715.1	1050184	1050185	-	.	-	-	155	
+NZ_CP023715.1	1050246	1050247	-	.	-	-	217	
+NZ_CP023715.1	1050345	1050346	-	.	-	-	316	
+NZ_CP023715.1	1050636	1050637	-	.	-	-	388	
+NZ_CP023715.1	1050693	1050694	-	.	-	-	331	
+NZ_CP023715.1	1052292	1052293	argininosuccinate synthase	.	+	>|	42	
+NZ_CP023715.1	1052293	1052294	argininosuccinate synthase	.	+	>|	43	
+NZ_CP023715.1	1052294	1052295	argininosuccinate synthase	.	+	>|	44	
+NZ_CP023715.1	1058280	1058281	-	.	+	-	528	
+NZ_CP023715.1	1061895	1061896	large conductance mechanosensitive channel protein MscL|porin	.	+	>|<	63,23	
+NZ_CP023715.1	1061896	1061897	large conductance mechanosensitive channel protein MscL|porin	.	+	>|<	64,22	
+NZ_CP023715.1	1063408	1063409	-	.	-	-	362	
+NZ_CP023715.1	1068138	1068139	-	.	+	-	557	
+NZ_CP023715.1	1068654	1068655	-	.	+	-	445	
+NZ_CP023715.1	1068655	1068656	-	.	+	-	444	
+NZ_CP023715.1	1068750	1068751	phosphoribosylaminoimidazolesuccinocarboxamide synthase	.	+	>|	55	
+NZ_CP023715.1	1068751	1068752	phosphoribosylaminoimidazolesuccinocarboxamide synthase	.	+	>|	56	
+NZ_CP023715.1	1075914	1075915	dihydroneopterin aldolase|superoxide dismutase	.	-	>|<	7,56	
+NZ_CP023715.1	1075915	1075916	dihydroneopterin aldolase|superoxide dismutase	.	-	>|<	8,55	
+NZ_CP023715.1	1075916	1075917	dihydroneopterin aldolase|superoxide dismutase	.	-	>|<	9,54	
+NZ_CP023715.1	1075917	1075918	dihydroneopterin aldolase|superoxide dismutase	.	-	>|<	10,53	
+NZ_CP023715.1	1075970	1075971	dihydroneopterin aldolase	.	-	>|	63	conflict
+NZ_CP023715.1	1076002	1076003	dihydroneopterin aldolase	.	-	>|	95	conflict
+NZ_CP023715.1	1076003	1076004	dihydroneopterin aldolase	.	-	>|	96	conflict
+NZ_CP023715.1	1076071	1076072	-	.	-	-	164	
+NZ_CP023715.1	1076080	1076081	-	.	-	-	173	
+NZ_CP023715.1	1076329	1076330	-	.	-	-	422	
+NZ_CP023715.1	1076465	1076466	-	.	-	-	346	
+NZ_CP023715.1	1076515	1076516	-	.	-	-	296	
+NZ_CP023715.1	1076543	1076544	-	.	-	-	268	
+NZ_CP023715.1	1076545	1076546	-	.	-	-	266	
+NZ_CP023715.1	1076559	1076560	-	.	-	-	252	
+NZ_CP023715.1	1076588	1076589	-	.	-	-	223	
+NZ_CP023715.1	1081911	1081912	-	.	-	-	126	
+NZ_CP023715.1	1081912	1081913	-	.	-	-	127	
+NZ_CP023715.1	1081913	1081914	-	.	-	-	128	
+NZ_CP023715.1	1081952	1081953	-	.	-	-	167	
+NZ_CP023715.1	1081987	1081988	-	.	-	-	202	
+NZ_CP023715.1	1082164	1082165	-	.	-	-	195	
+NZ_CP023715.1	1082165	1082166	-	.	-	-	194	
+NZ_CP023715.1	1082166	1082167	-	.	-	-	193	
+NZ_CP023715.1	1086679	1086680	-	.	+	-	491	
+NZ_CP023715.1	1086948	1086949	-	.	+	-	222	
+NZ_CP023715.1	1087645	1087646	30S ribosomal protein S16	.	+	>|	44	
+NZ_CP023715.1	1087685	1087686	30S ribosomal protein S16	.	+	>|	84	
+NZ_CP023715.1	1087686	1087687	30S ribosomal protein S16	.	+	>|	85	
+NZ_CP023715.1	1087709	1087710	30S ribosomal protein S16	.	+	>|	108	
+NZ_CP023715.1	1087710	1087711	30S ribosomal protein S16	.	+	>|	109	
+NZ_CP023715.1	1087715	1087716	30S ribosomal protein S16	.	+	>|	114	
+NZ_CP023715.1	1087779	1087780	-	.	+	-	178	
+NZ_CP023715.1	1087848	1087849	-	.	+	-	245	
+NZ_CP023715.1	1087881	1087882	-	.	+	-	212	
+NZ_CP023715.1	1087882	1087883	-	.	+	-	211	
+NZ_CP023715.1	1087883	1087884	-	.	+	-	210	
+NZ_CP023715.1	1087884	1087885	-	.	+	-	209	
+NZ_CP023715.1	1088822	1088823	-	.	+	-	17	
+NZ_CP023715.1	1088823	1088824	-	.	+	-	16	
+NZ_CP023715.1	1088824	1088825	-	.	+	-	15	
+NZ_CP023715.1	1088825	1088826	-	.	+	-	14	
+NZ_CP023715.1	1088951	1088952	tRNA (guanosine(37)-N1)-methyltransferase TrmD	.	+	>|	109	
+NZ_CP023715.1	1089177	1089178	-	.	+	-	179	
+NZ_CP023715.1	1089278	1089279	50S ribosomal protein L19	.	+	>|	65	
+NZ_CP023715.1	1089279	1089280	50S ribosomal protein L19	.	+	>|	66	
+NZ_CP023715.1	1089280	1089281	50S ribosomal protein L19	.	+	>|	67	
+NZ_CP023715.1	1098833	1098834	-	.	+	-	24	
+NZ_CP023715.1	1111387	1111388	thioredoxin	.	-	|<	109	
+NZ_CP023715.1	1111388	1111389	thioredoxin	.	-	|<	108	
+NZ_CP023715.1	1111389	1111390	thioredoxin	.	-	|<	107	
+NZ_CP023715.1	1111390	1111391	thioredoxin	.	-	|<	106	
+NZ_CP023715.1	1111450	1111451	thioredoxin	.	-	|<	46	
+NZ_CP023715.1	1125028	1125029	-	.	+	-	346	
+NZ_CP023715.1	1125029	1125030	-	.	+	-	347	
+NZ_CP023715.1	1125268	1125269	-	.	+	-	427	
+NZ_CP023715.1	1125426	1125427	-	.	+	-	269	
+NZ_CP023715.1	1125427	1125428	-	.	+	-	268	
+NZ_CP023715.1	1125617	1125618	hypothetical protein	.	+	|<	78	conflict
+NZ_CP023715.1	1125637	1125638	hypothetical protein	.	-	|<	58	
+NZ_CP023715.1	1125638	1125639	hypothetical protein	.	-	|<	57	
+NZ_CP023715.1	1125639	1125640	hypothetical protein	.	-	|<	56	
+NZ_CP023715.1	1125655	1125656	hypothetical protein	.	-	|<	40	
+NZ_CP023715.1	1125671	1125672	hypothetical protein	.	+	|<	24	conflict
+NZ_CP023715.1	1125672	1125673	hypothetical protein	.	+	|<	23	conflict
+NZ_CP023715.1	1125673	1125674	hypothetical protein	.	+	|<	22	conflict
+NZ_CP023715.1	1126451	1126452	-	.	-	-	903	
+NZ_CP023715.1	1129669	1129670	-	.	+	-	461	
+NZ_CP023715.1	1129743	1129744	-	.	+	-	535	
+NZ_CP023715.1	1129875	1129876	-	.	+	-	667	
+NZ_CP023715.1	1129886	1129887	-	.	+	-	678	
+NZ_CP023715.1	1129910	1129911	-	.	+	-	702	
+NZ_CP023715.1	1130020	1130021	-	.	+	-	812	
+NZ_CP023715.1	1130041	1130042	-	.	+	-	833	
+NZ_CP023715.1	1130117	1130118	-	.	+	-	812	
+NZ_CP023715.1	1130459	1130460	-	.	+	-	470	
+NZ_CP023715.1	1130637	1130638	-	.	+	-	292	
+NZ_CP023715.1	1130639	1130640	-	.	+	-	290	
+NZ_CP023715.1	1130732	1130733	-	.	+	-	197	
+NZ_CP023715.1	1130733	1130734	-	.	+	-	196	
+NZ_CP023715.1	1130758	1130759	-	.	+	-	171	
+NZ_CP023715.1	1130795	1130796	-	.	+	-	134	
+NZ_CP023715.1	1130869	1130870	NAD(P)/FAD-dependent oxidoreductase	.	+	>|	71	
+NZ_CP023715.1	1130870	1130871	NAD(P)/FAD-dependent oxidoreductase	.	+	>|	72	
+NZ_CP023715.1	1130871	1130872	NAD(P)/FAD-dependent oxidoreductase	.	+	>|	73	
+NZ_CP023715.1	1130872	1130873	NAD(P)/FAD-dependent oxidoreductase	.	+	>|	74	
+NZ_CP023715.1	1133177	1133178	-	.	+	-	403	
+NZ_CP023715.1	1133178	1133179	-	.	+	-	404	
+NZ_CP023715.1	1134897	1134898	-	.	+	-	493	
+NZ_CP023715.1	1139152	1139153	glutamate synthase large subunit	.	+	>|	51	
+NZ_CP023715.1	1149591	1149592	CinA family protein|type II toxin-antitoxin system RatA family toxin	.	+	>|<	87,100	
+NZ_CP023715.1	1151885	1151886	carbonic anhydrase	.	+	>|	50	
+NZ_CP023715.1	1151908	1151909	carbonic anhydrase	.	+	>|	73	
+NZ_CP023715.1	1151935	1151936	carbonic anhydrase	.	+	>|	100	
+NZ_CP023715.1	1152744	1152745	TldD/PmbA family protein	.	-	|<	58	
+NZ_CP023715.1	1154196	1154197	cytochrome-c peroxidase	.	-	|<	77	
+NZ_CP023715.1	1156083	1156084	phosphoserine phosphatase SerB	.	-	|<	59	
+NZ_CP023715.1	1156084	1156085	phosphoserine phosphatase SerB	.	-	|<	58	
+NZ_CP023715.1	1156085	1156086	phosphoserine phosphatase SerB	.	-	|<	57	
+NZ_CP023715.1	1157844	1157845	-	.	+	-	264	
+NZ_CP023715.1	1160893	1160894	-	.	+	-	464	
+NZ_CP023715.1	1161532	1161533	ketol-acid reductoisomerase	.	+	>|	38	
+NZ_CP023715.1	1161548	1161549	ketol-acid reductoisomerase	.	+	>|	54	
+NZ_CP023715.1	1161549	1161550	ketol-acid reductoisomerase	.	+	>|	55	
+NZ_CP023715.1	1161550	1161551	ketol-acid reductoisomerase	.	+	>|	56	
+NZ_CP023715.1	1161551	1161552	ketol-acid reductoisomerase	.	+	>|	57	
+NZ_CP023715.1	1164581	1164582	50S ribosomal protein L31	.	-	|<	37	
+NZ_CP023715.1	1164582	1164583	50S ribosomal protein L31	.	-	|<	36	
+NZ_CP023715.1	1164583	1164584	50S ribosomal protein L31	.	-	|<	35	
+NZ_CP023715.1	1164584	1164585	50S ribosomal protein L31	.	-	|<	34	
+NZ_CP023715.1	1164898	1164899	3-hydroxyacyl-ACP dehydratase FabZ	.	-	|<	76	
+NZ_CP023715.1	1173233	1173234	-	.	-	-	84	
+NZ_CP023715.1	1174512	1174513	translation elongation factor Ts	.	-	|<	56	
+NZ_CP023715.1	1174513	1174514	translation elongation factor Ts	.	-	|<	55	
+NZ_CP023715.1	1174514	1174515	translation elongation factor Ts	.	-	|<	54	
+NZ_CP023715.1	1174515	1174516	translation elongation factor Ts	.	-	|<	53	
+NZ_CP023715.1	1174696	1174697	-	.	-	-	322	
+NZ_CP023715.1	1175511	1175512	30S ribosomal protein S2	.	-	|<	88	
+NZ_CP023715.1	1175512	1175513	30S ribosomal protein S2	.	-	|<	87	
+NZ_CP023715.1	1175513	1175514	30S ribosomal protein S2	.	-	|<	86	
+NZ_CP023715.1	1175514	1175515	30S ribosomal protein S2	.	-	|<	85	
+NZ_CP023715.1	1175530	1175531	30S ribosomal protein S2	.	-	|<	69	
+NZ_CP023715.1	1175606	1175607	-	.	-	-	115	
+NZ_CP023715.1	1175869	1175870	-	.	-	-	378	
+NZ_CP023715.1	1176358	1176359	-	.	-	-	7	
+NZ_CP023715.1	1176359	1176360	-	.	-	-	8	
+NZ_CP023715.1	1176361	1176362	-	.	-	-	10	
+NZ_CP023715.1	1183419	1183420	recombinase RecA	.	-	|<	58	
+NZ_CP023715.1	1217286	1217287	type I DNA topoisomerase	.	-	|<	37	
+NZ_CP023715.1	1217321	1217322	type I DNA topoisomerase	.	+	|<	2	conflict
+NZ_CP023715.1	1228933	1228934	serine hydroxymethyltransferase	.	+	>|	63	
+NZ_CP023715.1	1228953	1228954	serine hydroxymethyltransferase	.	+	>|	83	
+NZ_CP023715.1	1228954	1228955	serine hydroxymethyltransferase	.	+	>|	84	
+NZ_CP023715.1	1234052	1234053	-	.	-	-	144	
+NZ_CP023715.1	1234053	1234054	-	.	-	-	143	
+NZ_CP023715.1	1237896	1237897	-	.	-	-	234	
+NZ_CP023715.1	1237898	1237899	-	.	-	-	232	
+NZ_CP023715.1	1238014	1238015	glucose-6-phosphate isomerase	.	-	|<	116	
+NZ_CP023715.1	1238015	1238016	glucose-6-phosphate isomerase	.	-	|<	115	
+NZ_CP023715.1	1238137	1238138	-	.	-	-	170	
+NZ_CP023715.1	1238996	1238997	-	.	-	-	905	
+NZ_CP023715.1	1239054	1239055	-	.	-	-	847	
+NZ_CP023715.1	1239449	1239450	-	.	-	-	452	
+NZ_CP023715.1	1242731	1242732	hypothetical protein	.	+	>|	116	
+NZ_CP023715.1	1244525	1244526	-	.	+	-	137	
+NZ_CP023715.1	1244526	1244527	-	.	+	-	136	
+NZ_CP023715.1	1244527	1244528	-	.	+	-	135	
+NZ_CP023715.1	1244528	1244529	-	.	+	-	134	
+NZ_CP023715.1	1244529	1244530	-	.	+	-	133	
+NZ_CP023715.1	1244530	1244531	-	.	+	-	132	
+NZ_CP023715.1	1244832	1244833	entericidin A/B family lipoprotein	.	+	>|	36	
+NZ_CP023715.1	1245487	1245488	-	.	+	-	469	
+NZ_CP023715.1	1248420	1248421	3-oxoacyl-ACP reductase FabG	.	-	|<	94	
+NZ_CP023715.1	1248421	1248422	3-oxoacyl-ACP reductase FabG	.	-	|<	93	
+NZ_CP023715.1	1251167	1251168	30S ribosomal protein S6	.	+	>|	16	
+NZ_CP023715.1	1251927	1251928	-	.	+	-	193	
+NZ_CP023715.1	1251977	1251978	-	.	+	-	143	
+NZ_CP023715.1	1251983	1251984	-	.	+	-	137	
+NZ_CP023715.1	1251985	1251986	-	.	+	-	135	
+NZ_CP023715.1	1252094	1252095	50S ribosomal protein L9|dipeptide epimerase	.	+	>|<	54,26	
+NZ_CP023715.1	1252095	1252096	50S ribosomal protein L9|dipeptide epimerase	.	+	>|<	55,25	
+NZ_CP023715.1	1252096	1252097	50S ribosomal protein L9|dipeptide epimerase	.	+	>|<	56,24	
+NZ_CP023715.1	1252097	1252098	50S ribosomal protein L9|dipeptide epimerase	.	+	>|<	57,23	
+NZ_CP023715.1	1261704	1261705	alcohol dehydrogenase AdhP	.	-	|<	63	
+NZ_CP023715.1	1261705	1261706	alcohol dehydrogenase AdhP	.	-	|<	62	
+NZ_CP023715.1	1261794	1261795	-	.	-	-	274	
+NZ_CP023715.1	1261796	1261797	-	.	-	-	276	
+NZ_CP023715.1	1261838	1261839	-	.	-	-	318	
+NZ_CP023715.1	1261839	1261840	-	.	-	-	319	
+NZ_CP023715.1	1262515	1262516	-	.	-	-	967	
+NZ_CP023715.1	1262605	1262606	-	.	-	-	877	
+NZ_CP023715.1	1262607	1262608	-	.	-	-	875	
+NZ_CP023715.1	1262630	1262631	-	.	-	-	852	
+NZ_CP023715.1	1262632	1262633	-	.	-	-	850	
+NZ_CP023715.1	1262680	1262681	-	.	-	-	802	
+NZ_CP023715.1	1263345	1263346	-	.	-	-	137	
+NZ_CP023715.1	1263346	1263347	-	.	-	-	136	
+NZ_CP023715.1	1264296	1264297	-	.	-	-	651	
+NZ_CP023715.1	1264352	1264353	-	.	-	-	595	
+NZ_CP023715.1	1264875	1264876	2%2C3-diphosphoglycerate-dependent phosphoglycerate mutase	.	-	|<	72	
+NZ_CP023715.1	1264876	1264877	2%2C3-diphosphoglycerate-dependent phosphoglycerate mutase	.	-	|<	71	
+NZ_CP023715.1	1264932	1264933	2%2C3-diphosphoglycerate-dependent phosphoglycerate mutase	.	-	|<	15	
+NZ_CP023715.1	1264995	1264996	-	.	-	-	518	
+NZ_CP023715.1	1265248	1265249	-	.	-	-	635	
+NZ_CP023715.1	1265612	1265613	-	.	-	-	271	
+NZ_CP023715.1	1265634	1265635	-	.	-	-	1	
+NZ_CP023715.1	1268117	1268118	-	.	+	-	298	
+NZ_CP023715.1	1268145	1268146	-	.	+	-	326	
+NZ_CP023715.1	1268169	1268170	-	.	+	-	350	
+NZ_CP023715.1	1268184	1268185	-	.	+	-	365	
+NZ_CP023715.1	1268199	1268200	-	.	+	-	380	
+NZ_CP023715.1	1268239	1268240	-	.	+	-	420	
+NZ_CP023715.1	1268258	1268259	type B 50S ribosomal protein L36	.	+	>|	19	
+NZ_CP023715.1	1268298	1268299	type B 50S ribosomal protein L36	.	+	>|	59	
+NZ_CP023715.1	1268316	1268317	type B 50S ribosomal protein L36	.	+	>|	77	
+NZ_CP023715.1	1268317	1268318	type B 50S ribosomal protein L36	.	+	>|	78	
+NZ_CP023715.1	1268318	1268319	type B 50S ribosomal protein L36	.	+	>|	79	
+NZ_CP023715.1	1268319	1268320	type B 50S ribosomal protein L36	.	+	>|	80	
+NZ_CP023715.1	1285135	1285136	glutamine-hydrolyzing GMP synthase|hypothetical protein	.	+	>|<	54,23	
+NZ_CP023715.1	1287980	1287981	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme|uroporphyrinogen-III C-methyltransferase	.	-	>|<	16,115	
+NZ_CP023715.1	1295191	1295192	beta-ketoacyl-ACP synthase II	.	-	|<	119	
+NZ_CP023715.1	1295252	1295253	beta-ketoacyl-ACP synthase II	.	-	|<	58	
+NZ_CP023715.1	1295874	1295875	-	.	-	-	598	
+NZ_CP023715.1	1296260	1296261	-	.	-	-	502	
+NZ_CP023715.1	1296713	1296714	acyl carrier protein	.	-	|<	49	
+NZ_CP023715.1	1296714	1296715	acyl carrier protein	.	-	|<	48	
+NZ_CP023715.1	1296715	1296716	acyl carrier protein	.	-	|<	47	
+NZ_CP023715.1	1296716	1296717	acyl carrier protein	.	-	|<	46	
+NZ_CP023715.1	1300293	1300294	-	.	-	-	149	
+NZ_CP023715.1	1301679	1301680	sorbitol dehydrogenase family protein	.	-	|<	114	
+NZ_CP023715.1	1302715	1302716	glycosyltransferase family 4 protein	.	-	|<	117	
+NZ_CP023715.1	1305448	1305449	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	5,103	
+NZ_CP023715.1	1305449	1305450	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	6,102	
+NZ_CP023715.1	1305450	1305451	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	7,101	
+NZ_CP023715.1	1305451	1305452	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	8,100	
+NZ_CP023715.1	1305452	1305453	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	9,99	
+NZ_CP023715.1	1305468	1305469	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	25,83	
+NZ_CP023715.1	1305469	1305470	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	26,82	
+NZ_CP023715.1	1305470	1305471	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	27,81	
+NZ_CP023715.1	1305471	1305472	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	28,80	
+NZ_CP023715.1	1305520	1305521	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	77,31	
+NZ_CP023715.1	1305526	1305527	MFS transporter|GlsB/YeaQ/YmgE family stress response membrane protein	.	-	>|<	83,25	
+NZ_CP023715.1	1309874	1309875	-	.	-	-	188	
+NZ_CP023715.1	1309875	1309876	7-carboxy-7-deazaguanine synthase	.	-	>|	1	conflict
+NZ_CP023715.1	1309876	1309877	7-carboxy-7-deazaguanine synthase	.	-	>|	2	conflict
+NZ_CP023715.1	1309877	1309878	7-carboxy-7-deazaguanine synthase	.	-	>|	3	conflict
+NZ_CP023715.1	1322309	1322310	accessory factor UbiK family protein	.	-	|<	97	
+NZ_CP023715.1	1339732	1339733	-	.	-	-	214	
+NZ_CP023715.1	1339786	1339787	-	.	-	-	160	
+NZ_CP023715.1	1339787	1339788	-	.	-	-	159	
+NZ_CP023715.1	1339788	1339789	-	.	-	-	158	
+NZ_CP023715.1	1339789	1339790	-	.	-	-	157	
+NZ_CP023715.1	1339899	1339900	IMP dehydrogenase	.	-	|<	47	
+NZ_CP023715.1	1340143	1340144	-	.	-	-	233	
+NZ_CP023715.1	1340486	1340487	-	.	-	-	576	
+NZ_CP023715.1	1341193	1341194	-	.	-	-	487	
+NZ_CP023715.1	1341369	1341370	-	.	-	-	311	
+NZ_CP023715.1	1344182	1344183	-	.	+	-	189	
+NZ_CP023715.1	1344183	1344184	-	.	+	-	190	
+NZ_CP023715.1	1344201	1344202	-	.	+	-	208	
+NZ_CP023715.1	1344202	1344203	-	.	+	-	209	
+NZ_CP023715.1	1344203	1344204	-	.	+	-	210	
+NZ_CP023715.1	1344725	1344726	HPr kinase/phosphatase C-terminal domain-containing protein	.	+	>|	98	
+NZ_CP023715.1	1351495	1351496	-	.	+	-	318	
+NZ_CP023715.1	1352184	1352185	-	.	+	-	523	
+NZ_CP023715.1	1353283	1353284	-	.	+	-	167	
+NZ_CP023715.1	1353317	1353318	NAD(P)H:quinone oxidoreductase	.	-	>|	8	conflict
+NZ_CP023715.1	1353318	1353319	NAD(P)H:quinone oxidoreductase	.	-	>|	9	conflict
+NZ_CP023715.1	1353319	1353320	NAD(P)H:quinone oxidoreductase	.	-	>|	10	conflict
+NZ_CP023715.1	1353320	1353321	NAD(P)H:quinone oxidoreductase	.	-	>|	11	conflict
+NZ_CP023715.1	1353336	1353337	NAD(P)H:quinone oxidoreductase|LysR family transcriptional regulator	.	+	>|<	27,114	
+NZ_CP023715.1	1353356	1353357	NAD(P)H:quinone oxidoreductase|LysR family transcriptional regulator	.	+	>|<	47,94	
+NZ_CP023715.1	1357334	1357335	-	.	-	-	189	
+NZ_CP023715.1	1360270	1360271	aldo/keto reductase|aminopeptidase N	.	+	>|<	89,35	
+NZ_CP023715.1	1360272	1360273	aldo/keto reductase|aminopeptidase N	.	+	>|<	91,33	
+NZ_CP023715.1	1363713	1363714	-	.	-	-	257	
+NZ_CP023715.1	1363832	1363833	-	.	-	-	138	
+NZ_CP023715.1	1363833	1363834	-	.	-	-	137	
+NZ_CP023715.1	1363902	1363903	low specificity L-threonine aldolase	.	-	|<	68	
+NZ_CP023715.1	1367805	1367806	dienelactone hydrolase family protein|Bax inhibitor-1/YccA family protein	.	-	>|<	35,57	
+NZ_CP023715.1	1367806	1367807	dienelactone hydrolase family protein|Bax inhibitor-1/YccA family protein	.	-	>|<	36,56	
+NZ_CP023715.1	1367807	1367808	dienelactone hydrolase family protein|Bax inhibitor-1/YccA family protein	.	-	>|<	37,55	
+NZ_CP023715.1	1367841	1367842	dienelactone hydrolase family protein|Bax inhibitor-1/YccA family protein	.	+	>|<	71,21	
+NZ_CP023715.1	1368355	1368356	-	.	-	-	467	
+NZ_CP023715.1	1368356	1368357	-	.	-	-	466	
+NZ_CP023715.1	1369505	1369506	OmpA family protein	.	-	|<	61	
+NZ_CP023715.1	1369506	1369507	OmpA family protein	.	-	|<	60	
+NZ_CP023715.1	1369507	1369508	OmpA family protein	.	-	|<	59	
+NZ_CP023715.1	1369508	1369509	OmpA family protein	.	-	|<	58	
+NZ_CP023715.1	1369523	1369524	OmpA family protein	.	-	|<	43	
+NZ_CP023715.1	1369524	1369525	OmpA family protein	.	-	|<	42	
+NZ_CP023715.1	1369549	1369550	OmpA family protein	.	-	|<	17	
+NZ_CP023715.1	1369550	1369551	OmpA family protein	.	-	|<	16	
+NZ_CP023715.1	1369551	1369552	OmpA family protein	.	-	|<	15	
+NZ_CP023715.1	1369593	1369594	-	.	-	-	211	
+NZ_CP023715.1	1369678	1369679	-	.	-	-	296	
+NZ_CP023715.1	1369680	1369681	-	.	-	-	298	
+NZ_CP023715.1	1369739	1369740	-	.	-	-	357	
+NZ_CP023715.1	1369827	1369828	-	.	-	-	445	
+NZ_CP023715.1	1370010	1370011	-	.	-	-	628	
+NZ_CP023715.1	1370121	1370122	-	.	-	-	739	
+NZ_CP023715.1	1370140	1370141	-	.	-	-	758	
+NZ_CP023715.1	1370207	1370208	-	.	-	-	825	
+NZ_CP023715.1	1370242	1370243	-	.	-	-	840	
+NZ_CP023715.1	1370290	1370291	-	.	-	-	792	
+NZ_CP023715.1	1370291	1370292	-	.	-	-	791	
+NZ_CP023715.1	1370294	1370295	-	.	-	-	788	
+NZ_CP023715.1	1370310	1370311	-	.	-	-	772	
+NZ_CP023715.1	1370311	1370312	-	.	-	-	771	
+NZ_CP023715.1	1370390	1370391	-	.	-	-	692	
+NZ_CP023715.1	1370391	1370392	-	.	-	-	691	
+NZ_CP023715.1	1370495	1370496	-	.	-	-	587	
+NZ_CP023715.1	1370637	1370638	-	.	-	-	445	
+NZ_CP023715.1	1375022	1375023	-	.	-	-	141	
+NZ_CP023715.1	1375111	1375112	30S ribosomal protein S20	.	-	|<	52	
+NZ_CP023715.1	1375112	1375113	30S ribosomal protein S20	.	-	|<	51	
+NZ_CP023715.1	1375113	1375114	30S ribosomal protein S20	.	-	|<	50	
+NZ_CP023715.1	1375114	1375115	30S ribosomal protein S20	.	-	|<	49	
+NZ_CP023715.1	1375225	1375226	-	.	-	-	539	
+NZ_CP023715.1	1375254	1375255	-	.	-	-	510	
+NZ_CP023715.1	1375334	1375335	-	.	-	-	430	
+NZ_CP023715.1	1375388	1375389	-	.	-	-	376	
+NZ_CP023715.1	1375701	1375702	thiamine pyrophosphate-binding protein	.	-	|<	63	
+NZ_CP023715.1	1375702	1375703	thiamine pyrophosphate-binding protein	.	-	|<	62	
+NZ_CP023715.1	1375719	1375720	thiamine pyrophosphate-binding protein	.	-	|<	45	
+NZ_CP023715.1	1375721	1375722	thiamine pyrophosphate-binding protein	.	-	|<	43	
+NZ_CP023715.1	1375722	1375723	thiamine pyrophosphate-binding protein	.	-	|<	42	
+NZ_CP023715.1	1375758	1375759	thiamine pyrophosphate-binding protein	.	-	|<	6	
+NZ_CP023715.1	1375759	1375760	thiamine pyrophosphate-binding protein	.	-	|<	5	
+NZ_CP023715.1	1375760	1375761	thiamine pyrophosphate-binding protein	.	-	|<	4	
+NZ_CP023715.1	1375940	1375941	-	.	-	-	514	
+NZ_CP023715.1	1376277	1376278	-	.	-	-	851	
+NZ_CP023715.1	1376347	1376348	-	.	-	-	921	
+NZ_CP023715.1	1376566	1376567	-	.	-	-	979	
+NZ_CP023715.1	1376632	1376633	-	.	-	-	913	
+NZ_CP023715.1	1376634	1376635	-	.	-	-	911	
+NZ_CP023715.1	1376650	1376651	-	.	-	-	895	
+NZ_CP023715.1	1376705	1376706	-	.	-	-	840	
+NZ_CP023715.1	1376716	1376717	-	.	-	-	829	
+NZ_CP023715.1	1376779	1376780	-	.	-	-	766	
+NZ_CP023715.1	1376815	1376816	-	.	-	-	730	
+NZ_CP023715.1	1376863	1376864	-	.	-	-	682	
+NZ_CP023715.1	1376908	1376909	-	.	-	-	637	
+NZ_CP023715.1	1376910	1376911	-	.	-	-	635	
+NZ_CP023715.1	1377002	1377003	-	.	-	-	543	
+NZ_CP023715.1	1377081	1377082	-	.	-	-	464	
+NZ_CP023715.1	1377083	1377084	-	.	-	-	462	
+NZ_CP023715.1	1377093	1377094	-	.	-	-	452	
+NZ_CP023715.1	1377094	1377095	-	.	-	-	451	
+NZ_CP023715.1	1377219	1377220	-	.	-	-	326	
+NZ_CP023715.1	1377356	1377357	-	.	-	-	189	
+NZ_CP023715.1	1377396	1377397	-	.	-	-	149	
+NZ_CP023715.1	1377449	1377450	hypothetical protein	.	-	|<	96	
+NZ_CP023715.1	1377453	1377454	hypothetical protein	.	-	|<	92	
+NZ_CP023715.1	1377932	1377933	-	.	-	-	205	
+NZ_CP023715.1	1377965	1377966	-	.	-	-	238	
+NZ_CP023715.1	1383482	1383483	-	.	+	-	232	
+NZ_CP023715.1	1383562	1383563	-	.	+	-	312	
+NZ_CP023715.1	1383589	1383590	-	.	+	-	339	
+NZ_CP023715.1	1383651	1383652	-	.	+	-	401	
+NZ_CP023715.1	1384083	1384084	30S ribosomal protein S4	.	+	>|	38	
+NZ_CP023715.1	1384102	1384103	30S ribosomal protein S4	.	+	>|	57	
+NZ_CP023715.1	1384104	1384105	30S ribosomal protein S4	.	+	>|	59	
+NZ_CP023715.1	1384105	1384106	30S ribosomal protein S4	.	+	>|	60	
+NZ_CP023715.1	1386793	1386794	-	.	-	-	188	
+NZ_CP023715.1	1386794	1386795	-	.	-	-	187	
+NZ_CP023715.1	1386798	1386799	-	.	-	-	183	
+NZ_CP023715.1	1388366	1388367	-	.	+	-	540	
+NZ_CP023715.1	1388483	1388484	-	.	+	-	461	
+NZ_CP023715.1	1388820	1388821	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	39,124	
+NZ_CP023715.1	1388831	1388832	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	50,113	
+NZ_CP023715.1	1388847	1388848	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	66,97	
+NZ_CP023715.1	1388848	1388849	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	67,96	
+NZ_CP023715.1	1388849	1388850	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	68,95	
+NZ_CP023715.1	1388850	1388851	hypothetical protein|NAD(P)-dependent oxidoreductase	.	+	>|<	69,94	
+NZ_CP023715.1	1394851	1394852	-	.	-	-	697	
+NZ_CP023715.1	1394949	1394950	-	.	-	-	599	
+NZ_CP023715.1	1404353	1404354	-	.	+	-	264	
+NZ_CP023715.1	1412206	1412207	hypothetical protein	.	-	|<	50	
+NZ_CP023715.1	1412207	1412208	hypothetical protein	.	-	|<	49	
+NZ_CP023715.1	1412856	1412857	-	.	-	-	403	
+NZ_CP023715.1	1421000	1421001	aspartate-semialdehyde dehydrogenase	.	-	|<	66	
+NZ_CP023715.1	1421001	1421002	aspartate-semialdehyde dehydrogenase	.	-	|<	65	
+NZ_CP023715.1	1421911	1421912	-	.	-	-	287	
+NZ_CP023715.1	1425720	1425721	-	.	+	-	206	
+NZ_CP023715.1	1425804	1425805	-	.	+	-	122	
+NZ_CP023715.1	1425872	1425873	(2Fe-2S)-binding protein	.	+	>|	58	
+NZ_CP023715.1	1426439	1426440	bacterioferritin|transcriptional repressor	.	-	>|<	22,98	
+NZ_CP023715.1	1426473	1426474	bacterioferritin|transcriptional repressor	.	+	>|<	56,64	
+NZ_CP023715.1	1426474	1426475	bacterioferritin|transcriptional repressor	.	+	>|<	57,63	
+NZ_CP023715.1	1426475	1426476	bacterioferritin|transcriptional repressor	.	+	>|<	58,62	
+NZ_CP023715.1	1426476	1426477	bacterioferritin|transcriptional repressor	.	+	>|<	59,61	
+NZ_CP023715.1	1427004	1427005	-	.	-	-	36	
+NZ_CP023715.1	1427005	1427006	-	.	-	-	37	
+NZ_CP023715.1	1429719	1429720	-	.	+	-	187	
+NZ_CP023715.1	1431329	1431330	DEAD/DEAH box helicase	.	+	>|	47	
+NZ_CP023715.1	1431347	1431348	DEAD/DEAH box helicase	.	+	>|	65	
+NZ_CP023715.1	1431348	1431349	DEAD/DEAH box helicase	.	+	>|	66	
+NZ_CP023715.1	1434682	1434683	5-(carboxyamino)imidazole ribonucleotide synthase|insulinase family protein	.	-	>|<	24,54	
+NZ_CP023715.1	1435562	1435563	-	.	-	-	904	
+NZ_CP023715.1	1441051	1441052	-	.	+	-	432	
+NZ_CP023715.1	1441378	1441379	-	.	+	-	759	
+NZ_CP023715.1	1442502	1442503	-	.	+	-	1012	
+NZ_CP023715.1	1443296	1443297	-	.	+	-	218	
+NZ_CP023715.1	1443358	1443359	-	.	+	-	156	
+NZ_CP023715.1	1443452	1443453	ATP-dependent chaperone ClpB|thiamine phosphate synthase	.	+	>|<	45,62	
+NZ_CP023715.1	1443453	1443454	ATP-dependent chaperone ClpB|thiamine phosphate synthase	.	+	>|<	46,61	
+NZ_CP023715.1	1443454	1443455	ATP-dependent chaperone ClpB|thiamine phosphate synthase	.	+	>|<	47,60	
+NZ_CP023715.1	1443455	1443456	ATP-dependent chaperone ClpB|thiamine phosphate synthase	.	+	>|<	48,59	
+NZ_CP023715.1	1451077	1451078	-	.	+	-	46	
+NZ_CP023715.1	1451080	1451081	-	.	+	-	49	
+NZ_CP023715.1	1451082	1451083	-	.	+	-	51	
+NZ_CP023715.1	1461124	1461125	FAD-binding oxidoreductase	.	+	>|	54	
+NZ_CP023715.1	1463845	1463846	glycine--tRNA ligase subunit beta	.	-	|<	58	
+NZ_CP023715.1	1463846	1463847	glycine--tRNA ligase subunit beta	.	-	|<	57	
+NZ_CP023715.1	1463847	1463848	glycine--tRNA ligase subunit beta	.	-	|<	56	
+NZ_CP023715.1	1463864	1463865	glycine--tRNA ligase subunit beta	.	-	|<	39	
+NZ_CP023715.1	1481546	1481547	-	.	+	-	70	
+NZ_CP023715.1	1489981	1489982	ABC transporter permease|hypothetical protein	.	+	>|<	36,6	
+NZ_CP023715.1	1489982	1489983	ABC transporter permease|hypothetical protein	.	+	>|<	37,5	
+NZ_CP023715.1	1489983	1489984	ABC transporter permease|hypothetical protein	.	+	>|<	38,4	
+NZ_CP023715.1	1489984	1489985	ABC transporter permease|hypothetical protein	.	+	>|<	39,3	
+NZ_CP023715.1	1493765	1493766	-	.	-	-	9	
+NZ_CP023715.1	1493766	1493767	-	.	-	-	10	
+NZ_CP023715.1	1493872	1493873	translational GTPase TypA	.	-	|<	111	
+NZ_CP023715.1	1493949	1493950	translational GTPase TypA	.	-	|<	34	
+NZ_CP023715.1	1494726	1494727	-	.	-	-	970	
+NZ_CP023715.1	1495090	1495091	-	.	-	-	1205	
+NZ_CP023715.1	1495423	1495424	-	.	-	-	872	
+NZ_CP023715.1	1501399	1501400	6-phosphogluconolactonase	.	-	|<	70	
+NZ_CP023715.1	1501401	1501402	6-phosphogluconolactonase	.	-	|<	68	
+NZ_CP023715.1	1501402	1501403	6-phosphogluconolactonase	.	-	|<	67	
+NZ_CP023715.1	1501465	1501466	6-phosphogluconolactonase	.	-	|<	4	
+NZ_CP023715.1	1501871	1501872	-	.	-	-	493	
+NZ_CP023715.1	1502138	1502139	-	.	-	-	371	
+NZ_CP023715.1	1502427	1502428	FAD-binding protein	.	-	|<	82	
+NZ_CP023715.1	1505826	1505827	-	.	+	-	152	
+NZ_CP023715.1	1505849	1505850	-	.	+	-	129	
+NZ_CP023715.1	1505866	1505867	autotransporter domain-containing protein	.	+	|<	112	conflict
+NZ_CP023715.1	1505867	1505868	autotransporter domain-containing protein	.	+	|<	111	conflict
+NZ_CP023715.1	1505868	1505869	autotransporter domain-containing protein	.	+	|<	110	conflict
+NZ_CP023715.1	1505870	1505871	autotransporter domain-containing protein	.	+	|<	108	conflict
+NZ_CP023715.1	1515153	1515154	-	.	-	-	148	
+NZ_CP023715.1	1515154	1515155	-	.	-	-	147	
+NZ_CP023715.1	1515155	1515156	-	.	-	-	146	
+NZ_CP023715.1	1518049	1518050	outer membrane beta-barrel protein	.	+	>|	46	
+NZ_CP023715.1	1518050	1518051	outer membrane beta-barrel protein	.	+	>|	47	
+NZ_CP023715.1	1518051	1518052	outer membrane beta-barrel protein	.	+	>|	48	
+NZ_CP023715.1	1518052	1518053	outer membrane beta-barrel protein	.	+	>|	49	
+NZ_CP023715.1	1518053	1518054	outer membrane beta-barrel protein	.	+	>|	50	
+NZ_CP023715.1	1518365	1518366	-	.	+	-	362	
+NZ_CP023715.1	1518561	1518562	-	.	+	-	558	
+NZ_CP023715.1	1518624	1518625	-	.	+	-	621	
+NZ_CP023715.1	1519068	1519069	-	.	+	-	837	
+NZ_CP023715.1	1519131	1519132	outer membrane beta-barrel protein	.	+	>|	30	
+NZ_CP023715.1	1519181	1519182	outer membrane beta-barrel protein	.	+	>|	80	
+NZ_CP023715.1	1519203	1519204	outer membrane beta-barrel protein	.	+	>|	102	
+NZ_CP023715.1	1519204	1519205	outer membrane beta-barrel protein	.	+	>|	103	
+NZ_CP023715.1	1531718	1531719	ClpXP protease specificity-enhancing factor SspB	.	+	>|	73	
+NZ_CP023715.1	1532191	1532192	inorganic diphosphatase	.	-	|<	86	
+NZ_CP023715.1	1532192	1532193	inorganic diphosphatase	.	-	|<	85	
+NZ_CP023715.1	1532193	1532194	inorganic diphosphatase	.	-	|<	84	
+NZ_CP023715.1	1532194	1532195	inorganic diphosphatase	.	-	|<	83	
+NZ_CP023715.1	1536487	1536488	-	.	+	-	25	
+NZ_CP023715.1	1539455	1539456	phenylalanine--tRNA ligase subunit beta	.	-	|<	56	
+NZ_CP023715.1	1539456	1539457	phenylalanine--tRNA ligase subunit beta	.	-	|<	55	
+NZ_CP023715.1	1543121	1543122	-	.	-	-	132	
+NZ_CP023715.1	1543181	1543182	50S ribosomal protein L20	.	-	|<	85	
+NZ_CP023715.1	1543182	1543183	50S ribosomal protein L20	.	-	|<	84	
+NZ_CP023715.1	1543203	1543204	50S ribosomal protein L20	.	-	|<	63	
+NZ_CP023715.1	1543253	1543254	50S ribosomal protein L20	.	-	|<	13	
+NZ_CP023715.1	1543265	1543266	50S ribosomal protein L20	.	-	|<	1	
+NZ_CP023715.1	1543851	1543852	-	.	-	-	155	
+NZ_CP023715.1	1543852	1543853	-	.	-	-	154	
+NZ_CP023715.1	1543853	1543854	-	.	-	-	153	
+NZ_CP023715.1	1543873	1543874	-	.	-	-	13	
+NZ_CP023715.1	1544801	1544802	ribose-phosphate pyrophosphokinase	.	-	|<	30	
+NZ_CP023715.1	1544802	1544803	ribose-phosphate pyrophosphokinase	.	-	|<	29	
+NZ_CP023715.1	1544803	1544804	ribose-phosphate pyrophosphokinase	.	-	|<	28	
+NZ_CP023715.1	1545559	1545560	-	.	-	-	412	
+NZ_CP023715.1	1545602	1545603	-	.	-	-	369	
+NZ_CP023715.1	1547733	1547734	-	.	+	-	805	
+NZ_CP023715.1	1547734	1547735	-	.	+	-	806	
+NZ_CP023715.1	1547963	1547964	-	.	+	-	1035	
+NZ_CP023715.1	1548157	1548158	-	.	+	-	1229	
+NZ_CP023715.1	1548158	1548159	-	.	+	-	1230	
+NZ_CP023715.1	1548159	1548160	-	.	+	-	1231	
+NZ_CP023715.1	1548614	1548615	-	.	+	-	1686	
+NZ_CP023715.1	1548737	1548738	-	.	+	-	1809	
+NZ_CP023715.1	1548739	1548740	-	.	+	-	1811	
+NZ_CP023715.1	1548939	1548940	-	.	+	-	1913	
+NZ_CP023715.1	1550526	1550527	TonB-dependent receptor	.	+	>|	60	
+NZ_CP023715.1	1550527	1550528	TonB-dependent receptor	.	+	>|	61	
+NZ_CP023715.1	1565432	1565433	phosphoribosylformylglycinamidine synthase subunit PurQ	.	+	>|	53	
+NZ_CP023715.1	1565433	1565434	phosphoribosylformylglycinamidine synthase subunit PurQ	.	+	>|	54	
+NZ_CP023715.1	1565434	1565435	phosphoribosylformylglycinamidine synthase subunit PurQ	.	+	>|	55	
+NZ_CP023715.1	1565908	1565909	-	.	+	-	529	
+NZ_CP023715.1	1565981	1565982	-	.	+	-	602	
+NZ_CP023715.1	1566333	1566334	-	.	+	-	407	
+NZ_CP023715.1	1566396	1566397	-	.	+	-	344	
+NZ_CP023715.1	1566453	1566454	DUF308 domain-containing protein	.	+	>|	47	
+NZ_CP023715.1	1566471	1566472	DUF308 domain-containing protein	.	+	>|	65	
+NZ_CP023715.1	1566472	1566473	DUF308 domain-containing protein	.	+	>|	66	
+NZ_CP023715.1	1567311	1567312	-	.	-	-	269	
+NZ_CP023715.1	1567312	1567313	-	.	-	-	270	
+NZ_CP023715.1	1567314	1567315	-	.	-	-	272	
+NZ_CP023715.1	1574410	1574411	ferrous iron transport protein A	.	+	>|	99	
+NZ_CP023715.1	1574601	1574602	-	.	+	-	290	
+NZ_CP023715.1	1576291	1576292	ferrous iron transport protein B	.	+	>|	49	
+NZ_CP023715.1	1584255	1584256	-	.	+	-	194	
+NZ_CP023715.1	1584256	1584257	-	.	+	-	195	
+NZ_CP023715.1	1584257	1584258	-	.	+	-	196	
+NZ_CP023715.1	1584301	1584302	-	.	+	-	240	
+NZ_CP023715.1	1584430	1584431	-	.	+	-	369	
+NZ_CP023715.1	1586170	1586171	histidinol dehydrogenase	.	+	>|	70	
+NZ_CP023715.1	1586171	1586172	histidinol dehydrogenase	.	+	>|	71	
+NZ_CP023715.1	1586725	1586726	-	.	+	-	152	
+NZ_CP023715.1	1592338	1592339	amidophosphoribosyltransferase	.	+	>|	59	
+NZ_CP023715.1	1592834	1592835	-	.	+	-	555	
+NZ_CP023715.1	1592948	1592949	-	.	+	-	669	
+NZ_CP023715.1	1602058	1602059	formate C-acetyltransferase	.	-	|<	45	
+NZ_CP023715.1	1602059	1602060	formate C-acetyltransferase	.	-	|<	44	
+NZ_CP023715.1	1604143	1604144	-	.	-	-	1039	
+NZ_CP023715.1	1607863	1607864	DUF2474 domain-containing protein	.	+	>|	56	
+NZ_CP023715.1	1610904	1610905	SDR family oxidoreductase	.	+	>|	51	
+NZ_CP023715.1	1621374	1621375	antibiotic biosynthesis monooxygenase	.	+	>|	50	
+NZ_CP023715.1	1621375	1621376	antibiotic biosynthesis monooxygenase	.	+	>|	51	
+NZ_CP023715.1	1621376	1621377	antibiotic biosynthesis monooxygenase	.	+	>|	52	
+NZ_CP023715.1	1622155	1622156	DNA topoisomerase (ATP-hydrolyzing) subunit B	.	-	|<	92	
+NZ_CP023715.1	1626122	1626123	-	.	+	-	164	
+NZ_CP023715.1	1626591	1626592	bacterioferritin	.	+	>|	45	
+NZ_CP023715.1	1626592	1626593	bacterioferritin	.	+	>|	46	
+NZ_CP023715.1	1626593	1626594	bacterioferritin	.	+	>|	47	
+NZ_CP023715.1	1631136	1631137	toll/interleukin-1 receptor domain-containing protein|ATP-binding cassette domain-containing protein	.	+	>|<	52,59	
+NZ_CP023715.1	1633854	1633855	M61 family metallopeptidase	.	-	|<	66	
+NZ_CP023715.1	1636254	1636255	-	.	+	-	400	
+NZ_CP023715.1	1636256	1636257	-	.	+	-	402	
+NZ_CP023715.1	1636257	1636258	-	.	+	-	403	
+NZ_CP023715.1	1636894	1636895	-	.	+	-	144	
+NZ_CP023715.1	1636987	1636988	-	.	+	-	51	
+NZ_CP023715.1	1637034	1637035	-	.	+	-	4	
+NZ_CP023715.1	1637219	1637220	-	.	+	-	1365	
+NZ_CP023715.1	1637220	1637221	-	.	+	-	1366	
+NZ_CP023715.1	1637261	1637262	-	.	+	-	1352	
+NZ_CP023715.1	1637419	1637420	-	.	+	-	1194	
+NZ_CP023715.1	1637568	1637569	-	.	+	-	1045	
+NZ_CP023715.1	1637682	1637683	-	.	+	-	931	
+NZ_CP023715.1	1638053	1638054	-	.	+	-	560	
+NZ_CP023715.1	1638054	1638055	-	.	+	-	559	
+NZ_CP023715.1	1638112	1638113	-	.	+	-	501	
+NZ_CP023715.1	1638135	1638136	-	.	+	-	478	
+NZ_CP023715.1	1638141	1638142	-	.	+	-	472	
+NZ_CP023715.1	1638204	1638205	L-threonine dehydrogenase	.	+	>|	15	
+NZ_CP023715.1	1638205	1638206	L-threonine dehydrogenase	.	+	>|	16	
+NZ_CP023715.1	1638206	1638207	L-threonine dehydrogenase	.	+	>|	17	
+NZ_CP023715.1	1638254	1638255	L-threonine dehydrogenase	.	+	>|	65	
+NZ_CP023715.1	1638272	1638273	L-threonine dehydrogenase	.	+	>|	83	
+NZ_CP023715.1	1638273	1638274	L-threonine dehydrogenase	.	+	>|	84	
+NZ_CP023715.1	1638274	1638275	L-threonine dehydrogenase	.	+	>|	85	
+NZ_CP023715.1	1646974	1646975	-	.	+	-	328	
+NZ_CP023715.1	1647301	1647302	TIGR01244 family sulfur transferase|alkaline phosphatase family protein	.	+	>|<	35,1	
+NZ_CP023715.1	1648593	1648594	pyruvate dehydrogenase complex E1 component subunit beta	.	-	|<	113	
+NZ_CP023715.1	1651831	1651832	phosphopyruvate hydratase	.	-	|<	105	
+NZ_CP023715.1	1651832	1651833	phosphopyruvate hydratase	.	-	|<	104	
+NZ_CP023715.1	1651834	1651835	phosphopyruvate hydratase	.	-	|<	102	
+NZ_CP023715.1	1651835	1651836	phosphopyruvate hydratase	.	-	|<	101	
+NZ_CP023715.1	1651886	1651887	phosphopyruvate hydratase	.	-	|<	50	
+NZ_CP023715.1	1651912	1651913	phosphopyruvate hydratase	.	-	|<	24	
+NZ_CP023715.1	1651913	1651914	phosphopyruvate hydratase	.	-	|<	23	
+NZ_CP023715.1	1651915	1651916	phosphopyruvate hydratase	.	-	|<	21	
+NZ_CP023715.1	1651945	1651946	-	.	-	-	101	
+NZ_CP023715.1	1651975	1651976	-	.	-	-	131	
+NZ_CP023715.1	1651993	1651994	-	.	-	-	149	
+NZ_CP023715.1	1652017	1652018	-	.	-	-	173	
+NZ_CP023715.1	1652062	1652063	-	.	-	-	218	
+NZ_CP023715.1	1652351	1652352	-	.	-	-	507	
+NZ_CP023715.1	1652405	1652406	-	.	-	-	561	
+NZ_CP023715.1	1652639	1652640	-	.	-	-	788	
+NZ_CP023715.1	1652874	1652875	-	.	-	-	553	
+NZ_CP023715.1	1652875	1652876	-	.	-	-	552	
+NZ_CP023715.1	1653186	1653187	-	.	-	-	241	
+NZ_CP023715.1	1653587	1653588	-	.	+	-	362	
+NZ_CP023715.1	1653704	1653705	-	.	+	-	355	
+NZ_CP023715.1	1653707	1653708	-	.	+	-	352	
+NZ_CP023715.1	1653843	1653844	-	.	+	-	216	
+NZ_CP023715.1	1653932	1653933	-	.	+	-	127	
+NZ_CP023715.1	1654175	1654176	hypothetical protein	.	+	>|	119	
+NZ_CP023715.1	1654176	1654177	hypothetical protein	.	+	>|	120	
+NZ_CP023715.1	1654183	1654184	hypothetical protein	.	+	>|	127	
+NZ_CP023715.1	1654282	1654283	-	.	+	-	226	
+NZ_CP023715.1	1654427	1654428	-	.	+	-	208	
+NZ_CP023715.1	1654428	1654429	-	.	+	-	207	
+NZ_CP023715.1	1654429	1654430	-	.	+	-	206	
+NZ_CP023715.1	1654430	1654431	-	.	+	-	205	
+NZ_CP023715.1	1654556	1654557	-	.	+	-	79	
+NZ_CP023715.1	1655039	1655040	hypothetical protein	.	+	>|	69	
+NZ_CP023715.1	1656662	1656663	-	.	-	-	145	
+NZ_CP023715.1	1656663	1656664	-	.	-	-	144	
+NZ_CP023715.1	1656720	1656721	transcription elongation factor GreA	.	-	|<	87	
+NZ_CP023715.1	1656721	1656722	transcription elongation factor GreA	.	-	|<	86	
+NZ_CP023715.1	1656722	1656723	transcription elongation factor GreA	.	-	|<	85	
+NZ_CP023715.1	1657075	1657076	-	.	-	-	285	
+NZ_CP023715.1	1663378	1663379	-	.	+	-	197	
+NZ_CP023715.1	1663408	1663409	-	.	+	-	167	
+NZ_CP023715.1	1669421	1669422	-	.	+	-	124	
+NZ_CP023715.1	1669440	1669441	-	.	+	-	105	
+NZ_CP023715.1	1669441	1669442	-	.	+	-	104	
+NZ_CP023715.1	1669534	1669535	50S ribosomal protein L34	.	+	>|	46	
+NZ_CP023715.1	1669640	1669641	-	.	+	-	152	
+NZ_CP023715.1	1669670	1669671	-	.	+	-	138	
+NZ_CP023715.1	1669673	1669674	-	.	+	-	135	
+NZ_CP023715.1	1669674	1669675	-	.	+	-	134	
+NZ_CP023715.1	1669725	1669726	-	.	+	-	83	
+NZ_CP023715.1	1669917	1669918	ribonuclease P protein component	.	+	>|	106	
+NZ_CP023715.1	1672452	1672453	ribosome biogenesis GTP-binding protein YihA/YsxC|PepSY domain-containing protein	.	-	>|<	28,39	
+NZ_CP023715.1	1672493	1672494	ribosome biogenesis GTP-binding protein YihA/YsxC	.	+	>|	69	
+NZ_CP023715.1	1678385	1678386	succinyl-diaminopimelate desuccinylase|hypothetical protein	.	+	>|<	51,5	
+NZ_CP023715.1	1681122	1681123	-	.	-	-	73	
+NZ_CP023715.1	1681319	1681320	-	.	-	-	270	
+NZ_CP023715.1	1681553	1681554	-	.	-	-	504	
+NZ_CP023715.1	1682770	1682771	protein-export chaperone SecB	.	+	>|	65	
+NZ_CP023715.1	1682771	1682772	protein-export chaperone SecB	.	+	>|	66	
+NZ_CP023715.1	1682772	1682773	protein-export chaperone SecB	.	+	>|	67	
+NZ_CP023715.1	1697770	1697771	SMP-30/gluconolactonase/LRE family protein	.	+	>|	93	
+NZ_CP023715.1	1697771	1697772	SMP-30/gluconolactonase/LRE family protein	.	+	>|	94	
+NZ_CP023715.1	1697791	1697792	SMP-30/gluconolactonase/LRE family protein	.	+	>|	114	
+NZ_CP023715.1	1702440	1702441	aspartate kinase	.	-	|<	71	
+NZ_CP023715.1	1709410	1709411	-	.	+	-	730	
+NZ_CP023715.1	1710101	1710102	-	.	+	-	841	
+NZ_CP023715.1	1710885	1710886	ATP-dependent zinc metalloprotease FtsH	.	+	>|	70	
+NZ_CP023715.1	1710886	1710887	ATP-dependent zinc metalloprotease FtsH	.	+	>|	71	
+NZ_CP023715.1	1710887	1710888	ATP-dependent zinc metalloprotease FtsH	.	+	>|	72	
+NZ_CP023715.1	1713879	1713880	ribosome silencing factor	.	+	>|	84	
+NZ_CP023715.1	1719179	1719180	hypothetical protein	.	+	>|	46	
+NZ_CP023715.1	1730241	1730242	-	.	+	-	181	
+NZ_CP023715.1	1731790	1731791	-	.	+	-	534	
+NZ_CP023715.1	1740951	1740952	DnaJ domain-containing protein	.	+	>|	64	
+NZ_CP023715.1	1740952	1740953	DnaJ domain-containing protein	.	+	>|	65	
+NZ_CP023715.1	1744114	1744115	chorismate synthase|TonB-dependent receptor	.	-	>|<	22,57	
+NZ_CP023715.1	1746652	1746653	-	.	-	-	1	
+NZ_CP023715.1	1747549	1747550	zinc-binding alcohol dehydrogenase family protein	.	-	|<	63	
+NZ_CP023715.1	1749225	1749226	GTP cyclohydrolase II	.	+	|<	41	conflict
+NZ_CP023715.1	1751309	1751310	-	.	-	-	147	
+NZ_CP023715.1	1751310	1751311	-	.	-	-	148	
+NZ_CP023715.1	1751311	1751312	-	.	-	-	149	
+NZ_CP023715.1	1751312	1751313	-	.	-	-	150	
+NZ_CP023715.1	1751313	1751314	-	.	-	-	151	
+NZ_CP023715.1	1751314	1751315	-	.	-	-	152	
+NZ_CP023715.1	1751333	1751334	-	.	-	-	171	
+NZ_CP023715.1	1751336	1751337	-	.	-	-	174	
+NZ_CP023715.1	1751354	1751355	-	.	-	-	192	
+NZ_CP023715.1	1751355	1751356	-	.	-	-	193	
+NZ_CP023715.1	1751356	1751357	-	.	-	-	194	
+NZ_CP023715.1	1751357	1751358	-	.	-	-	195	
+NZ_CP023715.1	1760139	1760140	pyridoxine 5'-phosphate synthase	.	+	>|	96	
+NZ_CP023715.1	1760140	1760141	pyridoxine 5'-phosphate synthase	.	+	>|	97	
+NZ_CP023715.1	1760142	1760143	pyridoxine 5'-phosphate synthase	.	+	>|	99	
+NZ_CP023715.1	1763298	1763299	30S ribosomal protein S21	.	-	|<	124	
+NZ_CP023715.1	1763299	1763300	30S ribosomal protein S21	.	-	|<	123	
+NZ_CP023715.1	1763335	1763336	30S ribosomal protein S21	.	-	|<	87	
+NZ_CP023715.1	1763336	1763337	30S ribosomal protein S21	.	-	|<	86	
+NZ_CP023715.1	1763398	1763399	30S ribosomal protein S21	.	-	|<	24	
+NZ_CP023715.1	1763464	1763465	-	.	-	-	322	
+NZ_CP023715.1	1763473	1763474	-	.	-	-	331	
+NZ_CP023715.1	1763496	1763497	-	.	-	-	354	
+NZ_CP023715.1	1763839	1763840	biopolymer transporter ExbD	.	-	|<	118	
+NZ_CP023715.1	1763840	1763841	biopolymer transporter ExbD	.	-	|<	117	
+NZ_CP023715.1	1763841	1763842	biopolymer transporter ExbD	.	-	|<	116	
+NZ_CP023715.1	1763842	1763843	biopolymer transporter ExbD	.	-	|<	115	
+NZ_CP023715.1	1763870	1763871	biopolymer transporter ExbD	.	-	|<	87	
+NZ_CP023715.1	1764592	1764593	-	.	-	-	213	
+NZ_CP023715.1	1764889	1764890	-	.	-	-	161	
+NZ_CP023715.1	1765000	1765001	MotA/TolQ/ExbB proton channel family protein	.	-	|<	50	
+NZ_CP023715.1	1765001	1765002	MotA/TolQ/ExbB proton channel family protein	.	-	|<	49	
+NZ_CP023715.1	1765002	1765003	MotA/TolQ/ExbB proton channel family protein	.	-	|<	48	
+NZ_CP023715.1	1765003	1765004	MotA/TolQ/ExbB proton channel family protein	.	-	|<	47	
+NZ_CP023715.1	1765284	1765285	-	.	-	-	361	
+NZ_CP023715.1	1765285	1765286	-	.	-	-	362	
+NZ_CP023715.1	1765290	1765291	-	.	-	-	367	
+NZ_CP023715.1	1765341	1765342	-	.	-	-	418	
+NZ_CP023715.1	1765564	1765565	-	.	-	-	406	
+NZ_CP023715.1	1765582	1765583	-	.	-	-	388	
+NZ_CP023715.1	1765621	1765622	-	.	-	-	349	
+NZ_CP023715.1	1765733	1765734	-	.	-	-	237	
+NZ_CP023715.1	1766215	1766216	-	.	-	-	422	
+NZ_CP023715.1	1766349	1766350	-	.	-	-	556	
+NZ_CP023715.1	1766760	1766761	-	.	-	-	59	
+NZ_CP023715.1	1766767	1766768	-	.	-	-	66	
+NZ_CP023715.1	1768672	1768673	-	.	+	-	6	
+NZ_CP023715.1	1768744	1768745	-	.	+	-	829	
+NZ_CP023715.1	1768850	1768851	-	.	+	-	884	
+NZ_CP023715.1	1768865	1768866	-	.	+	-	869	
+NZ_CP023715.1	1768957	1768958	-	.	+	-	777	
+NZ_CP023715.1	1769033	1769034	-	.	+	-	701	
+NZ_CP023715.1	1769231	1769232	-	.	+	-	503	
+NZ_CP023715.1	1769488	1769489	-	.	+	-	246	
+NZ_CP023715.1	1769667	1769668	DNA-directed RNA polymerase subunit omega	.	-	|<	67	
+NZ_CP023715.1	1769668	1769669	DNA-directed RNA polymerase subunit omega	.	-	|<	66	
+NZ_CP023715.1	1769669	1769670	DNA-directed RNA polymerase subunit omega	.	-	|<	65	
+NZ_CP023715.1	1769685	1769686	DNA-directed RNA polymerase subunit omega	.	-	|<	49	
+NZ_CP023715.1	1769686	1769687	DNA-directed RNA polymerase subunit omega	.	-	|<	48	
+NZ_CP023715.1	1769702	1769703	DNA-directed RNA polymerase subunit omega	.	+	|<	32	conflict
+NZ_CP023715.1	1769703	1769704	DNA-directed RNA polymerase subunit omega	.	+	|<	31	conflict
+NZ_CP023715.1	1769704	1769705	DNA-directed RNA polymerase subunit omega	.	+	|<	30	conflict
+NZ_CP023715.1	1769705	1769706	DNA-directed RNA polymerase subunit omega	.	+	|<	29	conflict
+NZ_CP023715.1	1769706	1769707	DNA-directed RNA polymerase subunit omega	.	-	|<	28	
+NZ_CP023715.1	1769707	1769708	DNA-directed RNA polymerase subunit omega	.	-	|<	27	
+NZ_CP023715.1	1769721	1769722	DNA-directed RNA polymerase subunit omega	.	-	|<	13	
+NZ_CP023715.1	1769735	1769736	-	.	-	-	206	
+NZ_CP023715.1	1769740	1769741	-	.	-	-	211	
+NZ_CP023715.1	1769755	1769756	-	.	-	-	226	
+NZ_CP023715.1	1769823	1769824	-	.	-	-	294	
+NZ_CP023715.1	1769905	1769906	-	.	-	-	376	
+NZ_CP023715.1	1769985	1769986	-	.	-	-	307	
+NZ_CP023715.1	1770247	1770248	VOC family protein	.	-	|<	45	
+NZ_CP023715.1	1770249	1770250	VOC family protein	.	-	|<	43	
+NZ_CP023715.1	1770250	1770251	VOC family protein	.	-	|<	42	
+NZ_CP023715.1	1770251	1770252	VOC family protein	.	-	|<	41	
+NZ_CP023715.1	1770252	1770253	VOC family protein	.	-	|<	40	
+NZ_CP023715.1	1776522	1776523	LL-diaminopimelate aminotransferase	.	+	>|	67	
+NZ_CP023715.1	1776523	1776524	LL-diaminopimelate aminotransferase	.	+	>|	68	
+NZ_CP023715.1	1778465	1778466	peroxiredoxin	.	-	|<	59	
+NZ_CP023715.1	1778466	1778467	peroxiredoxin	.	-	|<	58	
+NZ_CP023715.1	1778467	1778468	peroxiredoxin	.	-	|<	57	
+NZ_CP023715.1	1778468	1778469	peroxiredoxin	.	-	|<	56	
+NZ_CP023715.1	1778483	1778484	peroxiredoxin	.	-	|<	41	
+NZ_CP023715.1	1778484	1778485	peroxiredoxin	.	-	|<	40	
+NZ_CP023715.1	1778500	1778501	peroxiredoxin	.	-	|<	24	
+NZ_CP023715.1	1778501	1778502	peroxiredoxin	.	-	|<	23	
+NZ_CP023715.1	1778642	1778643	-	.	-	-	463	
+NZ_CP023715.1	1778784	1778785	-	.	-	-	474	
+NZ_CP023715.1	1778863	1778864	-	.	-	-	395	
+NZ_CP023715.1	1778908	1778909	-	.	-	-	350	
+NZ_CP023715.1	1778944	1778945	-	.	-	-	314	
+NZ_CP023715.1	1779122	1779123	-	.	-	-	56	
+NZ_CP023715.1	1779123	1779124	-	.	-	-	57	
+NZ_CP023715.1	1779909	1779910	-	.	+	-	643	
+NZ_CP023715.1	1780268	1780269	LysR substrate-binding domain-containing protein	.	+	>|	69	
+NZ_CP023715.1	1780269	1780270	LysR substrate-binding domain-containing protein	.	+	>|	70	
+NZ_CP023715.1	1780270	1780271	LysR substrate-binding domain-containing protein	.	+	>|	71	
+NZ_CP023715.1	1797161	1797162	-	.	+	-	381	
+NZ_CP023715.1	1797225	1797226	-	.	+	-	317	
+NZ_CP023715.1	1797336	1797337	-	.	+	-	206	
+NZ_CP023715.1	1797362	1797363	-	.	+	-	180	
+NZ_CP023715.1	1797364	1797365	-	.	+	-	178	
+NZ_CP023715.1	1797365	1797366	hypothetical protein	.	+	>|	1	
+NZ_CP023715.1	1797422	1797423	hypothetical protein	.	+	>|	58	
+NZ_CP023715.1	1797437	1797438	hypothetical protein	.	+	>|	73	
+NZ_CP023715.1	1797438	1797439	hypothetical protein	.	+	>|	74	
+NZ_CP023715.1	1797439	1797440	hypothetical protein	.	+	>|	75	
+NZ_CP023715.1	1797440	1797441	hypothetical protein	.	+	>|	76	
+NZ_CP023715.1	1798388	1798389	-	.	+	-	565	
+NZ_CP023715.1	1798838	1798839	-	.	+	-	286	
+NZ_CP023715.1	1798960	1798961	-	.	+	-	164	
+NZ_CP023715.1	1799042	1799043	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	+	>|<	57,82	
+NZ_CP023715.1	1799043	1799044	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	+	>|<	58,81	
+NZ_CP023715.1	1799055	1799056	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	70,69	
+NZ_CP023715.1	1799056	1799057	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	71,68	
+NZ_CP023715.1	1799057	1799058	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	72,67	
+NZ_CP023715.1	1799075	1799076	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	90,49	
+NZ_CP023715.1	1799076	1799077	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	91,48	
+NZ_CP023715.1	1799077	1799078	ferredoxin--NADP reductase|NAD-dependent succinate-semialdehyde dehydrogenase	.	-	>|<	92,47	
+NZ_CP023715.1	1799136	1799137	-	.	-	-	151	
+NZ_CP023715.1	1799227	1799228	-	.	-	-	242	
+NZ_CP023715.1	1799397	1799398	-	.	-	-	412	
+NZ_CP023715.1	1799475	1799476	-	.	-	-	490	
+NZ_CP023715.1	1799484	1799485	-	.	-	-	499	
+NZ_CP023715.1	1799837	1799838	-	.	-	-	852	
+NZ_CP023715.1	1799885	1799886	-	.	-	-	900	
+NZ_CP023715.1	1800052	1800053	-	.	-	-	750	
+NZ_CP023715.1	1800210	1800211	-	.	-	-	592	
+NZ_CP023715.1	1800211	1800212	-	.	-	-	591	
+NZ_CP023715.1	1800243	1800244	-	.	-	-	559	
+NZ_CP023715.1	1800271	1800272	-	.	-	-	531	
+NZ_CP023715.1	1800273	1800274	-	.	-	-	529	
+NZ_CP023715.1	1800274	1800275	-	.	-	-	528	
+NZ_CP023715.1	1800306	1800307	-	.	-	-	496	
+NZ_CP023715.1	1800350	1800351	-	.	-	-	452	
+NZ_CP023715.1	1800367	1800368	-	.	-	-	435	
+NZ_CP023715.1	1800393	1800394	-	.	-	-	409	
+NZ_CP023715.1	1800474	1800475	-	.	-	-	328	
+NZ_CP023715.1	1800492	1800493	-	.	-	-	310	
+NZ_CP023715.1	1800531	1800532	-	.	-	-	31	
+NZ_CP023715.1	1800532	1800533	-	.	-	-	32	
+NZ_CP023715.1	1800533	1800534	-	.	-	-	33	
+NZ_CP023715.1	1802567	1802568	-	.	+	-	875	
+NZ_CP023715.1	1803658	1803659	-	.	+	-	239	
+NZ_CP023715.1	1803835	1803836	-	.	+	-	267	
+NZ_CP023715.1	1803983	1803984	outer membrane protein assembly factor BamD	.	+	|<	119	conflict
+NZ_CP023715.1	1808903	1808904	hypothetical protein	.	-	|<	47	
+NZ_CP023715.1	1812290	1812291	UTP--glucose-1-phosphate uridylyltransferase GalU	.	-	|<	108	
+NZ_CP023715.1	1812327	1812328	UTP--glucose-1-phosphate uridylyltransferase GalU	.	-	|<	71	
+NZ_CP023715.1	1812328	1812329	UTP--glucose-1-phosphate uridylyltransferase GalU	.	-	|<	70	
+NZ_CP023715.1	1812939	1812940	-	.	-	-	450	
+NZ_CP023715.1	1816565	1816566	iron-containing alcohol dehydrogenase	.	-	|<	81	
+NZ_CP023715.1	1816566	1816567	iron-containing alcohol dehydrogenase	.	-	|<	80	
+NZ_CP023715.1	1816691	1816692	-	.	-	-	399	
+NZ_CP023715.1	1821373	1821374	-	.	+	-	649	
+NZ_CP023715.1	1821382	1821383	-	.	+	-	658	
+NZ_CP023715.1	1821535	1821536	-	.	+	-	811	
+NZ_CP023715.1	1821659	1821660	-	.	+	-	935	
+NZ_CP023715.1	1821661	1821662	-	.	+	-	937	
+NZ_CP023715.1	1821706	1821707	-	.	+	-	982	
+NZ_CP023715.1	1821827	1821828	-	.	+	-	1103	
+NZ_CP023715.1	1822364	1822365	-	.	+	-	1640	
+NZ_CP023715.1	1822705	1822706	-	.	+	-	1369	
+NZ_CP023715.1	1823089	1823090	-	.	+	-	985	
+NZ_CP023715.1	1823855	1823856	M1 family metallopeptidase	.	+	>|	57	
+NZ_CP023715.1	1823857	1823858	M1 family metallopeptidase	.	+	>|	59	
+NZ_CP023715.1	1823858	1823859	M1 family metallopeptidase	.	+	>|	60	
+NZ_CP023715.1	1826375	1826376	antibiotic biosynthesis monooxygenase	.	-	|<	58	
+NZ_CP023715.1	1826376	1826377	antibiotic biosynthesis monooxygenase	.	-	|<	57	
+NZ_CP023715.1	1826377	1826378	antibiotic biosynthesis monooxygenase	.	-	|<	56	
+NZ_CP023715.1	1826378	1826379	antibiotic biosynthesis monooxygenase	.	-	|<	55	
+NZ_CP023715.1	1826426	1826427	antibiotic biosynthesis monooxygenase	.	-	|<	7	
+NZ_CP023715.1	1826427	1826428	antibiotic biosynthesis monooxygenase	.	-	|<	6	
+NZ_CP023715.1	1826428	1826429	antibiotic biosynthesis monooxygenase	.	-	|<	5	
+NZ_CP023715.1	1826455	1826456	-	.	-	-	219	
+NZ_CP023715.1	1826471	1826472	-	.	-	-	235	
+NZ_CP023715.1	1826472	1826473	-	.	-	-	236	
+NZ_CP023715.1	1826487	1826488	-	.	-	-	251	
+NZ_CP023715.1	1826500	1826501	-	.	-	-	264	
+NZ_CP023715.1	1826501	1826502	-	.	-	-	265	
+NZ_CP023715.1	1826502	1826503	-	.	-	-	266	
+NZ_CP023715.1	1826514	1826515	-	.	-	-	278	
+NZ_CP023715.1	1826610	1826611	-	.	-	-	272	
+NZ_CP023715.1	1826751	1826752	-	.	-	-	131	
+NZ_CP023715.1	1826928	1826929	-	.	-	-	94	
+NZ_CP023715.1	1827025	1827026	-	.	-	-	191	
+NZ_CP023715.1	1827038	1827039	-	.	-	-	204	
+NZ_CP023715.1	1827099	1827100	-	.	-	-	243	
+NZ_CP023715.1	1843178	1843179	-	.	+	-	442	
+NZ_CP023715.1	1843293	1843294	-	.	+	-	557	
+NZ_CP023715.1	1843327	1843328	-	.	+	-	591	
+NZ_CP023715.1	1843963	1843964	-	.	+	-	873	
+NZ_CP023715.1	1843997	1843998	-	.	+	-	839	
+NZ_CP023715.1	1843998	1843999	-	.	+	-	838	
+NZ_CP023715.1	1844126	1844127	-	.	+	-	710	
+NZ_CP023715.1	1844152	1844153	-	.	+	-	684	
+NZ_CP023715.1	1844291	1844292	-	.	+	-	545	
+NZ_CP023715.1	1844339	1844340	-	.	+	-	497	
+NZ_CP023715.1	1844340	1844341	-	.	+	-	496	
+NZ_CP023715.1	1844417	1844418	-	.	+	-	419	
+NZ_CP023715.1	1844553	1844554	-	.	+	-	283	
+NZ_CP023715.1	1844642	1844643	-	.	+	-	194	
+NZ_CP023715.1	1844643	1844644	-	.	+	-	193	
+NZ_CP023715.1	1844728	1844729	30S ribosomal protein S1|PhzF family phenazine biosynthesis protein	.	-	>|<	19,108	
+NZ_CP023715.1	1844768	1844769	30S ribosomal protein S1|PhzF family phenazine biosynthesis protein	.	+	>|<	59,68	
+NZ_CP023715.1	1844769	1844770	30S ribosomal protein S1|PhzF family phenazine biosynthesis protein	.	+	>|<	60,67	
+NZ_CP023715.1	1846457	1846458	-	.	+	-	221	
+NZ_CP023715.1	1846534	1846535	-	.	+	-	198	
+NZ_CP023715.1	1846585	1846586	-	.	+	-	147	
+NZ_CP023715.1	1846586	1846587	-	.	+	-	146	
+NZ_CP023715.1	1846594	1846595	-	.	+	-	138	
+NZ_CP023715.1	1861171	1861172	-	.	+	-	714	
+NZ_CP023715.1	1864868	1864869	4Fe-4S binding protein	.	+	>|	83	
+NZ_CP023715.1	1864869	1864870	4Fe-4S binding protein	.	+	>|	84	
+NZ_CP023715.1	1882007	1882008	ModD protein|TOBE domain-containing protein	.	-	>|<	84,40	
+NZ_CP023715.1	1882008	1882009	ModD protein|TOBE domain-containing protein	.	-	>|<	85,39	
+NZ_CP023715.1	1882010	1882011	ModD protein|TOBE domain-containing protein	.	-	>|<	87,37	
+NZ_CP023715.1	1882199	1882200	-	.	-	-	276	
+NZ_CP023715.1	1882218	1882219	-	.	-	-	295	
+NZ_CP023715.1	1884071	1884072	-	.	-	-	272	
+NZ_CP023715.1	1884393	1884394	-	.	-	-	594	
+NZ_CP023715.1	1884763	1884764	-	.	-	-	423	
+NZ_CP023715.1	1885136	1885137	oxidoreductase	.	-	|<	50	
+NZ_CP023715.1	1886302	1886303	alkylphosphonate utilization protein	.	-	|<	98	
+NZ_CP023715.1	1889549	1889550	-	.	-	-	907	
+NZ_CP023715.1	1889613	1889614	-	.	-	-	843	
+NZ_CP023715.1	1892611	1892612	flavodoxin FldA	.	-	|<	43	
+NZ_CP023715.1	1906554	1906555	-	.	+	-	1468	
+NZ_CP023715.1	1908011	1908012	carbohydrate porin|VIT family protein	.	+	>|<	61,11	
+NZ_CP023715.1	1909192	1909193	nitronate monooxygenase	.	-	|<	80	
+NZ_CP023715.1	1919223	1919224	-	.	-	-	770	
+NZ_CP023715.1	1919224	1919225	-	.	-	-	769	
+NZ_CP023715.1	1919225	1919226	-	.	-	-	768	
+NZ_CP023715.1	1919231	1919232	-	.	-	-	762	
+NZ_CP023715.1	1919930	1919931	ribonuclease J	.	-	|<	63	
+NZ_CP023715.1	1919931	1919932	ribonuclease J	.	-	|<	62	
+NZ_CP023715.1	1926706	1926707	-	.	-	-	159	
+NZ_CP023715.1	1926707	1926708	-	.	-	-	158	
+NZ_CP023715.1	1926708	1926709	-	.	-	-	157	
+NZ_CP023715.1	1926795	1926796	Grx4 family monothiol glutaredoxin	.	-	|<	70	
+NZ_CP023715.1	1928551	1928552	-	.	+	-	315	
+NZ_CP023715.1	1930077	1930078	-	.	+	-	360	
+NZ_CP023715.1	1934569	1934570	-	.	-	-	320	
+NZ_CP023715.1	1937991	1937992	alkene reductase	.	-	|<	53	
+NZ_CP023715.1	1937992	1937993	alkene reductase	.	-	|<	52	
+NZ_CP023715.1	1937994	1937995	alkene reductase	.	-	|<	50	
+NZ_CP023715.1	1939093	1939094	-	.	-	-	214	
+NZ_CP023715.1	1943560	1943561	threonine synthase	.	-	|<	76	
+NZ_CP023715.1	1947055	1947056	adenosine kinase|protein translocase subunit SecF	.	+	>|<	81,40	
+NZ_CP023715.1	1947056	1947057	adenosine kinase|protein translocase subunit SecF	.	+	>|<	82,39	
+NZ_CP023715.1	1947073	1947074	adenosine kinase|protein translocase subunit SecF	.	+	>|<	99,22	
+NZ_CP023715.1	1947074	1947075	adenosine kinase|protein translocase subunit SecF	.	+	>|<	100,21	
+NZ_CP023715.1	1947075	1947076	adenosine kinase|protein translocase subunit SecF	.	+	>|<	101,20	
+NZ_CP023715.1	1950786	1950787	ketoacyl-ACP synthase III	.	-	|<	60	
+NZ_CP023715.1	1952055	1952056	-	.	-	-	238	
+NZ_CP023715.1	1952300	1952301	-	.	-	-	483	
+NZ_CP023715.1	1952308	1952309	-	.	-	-	491	
+NZ_CP023715.1	1952309	1952310	-	.	-	-	492	
+NZ_CP023715.1	1952310	1952311	-	.	-	-	493	
+NZ_CP023715.1	1952352	1952353	-	.	-	-	530	
+NZ_CP023715.1	1952612	1952613	-	.	-	-	270	
+NZ_CP023715.1	1952613	1952614	-	.	-	-	269	
+NZ_CP023715.1	1952639	1952640	-	.	-	-	243	
+NZ_CP023715.1	1952930	1952931	-	.	-	-	61	
+NZ_CP023715.1	1952955	1952956	-	.	-	-	86	
+NZ_CP023715.1	1953099	1953100	-	.	-	-	38	
+NZ_CP023715.1	1958201	1958202	NAD(P)-dependent glycerol-3-phosphate dehydrogenase|translation initiation factor IF-3	.	-	>|<	35,43	
+NZ_CP023715.1	1958203	1958204	NAD(P)-dependent glycerol-3-phosphate dehydrogenase|translation initiation factor IF-3	.	-	>|<	37,41	
+NZ_CP023715.1	1958204	1958205	NAD(P)-dependent glycerol-3-phosphate dehydrogenase|translation initiation factor IF-3	.	-	>|<	38,40	
+NZ_CP023715.1	1960598	1960599	-	.	+	-	1034	
+NZ_CP023715.1	1963116	1963117	-	.	+	-	237	
+NZ_CP023715.1	1963261	1963262	-	.	+	-	382	
+NZ_CP023715.1	1963745	1963746	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	37	
+NZ_CP023715.1	1963746	1963747	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	38	
+NZ_CP023715.1	1963747	1963748	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	39	
+NZ_CP023715.1	1963748	1963749	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	40	
+NZ_CP023715.1	1963749	1963750	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	41	
+NZ_CP023715.1	1965598	1965599	redox-regulated ATPase YchF	.	+	>|	96	
+NZ_CP023715.1	1972133	1972134	-	.	-	-	194	
+NZ_CP023715.1	1972134	1972135	-	.	-	-	193	
+NZ_CP023715.1	1973565	1973566	hypothetical protein	.	+	>|	33	
+NZ_CP023715.1	1973579	1973580	hypothetical protein	.	+	>|	47	
+NZ_CP023715.1	1973582	1973583	hypothetical protein	.	+	>|	50	
+NZ_CP023715.1	1973583	1973584	hypothetical protein	.	+	>|	51	
+NZ_CP023715.1	1979036	1979037	U32 family peptidase	.	-	|<	82	
+NZ_CP023715.1	1981985	1981986	signal peptide peptidase SppA	.	-	|<	59	
+NZ_CP023715.1	1984385	1984386	-	.	+	-	339	
+NZ_CP023715.1	1984386	1984387	-	.	+	-	338	
+NZ_CP023715.1	1984572	1984573	-	.	+	-	152	
+NZ_CP023715.1	1984768	1984769	-	.	+	-	151	
+NZ_CP023715.1	1984824	1984825	-	.	+	-	207	
+NZ_CP023715.1	1985311	1985312	-	.	+	-	694	
+NZ_CP023715.1	1985863	1985864	-	.	+	-	758	
+NZ_CP023715.1	1986046	1986047	-	.	+	-	575	
+NZ_CP023715.1	1986109	1986110	-	.	+	-	512	
+NZ_CP023715.1	1986126	1986127	-	.	+	-	495	
+NZ_CP023715.1	1986127	1986128	-	.	+	-	494	
+NZ_CP023715.1	1986128	1986129	-	.	+	-	493	
+NZ_CP023715.1	1986331	1986332	-	.	+	-	290	
+NZ_CP023715.1	1986333	1986334	-	.	+	-	288	
+NZ_CP023715.1	1986396	1986397	chaperonin GroEL	.	+	>|	32	
+NZ_CP023715.1	1986413	1986414	chaperonin GroEL	.	+	>|	49	
+NZ_CP023715.1	1986414	1986415	chaperonin GroEL	.	+	>|	50	
+NZ_CP023715.1	1986415	1986416	chaperonin GroEL	.	+	>|	51	
+NZ_CP023715.1	1986427	1986428	chaperonin GroEL	.	+	>|	63	
+NZ_CP023715.1	1986428	1986429	chaperonin GroEL	.	+	>|	64	
+NZ_CP023715.1	1986442	1986443	chaperonin GroEL	.	+	>|	78	
+NZ_CP023715.1	1986443	1986444	chaperonin GroEL	.	+	>|	79	
+NZ_CP023715.1	1986444	1986445	chaperonin GroEL	.	+	>|	80	
+NZ_CP023715.1	1986445	1986446	chaperonin GroEL	.	+	>|	81	
+NZ_CP023715.1	2006734	2006735	-	.	-	-	271	
+NZ_CP023715.1	2006735	2006736	-	.	-	-	272	

@@ -1,0 +1,1159 @@
+NC_003155.5	44000	44001	SMI1/KNR4 family protein	.	-	|<	106	
+NC_003155.5	44062	44063	hypothetical protein|SMI1/KNR4 family protein	.	-	>|<	17,44	
+NC_003155.5	44108	44109	hypothetical protein	.	+	>|	63	
+NC_003155.5	57861	57862	RNA-guided endonuclease TnpB family protein	.	+	>|	52	
+NC_003155.5	67731	67732	-	.	+	-	186	
+NC_003155.5	69455	69456	hypothetical protein	.	+	>|	54	
+NC_003155.5	70668	70669	RNA-guided endonuclease TnpB family protein	.	-	|<	49	
+NC_003155.5	79935	79936	SRPBCC family protein	.	+	>|	86	
+NC_003155.5	98114	98115	-	.	+	-	801	
+NC_003155.5	98167	98168	-	.	+	-	748	
+NC_003155.5	98449	98450	-	.	+	-	466	
+NC_003155.5	98682	98683	-	.	+	-	233	
+NC_003155.5	98767	98768	-	.	+	-	148	
+NC_003155.5	121733	121734	-	.	+	-	201	
+NC_003155.5	614267	614268	hypothetical protein	.	-	|<	118	
+NC_003155.5	616891	616892	-	.	+	-	514	
+NC_003155.5	616943	616944	-	.	+	-	566	
+NC_003155.5	647869	647870	-	.	-	-	740	
+NC_003155.5	888591	888592	CsbD family protein	.	-	|<	44	
+NC_003155.5	889912	889913	PRC-barrel domain-containing protein	.	+	>|	62	
+NC_003155.5	891534	891535	-	.	+	-	629	
+NC_003155.5	957752	957753	hypothetical protein	.	-	|<	55	
+NC_003155.5	972856	972857	-	.	+	-	228	
+NC_003155.5	977414	977415	cold-shock protein	.	-	|<	46	
+NC_003155.5	982932	982933	-	.	-	-	142	
+NC_003155.5	1050729	1050730	-	.	+	-	885	
+NC_003155.5	1059976	1059977	MBL fold metallo-hydrolase	.	+	|<	84	conflict
+NC_003155.5	1060444	1060445	-	.	+	-	269	
+NC_003155.5	1071608	1071609	cold-shock protein	.	-	|<	45	
+NC_003155.5	1074821	1074822	-	.	-	-	225	
+NC_003155.5	1074976	1074977	TerD family protein|alpha-amylase	.	+	>|<	106,70	
+NC_003155.5	1075000	1075001	alpha-amylase	.	-	|<	46	
+NC_003155.5	1075043	1075044	alpha-amylase	.	+	|<	3	conflict
+NC_003155.5	1217731	1217732	-	.	-	-	543	
+NC_003155.5	1219204	1219205	hypothetical protein	.	+	>|	64	
+NC_003155.5	1219274	1219275	-	.	-	-	134	
+NC_003155.5	1223984	1223985	-	.	+	-	357	
+NC_003155.5	1224137	1224138	-	.	-	-	204	
+NC_003155.5	1224316	1224317	hypothetical protein	.	+	|<	25	conflict
+NC_003155.5	1224322	1224323	hypothetical protein	.	-	|<	19	
+NC_003155.5	1225751	1225752	-	.	-	-	192	
+NC_003155.5	1225788	1225789	-	.	+	-	229	
+NC_003155.5	1243595	1243596	-	.	-	-	256	
+NC_003155.5	1272811	1272812	GlsB/YeaQ/YmgE family stress response membrane protein	.	-	|<	76	
+NC_003155.5	1274409	1274410	-	.	+	-	147	
+NC_003155.5	1341360	1341361	DUF4190 domain-containing protein	.	-	|<	60	
+NC_003155.5	1374959	1374960	SpoIIE family protein phosphatase	.	+	>|	69	
+NC_003155.5	1375293	1375294	-	.	+	-	403	
+NC_003155.5	1375927	1375928	RNA polymerase sigma factor SigF|CsbD family protein	.	-	>|<	13,51	
+NC_003155.5	1376147	1376148	hypothetical protein	.	-	|<	110	
+NC_003155.5	1377232	1377233	-	.	+	-	56	
+NC_003155.5	1385839	1385840	-	.	-	-	180	
+NC_003155.5	1393009	1393010	hypothetical protein	.	-	|<	63	
+NC_003155.5	1401923	1401924	-	.	-	-	129	
+NC_003155.5	1403753	1403754	-	.	-	-	277	
+NC_003155.5	1413018	1413019	ABC transporter substrate-binding protein	.	+	>|	74	
+NC_003155.5	1415323	1415324	AIM24 family protein|M4 family metallopeptidase	.	-	>|<	12,54	
+NC_003155.5	1415355	1415356	AIM24 family protein|M4 family metallopeptidase	.	+	>|<	44,22	
+NC_003155.5	1426141	1426142	tyrosinase family protein|ribonuclease HI	.	+	>|<	57,85	
+NC_003155.5	1426523	1426524	-	.	-	-	439	
+NC_003155.5	1426839	1426840	-	.	+	-	306	
+NC_003155.5	1440284	1440285	-	.	+	-	386	
+NC_003155.5	1454661	1454662	-	.	-	-	149	
+NC_003155.5	1454748	1454749	adenosine deaminase	.	-	|<	62	
+NC_003155.5	1535030	1535031	-	.	-	-	743	
+NC_003155.5	1535192	1535193	-	.	-	-	581	
+NC_003155.5	1535273	1535274	-	.	-	-	500	
+NC_003155.5	1535732	1535733	-	.	+	-	41	
+NC_003155.5	1536932	1536933	aminoglycoside phosphotransferase family protein	.	+	>|	17	
+NC_003155.5	1540425	1540426	DUF397 domain-containing protein	.	-	|<	42	
+NC_003155.5	1588498	1588499	-	.	+	-	358	
+NC_003155.5	1597242	1597243	-	.	-	-	142	
+NC_003155.5	1675909	1675910	-	.	+	-	221	
+NC_003155.5	1675986	1675987	-	.	+	-	298	
+NC_003155.5	1683885	1683886	M4 family metallopeptidase|SDR family NAD(P)-dependent oxidoreductase	.	+	>|<	60,121	
+NC_003155.5	1766616	1766617	-	.	+	-	315	
+NC_003155.5	1815118	1815119	dipeptidase	.	+	>|	57	
+NC_003155.5	1817132	1817133	hypothetical protein	.	-	|<	34	
+NC_003155.5	1824727	1824728	endonuclease/exonuclease/phosphatase family protein|electron transfer flavoprotein subunit alpha/FixB family protein	.	-	>|<	66,55	
+NC_003155.5	1825286	1825287	-	.	-	-	513	
+NC_003155.5	1830642	1830643	low specificity L-threonine aldolase	.	-	|<	74	
+NC_003155.5	1843492	1843493	HAD-IA family hydrolase	.	-	>|	51	conflict
+NC_003155.5	1843805	1843806	-	.	+	-	364	
+NC_003155.5	1872256	1872257	hypothetical protein|lactonase family protein	.	+	>|<	59,64	
+NC_003155.5	1947790	1947791	-	.	-	-	167	
+NC_003155.5	1992013	1992014	-	.	-	-	273	
+NC_003155.5	2008649	2008650	peptidoglycan DD-metalloendopeptidase family protein	.	-	|<	62	
+NC_003155.5	2013933	2013934	aspartate aminotransferase family protein	.	-	|<	72	
+NC_003155.5	2024163	2024164	-	.	+	-	693	
+NC_003155.5	2027157	2027158	ABC transporter ATP-binding protein	.	-	|<	49	
+NC_003155.5	2031662	2031663	phosphocholine cytidylyltransferase family protein	.	-	|<	30	
+NC_003155.5	2031748	2031749	-	.	-	-	44	
+NC_003155.5	2041076	2041077	-	.	+	-	398	
+NC_003155.5	2052914	2052915	amino acid permease	.	-	|<	83	
+NC_003155.5	2053716	2053717	-	.	-	-	763	
+NC_003155.5	2063355	2063356	hypothetical protein	.	-	|<	65	
+NC_003155.5	2070759	2070760	-	.	+	-	999	
+NC_003155.5	2093846	2093847	DMT family transporter|DUF2510 domain-containing protein	.	-	>|<	21,70	
+NC_003155.5	2129976	2129977	-	.	-	-	89	
+NC_003155.5	2214148	2214149	-	.	-	-	678	
+NC_003155.5	2217067	2217068	-	.	+	-	11	
+NC_003155.5	2217212	2217213	hypothetical protein|DUF2075 domain-containing protein	.	-	>|<	6,58	
+NC_003155.5	2217246	2217247	hypothetical protein|DUF2075 domain-containing protein	.	+	>|<	40,24	
+NC_003155.5	2222598	2222599	-	.	-	-	431	
+NC_003155.5	2267931	2267932	aldo/keto reductase	.	+	>|	81	
+NC_003155.5	2286926	2286927	OsmC family protein	.	-	|<	61	
+NC_003155.5	2300753	2300754	-	.	-	-	475	
+NC_003155.5	2311085	2311086	-	.	-	-	101	
+NC_003155.5	2330295	2330296	-	.	-	-	12	
+NC_003155.5	2343776	2343777	-	.	+	-	216	
+NC_003155.5	2344822	2344823	acyl-CoA dehydrogenase family protein	.	+	>|	54	
+NC_003155.5	2346488	2346489	CDP-diacylglycerol--serine O-phosphatidyltransferase|glycerate kinase	.	+	>|<	61,38	
+NC_003155.5	2383162	2383163	TIGR03842 family LLM class F420-dependent oxidoreductase	.	-	|<	96	
+NC_003155.5	2394645	2394646	-	.	-	-	1022	
+NC_003155.5	2398079	2398080	-	.	-	-	134	
+NC_003155.5	2410119	2410120	-	.	-	-	197	
+NC_003155.5	2425666	2425667	-	.	-	-	175	
+NC_003155.5	2440695	2440696	malate synthase A	.	+	>|	52	
+NC_003155.5	2459999	2460000	urate oxidase	.	-	|<	41	
+NC_003155.5	2462116	2462117	-	.	-	-	200	
+NC_003155.5	2469008	2469009	-	.	+	-	185	
+NC_003155.5	2500103	2500104	CbtA family protein	.	-	|<	73	
+NC_003155.5	2500140	2500141	CbtA family protein	.	+	|<	36	conflict
+NC_003155.5	2528064	2528065	DUF2637 domain-containing protein	.	+	>|	91	
+NC_003155.5	2590373	2590374	acyl-CoA dehydrogenase family protein	.	-	>|	31	conflict
+NC_003155.5	2601675	2601676	-	.	+	-	218	
+NC_003155.5	2615718	2615719	-	.	-	-	360	
+NC_003155.5	2615909	2615910	-	.	-	-	169	
+NC_003155.5	2650286	2650287	SAM-dependent methyltransferase|ABC transporter substrate-binding protein	.	-	>|<	54,52	
+NC_003155.5	2657708	2657709	-	.	-	-	481	
+NC_003155.5	2673271	2673272	-	.	-	-	13	
+NC_003155.5	2684005	2684006	peptide-methionine (R)-S-oxide reductase MsrB	.	-	|<	44	
+NC_003155.5	2689301	2689302	hypothetical protein	.	+	>|	86	
+NC_003155.5	2691474	2691475	SulP family inorganic anion transporter	.	+	>|	42	
+NC_003155.5	2711769	2711770	ribonuclease D	.	+	>|	119	
+NC_003155.5	2715545	2715546	3-hydroxyacyl-CoA dehydrogenase NAD-binding domain-containing protein|bifunctional glycosyltransferase family 2 protein/CDP-glycerol:glycerophosphate glycerophosphotransferase	.	+	>|<	52,46	
+NC_003155.5	2730412	2730413	1-deoxy-D-xylulose-5-phosphate synthase	.	-	|<	56	
+NC_003155.5	2731350	2731351	-	.	-	-	1021	
+NC_003155.5	2732564	2732565	ABC transporter permease	.	-	|<	49	
+NC_003155.5	2734742	2734743	-	.	-	-	52	
+NC_003155.5	2736008	2736009	ROK family transcriptional regulator	.	-	|<	96	
+NC_003155.5	2739187	2739188	-	.	-	-	371	
+NC_003155.5	2753235	2753236	aconitate hydratase AcnA	.	-	|<	57	
+NC_003155.5	2753701	2753702	-	.	-	-	542	
+NC_003155.5	2755803	2755804	-	.	-	-	797	
+NC_003155.5	2757440	2757441	-	.	+	-	643	
+NC_003155.5	2758464	2758465	UDP-N-acetylglucosamine 1-carboxyvinyltransferase|hypothetical protein	.	+	>|<	73,123	
+NC_003155.5	2768896	2768897	TetR/AcrR family transcriptional regulator	.	+	>|	44	
+NC_003155.5	2770740	2770741	nuclear transport factor 2 family protein	.	-	|<	11	
+NC_003155.5	2773831	2773832	ketoacyl-ACP synthase III family protein	.	-	|<	46	
+NC_003155.5	2803400	2803401	-	.	+	-	563	
+NC_003155.5	2803583	2803584	-	.	+	-	380	
+NC_003155.5	2805672	2805673	-	.	+	-	213	
+NC_003155.5	2805936	2805937	-	.	+	-	477	
+NC_003155.5	2835293	2835294	-	.	-	-	164	
+NC_003155.5	2842418	2842419	-	.	+	-	36	
+NC_003155.5	2895037	2895038	-	.	-	-	274	
+NC_003155.5	2912499	2912500	-	.	+	-	144	
+NC_003155.5	2919876	2919877	TrkA family potassium uptake protein|DUF3159 domain-containing protein	.	-	>|<	72,71	
+NC_003155.5	2925966	2925967	DUF3710 domain-containing protein	.	-	|<	49	
+NC_003155.5	2932763	2932764	hypothetical protein|inositol monophosphatase	.	+	>|<	54,18	
+NC_003155.5	2947800	2947801	GntR family transcriptional regulator	.	+	|<	68	conflict
+NC_003155.5	2948699	2948700	M23 family metallopeptidase	.	-	|<	61	
+NC_003155.5	2949549	2949550	-	.	-	-	13	
+NC_003155.5	2949858	2949859	insulinase family protein	.	-	|<	54	
+NC_003155.5	2975708	2975709	hypothetical protein	.	+	>|	89	
+NC_003155.5	2976798	2976799	RNA polymerase sigma factor	.	-	|<	56	
+NC_003155.5	2990501	2990502	hypothetical protein	.	-	>|	95	conflict
+NC_003155.5	3002936	3002937	-	.	-	-	649	
+NC_003155.5	3014570	3014571	hypothetical protein	.	+	>|	78	
+NC_003155.5	3016931	3016932	-	.	-	-	695	
+NC_003155.5	3021663	3021664	diaminopimelate epimerase	.	-	|<	105	
+NC_003155.5	3033739	3033740	glutamate ABC transporter substrate-binding protein	.	+	>|	31	
+NC_003155.5	3034690	3034691	-	.	+	-	231	
+NC_003155.5	3035119	3035120	-	.	+	-	443	
+NC_003155.5	3039935	3039936	-	.	-	-	189	
+NC_003155.5	3058915	3058916	helix-turn-helix domain-containing protein	.	-	|<	76	
+NC_003155.5	3059920	3059921	-	.	-	-	60	
+NC_003155.5	3072632	3072633	SpoIIE family protein phosphatase	.	-	>|	60	conflict
+NC_003155.5	3079276	3079277	ribonuclease J	.	-	|<	74	
+NC_003155.5	3080891	3080892	-	.	-	-	273	
+NC_003155.5	3081049	3081050	4-hydroxy-tetrahydrodipicolinate synthase	.	-	|<	115	
+NC_003155.5	3082130	3082131	-	.	-	-	67	
+NC_003155.5	3082576	3082577	-	.	-	-	513	
+NC_003155.5	3083665	3083666	-	.	+	-	188	
+NC_003155.5	3085191	3085192	-	.	-	-	282	
+NC_003155.5	3086793	3086794	polyribonucleotide nucleotidyltransferase	.	-	|<	56	
+NC_003155.5	3087858	3087859	-	.	-	-	1006	
+NC_003155.5	3088737	3088738	-	.	-	-	676	
+NC_003155.5	3089203	3089204	-	.	-	-	138	
+NC_003155.5	3089363	3089364	30S ribosomal protein S15	.	-	|<	50	
+NC_003155.5	3091581	3091582	PQQ-binding-like beta-propeller repeat protein	.	-	|<	41	
+NC_003155.5	3102443	3102444	WXG100 family type VII secretion target	.	-	|<	105	
+NC_003155.5	3107639	3107640	-	.	+	-	221	
+NC_003155.5	3127906	3127907	30S ribosome-binding factor RbfA	.	-	|<	59	
+NC_003155.5	3132037	3132038	-	.	-	-	170	
+NC_003155.5	3132331	3132332	-	.	-	-	272	
+NC_003155.5	3136831	3136832	proline--tRNA ligase	.	-	|<	57	
+NC_003155.5	3140389	3140390	flavodoxin-dependent (E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase	.	-	|<	66	
+NC_003155.5	3141732	3141733	site-2 protease family protein	.	-	|<	49	
+NC_003155.5	3145043	3145044	lamin tail domain-containing protein	.	+	>|	66	
+NC_003155.5	3177000	3177001	-	.	+	-	205	
+NC_003155.5	3177131	3177132	-	.	+	-	336	
+NC_003155.5	3202827	3202828	hypothetical protein	.	+	>|	56	
+NC_003155.5	3208030	3208031	gamma-aminobutyraldehyde dehydrogenase	.	-	|<	88	
+NC_003155.5	3208076	3208077	gamma-aminobutyraldehyde dehydrogenase	.	+	|<	42	conflict
+NC_003155.5	3211754	3211755	-	.	+	-	116	
+NC_003155.5	3216515	3216516	LPXTG cell wall anchor domain-containing protein|ABC transporter ATP-binding protein	.	+	>|<	67,54	
+NC_003155.5	3220389	3220390	-	.	-	-	33	
+NC_003155.5	3221837	3221838	hypothetical protein	.	-	|<	122	
+NC_003155.5	3222575	3222576	phosphatidate cytidylyltransferase	.	-	|<	52	
+NC_003155.5	3223595	3223596	-	.	-	-	210	
+NC_003155.5	3225308	3225309	-	.	-	-	34	
+NC_003155.5	3226351	3226352	30S ribosomal protein S2	.	-	|<	57	
+NC_003155.5	3234941	3234942	-	.	-	-	415	
+NC_003155.5	3235199	3235200	-	.	-	-	157	
+NC_003155.5	3237954	3237955	50S ribosomal protein L19	.	-	|<	86	
+NC_003155.5	3239983	3239984	RNA-binding protein	.	-	|<	60	
+NC_003155.5	3240986	3240987	hypothetical protein	.	-	|<	10	
+NC_003155.5	3244443	3244444	methyltransferase type 11|signal recognition particle protein	.	-	>|<	78,8	
+NC_003155.5	3248544	3248545	P-II family nitrogen regulator	.	-	|<	80	
+NC_003155.5	3250524	3250525	hypothetical protein	.	-	|<	114	
+NC_003155.5	3253241	3253242	bifunctional DNA primase/polymerase|signal recognition particle-docking protein FtsY	.	-	>|<	17,73	
+NC_003155.5	3257099	3257100	sugar porter family MFS transporter	.	-	|<	119	
+NC_003155.5	3262613	3262614	hypothetical protein	.	-	|<	97	
+NC_003155.5	3269048	3269049	-	.	-	-	132	
+NC_003155.5	3269698	3269699	-	.	-	-	345	
+NC_003155.5	3271343	3271344	pantetheine-phosphate adenylyltransferase	.	-	|<	48	
+NC_003155.5	3283117	3283118	-	.	+	-	46	
+NC_003155.5	3283419	3283420	50S ribosomal protein L28|thiamine-phosphate kinase	.	+	>|<	71,69	
+NC_003155.5	3284979	3284980	Lrp/AsnC ligand binding domain-containing protein	.	+	>|	50	
+NC_003155.5	3285408	3285409	D-alanine--D-alanine ligase	.	-	|<	49	
+NC_003155.5	3289585	3289586	hypothetical protein|HU family DNA-binding protein	.	-	>|<	18,69	
+NC_003155.5	3291108	3291109	-	.	-	-	433	
+NC_003155.5	3295344	3295345	-	.	-	-	143	
+NC_003155.5	3295569	3295570	-	.	-	-	281	
+NC_003155.5	3295687	3295688	-	.	-	-	163	
+NC_003155.5	3299340	3299341	-	.	-	-	228	
+NC_003155.5	3300337	3300338	-	.	+	-	21	
+NC_003155.5	3304453	3304454	-	.	+	-	259	
+NC_003155.5	3305453	3305454	-	.	+	-	326	
+NC_003155.5	3305792	3305793	ATP/GTP-binding protein	.	+	>|	106	
+NC_003155.5	3305896	3305897	-	.	+	-	188	
+NC_003155.5	3309810	3309811	roadblock/LC7 domain-containing protein	.	+	>|	57	
+NC_003155.5	3310820	3310821	-	.	+	-	386	
+NC_003155.5	3313288	3313289	-	.	-	-	89	
+NC_003155.5	3325631	3325632	-	.	-	-	114	
+NC_003155.5	3325753	3325754	MFS transporter	.	-	|<	53	
+NC_003155.5	3337609	3337610	-	.	-	-	248	
+NC_003155.5	3339494	3339495	L-glutamate gamma-semialdehyde dehydrogenase	.	-	|<	62	
+NC_003155.5	3350828	3350829	helix-turn-helix transcriptional regulator|phosphoglycerate dehydrogenase	.	-	>|<	35,78	
+NC_003155.5	3351577	3351578	-	.	-	-	784	
+NC_003155.5	3352718	3352719	ketol-acid reductoisomerase	.	-	|<	45	
+NC_003155.5	3353840	3353841	acetolactate synthase small subunit	.	-	|<	44	
+NC_003155.5	3356353	3356354	-	.	-	-	65	
+NC_003155.5	3367411	3367412	hypothetical protein	.	-	|<	81	
+NC_003155.5	3392231	3392232	-	.	-	-	155	
+NC_003155.5	3396016	3396017	ABC transporter substrate-binding protein	.	-	|<	64	
+NC_003155.5	3397167	3397168	-	.	-	-	722	
+NC_003155.5	3402238	3402239	-	.	+	-	31	
+NC_003155.5	3404083	3404084	-	.	+	-	173	
+NC_003155.5	3405241	3405242	serine hydroxymethyltransferase	.	+	>|	55	
+NC_003155.5	3406878	3406879	-	.	+	-	217	
+NC_003155.5	3408786	3408787	EF-hand domain-containing protein	.	-	|<	44	
+NC_003155.5	3412928	3412929	-	.	-	-	152	
+NC_003155.5	3413800	3413801	-	.	-	-	77	
+NC_003155.5	3413866	3413867	-	.	-	-	131	
+NC_003155.5	3414790	3414791	Ig-like domain-containing protein	.	-	|<	55	
+NC_003155.5	3429820	3429821	M4 family metallopeptidase	.	+	>|	70	
+NC_003155.5	3434629	3434630	-	.	-	-	247	
+NC_003155.5	3434776	3434777	glycosyltransferase family 1 protein	.	-	|<	100	
+NC_003155.5	3457329	3457330	TetR/AcrR family transcriptional regulator|cation:dicarboxylase symporter family transporter	.	-	>|<	23,56	
+NC_003155.5	3474290	3474291	DUF6230 family protein	.	-	|<	78	
+NC_003155.5	3475157	3475158	-	.	-	-	145	
+NC_003155.5	3475535	3475536	tetratricopeptide repeat protein	.	-	|<	102	
+NC_003155.5	3479397	3479398	DUF3817 domain-containing protein	.	-	|<	37	
+NC_003155.5	3492551	3492552	MTH1187 family thiamine-binding protein	.	-	|<	57	
+NC_003155.5	3496077	3496078	MarR family transcriptional regulator|MFS transporter	.	+	>|<	11,102	
+NC_003155.5	3500516	3500517	methylmalonyl-CoA epimerase	.	+	>|	87	
+NC_003155.5	3500928	3500929	-	.	+	-	499	
+NC_003155.5	3504593	3504594	large Ala/Glu-rich protein	.	+	>|	60	
+NC_003155.5	3504962	3504963	-	.	+	-	429	
+NC_003155.5	3509959	3509960	ABC transporter permease subunit	.	+	>|	86	
+NC_003155.5	3511363	3511364	-	.	-	-	218	
+NC_003155.5	3511513	3511514	LLM class flavin-dependent oxidoreductase|SCO5389 family protein	.	-	>|<	29,68	
+NC_003155.5	3512974	3512975	endonuclease NucS|ATP-binding protein	.	+	>|<	86,42	
+NC_003155.5	3525384	3525385	F0F1 ATP synthase subunit epsilon	.	-	|<	75	
+NC_003155.5	3525896	3525897	F0F1 ATP synthase subunit beta	.	-	|<	48	
+NC_003155.5	3526451	3526452	-	.	-	-	618	
+NC_003155.5	3527394	3527395	-	.	-	-	14	
+NC_003155.5	3527547	3527548	-	.	-	-	167	
+NC_003155.5	3528795	3528796	-	.	-	-	498	
+NC_003155.5	3530755	3530756	F0F1 ATP synthase subunit B	.	-	|<	101	
+NC_003155.5	3531419	3531420	ATP synthase subunit C	.	-	|<	19	
+NC_003155.5	3532190	3532191	-	.	-	-	510	
+NC_003155.5	3535797	3535798	-	.	-	-	929	
+NC_003155.5	3556027	3556028	cytochrome P450	.	+	>|	68	
+NC_003155.5	3581443	3581444	type I polyketide synthase	.	-	|<	90	
+NC_003155.5	3627057	3627058	-	.	-	-	168	
+NC_003155.5	3632490	3632491	-	.	-	-	1343	
+NC_003155.5	3633161	3633162	-	.	-	-	672	
+NC_003155.5	3633797	3633798	alpha/beta fold hydrolase	.	-	|<	36	
+NC_003155.5	3641405	3641406	-	.	-	-	136	
+NC_003155.5	3641466	3641467	L-threonylcarbamoyladenylate synthase	.	-	|<	75	
+NC_003155.5	3644360	3644361	50S ribosomal protein L31	.	-	|<	60	
+NC_003155.5	3646275	3646276	transcription termination factor Rho	.	-	|<	59	
+NC_003155.5	3649897	3649898	-	.	-	-	160	
+NC_003155.5	3655908	3655909	-	.	-	-	96	
+NC_003155.5	3655943	3655944	-	.	+	-	131	
+NC_003155.5	3656033	3656034	-	.	+	-	221	
+NC_003155.5	3664160	3664161	DNA phosphorothioation-associated protein 4	.	-	|<	52	
+NC_003155.5	3672323	3672324	-	.	-	-	142	
+NC_003155.5	3679191	3679192	-	.	+	-	230	
+NC_003155.5	3688670	3688671	-	.	-	-	355	
+NC_003155.5	3724230	3724231	-	.	+	-	502	
+NC_003155.5	3727910	3727911	multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit|FxSxx-COOH system tetratricopeptide repeat protein	.	+	>|<	70,6	
+NC_003155.5	3733709	3733710	-	.	+	-	284	
+NC_003155.5	3736194	3736195	zinc-binding dehydrogenase	.	-	|<	69	
+NC_003155.5	3738388	3738389	-	.	-	-	927	
+NC_003155.5	3742098	3742099	amino acid ABC transporter ATP-binding protein|class I SAM-dependent methyltransferase	.	+	>|<	64,65	
+NC_003155.5	3744588	3744589	superoxide dismutase%2C Ni	.	-	>|	48	conflict
+NC_003155.5	3744652	3744653	superoxide dismutase%2C Ni	.	+	>|	112	
+NC_003155.5	3746556	3746557	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	56	
+NC_003155.5	3747907	3747908	-	.	+	-	189	
+NC_003155.5	3749045	3749046	-	.	+	-	261	
+NC_003155.5	3752038	3752039	NAD(P)/FAD-dependent oxidoreductase	.	+	>|	78	
+NC_003155.5	3760660	3760661	polyprenyl synthetase family protein	.	-	|<	81	
+NC_003155.5	3761960	3761961	cyclic nucleotide-binding domain-containing protein	.	-	|<	102	
+NC_003155.5	3767638	3767639	-	.	+	-	285	
+NC_003155.5	3769973	3769974	-	.	-	-	176	
+NC_003155.5	3771841	3771842	PAS domain-containing sensor histidine kinase	.	+	|<	102	conflict
+NC_003155.5	3773484	3773485	-	.	-	-	75	
+NC_003155.5	3786259	3786260	-	.	+	-	459	
+NC_003155.5	3786874	3786875	ribonucleotide-diphosphate reductase subunit beta	.	+	>|	61	
+NC_003155.5	3796255	3796256	mycothiol system anti-sigma-R factor	.	-	|<	81	
+NC_003155.5	3815411	3815412	-	.	-	-	163	
+NC_003155.5	3820555	3820556	hypothetical protein	.	-	|<	53	
+NC_003155.5	3825007	3825008	-	.	-	-	157	
+NC_003155.5	3832407	3832408	-	.	-	-	228	
+NC_003155.5	3832661	3832662	hypothetical protein	.	-	|<	60	
+NC_003155.5	3835970	3835971	mycoredoxin|NAD(+) diphosphatase	.	+	>|<	63,59	
+NC_003155.5	3852619	3852620	alpha/beta hydrolase|adenylyltransferase/sulfurtransferase MoeZ	.	-	>|<	10,53	
+NC_003155.5	3875971	3875972	hypothetical protein|MarC family protein	.	-	>|<	47,70	
+NC_003155.5	3876019	3876020	hypothetical protein|MarC family protein	.	+	>|<	95,22	
+NC_003155.5	3879859	3879860	-	.	+	-	250	
+NC_003155.5	3880103	3880104	-	.	+	-	49	
+NC_003155.5	3891940	3891941	-	.	-	-	17	
+NC_003155.5	3892953	3892954	O-methyltransferase|DUF3117 domain-containing protein	.	-	>|<	105,61	
+NC_003155.5	3901579	3901580	ferredoxin family protein	.	-	|<	62	
+NC_003155.5	3908113	3908114	membrane protein	.	-	|<	48	
+NC_003155.5	3913035	3913036	-	.	+	-	70	
+NC_003155.5	3914791	3914792	-	.	-	-	134	
+NC_003155.5	3914926	3914927	DUF397 domain-containing protein|hypothetical protein	.	-	>|<	60,51	
+NC_003155.5	3930004	3930005	dipeptide ABC transporter ATP-binding protein|MbtH family protein	.	-	>|<	88,83	
+NC_003155.5	3930047	3930048	MbtH family protein	.	+	|<	40	conflict
+NC_003155.5	3933317	3933318	-	.	-	-	295	
+NC_003155.5	3938976	3938977	-	.	-	-	247	
+NC_003155.5	3939292	3939293	-	.	-	-	442	
+NC_003155.5	3939682	3939683	2OG-Fe dioxygenase family protein	.	-	|<	52	
+NC_003155.5	3969128	3969129	-	.	-	-	388	
+NC_003155.5	3998490	3998491	redox-regulated ATPase YchF	.	-	|<	83	
+NC_003155.5	4005295	4005296	malonic semialdehyde reductase	.	-	>|	40	conflict
+NC_003155.5	4007190	4007191	class II fructose-bisphosphatase|WhiB family transcriptional regulator	.	+	>|<	50,80	
+NC_003155.5	4007253	4007254	class II fructose-bisphosphatase|WhiB family transcriptional regulator	.	-	>|<	113,17	
+NC_003155.5	4010431	4010432	fumarate hydratase	.	+	>|	55	
+NC_003155.5	4019853	4019854	-	.	+	-	762	
+NC_003155.5	4030522	4030523	alkyl hydroperoxide reductase|AI-2E family transporter	.	+	>|<	55,31	
+NC_003155.5	4031958	4031959	transglycosylase SLT domain-containing protein	.	-	|<	70	
+NC_003155.5	4032515	4032516	-	.	-	-	634	
+NC_003155.5	4032881	4032882	-	.	-	-	158	
+NC_003155.5	4033059	4033060	PhoH family protein	.	-	|<	90	
+NC_003155.5	4033109	4033110	PhoH family protein	.	+	|<	40	conflict
+NC_003155.5	4033440	4033441	-	.	-	-	717	
+NC_003155.5	4033878	4033879	-	.	-	-	898	
+NC_003155.5	4036141	4036142	-	.	-	-	324	
+NC_003155.5	4043947	4043948	-	.	-	-	149	
+NC_003155.5	4077870	4077871	-	.	-	-	321	
+NC_003155.5	4092456	4092457	hemolysin III family protein	.	+	>|	69	
+NC_003155.5	4110275	4110276	transcription elongation factor GreA	.	+	>|	58	
+NC_003155.5	4113449	4113450	cystathionine gamma-synthase	.	-	|<	76	
+NC_003155.5	4125127	4125128	iron ABC transporter permease|NAD(P)-dependent alcohol dehydrogenase	.	-	>|<	30,106	
+NC_003155.5	4129752	4129753	S8 family peptidase	.	-	|<	76	
+NC_003155.5	4137029	4137030	-	.	-	-	20	
+NC_003155.5	4137089	4137090	-	.	-	-	80	
+NC_003155.5	4137187	4137188	hypothetical protein	.	-	|<	51	
+NC_003155.5	4159853	4159854	phospho-sugar mutase	.	+	>|	38	
+NC_003155.5	4166268	4166269	hypothetical protein	.	+	|<	10	conflict
+NC_003155.5	4168094	4168095	-	.	-	-	635	
+NC_003155.5	4168220	4168221	-	.	-	-	509	
+NC_003155.5	4168287	4168288	-	.	-	-	442	
+NC_003155.5	4173124	4173125	adenosine deaminase	.	-	|<	50	
+NC_003155.5	4182157	4182158	ABC transporter permease	.	-	|<	34	
+NC_003155.5	4186346	4186347	BMP family ABC transporter substrate-binding protein	.	-	|<	96	
+NC_003155.5	4191555	4191556	-	.	-	-	257	
+NC_003155.5	4191659	4191660	-	.	-	-	153	
+NC_003155.5	4204932	4204933	L%2CD-transpeptidase family protein	.	-	>|	117	conflict
+NC_003155.5	4207426	4207427	hypothetical protein	.	+	|<	19	conflict
+NC_003155.5	4217875	4217876	succinate dehydrogenase%2C cytochrome b556 subunit	.	+	>|	92	
+NC_003155.5	4220882	4220883	succinate dehydrogenase iron-sulfur subunit|TM2 domain-containing protein	.	+	>|<	61,10	
+NC_003155.5	4227115	4227116	-	.	+	-	188	
+NC_003155.5	4259436	4259437	malate dehydrogenase	.	-	|<	70	
+NC_003155.5	4260701	4260702	-	.	-	-	206	
+NC_003155.5	4263359	4263360	-	.	+	-	234	
+NC_003155.5	4267773	4267774	RDD family protein|bifunctional phosphoribosylaminoimidazolecarboxamide formyltransferase/IMP cyclohydrolase	.	-	>|<	103,60	
+NC_003155.5	4274499	4274500	helix-turn-helix domain-containing protein|succinate--CoA ligase subunit alpha	.	-	>|<	50,101	
+NC_003155.5	4274555	4274556	helix-turn-helix domain-containing protein|succinate--CoA ligase subunit alpha	.	-	>|<	106,45	
+NC_003155.5	4274770	4274771	-	.	-	-	321	
+NC_003155.5	4275986	4275987	-	.	-	-	502	
+NC_003155.5	4276902	4276903	-	.	-	-	218	
+NC_003155.5	4295503	4295504	-	.	-	-	816	
+NC_003155.5	4310387	4310388	-	.	-	-	179	
+NC_003155.5	4310961	4310962	-	.	-	-	428	
+NC_003155.5	4324301	4324302	RNA polymerase sigma factor SigF	.	+	>|	108	
+NC_003155.5	4336772	4336773	hypothetical protein	.	+	>|	68	
+NC_003155.5	4344002	4344003	hypothetical protein	.	-	>|	24	conflict
+NC_003155.5	4350245	4350246	DUF4287 domain-containing protein|Bax inhibitor-1/YccA family protein	.	-	>|<	45,54	
+NC_003155.5	4350284	4350285	DUF4287 domain-containing protein|Bax inhibitor-1/YccA family protein	.	+	>|<	84,15	
+NC_003155.5	4362438	4362439	SDR family oxidoreductase	.	-	>|	10	conflict
+NC_003155.5	4362611	4362612	-	.	-	-	183	
+NC_003155.5	4366506	4366507	ABC transporter permease|cyclopropane-fatty-acyl-phospholipid synthase family protein	.	-	>|<	17,51	
+NC_003155.5	4367987	4367988	NAD(P)/FAD-dependent oxidoreductase	.	-	|<	64	
+NC_003155.5	4372156	4372157	phosphopyruvate hydratase	.	-	|<	94	
+NC_003155.5	4372552	4372553	-	.	-	-	419	
+NC_003155.5	4373743	4373744	-	.	-	-	135	
+NC_003155.5	4374569	4374570	-	.	-	-	8	
+NC_003155.5	4379621	4379622	-	.	-	-	16	
+NC_003155.5	4410606	4410607	-	.	+	-	111	
+NC_003155.5	4412545	4412546	-	.	+	-	380	
+NC_003155.5	4413371	4413372	ribose-phosphate diphosphokinase	.	+	>|	84	
+NC_003155.5	4414127	4414128	50S ribosomal protein L25/general stress protein Ctc	.	+	>|	68	
+NC_003155.5	4422850	4422851	-	.	-	-	33	
+NC_003155.5	4431901	4431902	PQQ-binding-like beta-propeller repeat protein	.	-	|<	54	
+NC_003155.5	4438089	4438090	-	.	-	-	274	
+NC_003155.5	4450472	4450473	-	.	+	-	779	
+NC_003155.5	4472550	4472551	hypothetical protein|MMPL family transporter	.	+	>|<	60,23	
+NC_003155.5	4474841	4474842	TetR/AcrR family transcriptional regulator	.	-	|<	87	
+NC_003155.5	4475211	4475212	-	.	-	-	413	
+NC_003155.5	4542396	4542397	-	.	-	-	264	
+NC_003155.5	4542467	4542468	-	.	-	-	193	
+NC_003155.5	4545333	4545334	cyclic pyranopterin monophosphate synthase MoaC	.	-	|<	53	
+NC_003155.5	4547249	4547250	UTP--glucose-1-phosphate uridylyltransferase GalU	.	-	|<	61	
+NC_003155.5	4548943	4548944	5-formyltetrahydrofolate cyclo-ligase|penicillin acylase family protein	.	-	>|<	13,57	
+NC_003155.5	4553995	4553996	-	.	+	-	375	
+NC_003155.5	4555441	4555442	-	.	+	-	206	
+NC_003155.5	4555695	4555696	FmdB family transcriptional regulator	.	+	>|	50	
+NC_003155.5	4563542	4563543	fructose-specific PTS transporter subunit EIIC	.	-	|<	12	
+NC_003155.5	4571267	4571268	-	.	-	-	191	
+NC_003155.5	4571340	4571341	-	.	-	-	264	
+NC_003155.5	4582417	4582418	-	.	-	-	334	
+NC_003155.5	4589835	4589836	-	.	+	-	493	
+NC_003155.5	4590179	4590180	-	.	-	-	364	
+NC_003155.5	4590541	4590542	site-specific integrase	.	+	|<	2	conflict
+NC_003155.5	4613127	4613128	-	.	-	-	376	
+NC_003155.5	4614121	4614122	-	.	+	-	679	
+NC_003155.5	4617597	4617598	hypothetical protein	.	+	|<	9	conflict
+NC_003155.5	4650874	4650875	ATP-binding protein|SMI1/KNR4 family protein	.	-	>|<	18,77	
+NC_003155.5	4671380	4671381	glutathione peroxidase	.	+	>|	67	
+NC_003155.5	4672343	4672344	MerR family transcriptional regulator|MFS transporter	.	-	>|<	58,8	
+NC_003155.5	4678298	4678299	-	.	+	-	139	
+NC_003155.5	4678351	4678352	-	.	+	-	192	
+NC_003155.5	4680001	4680002	DUF397 domain-containing protein|hypothetical protein	.	+	>|<	116,102	
+NC_003155.5	4680108	4680109	-	.	+	-	223	
+NC_003155.5	4708280	4708281	-	.	+	-	259	
+NC_003155.5	4708408	4708409	-	.	+	-	131	
+NC_003155.5	4713642	4713643	alpha/beta hydrolase|hypothetical protein	.	+	>|<	43,1	
+NC_003155.5	4720956	4720957	TetR/AcrR family transcriptional regulator	.	+	>|	108	
+NC_003155.5	4746974	4746975	-	.	-	-	128	
+NC_003155.5	4752503	4752504	-	.	+	-	232	
+NC_003155.5	4762091	4762092	-	.	-	-	204	
+NC_003155.5	4765915	4765916	-	.	+	-	350	
+NC_003155.5	4805101	4805102	-	.	-	-	467	
+NC_003155.5	4805687	4805688	Uma2 family endonuclease|aldo/keto reductase	.	-	>|<	18,108	
+NC_003155.5	4811162	4811163	-	.	-	-	353	
+NC_003155.5	4816184	4816185	hypothetical protein	.	-	|<	72	
+NC_003155.5	4825004	4825005	hypothetical protein	.	+	>|	68	
+NC_003155.5	4826455	4826456	-	.	-	-	295	
+NC_003155.5	4826536	4826537	1%2C4-dihydroxy-6-naphthoate synthase	.	-	>|	28	conflict
+NC_003155.5	4839130	4839131	-	.	-	-	347	
+NC_003155.5	4849997	4849998	SpoIIE family protein phosphatase|NADH:flavin oxidoreductase	.	-	>|<	33,62	
+NC_003155.5	4854115	4854116	phospholipase D-like domain-containing protein|chaperonin GroEL	.	-	>|<	50,77	
+NC_003155.5	4854241	4854242	-	.	-	-	176	
+NC_003155.5	4854402	4854403	-	.	-	-	337	
+NC_003155.5	4854622	4854623	-	.	-	-	557	
+NC_003155.5	4855457	4855458	-	.	-	-	695	
+NC_003155.5	4856084	4856085	cold-shock protein	.	-	|<	68	
+NC_003155.5	4856285	4856286	-	.	-	-	468	
+NC_003155.5	4856711	4856712	MoaD/ThiS family protein	.	-	|<	101	
+NC_003155.5	4858469	4858470	-	.	-	-	8	
+NC_003155.5	4868001	4868002	-	.	-	-	276	
+NC_003155.5	4872361	4872362	TerD family protein	.	+	>|	15	
+NC_003155.5	4872371	4872372	TerD family protein	.	-	>|	25	conflict
+NC_003155.5	4872417	4872418	TerD family protein|DUF397 domain-containing protein	.	+	>|<	71,101	
+NC_003155.5	4886831	4886832	aminoglycoside phosphotransferase family protein	.	-	>|	56	conflict
+NC_003155.5	4889104	4889105	-	.	+	-	139	
+NC_003155.5	4889213	4889214	-	.	+	-	248	
+NC_003155.5	4889387	4889388	-	.	+	-	422	
+NC_003155.5	4893722	4893723	-	.	-	-	754	
+NC_003155.5	4897979	4897980	copper chaperone PCu(A)C|response regulator transcription factor	.	-	>|<	108,91	
+NC_003155.5	4898019	4898020	response regulator transcription factor	.	+	|<	51	conflict
+NC_003155.5	4900820	4900821	-	.	+	-	334	
+NC_003155.5	4901016	4901017	phosphate signaling complex protein PhoU	.	-	>|	78	conflict
+NC_003155.5	4905979	4905980	phosphoglyceromutase|hypothetical protein	.	+	>|<	57,24	
+NC_003155.5	4906277	4906278	-	.	+	-	95	
+NC_003155.5	4918199	4918200	-	.	+	-	324	
+NC_003155.5	4918362	4918363	-	.	-	-	487	
+NC_003155.5	4932228	4932229	hypothetical protein	.	-	|<	65	
+NC_003155.5	4933027	4933028	-	.	-	-	132	
+NC_003155.5	4945422	4945423	-	.	+	-	455	
+NC_003155.5	4949028	4949029	-	.	-	-	130	
+NC_003155.5	4950418	4950419	-	.	-	-	230	
+NC_003155.5	4961216	4961217	-	.	+	-	211	
+NC_003155.5	4962678	4962679	trypsin-like serine protease	.	-	|<	49	
+NC_003155.5	4964487	4964488	-	.	-	-	436	
+NC_003155.5	4974516	4974517	-	.	-	-	100	
+NC_003155.5	4992059	4992060	-	.	+	-	405	
+NC_003155.5	4993054	4993055	phosphate ABC transporter substrate-binding protein PstS	.	+	>|	43	
+NC_003155.5	4996125	4996126	phosphate ABC transporter ATP-binding protein PstB	.	+	>|	97	
+NC_003155.5	4998712	4998713	metal-sensitive transcriptional regulator|hypothetical protein	.	+	>|<	85,17	
+NC_003155.5	5023191	5023192	-	.	+	-	237	
+NC_003155.5	5029726	5029727	-	.	-	-	202	
+NC_003155.5	5043457	5043458	-	.	-	-	331	
+NC_003155.5	5051474	5051475	-	.	-	-	10	
+NC_003155.5	5055487	5055488	-	.	-	-	217	
+NC_003155.5	5055489	5055490	-	.	+	-	215	
+NC_003155.5	5063160	5063161	-	.	+	-	224	
+NC_003155.5	5063345	5063346	-	.	-	-	220	
+NC_003155.5	5063380	5063381	-	.	+	-	185	
+NC_003155.5	5064950	5064951	-	.	-	-	1062	
+NC_003155.5	5066435	5066436	-	.	+	-	1948	
+NC_003155.5	5068199	5068200	-	.	+	-	172	
+NC_003155.5	5068920	5068921	-	.	-	-	172	
+NC_003155.5	5072390	5072391	-	.	-	-	333	
+NC_003155.5	5072489	5072490	-	.	+	-	267	
+NC_003155.5	5072641	5072642	DUF3073 domain-containing protein|phosphoribosylformylglycinamidine cyclo-ligase	.	-	>|<	33,115	
+NC_003155.5	5072685	5072686	DUF3073 domain-containing protein|phosphoribosylformylglycinamidine cyclo-ligase	.	+	>|<	77,71	
+NC_003155.5	5077488	5077489	phosphoribosylformylglycinamidine synthase subunit PurL	.	-	|<	51	
+NC_003155.5	5078840	5078841	-	.	-	-	954	
+NC_003155.5	5081712	5081713	-	.	+	-	274	
+NC_003155.5	5081867	5081868	-	.	+	-	169	
+NC_003155.5	5085855	5085856	response regulator transcription factor|phosphoribosylaminoimidazolesuccinocarboxamide synthase	.	+	>|<	101,50	
+NC_003155.5	5095061	5095062	-	.	-	-	92	
+NC_003155.5	5095097	5095098	-	.	+	-	128	
+NC_003155.5	5095311	5095312	-	.	+	-	270	
+NC_003155.5	5103031	5103032	cold-shock protein	.	+	>|	57	
+NC_003155.5	5114817	5114818	-	.	+	-	97	
+NC_003155.5	5126794	5126795	uracil phosphoribosyltransferase	.	-	|<	81	
+NC_003155.5	5128924	5128925	hypothetical protein	.	+	>|	125	
+NC_003155.5	5128977	5128978	-	.	+	-	178	
+NC_003155.5	5132428	5132429	-	.	-	-	663	
+NC_003155.5	5134057	5134058	Dabb family protein	.	+	>|	58	
+NC_003155.5	5136355	5136356	RNA polymerase sigma factor SigF	.	+	>|	57	
+NC_003155.5	5136504	5136505	-	.	+	-	206	
+NC_003155.5	5154936	5154937	peptidoglycan-binding protein	.	-	>|	117	conflict
+NC_003155.5	5154972	5154973	-	.	+	-	153	
+NC_003155.5	5155214	5155215	-	.	-	-	307	
+NC_003155.5	5156465	5156466	-	.	+	-	477	
+NC_003155.5	5160792	5160793	PAS domain-containing protein|long-chain fatty acid--CoA ligase	.	+	>|<	74,17	
+NC_003155.5	5177630	5177631	hypothetical protein	.	-	>|	77	conflict
+NC_003155.5	5180772	5180773	-	.	+	-	420	
+NC_003155.5	5182490	5182491	-	.	+	-	141	
+NC_003155.5	5187503	5187504	aminopeptidase P family protein	.	+	>|	46	
+NC_003155.5	5196601	5196602	-	.	+	-	353	
+NC_003155.5	5198410	5198411	YcnI family protein	.	+	>|	85	
+NC_003155.5	5199584	5199585	copper chaperone PCu(A)C	.	+	>|	37	
+NC_003155.5	5201910	5201911	copper resistance protein CopC/CopD	.	+	>|	91	
+NC_003155.5	5206941	5206942	Cof-type HAD-IIB family hydrolase	.	-	>|	41	conflict
+NC_003155.5	5207029	5207030	-	.	-	-	129	
+NC_003155.5	5226391	5226392	-	.	-	-	78	
+NC_003155.5	5236953	5236954	-	.	-	-	122	
+NC_003155.5	5238467	5238468	phage holin family protein	.	+	>|	108	
+NC_003155.5	5240088	5240089	cystathionine gamma-lyase	.	+	>|	87	
+NC_003155.5	5245521	5245522	GNAT family N-acetyltransferase|heme-binding protein	.	+	>|<	60,51	
+NC_003155.5	5248501	5248502	GNAT family N-acetyltransferase|serine hydrolase	.	+	>|<	98,24	
+NC_003155.5	5253399	5253400	50S ribosomal protein L9	.	-	|<	58	
+NC_003155.5	5254996	5254997	-	.	-	-	172	
+NC_003155.5	5255196	5255197	-	.	-	-	2	
+NC_003155.5	5255910	5255911	hypothetical protein	.	+	>|	80	
+NC_003155.5	5258366	5258367	alanine racemase|glycosyltransferase 87 family protein	.	+	>|<	62,22	
+NC_003155.5	5259931	5259932	transglycosylase domain-containing protein	.	-	|<	84	
+NC_003155.5	5264952	5264953	inositol-3-phosphate synthase	.	+	>|	59	
+NC_003155.5	5266901	5266902	hypothetical protein|CCA tRNA nucleotidyltransferase	.	+	>|<	62,57	
+NC_003155.5	5276951	5276952	hypothetical protein	.	+	>|	70	
+NC_003155.5	5278491	5278492	thioredoxin|GNAT family N-acetyltransferase	.	+	>|<	78,62	
+NC_003155.5	5279412	5279413	ParB/RepB/Spo0J family partition protein	.	-	|<	88	
+NC_003155.5	5282800	5282801	KH domain-containing protein	.	-	|<	53	
+NC_003155.5	5284827	5284828	-	.	-	-	160	
+NC_003155.5	5288630	5288631	-	.	+	-	393	
+NC_003155.5	5291391	5291392	-	.	+	-	143	
+NC_003155.5	5299378	5299379	-	.	+	-	198	
+NC_003155.5	5300586	5300587	DLW-39 family protein	.	+	>|	62	
+NC_003155.5	5304119	5304120	transcriptional regulator	.	-	|<	54	
+NC_003155.5	5304978	5304979	-	.	+	-	257	
+NC_003155.5	5308206	5308207	rhomboid family intramembrane serine protease	.	-	>|	34	conflict
+NC_003155.5	5308265	5308266	rhomboid family intramembrane serine protease	.	-	>|	93	conflict
+NC_003155.5	5313499	5313500	-	.	-	-	168	
+NC_003155.5	5322190	5322191	-	.	+	-	130	
+NC_003155.5	5335031	5335032	phenylacetic acid degradation protein PaaN	.	-	|<	112	
+NC_003155.5	5340417	5340418	-	.	+	-	564	
+NC_003155.5	5349235	5349236	-	.	+	-	460	
+NC_003155.5	5349330	5349331	-	.	+	-	373	
+NC_003155.5	5349405	5349406	-	.	+	-	298	
+NC_003155.5	5359928	5359929	2-oxo acid dehydrogenase subunit E2|D-alanyl-D-alanine carboxypeptidase	.	-	>|<	17,60	
+NC_003155.5	5359968	5359969	2-oxo acid dehydrogenase subunit E2|D-alanyl-D-alanine carboxypeptidase	.	+	>|<	57,20	
+NC_003155.5	5362181	5362182	-	.	+	-	416	
+NC_003155.5	5368326	5368327	M18 family aminopeptidase	.	-	|<	114	
+NC_003155.5	5372445	5372446	SseB family protein	.	+	>|	118	
+NC_003155.5	5378847	5378848	aspartate--tRNA ligase	.	+	>|	61	
+NC_003155.5	5390000	5390001	PhoX family protein	.	+	>|	120	
+NC_003155.5	5407762	5407763	hypothetical protein	.	-	|<	59	
+NC_003155.5	5413576	5413577	hypothetical protein	.	-	|<	80	
+NC_003155.5	5431454	5431455	Cof-type HAD-IIB family hydrolase|hypothetical protein	.	-	>|<	75,7	
+NC_003155.5	5433780	5433781	cold-shock protein	.	-	|<	59	
+NC_003155.5	5433855	5433856	-	.	-	-	408	
+NC_003155.5	5434771	5434772	-	.	-	-	24	
+NC_003155.5	5444980	5444981	lysyl oxidase family protein	.	+	>|	60	
+NC_003155.5	5451154	5451155	-	.	+	-	422	
+NC_003155.5	5452769	5452770	-	.	-	-	342	
+NC_003155.5	5452805	5452806	-	.	+	-	378	
+NC_003155.5	5453225	5453226	-	.	+	-	128	
+NC_003155.5	5453342	5453343	-	.	+	-	11	
+NC_003155.5	5454730	5454731	-	.	+	-	272	
+NC_003155.5	5454788	5454789	-	.	-	-	330	
+NC_003155.5	5454810	5454811	-	.	+	-	352	
+NC_003155.5	5454887	5454888	-	.	+	-	429	
+NC_003155.5	5461998	5461999	FG-GAP-like repeat-containing protein	.	+	|<	70	conflict
+NC_003155.5	5479457	5479458	-	.	+	-	500	
+NC_003155.5	5479968	5479969	-	.	+	-	950	
+NC_003155.5	5481023	5481024	molecular chaperone DnaK	.	+	>|	102	
+NC_003155.5	5481680	5481681	nucleotide exchange factor GrpE	.	+	>|	97	
+NC_003155.5	5508864	5508865	TraM recognition domain-containing protein	.	-	>|	33	conflict
+NC_003155.5	5512399	5512400	-	.	+	-	130	
+NC_003155.5	5512730	5512731	-	.	+	-	317	
+NC_003155.5	5517174	5517175	-	.	+	-	129	
+NC_003155.5	5519850	5519851	-	.	+	-	189	
+NC_003155.5	5520279	5520280	-	.	+	-	327	
+NC_003155.5	5526427	5526428	-	.	+	-	274	
+NC_003155.5	5526663	5526664	class II fructose-bisphosphate aldolase	.	+	>|	52	
+NC_003155.5	5528950	5528951	DUF3151 domain-containing protein	.	+	>|	105	
+NC_003155.5	5554720	5554721	adenylosuccinate synthase	.	+	>|	68	
+NC_003155.5	5565492	5565493	-	.	+	-	207	
+NC_003155.5	5566765	5566766	DUF5063 domain-containing protein	.	+	>|	116	
+NC_003155.5	5566946	5566947	-	.	+	-	56	
+NC_003155.5	5569451	5569452	aspartate-semialdehyde dehydrogenase	.	+	>|	81	
+NC_003155.5	5569577	5569578	-	.	+	-	207	
+NC_003155.5	5594425	5594426	-	.	-	-	162	
+NC_003155.5	5594480	5594481	Pr6Pr family membrane protein	.	-	|<	107	
+NC_003155.5	5596996	5596997	GatB/YqeY domain-containing protein|transglycosylase domain-containing protein	.	-	>|<	11,49	
+NC_003155.5	5600165	5600166	transcriptional regulator WblA	.	+	>|	81	
+NC_003155.5	5600219	5600220	-	.	+	-	135	
+NC_003155.5	5600791	5600792	-	.	-	-	707	
+NC_003155.5	5613653	5613654	acetate--CoA ligase	.	-	|<	93	
+NC_003155.5	5621923	5621924	hypothetical protein	.	-	>|	32	conflict
+NC_003155.5	5623293	5623294	-	.	+	-	175	
+NC_003155.5	5632041	5632042	anti-sigma factor antagonist BldG	.	+	>|	103	
+NC_003155.5	5632587	5632588	ATP-binding protein	.	+	>|	79	
+NC_003155.5	5643784	5643785	-	.	+	-	49	
+NC_003155.5	5644148	5644149	-	.	+	-	534	
+NC_003155.5	5650390	5650391	tyrosine-type recombinase/integrase	.	+	|<	49	conflict
+NC_003155.5	5655397	5655398	-	.	-	-	257	
+NC_003155.5	5671698	5671699	DUF397 domain-containing protein|ATP-binding protein	.	-	>|<	46,75	
+NC_003155.5	5673610	5673611	-	.	+	-	133	
+NC_003155.5	5675228	5675229	-	.	+	-	42	
+NC_003155.5	5683525	5683526	VTT domain-containing protein|threonine/serine exporter family protein	.	+	>|<	46,57	
+NC_003155.5	5685317	5685318	inorganic diphosphatase	.	-	|<	59	
+NC_003155.5	5688075	5688076	-	.	+	-	446	
+NC_003155.5	5688170	5688171	-	.	+	-	541	
+NC_003155.5	5690198	5690199	tRNA lysidine(34) synthetase TilS	.	+	>|	107	
+NC_003155.5	5690348	5690349	-	.	+	-	257	
+NC_003155.5	5702231	5702232	hypothetical protein|PH domain-containing protein	.	+	>|<	56,44	
+NC_003155.5	5717832	5717833	type III pantothenate kinase	.	+	>|	83	
+NC_003155.5	5719064	5719065	hypothetical protein	.	+	>|	62	
+NC_003155.5	5721043	5721044	-	.	+	-	173	
+NC_003155.5	5721964	5721965	-	.	+	-	18	
+NC_003155.5	5724568	5724569	ATP-dependent Clp protease ATP-binding subunit|NACHT domain-containing protein	.	+	>|<	61,18	
+NC_003155.5	5731758	5731759	MFS transporter|HAMP domain-containing histidine kinase	.	+	>|<	64,123	
+NC_003155.5	5733289	5733290	response regulator transcription factor	.	-	|<	64	
+NC_003155.5	5743451	5743452	-	.	-	-	381	
+NC_003155.5	5770170	5770171	AURKAIP1/COX24 domain-containing protein	.	+	>|	60	
+NC_003155.5	5770243	5770244	-	.	+	-	133	
+NC_003155.5	5778224	5778225	-	.	+	-	414	
+NC_003155.5	5788648	5788649	arginine--tRNA ligase	.	-	|<	79	
+NC_003155.5	5789215	5789216	-	.	-	-	651	
+NC_003155.5	5789487	5789488	-	.	-	-	923	
+NC_003155.5	5790807	5790808	-	.	+	-	308	
+NC_003155.5	5792282	5792283	-	.	+	-	218	
+NC_003155.5	5792410	5792411	lysine--tRNA ligase|DUF2637 domain-containing protein	.	-	>|<	20,90	
+NC_003155.5	5793896	5793897	DUF3558 family protein	.	-	|<	89	
+NC_003155.5	5797392	5797393	hypothetical protein	.	-	|<	47	
+NC_003155.5	5798185	5798186	-	.	-	-	95	
+NC_003155.5	5798231	5798232	-	.	+	-	141	
+NC_003155.5	5821813	5821814	cold-shock protein	.	+	>|	58	
+NC_003155.5	5839875	5839876	-	.	+	-	285	
+NC_003155.5	5843072	5843073	c-type cytochrome biogenesis protein CcsB	.	+	>|	52	
+NC_003155.5	5853121	5853122	-	.	+	-	401	
+NC_003155.5	5860689	5860690	DUF3515 domain-containing protein|cold-shock protein	.	-	>|<	25,89	
+NC_003155.5	5860816	5860817	-	.	-	-	152	
+NC_003155.5	5873770	5873771	hypothetical protein	.	+	>|	16	
+NC_003155.5	5878733	5878734	C40 family peptidase	.	-	|<	65	
+NC_003155.5	5883051	5883052	-	.	-	-	348	
+NC_003155.5	5884207	5884208	-	.	-	-	52	
+NC_003155.5	5896974	5896975	-	.	+	-	627	
+NC_003155.5	5925781	5925782	-	.	-	-	246	
+NC_003155.5	5949362	5949363	GlsB/YeaQ/YmgE family stress response membrane protein|YajQ family cyclic di-GMP-binding protein	.	-	>|<	47,95	
+NC_003155.5	5949382	5949383	GlsB/YeaQ/YmgE family stress response membrane protein|YajQ family cyclic di-GMP-binding protein	.	+	>|<	67,75	
+NC_003155.5	5950252	5950253	-	.	+	-	307	
+NC_003155.5	5950304	5950305	-	.	+	-	359	
+NC_003155.5	5956602	5956603	-	.	-	-	279	
+NC_003155.5	5956675	5956676	-	.	+	-	206	
+NC_003155.5	5956794	5956795	-	.	+	-	87	
+NC_003155.5	5957096	5957097	50S ribosomal protein L33	.	+	>|	51	
+NC_003155.5	5958133	5958134	MaoC family dehydratase	.	+	>|	49	
+NC_003155.5	5961836	5961837	adenosine deaminase	.	+	|<	23	conflict
+NC_003155.5	5963002	5963003	pyridoxal phosphate-dependent aminotransferase	.	-	|<	53	
+NC_003155.5	5964605	5964606	-	.	+	-	106	
+NC_003155.5	5964740	5964741	-	.	+	-	336	
+NC_003155.5	5965038	5965039	preprotein translocase subunit SecE	.	+	>|	40	
+NC_003155.5	5966006	5966007	transcription termination/antitermination protein NusG	.	+	>|	67	
+NC_003155.5	5966256	5966257	-	.	+	-	317	
+NC_003155.5	5967323	5967324	-	.	+	-	117	
+NC_003155.5	5967436	5967437	50S ribosomal protein L1	.	+	>|	87	
+NC_003155.5	5967908	5967909	-	.	+	-	73	
+NC_003155.5	5968437	5968438	-	.	+	-	184	
+NC_003155.5	5968537	5968538	50S ribosomal protein L10	.	+	>|	26	
+NC_003155.5	5969114	5969115	50S ribosomal protein L7/L12	.	+	>|	110	
+NC_003155.5	5975081	5975082	-	.	+	-	1969	
+NC_003155.5	5976545	5976546	-	.	+	-	773	
+NC_003155.5	5977175	5977176	DNA-directed RNA polymerase subunit beta'	.	+	>|	53	
+NC_003155.5	5978460	5978461	-	.	+	-	62	
+NC_003155.5	5980791	5980792	-	.	+	-	514	
+NC_003155.5	5981242	5981243	elongation factor G	.	+	>|	81	
+NC_003155.5	5982042	5982043	-	.	+	-	561	
+NC_003155.5	5982539	5982540	elongation factor Tu	.	+	>|	41	
+NC_003155.5	5987107	5987108	-	.	+	-	30	
+NC_003155.5	5987532	5987533	30S ribosomal protein S10	.	+	>|	87	
+NC_003155.5	5989093	5989094	-	.	+	-	141	
+NC_003155.5	5989346	5989347	-	.	+	-	152	
+NC_003155.5	5989523	5989524	-	.	+	-	329	
+NC_003155.5	5992672	5992673	-	.	+	-	157	
+NC_003155.5	5994162	5994163	type Z 30S ribosomal protein S14	.	+	>|	101	
+NC_003155.5	5996197	5996198	-	.	+	-	75	
+NC_003155.5	5996833	5996834	-	.	+	-	324	
+NC_003155.5	5996986	5996987	50S ribosomal protein L15	.	+	>|	74	
+NC_003155.5	5997608	5997609	-	.	+	-	696	
+NC_003155.5	5999069	5999070	-	.	+	-	213	
+NC_003155.5	5999188	5999189	adenylate kinase	.	+	>|	53	
+NC_003155.5	6000312	6000313	-	.	+	-	194	
+NC_003155.5	6001294	6001295	30S ribosomal protein S13	.	+	>|	30	
+NC_003155.5	6001828	6001829	30S ribosomal protein S11	.	+	>|	62	
+NC_003155.5	6001894	6001895	-	.	+	-	15	
+NC_003155.5	6003040	6003041	DNA-directed RNA polymerase subunit alpha	.	+	>|	109	
+NC_003155.5	6003416	6003417	-	.	+	-	290	
+NC_003155.5	6003668	6003669	50S ribosomal protein L17	.	+	>|	52	
+NC_003155.5	6004480	6004481	hypothetical protein	.	-	|<	88	
+NC_003155.5	6006900	6006901	30S ribosomal protein S9	.	+	>|	65	
+NC_003155.5	6019320	6019321	tRNA (adenosine(37)-N6)-threonylcarbamoyltransferase complex ATPase subunit type 1 TsaE	.	+	>|	109	
+NC_003155.5	6040617	6040618	-	.	+	-	323	
+NC_003155.5	6042643	6042644	chaperonin GroEL|ester cyclase	.	+	>|<	75,49	
+NC_003155.5	6047569	6047570	response regulator transcription factor	.	+	>|	61	
+NC_003155.5	6047900	6047901	-	.	+	-	392	
+NC_003155.5	6051514	6051515	GuaB3 family IMP dehydrogenase-related protein	.	+	>|	80	
+NC_003155.5	6051842	6051843	-	.	-	-	265	
+NC_003155.5	6051930	6051931	-	.	+	-	177	
+NC_003155.5	6051944	6051945	-	.	-	-	163	
+NC_003155.5	6061728	6061729	protein kinase	.	+	>|	108	
+NC_003155.5	6067318	6067319	hypothetical protein	.	-	|<	45	
+NC_003155.5	6067355	6067356	serine/threonine protein kinase|hypothetical protein	.	+	>|<	34,8	
+NC_003155.5	6077093	6077094	-	.	-	-	284	
+NC_003155.5	6081791	6081792	-	.	+	-	250	
+NC_003155.5	6084951	6084952	acyl-CoA dehydrogenase family protein|HAD-IA family hydrolase	.	+	>|<	71,18	
+NC_003155.5	6085464	6085465	-	.	-	-	140	
+NC_003155.5	6090360	6090361	glycosyltransferase family 2 protein|LCP family protein	.	+	>|<	54,1	
+NC_003155.5	6104638	6104639	-	.	+	-	258	
+NC_003155.5	6104796	6104797	WhiB family transcriptional regulator	.	+	>|	122	
+NC_003155.5	6119219	6119220	-	.	+	-	113	
+NC_003155.5	6120904	6120905	adenosylhomocysteinase	.	+	>|	115	
+NC_003155.5	6124358	6124359	-	.	+	-	579	
+NC_003155.5	6143248	6143249	ribosome-associated translation inhibitor RaiA	.	+	>|	66	
+NC_003155.5	6148561	6148562	-	.	+	-	685	
+NC_003155.5	6154673	6154674	-	.	+	-	2639	
+NC_003155.5	6197371	6197372	-	.	+	-	364	
+NC_003155.5	6197491	6197492	peptide chain release factor 2	.	+	>|	63	
+NC_003155.5	6198585	6198586	hypothetical protein|hypothetical protein	.	-	>|<	20,104	
+NC_003155.5	6198622	6198623	hypothetical protein|hypothetical protein	.	+	>|<	57,67	
+NC_003155.5	6198774	6198775	-	.	-	-	209	
+NC_003155.5	6200872	6200873	permease-like cell division protein FtsX	.	+	>|	48	
+NC_003155.5	6202986	6202987	-	.	+	-	333	
+NC_003155.5	6203143	6203144	-	.	+	-	385	
+NC_003155.5	6203220	6203221	-	.	+	-	308	
+NC_003155.5	6204201	6204202	contact-dependent growth inhibition system immunity protein|LacI family transcriptional regulator	.	+	>|<	44,24	
+NC_003155.5	6225324	6225325	AAA family ATPase	.	-	>|	114	conflict
+NC_003155.5	6227873	6227874	HU family DNA-binding protein|UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	+	>|<	85,96	
+NC_003155.5	6227918	6227919	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	.	-	|<	51	
+NC_003155.5	6230600	6230601	DUF3039 domain-containing protein	.	+	>|	108	
+NC_003155.5	6239625	6239626	-	.	+	-	1274	
+NC_003155.5	6260748	6260749	RDD family protein	.	-	>|	37	conflict
+NC_003155.5	6262027	6262028	-	.	+	-	858	
+NC_003155.5	6264046	6264047	immune inhibitor A	.	+	>|	66	
+NC_003155.5	6268416	6268417	-	.	+	-	130	
+NC_003155.5	6270072	6270073	amino acid permease	.	+	>|	75	
+NC_003155.5	6271261	6271262	MoaD/ThiS family protein	.	+	>|	85	
+NC_003155.5	6271483	6271484	-	.	+	-	307	
+NC_003155.5	6272199	6272200	cysteine synthase|type II toxin-antitoxin system PemK/MazF family toxin	.	+	>|<	55,73	
+NC_003155.5	6277010	6277011	-	.	+	-	126	
+NC_003155.5	6277114	6277115	PTS glucose/sucrose transporter subunit IIB	.	+	>|	83	
+NC_003155.5	6277927	6277928	ribonuclease PH	.	+	>|	57	
+NC_003155.5	6278487	6278488	-	.	+	-	141	
+NC_003155.5	6279027	6279028	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase	.	+	>|	44	
+NC_003155.5	6279028	6279029	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase	.	-	>|	45	conflict
+NC_003155.5	6281082	6281083	TetR/AcrR family transcriptional regulator|glycine betaine/L-proline transporter ProP	.	-	>|<	120,58	
+NC_003155.5	6282712	6282713	thioredoxin-dependent thiol peroxidase	.	-	|<	64	
+NC_003155.5	6284272	6284273	co-chaperone GroES|penicillin-binding protein	.	+	>|<	98,22	
+NC_003155.5	6291760	6291761	-	.	-	-	302	
+NC_003155.5	6303214	6303215	DUF397 domain-containing protein	.	-	|<	53	
+NC_003155.5	6308847	6308848	-	.	+	-	561	
+NC_003155.5	6309560	6309561	SEC-C domain-containing protein	.	-	|<	70	
+NC_003155.5	6309650	6309651	HNH endonuclease	.	+	>|	68	
+NC_003155.5	6315873	6315874	fumarylacetoacetate hydrolase family protein|heme-degrading domain-containing protein	.	-	>|<	109,51	
+NC_003155.5	6324203	6324204	-	.	-	-	139	
+NC_003155.5	6329203	6329204	-	.	-	-	64	
+NC_003155.5	6335066	6335067	long-chain-fatty-acid--CoA ligase	.	-	>|	58	conflict
+NC_003155.5	6336123	6336124	ectoine/hydroxyectoine ABC transporter ATP-binding protein EhuA	.	-	|<	84	
+NC_003155.5	6344265	6344266	-	.	+	-	72	
+NC_003155.5	6349255	6349256	M6 family metalloprotease domain-containing protein|bifunctional DNA primase/polymerase	.	-	>|<	49,120	
+NC_003155.5	6372704	6372705	-	.	-	-	190	
+NC_003155.5	6374625	6374626	-	.	-	-	682	
+NC_003155.5	6377368	6377369	GPR1/FUN34/YaaH family transporter|glutamine--fructose-6-phosphate transaminase (isomerizing)	.	-	>|<	36,69	
+NC_003155.5	6377542	6377543	-	.	-	-	210	
+NC_003155.5	6383134	6383135	beta-N-acetylhexosaminidase|IucA/IucC family siderophore biosynthesis protein	.	-	>|<	4,46	
+NC_003155.5	6389155	6389156	-	.	-	-	146	
+NC_003155.5	6390368	6390369	acyl-CoA dehydrogenase family protein	.	-	|<	116	
+NC_003155.5	6412256	6412257	-	.	+	-	518	
+NC_003155.5	6417298	6417299	-	.	-	-	65	
+NC_003155.5	6419604	6419605	-	.	+	-	409	
+NC_003155.5	6443118	6443119	D-ribose pyranase	.	+	|<	33	conflict
+NC_003155.5	6455138	6455139	-	.	+	-	215	
+NC_003155.5	6459422	6459423	-	.	+	-	987	
+NC_003155.5	6460192	6460193	-	.	+	-	225	
+NC_003155.5	6460294	6460295	-	.	-	-	327	
+NC_003155.5	6472164	6472165	-	.	+	-	387	
+NC_003155.5	6476056	6476057	CoA-acylating methylmalonate-semialdehyde dehydrogenase	.	+	>|	53	
+NC_003155.5	6482298	6482299	hypothetical protein	.	+	>|	56	
+NC_003155.5	6482858	6482859	hypothetical protein	.	+	>|	57	
+NC_003155.5	6483528	6483529	hypothetical protein	.	+	>|	55	
+NC_003155.5	6484066	6484067	hypothetical protein	.	+	>|	52	
+NC_003155.5	6484722	6484723	-	.	+	-	708	
+NC_003155.5	6501511	6501512	-	.	-	-	167	
+NC_003155.5	6510435	6510436	acyl-CoA thioesterase	.	+	>|	59	
+NC_003155.5	6511251	6511252	-	.	-	-	183	
+NC_003155.5	6532681	6532682	-	.	+	-	483	
+NC_003155.5	6533028	6533029	HNH endonuclease	.	+	>|	19	
+NC_003155.5	6535985	6535986	-	.	+	-	185	
+NC_003155.5	6538763	6538764	hypothetical protein	.	+	>|	30	
+NC_003155.5	6543979	6543980	DUF1203 domain-containing protein|aspartate-semialdehyde dehydrogenase	.	-	>|<	32,10	
+NC_003155.5	6552949	6552950	-	.	+	-	31	
+NC_003155.5	6556244	6556245	-	.	+	-	84	
+NC_003155.5	6556950	6556951	-	.	-	-	213	
+NC_003155.5	6562877	6562878	-	.	-	-	144	
+NC_003155.5	6563317	6563318	superoxide dismutase	.	-	|<	105	
+NC_003155.5	6563359	6563360	superoxide dismutase	.	+	|<	63	conflict
+NC_003155.5	6573351	6573352	biotin transporter BioY	.	+	>|	67	
+NC_003155.5	6578157	6578158	-	.	-	-	152	
+NC_003155.5	6580382	6580383	ribose-5-phosphate isomerase	.	+	>|	91	
+NC_003155.5	6601914	6601915	DUF6177 family protein|acyltransferase family protein	.	-	>|<	4,115	
+NC_003155.5	6604435	6604436	-	.	-	-	379	
+NC_003155.5	6605739	6605740	-	.	+	-	1683	
+NC_003155.5	6606382	6606383	trigger factor	.	+	>|	68	
+NC_003155.5	6609164	6609165	ATP-dependent Clp protease proteolytic subunit	.	+	>|	71	
+NC_003155.5	6609814	6609815	-	.	+	-	721	
+NC_003155.5	6610227	6610228	-	.	+	-	424	
+NC_003155.5	6610296	6610297	-	.	+	-	355	
+NC_003155.5	6614439	6614440	valine--tRNA ligase	.	+	>|	59	
+NC_003155.5	6615577	6615578	-	.	+	-	776	
+NC_003155.5	6617282	6617283	nucleoside-diphosphate kinase	.	+	>|	81	
+NC_003155.5	6618578	6618579	rod shape-determining protein	.	+	>|	58	
+NC_003155.5	6623267	6623268	-	.	+	-	621	
+NC_003155.5	6627692	6627693	TIGR03960 family B12-binding radical SAM protein	.	+	>|	57	
+NC_003155.5	6638397	6638398	50S ribosomal protein L27	.	+	>|	60	
+NC_003155.5	6640615	6640616	-	.	-	-	669	
+NC_003155.5	6646088	6646089	-	.	+	-	179	
+NC_003155.5	6652800	6652801	-	.	+	-	273	
+NC_003155.5	6653845	6653846	histidine phosphatase family protein	.	+	>|	98	
+NC_003155.5	6653922	6653923	helix-turn-helix transcriptional regulator	.	+	|<	93	conflict
+NC_003155.5	6654004	6654005	helix-turn-helix transcriptional regulator	.	+	|<	11	conflict
+NC_003155.5	6658379	6658380	NADH-quinone oxidoreductase subunit NuoF family protein	.	+	|<	124	conflict
+NC_003155.5	6661830	6661831	-	.	+	-	64	
+NC_003155.5	6664870	6664871	leucine--tRNA ligase	.	+	>|	88	
+NC_003155.5	6665016	6665017	-	.	+	-	234	
+NC_003155.5	6670835	6670836	-	.	+	-	386	
+NC_003155.5	6671298	6671299	-	.	-	-	735	
+NC_003155.5	6671523	6671524	-	.	-	-	510	
+NC_003155.5	6671573	6671574	-	.	+	-	460	
+NC_003155.5	6671697	6671698	-	.	-	-	336	
+NC_003155.5	6673341	6673342	GntR family transcriptional regulator	.	+	>|	55	
+NC_003155.5	6675274	6675275	-	.	-	-	1029	
+NC_003155.5	6675787	6675788	-	.	-	-	576	
+NC_003155.5	6696932	6696933	-	.	-	-	461	
+NC_003155.5	6700593	6700594	-	.	-	-	1669	
+NC_003155.5	6700666	6700667	-	.	-	-	1596	
+NC_003155.5	6700711	6700712	-	.	+	-	1551	
+NC_003155.5	6705805	6705806	-	.	-	-	2134	
+NC_003155.5	6708130	6708131	-	.	+	-	1347	
+NC_003155.5	6709650	6709651	-	.	+	-	695	
+NC_003155.5	6724394	6724395	-	.	-	-	166	
+NC_003155.5	6724452	6724453	30S ribosomal protein S20	.	-	|<	108	
+NC_003155.5	6727014	6727015	translation elongation factor 4	.	+	>|	66	
+NC_003155.5	6739714	6739715	-	.	+	-	397	
+NC_003155.5	6758003	6758004	-	.	+	-	124	
+NC_003155.5	6759728	6759729	MFS transporter	.	+	|<	24	conflict
+NC_003155.5	6769037	6769038	GTPase Era|GNAT family N-acetyltransferase	.	+	>|<	63,3	
+NC_003155.5	6776109	6776110	2-isopropylmalate synthase	.	+	>|	61	
+NC_003155.5	6804242	6804243	helix-turn-helix transcriptional regulator	.	-	|<	102	
+NC_003155.5	6815296	6815297	glycine--tRNA ligase|chitinase	.	+	>|<	25,86	
+NC_003155.5	6821688	6821689	-	.	-	-	1093	
+NC_003155.5	6875995	6875996	-	.	+	-	575	
+NC_003155.5	6881859	6881860	keywimysin-related RiPP	.	-	|<	124	
+NC_003155.5	6884855	6884856	-	.	+	-	146	
+NC_003155.5	6895431	6895432	ATP-binding cassette domain-containing protein	.	-	|<	50	
+NC_003155.5	6900282	6900283	-	.	+	-	137	
+NC_003155.5	6900660	6900661	-	.	+	-	340	
+NC_003155.5	6900996	6900997	hypothetical protein	.	+	|<	4	conflict
+NC_003155.5	6913021	6913022	FxSxx-COOH protein	.	-	|<	68	
+NC_003155.5	6953782	6953783	-	.	+	-	713	
+NC_003155.5	6956656	6956657	DUF397 domain-containing protein	.	-	|<	60	
+NC_003155.5	6967173	6967174	hypothetical protein	.	+	>|	54	
+NC_003155.5	6969482	6969483	-	.	-	-	547	
+NC_003155.5	6983235	6983236	beta-lactamase family protein	.	+	|<	5	conflict
+NC_003155.5	6990111	6990112	DUF3145 domain-containing protein|beta-ketoacyl-ACP synthase II	.	-	>|<	22,54	
+NC_003155.5	6990320	6990321	-	.	-	-	231	
+NC_003155.5	6991280	6991281	-	.	-	-	239	
+NC_003155.5	6991368	6991369	-	.	-	-	151	
+NC_003155.5	6991481	6991482	acyl carrier protein	.	-	|<	38	
+NC_003155.5	7004025	7004026	-	.	-	-	280	
+NC_003155.5	7008393	7008394	DUF3052 domain-containing protein	.	+	>|	69	
+NC_003155.5	7009007	7009008	peroxiredoxin	.	+	>|	40	
+NC_003155.5	7011747	7011748	-	.	+	-	27	
+NC_003155.5	7022058	7022059	tyrosine-type recombinase/integrase	.	+	|<	92	conflict
+NC_003155.5	7022121	7022122	tyrosine-type recombinase/integrase	.	+	|<	29	conflict
+NC_003155.5	7024357	7024358	-	.	+	-	1155	
+NC_003155.5	7024593	7024594	-	.	+	-	919	
+NC_003155.5	7025446	7025447	hypothetical protein	.	-	|<	66	
+NC_003155.5	7033309	7033310	HNH endonuclease family protein	.	-	|<	76	
+NC_003155.5	7034568	7034569	-	.	+	-	44	
+NC_003155.5	7034648	7034649	-	.	+	-	619	
+NC_003155.5	7040904	7040905	-	.	+	-	113	
+NC_003155.5	7059302	7059303	-	.	-	-	90	
+NC_003155.5	7066589	7066590	-	.	-	-	338	
+NC_003155.5	7070237	7070238	-	.	+	-	356	
+NC_003155.5	7070555	7070556	-	.	+	-	38	
+NC_003155.5	7083293	7083294	3-oxoacyl-ACP reductase	.	-	>|	12	conflict
+NC_003155.5	7093698	7093699	-	.	+	-	248	
+NC_003155.5	7093800	7093801	-	.	+	-	350	
+NC_003155.5	7093853	7093854	-	.	+	-	403	
+NC_003155.5	7094076	7094077	-	.	+	-	182	
+NC_003155.5	7099638	7099639	-	.	+	-	172	
+NC_003155.5	7121171	7121172	hypothetical protein|ABC transporter ATP-binding protein	.	+	>|<	83,48	
+NC_003155.5	7135360	7135361	hypothetical protein	.	+	|<	60	conflict
+NC_003155.5	7142665	7142666	type I methionyl aminopeptidase	.	-	|<	49	
+NC_003155.5	7146620	7146621	NADPH-dependent F420 reductase	.	+	>|	50	
+NC_003155.5	7154304	7154305	3-methyl-2-oxobutanoate hydroxymethyltransferase	.	-	|<	73	
+NC_003155.5	7159154	7159155	endonuclease/exonuclease/phosphatase family protein	.	+	>|	84	
+NC_003155.5	7169743	7169744	glutamine synthetase family protein|tyrosine-type recombinase/integrase	.	+	>|<	76,2	
+NC_003155.5	7173294	7173295	transposase	.	+	>|	24	
+NC_003155.5	7182852	7182853	-	.	-	-	4	
+NC_003155.5	7223752	7223753	glutamine synthetase beta-grasp domain-containing protein	.	-	|<	56	
+NC_003155.5	7226028	7226029	-	.	-	-	225	
+NC_003155.5	7227103	7227104	hypothetical protein	.	+	>|	18	
+NC_003155.5	7229267	7229268	-	.	+	-	262	
+NC_003155.5	7231848	7231849	hypothetical protein|type I glutamate--ammonia ligase	.	-	>|<	10,102	
+NC_003155.5	7235331	7235332	-	.	-	-	137	
+NC_003155.5	7250582	7250583	2-oxoglutarate dehydrogenase%2C E2 component%2C dihydrolipoamide succinyltransferase	.	-	|<	65	
+NC_003155.5	7264988	7264989	hypothetical protein|methyltransferase domain-containing protein	.	+	>|<	98,2	
+NC_003155.5	7275343	7275344	iron-sulfur cluster assembly accessory protein|membrane protein	.	+	>|<	95,112	
+NC_003155.5	7278897	7278898	carbohydrate kinase family protein	.	+	>|	90	
+NC_003155.5	7281831	7281832	-	.	+	-	318	
+NC_003155.5	7282150	7282151	-	.	+	-	637	
+NC_003155.5	7283746	7283747	cytochrome c oxidase subunit 4	.	+	>|	102	
+NC_003155.5	7289335	7289336	-	.	+	-	748	
+NC_003155.5	7289994	7289995	ubiquinol-cytochrome c reductase cytochrome b subunit	.	+	>|	70	
+NC_003155.5	7294357	7294358	hypothetical protein	.	+	>|	45	
+NC_003155.5	7297191	7297192	NlpC/P60 family protein	.	+	>|	116	
+NC_003155.5	7325348	7325349	3-deoxy-7-phosphoheptulonate synthase class II	.	+	>|	92	
+NC_003155.5	7325615	7325616	bacterioferritin	.	+	|<	123	conflict
+NC_003155.5	7328581	7328582	Stk1 family PASTA domain-containing Ser/Thr kinase	.	-	|<	89	
+NC_003155.5	7335079	7335080	-	.	+	-	227	
+NC_003155.5	7335201	7335202	Rv2175c family DNA-binding protein	.	+	>|	71	
+NC_003155.5	7335303	7335304	-	.	+	-	3	
+NC_003155.5	7338008	7338009	hypothetical protein|NAD(P)/FAD-dependent oxidoreductase	.	+	>|<	33,69	
+NC_003155.5	7346362	7346363	-	.	+	-	101	
+NC_003155.5	7348440	7348441	-	.	-	-	1189	
+NC_003155.5	7359860	7359861	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	.	+	>|	40	
+NC_003155.5	7363457	7363458	-	.	+	-	254	
+NC_003155.5	7367354	7367355	cell division protein FtsZ	.	+	>|	78	
+NC_003155.5	7368726	7368727	-	.	+	-	132	
+NC_003155.5	7371179	7371180	DivIVA domain-containing protein	.	+	>|	71	
+NC_003155.5	7371273	7371274	isoleucine--tRNA ligase	.	-	|<	74	
+NC_003155.5	7374461	7374462	-	.	-	-	644	
+NC_003155.5	7374518	7374519	-	.	-	-	28	
+NC_003155.5	7382874	7382875	-	.	-	-	236	
+NC_003155.5	7384799	7384800	thioredoxin domain-containing protein	.	-	|<	71	
+NC_003155.5	7391794	7391795	DNA polymerase III subunit alpha|hypothetical protein	.	+	>|<	100,34	
+NC_003155.5	7393557	7393558	NYN domain-containing protein	.	+	>|	108	
+NC_003155.5	7426737	7426738	prolipoprotein diacylglyceryl transferase	.	+	>|	57	
+NC_003155.5	7441583	7441584	glutamate synthase subunit beta|chitosanase	.	+	>|<	115,51	
+NC_003155.5	7466007	7466008	SidA/IucD/PvdA family monooxygenase|5'-nucleotidase C-terminal domain-containing protein	.	-	>|<	8,89	
+NC_003155.5	7472126	7472127	response regulator|ABC transporter ATP-binding protein	.	-	>|<	27,77	
+NC_003155.5	7472265	7472266	-	.	-	-	166	
+NC_003155.5	7487844	7487845	lytic transglycosylase domain-containing protein	.	+	>|	54	
+NC_003155.5	7494474	7494475	30S ribosomal protein S1	.	+	>|	71	
+NC_003155.5	7510407	7510408	-	.	-	-	182	
+NC_003155.5	7510532	7510533	-	.	-	-	307	
+NC_003155.5	7533903	7533904	-	.	+	-	330	
+NC_003155.5	7542676	7542677	-	.	-	-	228	
+NC_003155.5	7546920	7546921	excinuclease ABC subunit UvrA	.	+	>|	76	
+NC_003155.5	7549040	7549041	-	.	-	-	376	
+NC_003155.5	7556439	7556440	DNA-binding protein WhiA	.	+	>|	79	
+NC_003155.5	7559586	7559587	M14 family metallopeptidase	.	+	>|	104	
+NC_003155.5	7560792	7560793	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	75	
+NC_003155.5	7562938	7562939	triose-phosphate isomerase	.	+	>|	100	
+NC_003155.5	7563138	7563139	-	.	+	-	300	
+NC_003155.5	7563302	7563303	preprotein translocase subunit SecG	.	+	>|	96	
+NC_003155.5	7563386	7563387	-	.	+	-	88	
+NC_003155.5	7563808	7563809	RNA polymerase-binding protein RbpA	.	+	>|	47	
+NC_003155.5	7581174	7581175	transaldolase	.	-	|<	75	
+NC_003155.5	7590943	7590944	-	.	-	-	216	
+NC_003155.5	7593884	7593885	Fe-S cluster assembly protein SufB	.	+	>|	54	
+NC_003155.5	7596616	7596617	-	.	+	-	407	
+NC_003155.5	7597976	7597977	SUF system NifU family Fe-S cluster assembly protein	.	+	>|	30	
+NC_003155.5	7605330	7605331	-	.	+	-	137	
+NC_003155.5	7606474	7606475	site-specific integrase|hypothetical protein	.	+	>|<	117,31	
+NC_003155.5	7610275	7610276	hypothetical protein	.	+	>|	96	
+NC_003155.5	7618066	7618067	DUF839 domain-containing protein	.	+	>|	120	
+NC_003155.5	7618229	7618230	-	.	+	-	213	
+NC_003155.5	7618377	7618378	-	.	+	-	65	
+NC_003155.5	7618444	7618445	-	.	+	-	498	
+NC_003155.5	7622307	7622308	TetR/AcrR family transcriptional regulator|TerD family protein	.	-	>|<	3,60	
+NC_003155.5	7652594	7652595	hypothetical protein|family 43 glycosylhydrolase	.	+	>|<	78,126	
+NC_003155.5	7652714	7652715	family 43 glycosylhydrolase	.	+	|<	6	conflict
+NC_003155.5	7690194	7690195	-	.	-	-	581	
+NC_003155.5	7691680	7691681	-	.	-	-	902	
+NC_003155.5	7707171	7707172	-	.	+	-	180	
+NC_003155.5	7707659	7707660	helix-turn-helix domain-containing protein	.	+	>|	70	
+NC_003155.5	7708224	7708225	-	.	+	-	339	
+NC_003155.5	7735182	7735183	-	.	-	-	145	
+NC_003155.5	7735498	7735499	-	.	-	-	461	
+NC_003155.5	7742444	7742445	enoyl-ACP reductase FabI	.	+	>|	94	
+NC_003155.5	7751052	7751053	-	.	+	-	970	
+NC_003155.5	7752876	7752877	ABC transporter ATP-binding protein/permease|transglycosylase SLT domain-containing protein	.	+	>|<	23,75	
+NC_003155.5	7758382	7758383	chaplin	.	+	>|	64	
+NC_003155.5	7762387	7762388	-	.	-	-	262	
+NC_003155.5	7762592	7762593	YbhB/YbcL family Raf kinase inhibitor-like protein	.	-	|<	57	
+NC_003155.5	7767986	7767987	-	.	+	-	3114	
+NC_003155.5	7773134	7773135	tetratricopeptide repeat protein|DUF1015 domain-containing protein	.	+	>|<	51,14	
+NC_003155.5	7812231	7812232	ribosome biogenesis GTPase Der|hypothetical protein	.	+	>|<	54,17	
+NC_003155.5	7844468	7844469	-	.	+	-	63	
+NC_003155.5	7881598	7881599	hypothetical protein	.	+	|<	58	conflict
+NC_003155.5	7937461	7937462	-	.	-	-	261	
+NC_003155.5	7939519	7939520	chaplin	.	+	>|	57	
+NC_003155.5	7952047	7952048	cysteine--1-D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside ligase|hypothetical protein	.	-	>|<	57,46	
+NC_003155.5	7980798	7980799	-	.	+	-	145	
+NC_003155.5	7982257	7982258	-	.	+	-	155	
+NC_003155.5	7987785	7987786	ferredoxin	.	-	|<	82	
+NC_003155.5	7987872	7987873	hypothetical protein	.	+	>|	85	
+NC_003155.5	7990244	7990245	proteasome ATPase	.	+	>|	51	
+NC_003155.5	7992024	7992025	proteasome accessory factor PafA2	.	+	>|	84	
+NC_003155.5	7992418	7992419	ubiquitin-like protein Pup	.	+	>|	104	
+NC_003155.5	7994621	7994622	proteasome subunit alpha|LacI family transcriptional regulator	.	+	>|<	54,3	
+NC_003155.5	7998465	7998466	Pup--protein ligase	.	+	>|	73	
+NC_003155.5	8000052	8000053	FKBP-type peptidyl-prolyl cis-trans isomerase	.	+	>|	80	
+NC_003155.5	8000129	8000130	-	.	+	-	63	
+NC_003155.5	8004264	8004265	-	.	+	-	190	
+NC_003155.5	8004535	8004536	twin-arginine translocase subunit TatC	.	+	>|	113	
+NC_003155.5	8026246	8026247	PadR family transcriptional regulator	.	-	>|	11	conflict
+NC_003155.5	8055492	8055493	-	.	+	-	234	
+NC_003155.5	8055800	8055801	50S ribosomal protein L20	.	+	>|	63	
+NC_003155.5	8068381	8068382	DUF1918 domain-containing protein	.	-	|<	43	
+NC_003155.5	8083964	8083965	-	.	+	-	213	
+NC_003155.5	8084527	8084528	-	.	+	-	313	
+NC_003155.5	8096164	8096165	argininosuccinate synthase	.	+	>|	72	
+NC_003155.5	8103241	8103242	glycerophosphodiester phosphodiesterase	.	+	>|	108	
+NC_003155.5	8104774	8104775	-	.	-	-	187	
+NC_003155.5	8105787	8105788	-	.	+	-	151	
+NC_003155.5	8105908	8105909	-	.	+	-	30	
+NC_003155.5	8109566	8109567	MetQ/NlpA family ABC transporter substrate-binding protein	.	+	>|	57	
+NC_003155.5	8120495	8120496	-	.	+	-	34	
+NC_003155.5	8120863	8120864	hypothetical protein	.	+	>|	125	
+NC_003155.5	8122352	8122353	-	.	-	-	129	
+NC_003155.5	8122465	8122466	-	.	-	-	242	
+NC_003155.5	8122557	8122558	-	.	-	-	334	
+NC_003155.5	8122631	8122632	-	.	-	-	339	
+NC_003155.5	8128301	8128302	SsgA family sporulation/cell division regulator	.	-	|<	118	
+NC_003155.5	8128362	8128363	SsgA family sporulation/cell division regulator	.	-	|<	57	
+NC_003155.5	8129637	8129638	-	.	+	-	180	
+NC_003155.5	8129688	8129689	-	.	+	-	231	
+NC_003155.5	8140011	8140012	SRPBCC family protein|3'-5' exonuclease	.	+	>|<	114,74	
+NC_003155.5	8156506	8156507	YebC/PmpR family DNA-binding transcriptional regulator	.	+	>|	57	
+NC_003155.5	8159541	8159542	-	.	+	-	297	
+NC_003155.5	8163082	8163083	-	.	+	-	382	
+NC_003155.5	8166622	8166623	bifunctional (p)ppGpp synthetase/guanosine-3'%2C5'-bis(diphosphate) 3'-pyrophosphohydrolase|DUF349 domain-containing protein	.	-	>|<	81,54	
+NC_003155.5	8167923	8167924	peptidylprolyl isomerase	.	-	|<	118	
+NC_003155.5	8171075	8171076	histidine--tRNA ligase|hypothetical protein	.	+	>|<	51,82	
+NC_003155.5	8172443	8172444	-	.	+	-	213	
+NC_003155.5	8174276	8174277	-	.	+	-	493	
+NC_003155.5	8174669	8174670	30S ribosomal protein S4	.	+	>|	85	
+NC_003155.5	8188739	8188740	transcriptional regulator BldD	.	-	|<	68	
+NC_003155.5	8200045	8200046	-	.	+	-	157	
+NC_003155.5	8201172	8201173	DNA-directed RNA polymerase subunit omega	.	+	>|	64	
+NC_003155.5	8203955	8203956	methionine adenosyltransferase	.	+	>|	57	
+NC_003155.5	8204302	8204303	-	.	+	-	25	
+NC_003155.5	8213728	8213729	-	.	+	-	147	
+NC_003155.5	8239961	8239962	-	.	+	-	129	
+NC_003155.5	8241447	8241448	-	.	+	-	229	
+NC_003155.5	8246144	8246145	-	.	-	-	154	
+NC_003155.5	8259570	8259571	-	.	+	-	166	
+NC_003155.5	8261291	8261292	FxsA family protein|RNA polymerase-binding protein RbpA	.	-	>|<	98,80	
+NC_003155.5	8261462	8261463	-	.	-	-	269	
+NC_003155.5	8263984	8263985	-	.	-	-	180	
+NC_003155.5	8302202	8302203	-	.	-	-	15	
+NC_003155.5	8306248	8306249	-	.	+	-	67	
+NC_003155.5	8306402	8306403	DUF742 domain-containing protein	.	+	>|	112	
+NC_003155.5	8316318	8316319	-	.	-	-	33	
+NC_003155.5	8340436	8340437	FHA domain-containing protein	.	+	>|	70	
+NC_003155.5	8345172	8345173	-	.	+	-	59	
+NC_003155.5	8348223	8348224	aminomethyl-transferring glycine dehydrogenase|DUF5999 family protein	.	-	>|<	107,64	
+NC_003155.5	8348267	8348268	DUF5999 family protein	.	+	|<	20	conflict
+NC_003155.5	8350188	8350189	-	.	+	-	723	
+NC_003155.5	8356305	8356306	PadR family transcriptional regulator|SRPBCC family protein	.	+	>|<	59,17	
+NC_003155.5	8371944	8371945	uracil-DNA glycosylase	.	+	>|	97	
+NC_003155.5	8391704	8391705	membrane protein	.	-	|<	63	
+NC_003155.5	8461103	8461104	C40 family peptidase	.	-	|<	51	
+NC_003155.5	8470760	8470761	alpha/beta hydrolase|1-acyl-sn-glycerol-3-phosphate acyltransferase	.	-	>|<	19,52	
+NC_003155.5	8470799	8470800	alpha/beta hydrolase|1-acyl-sn-glycerol-3-phosphate acyltransferase	.	+	>|<	58,13	
+NC_003155.5	8478432	8478433	hypothetical protein	.	-	|<	40	
+NC_003155.5	8483498	8483499	6-phosphofructokinase	.	-	|<	52	
+NC_003155.5	8484629	8484630	-	.	-	-	54	
+NC_003155.5	8503288	8503289	phosphatidylinositol-specific phospholipase C/glycerophosphodiester phosphodiesterase family protein	.	+	>|	101	
+NC_003155.5	8518187	8518188	-	.	+	-	78	
+NC_003155.5	8543783	8543784	aldehyde dehydrogenase	.	-	|<	50	
+NC_003155.5	8561027	8561028	-	.	+	-	727	
+NC_003155.5	8577031	8577032	NUDIX hydrolase family protein	.	+	|<	107	conflict
+NC_003155.5	8592583	8592584	-	.	-	-	195	
+NC_003155.5	8605987	8605988	amidase domain-containing protein	.	+	>|	53	
+NC_003155.5	8657758	8657759	hypothetical protein	.	+	>|	117	
+NC_003155.5	8709642	8709643	-	.	+	-	151	
+NC_003155.5	8712903	8712904	EAL domain-containing protein	.	+	>|	102	
+NC_003155.5	8870597	8870598	-	.	-	-	59	
+NC_003155.5	8882114	8882115	-	.	-	-	291	
+NC_003155.5	8891169	8891170	-	.	-	-	411	
+NC_003155.5	8892952	8892953	-	.	-	-	203	
+NC_003155.5	8893099	8893100	cation transporter|nitroreductase family deazaflavin-dependent oxidoreductase	.	-	>|<	109,56	
+NC_003155.5	8893239	8893240	-	.	-	-	249	
+NC_003155.5	8920605	8920606	protease inhibitor|hypothetical protein	.	-	>|<	112,24	
+NC_003155.5	8920628	8920629	hypothetical protein	.	+	|<	1	conflict
+NC_003155.5	8920774	8920775	-	.	+	-	281	
+NC_003155.5	8920835	8920836	-	.	+	-	18	
+NC_003155.5	8941015	8941016	SapB/AmfS family lanthipeptide	.	-	|<	64	
+NC_003155.5	8943198	8943199	-	.	-	-	1009	
+NC_003155.5	8948987	8948988	-	.	+	-	526	
+NC_003155.5	8956420	8956421	-	.	+	-	129	
+NC_003155.5	8956508	8956509	-	.	+	-	217	

@@ -66,9 +66,23 @@ scripts/triplet-training.py --encoder-config config/RNA.encoder.medium.json --tr
 - `run/search-rho-domain.sh`: homolog search of rho proteins
 - `run/extract-terminators-flanking-sequences.sh`: extract sequence flanking putative primary TES
   
-  
 ### Analysis of AMR genes
 - `run/run-amrfinder-GEMs.sh`: scan AMR genes with amrfinder
+
+### Data availability
+- `dataset/term-seq-sites-with-rho-annotation`: term-seq sites with rho dependency and folding energy annotation
+- `dataset/term-seq-sites`: term-seq sites curated for data augmentation
+- `dataset/metaterm-seq`: metaterm-seq dataset for performance evaluation
+- `dataset/dRNA-seq`: dRNA-seq dataset for performance evaluation
+- For dataset too large to upload, check [this](https://cloud.tsinghua.edu.cn/d/cc891006b48b44a2b1bc/)
+  - `terminators.flanked.fa.gz`: augmented terminator instances for training
+  - `TES.bed.gz`: predicted stem loops in GEM representative genomes (FPR cutoff set to 0.1/KB)
+  - `combined-statistics.txt`: statistics of properties in 42905 bacteria species in GEM representative genomes
+
+  
+
+
+
 
   
   

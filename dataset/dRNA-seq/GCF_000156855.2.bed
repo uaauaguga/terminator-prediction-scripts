@@ -1,0 +1,1351 @@
+NC_022243.1	1	2	chromosomal_replication_initiator_protein_dnaA	.	+	.|>	inf,142	concordant	unassigned	.|WP_025455920.1
+NC_022243.1	82	83		.	+	.|>	inf,61	concordant	leader	.|WP_025455920.1
+NC_022243.1	389	390	replicase	.	+	>|>	22,61	concordant	downstream	WP_025455920.1|WP_003690219.1
+NC_022243.1	452	453		.	-	genic	0	discordant	gene:5'	WP_003690219.1
+NC_022243.1	940	941	replicase	.	+	genic	0	concordant	gene:inside	WP_003690219.1
+NC_022243.1	1986	1987		.	-	genic	0	discordant	gene:3'	WP_003690223.1
+NC_022243.1	2658	2659		.	+	genic	0	discordant	gene:inside	WP_003692168.1
+NC_022243.1	6265	6266	lipoprotein_Mlp	.	-	<|.	2048,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	6407	6408	leucyl-tRNA_synthetase	.	+	<|.	2190,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	10038	10039	DNA_methylase	.	+	<|.	5821,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	11162	11163	hypothetical_protein	.	+	<|.	6945,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	11326	11327	hypothetical_protein	.	+	<|.	7109,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	11698	11699		.	+	<|.	7481,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	11744	11745		.	-	<|.	7527,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	13059	13060	hypothetical_protein	.	-	<|.	8842,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	14011	14012	tRNA-Leu	.	-	<|.	9794,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	14520	14521	triosephosphate_isomerase	.	-	<|.	10303,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	15205	15206	triosephosphate_isomerase	.	-	<|.	10988,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	15308	15309	GAF_protein	.	+	<|.	11091,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	15912	15913	protein-L-isoaspartate_O-methyltransferase	.	+	<|.	11695,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	26929	26930	orotate_phosphoribosyltransferase	.	-	<|.	22712,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	28828	28829	glycoprotease	.	-	<|.	24611,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	29808	29809	lipoprotein	.	-	<|.	25591,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	31036	31037	fructose-bisphosphate_aldolase	.	-	<|.	26819,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	31057	31058	tyrosine_recombinase_xerC	.	+	<|.	26840,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	31712	31713	tyrosine_recombinase_xerC	.	+	<|.	27495,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	32170	32171	1-deoxy-D-xylulose-5-phosphate_synthase	.	+	<|.	27953,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	35877	35878	hypothetical_protein	.	+	<|.	31660,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	36423	36424	glutamate-1-semialdehyde_2.1-aminomutase	.	+	<|.	32206,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	37996	37997		.	+	<|.	33779,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	38954	38955	transposase	.	-	<|.	34737,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	42647	42648	acetyl-CoA_carboxylase._biotin_carboxyl_carrier_protein	.	-	<|.	38430,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	42838	42839	S-adenosylmethionine.tRNA_ribosyltransferase-isomerase	.	+	<|.	38621,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	48253	48254		.	+	<|.	44036,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	51890	51891	carbamoyl-phosphate_synthase_small_chain	.	-	<|.	47673,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	56262	56263		.	+	<|.	52045,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	56842	56843	hypothetical_protein	.	-	<|.	52625,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	59065	59066	chromosome_partitioning_ATPase	.	-	<|.	54848,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	59238	59239	tRNA-Lys	.	+	<|.	55021,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	60064	60065	homoprotocatechuate_degradation_operon_regulator._HpaR	.	+	<|.	55847,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	62558	62559	membrane_protein	.	-	<|.	58341,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	62576	62577	formate-tetrahydrofolate_ligase	.	+	<|.	58359,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	64414	64415	GTP-binding_protein_YchF	.	+	<|.	60197,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	67711	67712	tyrosyl-tRNA_synthetase	.	+	<|.	63494,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	69292	69293		.	-	<|.	65075,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	69902	69903		.	+	<|.	65685,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	70235	70236	opacity_protein	.	-	<|.	66018,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	70409	70410	riboflavin_biosynthesis_protein_RibF	.	+	<|.	66192,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	71549	71550	isoleucyl-tRNA_synthetase	.	+	<|.	67332,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	74766	74767		.	-	<|.	70549,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	75701	75702	opacity_protein	.	-	<|.	71484,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	76544	76545		.	-	<|.	72327,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	76609	76610	lipoprotein_signal_peptidase	.	+	<|.	72392,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	78745	78746		.	+	<|.	74528,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	79562	79563	phosphoglycolate_phosphatase	.	-	<|.	75345,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	85515	85516	DNA_polymerase_III_subunit_alpha	.	-	<|.	81298,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	85693	85694		.	-	<|.	81476,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	86002	86003	ribosome-associated_protein	.	+	<|.	81785,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	86505	86506	PHP_domain_protein	.	+	<|.	82288,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	97765	97766	glutamine_amidotransferase	.	-	<|.	93548,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	100208	100209	shikimate_kinase	.	-	<|.	95991,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	100276	100277	shikimate_kinase	.	-	<|.	96059,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	100588	100589		.	-	<|.	96371,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	103391	103392	type_IV_pilus_assembly_protein_PilP	.	-	<|.	99174,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	106046	106047	penicillin-binding_protein_1A	.	+	<|.	101829,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	106279	106280	type_IV_pilus_assembly_protein_PilM	.	-	<|.	102062,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	109046	109047		.	+	<|.	104829,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	109568	109569	ribosome_biogenesis_GTP-binding_protein_YsxC	.	-	<|.	105351,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	109584	109585	cytochrome_c	.	+	<|.	105367,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	110461	110462	cytochrome_c_biogenesis_protein	.	+	<|.	106244,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	110769	110770	cytochrome_c_biogenesis_protein	.	+	<|.	106552,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	113805	113806	glycoprotease/Kae1_family_metallohydrolase	.	+	<|.	109588,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	115812	115813	lipid_A_biosynthesis_lauroyl_acyltransferase	.	-	<|.	111595,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	115891	115892	S-adenosylmethionine_synthase	.	+	<|.	111674,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	118847	118848	D-alanyl-D-alanine_carboxypeptidase/D-alanyl-D-alanine-endopeptidase	.	-	<|.	114630,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	118935	118936	oxidoreductase	.	+	<|.	114718,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	125084	125085	cytoplasmic_axial_filament_protein	.	-	<|.	120867,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	125196	125197	glutaredoxin	.	+	<|.	120979,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	126010	126011	ATP-dependent_DNA_helicase_RecG	.	+	<|.	121793,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	128521	128522		.	+	<|.	124304,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	130013	130014	hypothetical_protein	.	-	<|.	125796,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	130083	130084	Cupin_family_protein	.	+	<|.	125866,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	130794	130795	hypothetical_protein	.	-	<|.	126577,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	130927	130928	Cupin_family_protein	.	+	<|.	126710,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	131835	131836	Colicin_V_secretion_protein	.	+	<|.	127618,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	132191	132192		.	-	<|.	127974,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	136672	136673	Trp_repressor_binding_protein	.	+	<|.	132455,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	136733	136734	virulence_factor_BrkB	.	-	<|.	132516,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	137090	137091	Trp_repressor_binding_protein	.	+	<|.	132873,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	140551	140552	tRNA-Pro	.	-	<|.	136334,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	143584	143585	Na+.H+_antiporter	.	-	<|.	139367,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	144663	144664		.	+	<|.	140446,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	145204	145205	peptidase_Do	.	-	<|.	140987,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	146365	146366	glucose/galactose_transporter_warning	.	+	<|.	142148,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	146639	146640	glucose/galactose_transporter_warning	.	+	<|.	142422,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	148236	148237	Na+/H+_antiporter_NhaC	.	+	<|.	144019,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	150956	150957		.	+	<|.	146739,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	151191	151192	rRNA_maturation_factor	.	-	<|.	146974,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	151262	151263	porphobilinogen_deaminase	.	+	<|.	147045,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	153073	153074	hypothetical_protein	.	+	<|.	148856,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	154039	154040	hypothetical_protein	.	-	<|.	149822,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	155403	155404	FAD-binding_protein	.	-	<|.	151186,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	157025	157026	ATP-dependent_RNA_helicase	.	-	<|.	152808,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	157114	157115	tRNA-dihydrouridine_synthase_B	.	+	<|.	152897,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	160257	160258		.	+	<|.	156040,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	160410	160411		.	-	<|.	156193,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	160656	160657	hypothetical_protein	.	+	<|.	156439,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	167915	167916		.	+	<|.	163698,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	171764	171765	zinc/manganese_ABC_transporter_ATP-binding_protein	.	-	<|.	167547,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	173868	173869	30S_ribosomal_protein_S16	.	-	<|.	169651,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	178582	178583	two-component_system._OmpR_family._response_regulator	.	-	<|.	174365,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	183620	183621	purine_nucleoside_phosphoramidase	.	-	<|.	179403,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	183936	183937		.	+	<|.	179719,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	183994	183995	phosphoribosyl-ATP_pyrophosphatase	.	-	<|.	179777,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	185275	185276	zinc-binding_alcohol_dehydrogenase	.	-	<|.	181058,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	185374	185375	zinc-binding_alcohol_dehydrogenase	.	-	<|.	181157,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	185914	185915	transposase	.	-	<|.	181697,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	187229	187230	Histone_deacetylase_family_protein	.	-	<|.	183012,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	187246	187247	preprotein_translocase._YajC_subunit	.	+	<|.	183029,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	190661	190662	30S_ribosomal_protein_S15	.	+	<|.	186444,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	190750	190751		.	-	<|.	186533,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	191146	191147	polyamine_ABC_transporter._ATP-binding_protein	.	+	<|.	186929,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	197524	197525	ammonium_transporter	.	-	<|.	193307,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	199242	199243	transcription_termination_factor_Rho	.	-	<|.	195025,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	201806	201807	phosphoenolpyruvate_synthase	.	-	<|.	197589,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	202069	202070	transposase	.	+	<|.	197852,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	202247	202248		.	-	<|.	198030,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	202868	202869	hypothetical_protein	.	+	<|.	198651,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	205354	205355	hypothetical_protein	.	-	<|.	201137,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	205404	205405	outer-membrane_lipoprotein_carrier_protein	.	+	<|.	201187,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	206498	206499	putrescine_ABC_transporter_substrate-binding_protein	.	+	<|.	202281,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	207978	207979		.	-	<|.	203761,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	211508	211509		.	-	<|.	207291,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	214202	214203	imidazole_glycerol_phosphate_synthase_subunit_hisH	.	-	<|.	209985,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	215921	215922	phosphate_acetyltransferase	.	-	<|.	211704,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	218879	218880	Fe(3+)-transport_system_permease_fbpB_2	.	-	<|.	214662,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	219704	219705	major_ferric_iron-binding_protein	.	-	<|.	215487,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	223582	223583	hypothetical_protein	.	-	<|.	219365,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	224230	224231	inorganic_pyrophosphatase	.	-	<|.	220013,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	224785	224786	dATP_pyrophosphohydrolase	.	-	<|.	220568,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	224961	224962	tRNA-Pro	.	+	<|.	220744,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	227068	227069	MafB_family_adhesin_protein	.	+	<|.	222851,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	227398	227399		.	-	<|.	223181,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	228070	228071	hypothetical_protein	.	+	<|.	223853,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	231731	231732	endoribonuclease_L-PSP	.	-	<|.	227514,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	232421	232422	opacity_protein	.	-	<|.	228204,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	236575	236576	DNA_ligase	.	-	<|.	232358,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	237762	237763		.	+	<|.	233545,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	238035	238036	hypothetical_protein	.	-	<|.	233818,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	238743	238744	aminodeoxychorismate_lyase	.	+	<|.	234526,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	238766	238767	N-acetyl-anhydromuranmyl-L-alanine_amidase_AmpD	.	-	<|.	234549,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	240567	240568	malate_dehydrogenase	.	+	<|.	236350,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	243338	243339	hypothetical_protein	.	+	<|.	239121,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	245980	245981	tRNA-Ser	.	+	<|.	241763,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	246298	246299	tryptophan_synthase_alpha_chain	.	+	<|.	242081,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	246942	246943	tryptophan_synthase_alpha_chain	.	+	<|.	242725,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	248739	248740	hypothetical_protein	.	-	<|.	244522,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	248797	248798	UPF0033_protein	.	+	<|.	244580,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	249485	249486		.	+	<|.	245268,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	250450	250451	hypothetical_protein	.	-	<|.	246233,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	253257	253258	hypothetical_protein	.	-	<|.	249040,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	253325	253326	ribonuclease_3	.	+	<|.	249108,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	255212	255213	hypothetical_protein	.	+	<|.	250995,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	255672	255673	lactoferrin binding protein B	.	+	<|.	251455,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	256432	256433		.	-	<|.	252215,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	256948	256949		.	-	<|.	252731,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	263538	263539	amidophosphoribosyltransferase	.	-	<|.	259321,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	270286	270287	ribosomal_RNA_small_subunit_methyltransferase_A	.	-	<|.	266069,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	271039	271040	tryptophan_synthase_beta_chain	.	+	<|.	266822,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	277017	277018	IgA-specific_serine_endopeptidase_autotransporter	.	-	<|.	272800,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	277162	277163	competence protein ComA	.	+	<|.	272945,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	280327	280328	ribosomal_large_subunit_pseudouridine_synthase_D	.	+	<|.	276110,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	280489	280490	competence_lipoprotein_ComL	.	-	<|.	276272,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	280657	280658	competence_lipoprotein_ComL	.	-	<|.	276440,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	282541	282542	bile_acid_transporter	.	-	<|.	278324,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	282721	282722	bile_acid_transporter	.	-	<|.	278504,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	282895	282896	hypothetical_protein	.	+	<|.	278678,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	283948	283949	rare_lipoprotein_B	.	+	<|.	279731,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	285497	285498	hypothetical_protein	.	+	<|.	281280,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	287585	287586	hypothetical_protein	.	-	<|.	283368,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	289337	289338	alternative_sigma_factor_RpoH	.	-	<|.	285120,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	291793	291794	hypothetical_protein	.	-	<|.	287576,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	291926	291927	cell_volume_regulation_potassium/proton_antiporter	.	+	<|.	287709,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	294263	294264	cytochrome_c	.	-	<|.	290046,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	296602	296603	queuine_tRNA-ribosyltransferase	.	-	<|.	292385,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	296724	296725	tRNA-Val	.	+	<|.	292507,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	299332	299333	50S_ribosomal_protein_L35	.	+	<|.	295115,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	300150	300151	phenylalanyl-tRNA_synthetase_alpha_chain	.	+	<|.	295933,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	305552	305553	integration_host_factor_subunit_alpha	.	+	<|.	301335,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	306979	306980	hypothetical_protein	.	+	<|.	302762,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	307048	307049		.	-	<|.	302831,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	307421	307422	adenosylmethionine-8-amino-7-oxononanoate_transaminase	.	+	<|.	303204,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	309906	309907	4-hydroxybenzoate_octaprenyltransferase	.	+	<|.	305689,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	309936	309937		.	-	<|.	305719,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	310323	310324		.	-	<|.	306106,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	311388	311389	PTS_IIA-like_nitrogen-regulatory_protein_PtsN	.	+	<|.	307171,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	315602	315603	DNA_repair_protein_RecN	.	+	<|.	311385,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	317390	317391		.	-	<|.	313173,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	317405	317406	tRNA-Arg	.	+	<|.	313188,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	319875	319876	hypothetical_protein	.	+	<|.	315658,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	320481	320482	tRNA_U-34_5-methylaminomethyl-2-thiouridine_biosynthesis_protein_MnmC_domain	.	-	<|.	316264,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	320662	320663		.	-	<|.	316445,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	321259	321260	hypothetical_protein	.	+	<|.	317042,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	322812	322813	SirB_family_regulatory_protein	.	-	<|.	318595,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	323831	323832	RNA_chaperone_Hfq	.	-	<|.	319614,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	324599	324600	bacterioferritin_comigratory_protein	.	+	<|.	320382,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	324760	324761	bacterioferritin_comigratory_protein	.	+	<|.	320543,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	324871	324872	D-alanyl-D-alanine_endopeptidase_(penicillin-binding_protein_7)	.	-	<|.	320654,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	325100	325101	bacterioferritin_comigratory_protein	.	+	<|.	320883,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	326654	326655	bacterioferritin-associated_ferredoxin	.	+	<|.	322437,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	327540	327541		.	-	<|.	323323,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	328578	328579	phosphoribosylaminoimidazole-succinocarboxamide_synthase	.	+	<|.	324361,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	328580	328581	dTDP-4-dehydrorhamnose_reductase	.	-	<|.	324363,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	328676	328677	phosphoribosylaminoimidazole-succinocarboxamide_synthase	.	+	<|.	324459,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	329695	329696	polyribonucleotide_nucleotidyltransferase	.	+	<|.	325478,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	332393	332394	hypothetical_protein	.	-	<|.	328176,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	333039	333040	lipoprotein	.	-	<|.	328822,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	333045	333046	diaminopimelate_epimerase	.	+	<|.	328828,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	334686	334687	cysteine_synthase	.	+	<|.	330469,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	335840	335841	amino acid metabolite efflux pump	.	+	<|.	331623,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	339044	339045		.	+	<|.	334827,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	340621	340622	GTP-binding_protein_LepA	.	-	<|.	336404,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	341402	341403	MTA/SAH_nucleosidase	.	-	<|.	337185,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	341509	341510	twitching_motility_protein	.	+	<|.	337292,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	341900	341901	twitching_motility_protein	.	+	<|.	337683,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	343634	343635	DNA_polymerase_III._delta_subunit	.	+	<|.	339417,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	344090	344091	TatD_family_hydrolase	.	+	<|.	339873,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	345121	345122	Grx4_family_monothiol_glutaredoxin	.	+	<|.	340904,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	345551	345552	hypothetical_protein	.	+	<|.	341334,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	346117	346118	uracil_phosphoribosyltransferase	.	+	<|.	341900,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	346686	346687	hypothetical_protein	.	+	<|.	342469,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	346863	346864		.	-	<|.	342646,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	347578	347579		.	-	<|.	343361,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	349170	349171		.	-	<|.	344953,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	350526	350527	uroporphyrinogen-III_synthase	.	+	<|.	346309,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	354903	354904		.	+	<|.	350686,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	355145	355146		.	+	<|.	350928,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	355176	355177	stress-sensitive_restriction_system_protein	.	-	<|.	350959,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	358553	358554	hypothetical_protein	.	+	<|.	354336,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	358580	358581	DNA-cytosine_methyltransferase	.	-	<|.	354363,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	366076	366077	dyp-type_peroxidase	.	-	<|.	361859,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	366306	366307	amino_acid_ABC_transporter_substrate-binding_protein	.	+	<|.	362089,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	370096	370097	phosphoglucomutase	.	-	<|.	365879,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	370777	370778	peptidyl-prolyl_cis-trans_isomerase_B	.	-	<|.	366560,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	372363	372364	divalent_anion.Na+_symporter_(DASS)_family_transporter	.	-	<|.	368146,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	374496	374497	hypothetical_protein	.	-	<|.	370279,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	376685	376686	cell_division_protease_FtsH	.	-	<|.	372468,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	376972	376973	ribosomal_RNA_large_subunit_methyltransferase_E	.	-	<|.	372755,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	377364	377365	ribosomal_RNA_large_subunit_methyltransferase_E	.	-	<|.	373147,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	377419	377420	RNA-binding_protein	.	+	<|.	373202,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	380165	380166	cystathionine_beta-lyase	.	-	<|.	375948,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	380239	380240	GTP_cyclohydrolase_folE2	.	+	<|.	376022,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	384327	384328	hypothetical_protein	.	-	<|.	380110,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	388362	388363	MATE_efflux_family_protein	.	-	<|.	384145,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	388461	388462	ATP_phosphoribosyltransferase_regulatory_subunit	.	+	<|.	384244,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	392298	392299	heat_shock_protein_HtpX	.	-	<|.	388081,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	392432	392433	adenylate_kinase	.	+	<|.	388215,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	393310	393311	orotidine_5-phosphate_decarboxylase	.	+	<|.	389093,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	395653	395654		.	-	<|.	391436,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	399503	399504		.	-	<|.	395286,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	406446	406447	ATP-dependent_Clp_protease_adapter_protein_ClpS	.	-	<|.	402229,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	406515	406516	cold_shock-like_protein_CspA	.	+	<|.	402298,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	408490	408491	PmbA_protein	.	-	<|.	404273,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	408596	408597	ribosome-associated_protein	.	+	<|.	404379,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	409788	409789	PmbA_protein	.	-	<|.	405571,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	411868	411869	poly(A)_polymerase	.	+	<|.	407651,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	413454	413455	hypothetical_protein	.	+	<|.	409237,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	414799	414800		.	+	<|.	410582,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	416181	416182	glycosyltransferase	.	-	<|.	411964,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	416270	416271	hypothetical_protein	.	+	<|.	412053,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	416486	416487	glycosyltransferase	.	-	<|.	412269,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	422651	422652	histidyl-tRNA_synthetase	.	-	<|.	418434,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	423118	423119		.	+	<|.	418901,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	424875	424876		.	+	<|.	420658,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	425697	425698	hypothetical_protein	.	-	<|.	421480,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	426725	426726	tRNA_pseudouridine32_synthase/23S_rRNA_pseudouridine746_synthase	.	+	<|.	422508,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	429238	429239	spermidine_synthase	.	-	<|.	425021,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	429372	429373	tRNA-Thr	.	+	<|.	425155,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	429550	429551	3-methyl-2-oxobutanoate_hydroxymethyltransferase	.	+	<|.	425333,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	430470	430471	pantoate-beta-alanine_ligase	.	+	<|.	426253,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	431614	431615	hypothetical_protein	.	+	<|.	427397,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	434842	434843	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase	.	+	<|.	430625,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	435096	435097	tRNA-Gln	.	+	<|.	430879,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	435360	435361	ribose-phosphate_pyrophosphokinase	.	+	<|.	431143,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	436615	436616		.	-	<|.	432398,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	438375	438376	D-alanyl-D-alanine_carboxypeptidase_(penicillin-binding_protein_5/6)	.	-	<|.	434158,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	438454	438455	threonine_ammonia-lyase._biosynthetic	.	+	<|.	434237,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	441305	441306		.	+	<|.	437088,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	443281	443282	hypothetical_protein	.	+	<|.	439064,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	444244	444245	isoprenylcysteine_carboxyl_methyltransferase	.	+	<|.	440027,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	444321	444322		.	-	<|.	440104,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	445368	445369	superoxide_dismutase_[Fe]	.	-	<|.	441151,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	445433	445434	replicative_DNA_helicase	.	+	<|.	441216,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	446930	446931	prepilin-type_N-terminal_cleavage/methylation_domain-containing_protein	.	+	<|.	442713,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	451546	451547	dUTP_pyrophosphatase	.	+	<|.	447329,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	452035	452036	succinyldiaminopimelate_transaminase	.	+	<|.	447818,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	453584	453585	UPF0246_protein	.	+	<|.	449367,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	454456	454457	tRNA-Ser	.	+	<|.	450239,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	454889	454890	phage_integrase	.	+	<|.	450672,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	462182	462183	phage_protein	.	-	<|.	457965,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	463688	463689	phage_protein	.	-	<|.	459471,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	464480	464481	phage_repressor_protein	.	-	<|.	460263,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	464557	464558	hypothetical_protein	.	+	<|.	460340,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	465371	465372	phage_protein	.	-	<|.	461154,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	466234	466235		.	-	<|.	462017,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	469936	469937	phage_protein	.	+	<|.	465719,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	470499	470500	hypothetical_protein	.	+	<|.	466282,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	471852	471853	phage_protein	.	+	<|.	467635,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	472951	472952		.	+	<|.	468734,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	485659	485660	phage_protein	.	-	<|.	481442,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	485669	485670	phage_protein	.	+	<|.	481452,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	492115	492116	antitoxin	.	-	<|.	487898,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	497557	497558	phage_protein	.	-	<|.	493340,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	498515	498516		.	+	<|.	494298,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	498763	498764	phage_integrase	.	-	<|.	494546,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	499390	499391	phosphoribosylformylglycinamidine_cyclo-ligase	.	+	<|.	495173,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	500701	500702		.	-	<|.	496484,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	500970	500971		.	-	<|.	496753,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	505992	505993	long-chain_acyl-CoA_synthetase	.	-	<|.	501775,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	508839	508840		.	+	<|.	504622,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	509436	509437		.	+	<|.	505219,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	509839	509840	polysaccharide_modification_protein	.	-	<|.	505622,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	511293	511294	mercury_transport_periplasmic_protein	.	+	<|.	507076,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	511497	511498	mercury_transport_periplasmic_protein	.	+	<|.	507280,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	512274	512275		.	-	<|.	508057,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	512785	512786		.	-	<|.	508568,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	514766	514767	glycerate_kinase	.	+	<|.	510549,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	515313	515314	hypothetical_protein	.	-	<|.	511096,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	515628	515629	hypothetical_protein	.	-	<|.	511411,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	518667	518668	adenine-specific_DNA-methyltransferase	.	+	<|.	514450,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	519698	519699		.	-	<|.	515481,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	524803	524804	tRNA_2-thiocytidine_biosynthesis_protein_TtcA	.	-	<|.	520586,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	525715	525716	tRNA-modifying_protein_YgfZ	.	-	<|.	521498,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	526153	526154	hypothetical_protein	.	-	<|.	521936,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	526174	526175	YbaK/EbsC_protein	.	+	<|.	521957,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	536402	536403	aspartate_ammonia-lyase	.	-	<|.	532185,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	537376	537377	transposase	.	+	<|.	533159,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	540548	540549	hypothetical_protein	.	+	<|.	536331,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	542454	542455		.	+	<|.	538237,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	544875	544876	dihydrolipoyl_dehydrogenase	.	-	<|.	540658,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	549459	549460	pyruvate_dehydrogenase_(acetyl-transferring)._homodimeric_type	.	-	<|.	545242,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	549914	549915	prolyl-tRNA_synthetase	.	+	<|.	545697,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	553616	553617	metallopeptidase	.	+	<|.	549399,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	554203	554204	CreA_protein	.	-	<|.	549986,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	554224	554225	metallopeptidase	.	+	<|.	550007,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	560398	560399		.	+	<|.	556181,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	561372	561373	carbonic_anhydrase	.	-	<|.	557155,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	562841	562842	tRNA_(guanine-N(7)-)-methyltransferase	.	-	<|.	558624,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	564241	564242		.	+	<|.	560024,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	564415	564416	hypothetical_protein	.	-	<|.	560198,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	565546	565547		.	+	<|.	561329,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	565963	565964	UvrABC_system_protein_C	.	-	<|.	561746,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	568643	568644	thioredoxin-disulfide_reductase	.	+	<|.	564426,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	568753	568754	heavy_metal_translocating_P-type_ATPase	.	-	<|.	564536,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	569707	569708	30S_ribosomal_protein_S6	.	+	<|.	565490,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	570826	570827		.	-	<|.	566609,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	573359	573360	CDP-diacylglycerol-serine_O-phosphatidyltransferase	.	-	<|.	569142,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	573879	573880	hypothetical_protein	.	+	<|.	569662,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	575674	575675	uracil-xanthine_permease	.	-	<|.	571457,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	575804	575805	DNA_translocase_ftsK_1	.	+	<|.	571587,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	578437	578438		.	-	<|.	574220,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	579064	579065	trigger_factor	.	+	<|.	574847,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	579140	579141	transposase	.	-	<|.	574923,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	584997	584998	nucleoside_diphosphate_kinase	.	-	<|.	580780,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	586219	586220	ATPase	.	-	<|.	582002,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	587938	587939		.	+	<|.	583721,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	588723	588724	S-(hydroxymethyl)glutathione dehydrogenase	.	-	<|.	584506,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	590980	590981		.	+	<|.	586763,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	591541	591542	30S_ribosomal_protein_S1	.	-	<|.	587324,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	592281	592282	cytidylate_kinase	.	-	<|.	588064,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	593934	593935		.	+	<|.	589717,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	594193	594194	NSS_family_neurotransmitter.Na+_symporter	.	-	<|.	589976,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	596938	596939	hypothetical_protein	.	+	<|.	592721,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	597051	597052	hypothetical_protein	.	+	<|.	592834,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	597065	597066	membrane-bound_lytic_murein_transglycosylase_D	.	-	<|.	592848,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	597185	597186	hypothetical_protein	.	+	<|.	592968,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	600225	600226	hypothetical_protein	.	-	<|.	596008,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	600663	600664	ribonucleoside-diphosphate_reductase_subunit_alpha	.	+	<|.	596446,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	603226	603227	hypothetical_protein	.	+	<|.	599009,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	604211	604212		.	-	<|.	599994,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	604510	604511	2Fe-2S_iron-sulfur_cluster_binding_protein	.	+	<|.	600293,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	605201	605202	cell_division_protein_FtsB	.	-	<|.	600984,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	605370	605371		.	+	<|.	601153,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	606661	606662	enolase	.	-	<|.	602444,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	607102	607103	hypothetical_protein	.	-	<|.	602885,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	608434	608435	aspartate_1-decarboxylase	.	-	<|.	604217,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	612799	612800	transcription-repair_coupling_factor	.	-	<|.	608582,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	612882	612883	acyl-CoA_dehydrogenase	.	+	<|.	608665,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	617742	617743	site-specific_recombinase	.	-	<|.	613525,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	617868	617869	transposase	.	+	<|.	613651,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	617948	617949	site-specific_recombinase	.	-	<|.	613731,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	621625	621626	DNA_gyrase_subunit_A	.	-	<|.	617408,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	622250	622251	alternative_ribosome-rescue_factor	.	+	<|.	618033,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	626078	626079	iron-sulfur_cluster_assembly_transcription_factor_IscR	.	-	<|.	621861,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	626295	626296	L-lactate_dehydrogenase	.	+	<|.	622078,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	632720	632721	type_III_restriction/modification_system_methylase	.	-	<|.	628503,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	634063	634064	hypothetical_protein	.	-	<|.	629846,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	634912	634913	ribosome-binding_factor_A	.	-	<|.	630695,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	634925	634926	ATP-dependent_Clp_protease_ATP-binding_subunit_ClpX	.	+	<|.	630708,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	637681	637682	hypothetical_protein	.	+	<|.	633464,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	637714	637715	hypothetical_protein	.	+	<|.	633497,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	638490	638491	lipoprotein	.	+	<|.	634273,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	641254	641255	ATP-dependent_RNA_helicase	.	-	<|.	637037,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	642714	642715	thioredoxin	.	-	<|.	638497,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	644333	644334	NAD+_synthetase	.	-	<|.	640116,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	644469	644470	exodeoxyribonuclease_7_large_subunit	.	+	<|.	640252,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	649133	649134	pseudouridine_synthase	.	-	<|.	644916,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	649247	649248	pyridoxine/pyridoxamine_5-phosphate_oxidase	.	+	<|.	645030,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	655519	655520	multiple_antibiotic_resistance_membrane_protein_MarC	.	+	<|.	651302,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	655531	655532	aspartyl/glutamyl-tRNA(Asn/Gln)_amidotransferase_subunit_C	.	-	<|.	651314,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	658247	658248	hypothetical_protein	.	-	<|.	654030,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	661497	661498	inositol-1-monophosphatase	.	+	<|.	657280,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	661585	661586	RNA_methyltransferase._TrmH_family._group_1	.	-	<|.	657368,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	662767	662768		.	-	<|.	658550,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	662791	662792	transposase	.	+	<|.	658574,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	665299	665300	type_II_restriction_endonuclease_NlaIV	.	-	<|.	661082,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	666708	666709	modification_methylase_NlaIV	.	-	<|.	662491,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	669257	669258	3-isopropylmalate_dehydratase_large_subunit	.	-	<|.	665040,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	669442	669443	glutamate-cysteine_ligase	.	+	<|.	665225,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	671664	671665	hypothetical_protein	.	+	<|.	667447,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	677723	677724		.	+	<|.	673506,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	679024	679025	ferredoxin-NADP+_reductase	.	-	<|.	674807,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	679033	679034		.	+	<|.	674816,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	679922	679923	hypothetical_protein	.	-	<|.	675705,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	681395	681396	threonine_synthase	.	-	<|.	677178,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	681960	681961	lipoprotein	.	-	<|.	677743,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	683439	683440	LysR_family_transcriptional_regulator	.	+	<|.	679222,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	683682	683683	LysR_family_transcriptional_regulator	.	+	<|.	679465,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	686123	686124	outer_membrane_autotransporter_barrel_domain-containing_protein	.	-	<|.	681906,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	686647	686648		.	+	<|.	682430,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	687590	687591		.	+	<|.	683373,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	689033	689034	hypothetical_protein	.	-	<|.	684816,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	689125	689126	recombination_factor_protein_R	.	+	<|.	684908,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	690550	690551	type_I_restriction_enzyme._R_subunit	.	+	<|.	686333,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	699867	699868	3.4-dihydroxy-2-butanone_4-phosphate_synthase	.	-	<|.	695650,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	700762	700763	hypothetical_protein	.	-	<|.	696545,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	700829	700830	filamentous_hemagglutinin	.	+	<|.	696612,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	702845	702846		.	-	<|.	698628,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	703117	703118		.	-	<|.	698900,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	704073	704074		.	-	<|.	699856,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	704313	704314		.	-	<|.	700096,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	709314	709315	hypothetical_protein	.	-	<|.	705097,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	709668	709669	hypothetical_protein	.	-	<|.	705451,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	710820	710821	alcohol_dehydrogenase	.	+	<|.	706603,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	711114	711115	A/G-specific_adenine_glycosylase	.	-	<|.	706897,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	712330	712331		.	-	<|.	708113,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	715417	715418	phosphogluconate_dehydratase	.	-	<|.	711200,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	715610	715611	glucose-6-phosphate_dehydrogenase	.	+	<|.	711393,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	717262	717263	6-phosphogluconolactonase	.	+	<|.	713045,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	724785	724786	proteic_killer_suppression_protein	.	+	<|.	720568,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	730515	730516	phage_baseplate_assembly_protein_V	.	-	<|.	726298,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	730869	730870	phage_protein	.	-	<|.	726652,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	731559	731560		.	+	<|.	727342,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	731847	731848	phage_protein	.	-	<|.	727630,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	732141	732142	phage_protein	.	-	<|.	727924,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	734451	734452	ferredoxin-NADP+_reductase	.	-	<|.	730234,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	735091	735092	hypothetical_protein	.	-	<|.	730874,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	735109	735110	DNA_polymerase_IV	.	+	<|.	730892,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	735308	735309	DNA_polymerase_IV	.	+	<|.	731091,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	739285	739286	3-dehydroquinate_dehydratase	.	-	<|.	735068,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	739380	739381	protein_recA	.	+	<|.	735163,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	741551	741552	UPF0133_protein	.	-	<|.	737334,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	743764	743765	DNA_polymerase_III._subunit_gamma_and_tau	.	-	<|.	739547,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	745787	745788	DNA_mismatch_repair_protein_mutL	.	-	<|.	741570,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	745880	745881	hypothetical_protein	.	+	<|.	741663,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	748245	748246	hypothetical_protein	.	+	<|.	744028,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	749211	749212	hypothetical_protein	.	-	<|.	744994,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	753448	753449	two-component_system._NarL_family._nitrate/nitrite_sensor_kinase_NarX	.	-	<|.	749231,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	753564	753565	molybdopterin-guanine_dinucleotide_biosynthesis_protein_A	.	+	<|.	749347,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	754379	754380	riboflavin_synthase._alpha_subunit	.	+	<|.	750162,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	755940	755941		.	+	<|.	751723,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	756317	756318	ribulose-phosphate_3-epimerase	.	+	<|.	752100,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	756368	756369	hypothetical_protein	.	-	<|.	752151,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	758867	758868	hypothetical_protein	.	-	<|.	754650,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	762239	762240	ABC_transporter_ATP-binding_protein	.	-	<|.	758022,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	762316	762317	ArsC_family_protein	.	+	<|.	758099,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	762739	762740	peptidyl-prolyl_cis-trans_isomerase_D	.	+	<|.	758522,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	765353	765354	hypothetical_protein	.	-	<|.	761136,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	765485	765486	lipoprotein-releasing_system_transmembrane_protein_lolC	.	+	<|.	761268,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	767542	767543	exodeoxyribonuclease_V._alpha_subunit	.	+	<|.	763325,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	771486	771487	hypothetical_protein	.	-	<|.	767269,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	771621	771622	hypothetical_protein	.	-	<|.	767404,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	771793	771794	ATP-dependent_protease_La	.	+	<|.	767576,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	774346	774347	DNA-binding_protein_HU-beta	.	+	<|.	770129,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	774398	774399	DNA-binding_protein_HU-beta	.	+	<|.	770181,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	776722	776723	hypothetical_protein	.	+	<|.	772505,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	776772	776773	homoserine_dehydrogenase	.	-	<|.	772555,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	777266	777267	ABC_transporter_ATP-binding_protein	.	+	<|.	773049,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	780518	780519		.	-	<|.	776301,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	783163	783164		.	+	<|.	778946,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	786362	786363	hypothetical_protein	.	-	<|.	782145,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	786720	786721	hypothetical_protein	.	-	<|.	782503,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	787900	787901		.	-	<|.	783683,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	792294	792295		.	-	<|.	788077,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	796529	796530		.	-	<|.	792312,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	799663	799664		.	-	<|.	795446,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	802834	802835	conjugative_transfer_pilus_assembly_protein_TraH	.	+	<|.	798617,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	807597	807598	hypothetical_protein	.	+	<|.	803380,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	811623	811624	hypothetical_protein	.	-	<|.	807406,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	812622	812623	hypothetical_protein	.	-	<|.	808405,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	814793	814794	hypothetical_protein	.	-	<|.	810576,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	822481	822482	hypothetical_protein	.	-	<|.	818264,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	823034	823035	hypothetical_protein	.	-	<|.	818817,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	823331	823332		.	+	<|.	819114,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	823942	823943	hypothetical_protein	.	-	<|.	819725,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	824555	824556	hypothetical_protein	.	-	<|.	820338,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	824641	824642		.	+	<|.	820424,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	827807	827808	hypothetical_protein	.	-	<|.	823590,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	828681	828682		.	+	<|.	824464,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	831826	831827	single-strand_DNA-binding_protein	.	-	<|.	827609,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	832739	832740	hypothetical_protein	.	-	<|.	828522,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	833884	833885	integrating conjugative element protein	.	-	<|.	829667,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	835423	835424		.	+	<|.	831206,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	837508	837509		.	+	<|.	833291,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	838587	838588		.	+	<|.	834370,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	839348	839349	hypothetical_protein	.	-	<|.	835131,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	840725	840726	uracil-DNA_glycosylase	.	-	<|.	836508,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	840742	840743	hypothetical_protein	.	+	<|.	836525,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	841206	841207	outer_membrane_protein	.	+	<|.	836989,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	843357	843358	hypothetical_protein	.	-	<|.	839140,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	843446	843447	UPF0250_protein	.	+	<|.	839229,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	845801	845802	bacterioferritin_A	.	+	<|.	841584,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	846986	846987		.	+	<|.	842769,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	850203	850204	inosine-5-monophosphate_dehydrogenase	.	+	<|.	845986,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	854450	854451	tRNA-Leu	.	+	<|.	850233,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	854461	854462	ribonuclease_R	.	-	<|.	850244,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	854855	854856		.	+	<|.	850638,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	856953	856954	GTP-binding_protein_TypA/BipA	.	-	<|.	852736,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	857956	857957	nickel-dependent_hydrogenase._b-type_cytochrome_subunit	.	+	<|.	853739,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	857963	857964	carbohydrate_kinase	.	-	<|.	853746,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	863832	863833	dihydroxy-acid_dehydratase	.	+	<|.	859615,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	871809	871810	TrmH_family_RNA_methyltransferase	.	-	<|.	867592,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	874062	874063	hsp15-like_protein	.	+	<|.	869845,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	874318	874319	acetyl-coenzyme_A_carboxylase_carboxyl_transferase_subunit_alpha	.	-	<|.	870101,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	875086	875087	hypothetical_protein	.	+	<|.	870869,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	875200	875201	FeS_assembly_protein_IscX	.	-	<|.	870983,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	875357	875358	FeS_assembly_protein_IscX	.	-	<|.	871140,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	879769	879770	Fe-S_protein_assembly_chaperone_HscA	.	-	<|.	875552,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	879875	879876	squalene_synthase_HpnD	.	+	<|.	875658,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	882222	882223	short_chain_dehydrogenase	.	+	<|.	878005,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	883093	883094	lipoprotein	.	+	<|.	878876,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	884999	885000		.	-	<|.	880782,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	885014	885015	ABC_transporter_ATP-binding_protein/permease	.	+	<|.	880797,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	887055	887056	DnaA_regulatory_inactivator_Hda	.	+	<|.	882838,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	890029	890030	zinc_carboxypeptidase	.	+	<|.	885812,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	890938	890939	acetylglutamate_kinase	.	-	<|.	886721,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	893058	893059	yecA_family_protein	.	-	<|.	888841,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	894906	894907	2-isopropylmalate_synthase	.	-	<|.	890689,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	895066	895067	glutamate_5-kinase	.	+	<|.	890849,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	900744	900745	DNA_translocase_ftsK_2	.	-	<|.	896527,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	900851	900852	hypothetical_protein	.	+	<|.	896634,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	902016	902017		.	-	<|.	897799,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	902408	902409		.	-	<|.	898191,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	903506	903507	dihydroneopterin_aldolase	.	-	<|.	899289,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	903510	903511	glycerol-3-phosphate_acyltransferase	.	+	<|.	899293,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	905583	905584	fructose-1.6-bisphosphatase_class_1	.	+	<|.	901366,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	905835	905836	hypothetical_protein	.	-	<|.	901618,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	907454	907455	hypothetical_protein	.	-	<|.	903237,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	907585	907586	glutaredoxin-like_protein	.	+	<|.	903368,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	907787	907788		.	-	<|.	903570,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	907985	907986	gamma-glutamyltransferase	.	+	<|.	903768,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	908985	908986		.	-	<|.	904768,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	909895	909896	hypothetical_protein	.	+	<|.	905678,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	910293	910294		.	-	<|.	906076,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	912348	912349	hypothetical_protein	.	-	<|.	908131,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	913196	913197		.	-	<|.	908979,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	913898	913899	dedA_family_membrane_protein	.	+	<|.	909681,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	916953	916954	anthranilate_synthase_component_1	.	+	<|.	912736,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	917439	917440		.	-	<|.	913222,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	919740	919741		.	-	<|.	915523,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	923658	923659	hypothetical_protein	.	+	<|.	919441,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	924426	924427		.	+	<|.	920209,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	932114	932115	hypothetical_protein	.	-	<|.	927897,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	932337	932338		.	-	<|.	928120,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	932521	932522	oxidoreductase	.	+	<|.	928304,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	936536	936537		.	-	<|.	932319,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	937778	937779	hypothetical_protein	.	-	<|.	933561,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	938081	938082	hypothetical_protein	.	-	<|.	933864,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	940387	940388	transcription_elongation_factor_greA	.	-	<|.	936170,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	940613	940614	3-phosphoshikimate_1-carboxyvinyltransferase	.	+	<|.	936396,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	943506	943507		.	+	<|.	939289,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	944193	944194	phospholipase_D-family_protein	.	-	<|.	939976,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	945655	945656	drug.H+_antiporter-2_(14_Spanner)_(DHA2)_family_drug_resistance_MFS_transporter	.	-	<|.	941438,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	945895	945896	hypothetical_protein	.	+	<|.	941678,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	951904	951905	hypothetical_protein	.	-	<|.	947687,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	954560	954561	hypothetical_protein	.	-	<|.	950343,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	956257	956258	dihydrolipoyl_dehydrogenase	.	-	<|.	952040,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	957507	957508	2-oxoglutarate_dehydrogenase_E2_component_(dihydrolipoamide_succinyltransferase)	.	-	<|.	953290,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	960541	960542	oxoglutarate_dehydrogenase_(succinyl-transferring)._E1_component	.	-	<|.	956324,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	961733	961734	citrate_(Si)-synthase	.	-	<|.	957516,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	963825	963826		.	+	<|.	959608,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	965683	965684	succinate_dehydrogenase._cytochrome_b556_subunit	.	-	<|.	961466,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	967448	967449		.	+	<|.	963231,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	968335	968336	peroxiredoxin	.	-	<|.	964118,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	970895	970896	5-methyltetrahydropteroyltriglutamate-homocysteine_methyltransferase	.	-	<|.	966678,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	971009	971010		.	+	<|.	966792,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	971893	971894	5.10-methylenetetrahydrofolate_reductase	.	-	<|.	967676,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	972028	972029	50S_ribosomal_protein_L31_type_B	.	+	<|.	967811,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	972859	972860	hypothetical_protein	.	-	<|.	968642,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	972875	972876	homoserine_O-acetyltransferase	.	+	<|.	968658,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	975542	975543		.	+	<|.	971325,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	976308	976309	elongation_factor_P	.	-	<|.	972091,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	977789	977790	hypothetical_protein	.	-	<|.	973572,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	978095	978096	tRNA_dimethylallyltransferase	.	+	<|.	973878,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	981861	981862	uracil-xanthine_permease	.	-	<|.	977644,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	982570	982571	uracil-xanthine_permease	.	-	<|.	978353,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	982871	982872	dihydrodipicolinate_synthase	.	+	<|.	978654,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	986343	986344	opacity_protein	.	+	<|.	982126,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	986752	986753	proline_iminopeptidase	.	-	<|.	982535,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	987556	987557	heme-utilization_protein_Hup	.	+	<|.	983339,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	992871	992872	aspartate_kinase	.	-	<|.	988654,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	993746	993747		.	+	<|.	989529,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	994414	994415	universal_stress_protein	.	-	<|.	990197,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	994437	994438	HesA/MoeB/ThiF_family_protein	.	+	<|.	990220,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	995441	995442	segregation_and_condensation_protein_A	.	+	<|.	991224,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	996394	996395	nicotinate_phosphoribosyltransferase	.	+	<|.	992177,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	997663	997664	arginyl-tRNA_synthetase	.	+	<|.	993446,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	999600	999601		.	-	<|.	995383,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1001796	1001797		.	-	<|.	997579,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1002662	1002663	polar_amino_acid_ABC_transporter_permease	.	-	<|.	998445,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1004237	1004238	ribose-5-phosphate_isomerase_A	.	-	<|.	1000020,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1004467	1004468		.	+	<|.	1000250,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1008307	1008308	hypothetical_protein	.	-	<|.	1004090,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1008375	1008376	acetate_kinase_1	.	+	<|.	1004158,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1010048	1010049		.	-	<|.	1005831,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1012049	1012050	Thiol.disulfide_interchange_protein_DsbD	.	-	<|.	1007832,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1012104	1012105	hypothetical_protein	.	+	<|.	1007887,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1014102	1014103	FKBP-type_peptidyl-prolyl_cis-trans_isomerase_SlyD	.	-	<|.	1009885,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1014450	1014451	outer_membrane_protein_H.8	.	+	<|.	1010233,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1016675	1016676		.	+	<|.	1012458,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1018738	1018739	outer_membrane_autotransporter_barrel_domain-containing_protein	.	-	<|.	1014521,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1018877	1018878		.	+	<|.	1014660,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1019568	1019569	SsrA-binding_protein	.	-	<|.	1015351,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1020607	1020608		.	-	<|.	1016390,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1020794	1020795	tRNA-Asn	.	-	<|.	1016577,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1021853	1021854	methylated-DNA-[protein]-cysteine_S-methyltransferase	.	-	<|.	1017636,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1022034	1022035		.	-	<|.	1017817,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1023562	1023563	AraC_family_transcriptional_regulator	.	-	<|.	1019345,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1026304	1026305	hypothetical_protein	.	-	<|.	1022087,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1026952	1026953		.	+	<|.	1022735,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1027132	1027133	outer_membrane_protein_H.8	.	-	<|.	1022915,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1027721	1027722	protein_translocase_subunit_secA	.	+	<|.	1023504,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1027727	1027728	hypothetical_protein	.	-	<|.	1023510,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1027937	1027938	hypothetical_protein	.	-	<|.	1023720,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1033156	1033157		.	-	<|.	1028939,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1035751	1035752	CRISPR-associated_protein_cas4	.	-	<|.	1031534,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1035791	1035792		.	+	<|.	1031574,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1036415	1036416		.	+	<|.	1032198,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1036811	1036812	hypothetical_protein	.	-	<|.	1032594,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1040790	1040791	hypothetical_protein	.	-	<|.	1036573,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1041529	1041530	phage_protein	.	-	<|.	1037312,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1042532	1042533	phage_protein	.	-	<|.	1038315,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1043825	1043826	phage_protein	.	-	<|.	1039608,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1044636	1044637	phage_repressor_protein	.	-	<|.	1040419,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1047860	1047861		.	+	<|.	1043643,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1049594	1049595	exonuclease._DNA_polymerase_III._epsilon_subunit	.	-	<|.	1045377,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1049671	1049672	tRNA-Arg	.	+	<|.	1045454,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1050194	1050195		.	-	<|.	1045977,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1050215	1050216	2-nitropropane_dioxygenase	.	+	<|.	1045998,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1053615	1053616	ferredoxin	.	-	<|.	1049398,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1054057	1054058	ferredoxin	.	-	<|.	1049840,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1054340	1054341	transketolase	.	+	<|.	1050123,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1056473	1056474	fumarate_hydratase_class_II	.	+	<|.	1052256,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1061228	1061229	major_facilitator_family_transporter_drug_resistance_translocase	.	-	<|.	1057011,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1062030	1062031	transglycosylase	.	-	<|.	1057813,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1063996	1063997	hypothetical_protein	.	+	<|.	1059779,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1064468	1064469	opacity_protein	.	-	<|.	1060251,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1065636	1065637	exopolyphosphatase	.	+	<|.	1061419,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1067934	1067935	hypothetical_protein	.	-	<|.	1063717,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1069792	1069793	tryptophanyl-tRNA_synthetase	.	-	<|.	1065575,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1073825	1073826	aminotransferase_AlaT	.	-	<|.	1069608,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1074118	1074119	4-oxalocrotonate_tautomerase_family_enzyme	.	-	<|.	1069901,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1076417	1076418	glutamate_dehydrogenase	.	-	<|.	1072200,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1076744	1076745	phosphoglycolate_phosphatase	.	+	<|.	1072527,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1076759	1076760	glutamate_dehydrogenase	.	-	<|.	1072542,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1078361	1078362	acyl-CoA_thioester_hydrolase	.	+	<|.	1074144,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1080331	1080332	lipoprotein_NlpD	.	-	<|.	1076114,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1082860	1082861	hypothetical_protein	.	-	<|.	1078643,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1083902	1083903	fimbrial_assembly_protein_FimB	.	-	<|.	1079685,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1085461	1085462	succinate-semialdehyde_dehydrogenase	.	-	<|.	1081244,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1085662	1085663	hypothetical_protein	.	+	<|.	1081445,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1086156	1086157		.	-	<|.	1081939,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1086859	1086860	lipoprotein	.	-	<|.	1082642,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1087076	1087077	carbon_starvation_protein	.	+	<|.	1082859,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1089643	1089644		.	+	<|.	1085426,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1089835	1089836	hypothetical_protein	.	-	<|.	1085618,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1090001	1090002	hypothetical_protein	.	-	<|.	1085784,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1090013	1090014	adhesin_mafA	.	+	<|.	1085796,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1090272	1090273	hypothetical_protein	.	-	<|.	1086055,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1096149	1096150	hypothetical_protein	.	+	<|.	1091932,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1098482	1098483	hypothetical_protein	.	-	<|.	1094265,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1099763	1099764	hypothetical_protein	.	-	<|.	1095546,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1100997	1100998	autotransporter serine protease	.	+	<|.	1096780,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1101189	1101190	hypothetical_protein	.	-	<|.	1096972,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1101402	1101403	autotransporter serine protease	.	+	<|.	1097185,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1105010	1105011	opacity_protein	.	+	<|.	1100793,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1106205	1106206		.	+	<|.	1101988,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1107190	1107191	acyl-CoA_thioesterase_YciA	.	+	<|.	1102973,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1108628	1108629	cytochrome_c	.	+	<|.	1104411,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1108656	1108657	oxidoreductase	.	-	<|.	1104439,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1110506	1110507	CMP-N-acetylneuraminate-beta-galactosamide-alpha-2.3-sialyltransferase	.	-	<|.	1106289,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1110716	1110717	isocitrate_dehydrogenase._NADP-dependent	.	+	<|.	1106499,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1113270	1113271	hypothetical_protein	.	+	<|.	1109053,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1114340	1114341	hypothetical_protein	.	+	<|.	1110123,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1114512	1114513		.	-	<|.	1110295,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1114872	1114873		.	-	<|.	1110655,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1122204	1122205		.	+	<|.	1117987,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1138862	1138863	phage_repressor_protein	.	+	<|.	1134645,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1139215	1139216	phage_repressor_protein	.	+	<|.	1134998,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1140088	1140089	phage_protein	.	+	<|.	1135871,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1140920	1140921		.	-	<|.	1136703,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1141474	1141475	phage_protein	.	-	<|.	1137257,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1141697	1141698	phage_protein	.	+	<|.	1137480,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1147475	1147476	tRNA-Leu	.	-	<|.	1143258,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1147562	1147563	hypothetical_protein	.	+	<|.	1143345,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1151171	1151172		.	+	<|.	1146954,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1151442	1151443		.	+	<|.	1147225,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1159244	1159245	O-succinylhomoserine_sulfhydrylase	.	-	<|.	1155027,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1160172	1160173	hypothetical_protein	.	-	<|.	1155955,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1160178	1160179	hypothetical_protein	.	+	<|.	1155961,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1160473	1160474	histidine-binding_protein	.	+	<|.	1156256,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1163218	1163219	trk_system_potassium_uptake_protein_TrkA	.	+	<|.	1159001,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1166822	1166823	transposase	.	+	<|.	1162605,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1166868	1166869	hypothetical_protein	.	-	<|.	1162651,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1168790	1168791	hypothetical_protein	.	-	<|.	1164573,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1168952	1168953	tRNA-Glu	.	+	<|.	1164735,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1169263	1169264	phosphomethylpyrimidine_kinase	.	+	<|.	1165046,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1169354	1169355		.	-	<|.	1165137,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1171208	1171209	tellurite_resistance_protein_TehB	.	-	<|.	1166991,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1171938	1171939		.	-	<|.	1167721,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1173888	1173889		.	+	<|.	1169671,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1174015	1174016	phage_protein	.	-	<|.	1169798,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1174159	1174160		.	+	<|.	1169942,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1181236	1181237		.	+	<|.	1177019,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1183130	1183131	DNA_(cytosine-5-)-methyltransferase	.	-	<|.	1178913,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1183750	1183751	hypothetical_protein	.	+	<|.	1179533,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1183829	1183830		.	-	<|.	1179612,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1184955	1184956	comEA_protein	.	-	<|.	1180738,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1190606	1190607	16S ribosomal RNA	.	-	<|.	1186389,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1191684	1191685		.	+	<|.	1187467,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1191773	1191774		.	+	<|.	1187556,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1192778	1192779		.	+	<|.	1188561,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1193265	1193266	nitrogen_regulatory_protein_P-II_1	.	-	<|.	1189048,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1193327	1193328	phosphoribosylformylglycinamidine_synthase	.	+	<|.	1189110,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1199012	1199013	ArsR_family_transcriptional_regulator	.	-	<|.	1194795,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1199164	1199165	hydroxyacylglutathione_hydrolase	.	+	<|.	1194947,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1199249	1199250		.	-	<|.	1195032,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1200058	1200059	magnesium_transporter	.	+	<|.	1195841,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1202671	1202672	hsp33-like_protein	.	-	<|.	1198454,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1202822	1202823	outer_membrane_protein	.	+	<|.	1198605,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1203895	1203896	holin-like_protein	.	+	<|.	1199678,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1207898	1207899	ATP-dependent_helicase_HrpA	.	+	<|.	1203681,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1210527	1210528		.	-	<|.	1206310,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1217140	1217141	hypothetical_protein	.	-	<|.	1212923,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1217662	1217663		.	+	<|.	1213445,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1218252	1218253		.	+	<|.	1214035,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1220213	1220214	anthranilate_synthase_component_II	.	-	<|.	1215996,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1222886	1222887		.	+	<|.	1218669,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1224113	1224114	phosphatidylserine_decarboxylase_proenzyme	.	-	<|.	1219896,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1224206	1224207	UvrABC_system_protein_A	.	+	<|.	1219989,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1227502	1227503		.	-	<|.	1223285,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1230028	1230029	transposase	.	-	<|.	1225811,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1230032	1230033		.	+	<|.	1225815,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1231826	1231827	CTP_synthase	.	-	<|.	1227609,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1234793	1234794	tRNA-specific_2-thiouridylase_mnmA	.	-	<|.	1230576,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1235391	1235392	hypothetical_protein	.	-	<|.	1231174,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1238840	1238841	glutaminyl-tRNA_synthetase	.	-	<|.	1234623,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1239631	1239632		.	+	<|.	1235414,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1239678	1239679	DeoR_family_transcriptional_regulator._glycerol-3-phosphate_regulon_repressor	.	-	<|.	1235461,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1241662	1241663	GntR_family_transcriptional_regulator	.	-	<|.	1237445,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1241822	1241823		.	+	<|.	1237605,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1242450	1242451	OsmC_family_redox_protein	.	-	<|.	1238233,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1242988	1242989	hypothetical_protein	.	-	<|.	1238771,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1243821	1243822	phosphoribosylglycinamide_formyltransferase	.	-	<|.	1239604,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1244956	1244957	FKBP-type_peptidyl-prolyl_cis-trans_isomerase_FkpA	.	-	<|.	1240739,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1245534	1245535		.	+	<|.	1241317,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1246936	1246937	lipopolysaccharide_exporter_permease	.	+	<|.	1242719,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1247010	1247011	aminopeptidase_A	.	-	<|.	1242793,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1249529	1249530	aconitate_hydratase_2	.	+	<|.	1245312,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1254701	1254702	hypothetical_protein	.	-	<|.	1250484,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1257295	1257296	acetolactate_synthase._large_subunit._biosynthetic_type	.	-	<|.	1253078,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1257916	1257917	tRNA-Leu	.	-	<|.	1253699,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1258063	1258064	lipoprotein	.	+	<|.	1253846,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1262806	1262807	imidazoleglycerol-phosphate_dehydratase	.	+	<|.	1258589,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1265403	1265404		.	-	<|.	1261186,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1267240	1267241	signal_peptide_peptidase_SppA._36K_type	.	-	<|.	1263023,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1268175	1268176	tRNA-Gly	.	-	<|.	1263958,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1268820	1268821	CDP-diacylglycerol-glycerol-3-phosphate_3-phosphatidyltransferase	.	-	<|.	1264603,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1269890	1269891	4-carboxymuconolactone_decarboxylase	.	-	<|.	1265673,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1269906	1269907	transcriptional_regulator_MtrA	.	+	<|.	1265689,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1271416	1271417	hypothetical_protein	.	-	<|.	1267199,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1271438	1271439	hypothetical_protein	.	+	<|.	1267221,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1273667	1273668	putrescine_ABC_transporter_substrate-binding_protein	.	-	<|.	1269450,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1273786	1273787	alanyl-tRNA_synthetase	.	+	<|.	1269569,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1277263	1277264		.	-	<|.	1273046,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1277267	1277268	transposase	.	+	<|.	1273050,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1278425	1278426		.	+	<|.	1274208,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1278917	1278918		.	+	<|.	1274700,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1279610	1279611	2.3-bisphosphoglycerate-dependent_phosphoglycerate_mutase	.	-	<|.	1275393,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1279705	1279706	DNA_topoisomerase_4_subunit_A	.	+	<|.	1275488,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1286281	1286282	hypothetical_protein	.	-	<|.	1282064,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1287105	1287106	phage_protein	.	-	<|.	1282888,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1287249	1287250		.	+	<|.	1283032,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1288733	1288734		.	+	<|.	1284516,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1290362	1290363	hypothetical_protein	.	-	<|.	1286145,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1291710	1291711		.	+	<|.	1287493,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1293523	1293524	hypothetical_protein	.	+	<|.	1289306,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1297630	1297631	nitric_oxide_reductase_subunit_B	.	-	<|.	1293413,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1297904	1297905	copper-containing_nitrite_reductase	.	+	<|.	1293687,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1301189	1301190	opacity_protein	.	+	<|.	1296972,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1301620	1301621		.	-	<|.	1297403,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1303168	1303169	sulfatase	.	-	<|.	1298951,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1304581	1304582	sulfatase	.	-	<|.	1300364,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1306052	1306053	phosphoserine_aminotransferase	.	-	<|.	1301835,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1306325	1306326	ribosome_maturation_factor_RimP	.	+	<|.	1302108,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1314133	1314134	hypothetical_protein	.	-	<|.	1309916,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1314227	1314228	hemolysin_III_family_channel_protein	.	+	<|.	1310010,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1316360	1316361	UPF0082_protein	.	+	<|.	1312143,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1316485	1316486	sodium.alanine_symporter	.	-	<|.	1312268,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1317992	1317993	disulfide_bond_formation_protein_B	.	-	<|.	1313775,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1318406	1318407	disulfide_bond_formation_protein_B	.	-	<|.	1314189,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1318616	1318617		.	+	<|.	1314399,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1318817	1318818		.	+	<|.	1314600,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1319502	1319503	lrp/AsnC_family_transcriptional_regulator._leucine-responsive_regulatory_protein	.	-	<|.	1315285,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1319620	1319621	alanine_racemase	.	+	<|.	1315403,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1322944	1322945	ACT_protein	.	-	<|.	1318727,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1323807	1323808	hypothetical_protein	.	-	<|.	1319590,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1324837	1324838	protein-(glutamine-N5)_methyltransferase._ribosomal_protein_L3-specific	.	-	<|.	1320620,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1325769	1325770	transposase	.	+	<|.	1321552,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1325899	1325900		.	-	<|.	1321682,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1327038	1327039		.	+	<|.	1322821,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1327889	1327890	comEA_protein	.	-	<|.	1323672,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1333502	1333503	phosphopantothenoylcysteine_decarboxylase/phosphopantothenate-cysteine_ligase	.	+	<|.	1329285,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1333528	1333529	16S ribosomal RNA	.	-	<|.	1329311,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1336747	1336748	RelA/SpoT_family_protein	.	-	<|.	1332530,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1338328	1338329	adenine_phosphoribosyltransferase	.	+	<|.	1334111,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1338951	1338952	guanylate_kinase	.	-	<|.	1334734,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1339779	1339780	HAD_hydrolase	.	-	<|.	1335562,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1339876	1339877	protease	.	+	<|.	1335659,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1341504	1341505	hypothetical_protein	.	+	<|.	1337287,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1342232	1342233		.	-	<|.	1338015,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1344836	1344837	transposase	.	+	<|.	1340619,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1346245	1346246	heme_oxygenase	.	-	<|.	1342028,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1346474	1346475	paraquat-inducible_protein_PqiA	.	+	<|.	1342257,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1351200	1351201	hypothetical_protein	.	+	<|.	1346983,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1354657	1354658		.	-	<|.	1350440,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1354696	1354697	hypothetical_protein	.	+	<|.	1350479,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1355662	1355663	hypothetical_protein	.	-	<|.	1351445,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1357051	1357052	tRNA-Arg	.	+	<|.	1352834,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1357126	1357127	cytochrome_c	.	-	<|.	1352909,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1359518	1359519	tRNA_(uracil-5-)-methyltransferase	.	-	<|.	1355301,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1359611	1359612	chorismate_synthase	.	+	<|.	1355394,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1360789	1360790	hypothetical_protein	.	+	<|.	1356572,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1363936	1363937	dinucleoside_polyphosphate_hydrolase	.	-	<|.	1359719,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1364050	1364051	seryl-tRNA_synthetase	.	+	<|.	1359833,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1366474	1366475	D-lactate_dehydrogenase	.	-	<|.	1362257,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1367691	1367692	peptide_chain_release_factor_1	.	-	<|.	1363474,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1370309	1370310	dedA_family_membrane_protein	.	-	<|.	1366092,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1371799	1371800	phosphoglucosamine_mutase	.	-	<|.	1367582,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1372781	1372782	dihydropteroate_synthase	.	-	<|.	1368564,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1373858	1373859	AsmA-like_protein	.	+	<|.	1369641,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1374318	1374319	hypothetical_protein	.	-	<|.	1370101,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1378440	1378441		.	+	<|.	1374223,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1378526	1378527	hypothetical_protein	.	-	<|.	1374309,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1379648	1379649	hypothetical_protein	.	-	<|.	1375431,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1379670	1379671	hypothetical_protein	.	+	<|.	1375453,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1382286	1382287	tRNA-Met	.	+	<|.	1378069,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1387854	1387855	thymidylate_synthase	.	-	<|.	1383637,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1388205	1388206	glutamate_dehydrogenase_(NADP+)	.	+	<|.	1383988,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1390680	1390681	GntR_family_transcriptional_regulator	.	-	<|.	1386463,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1390889	1390890	L-lactate_permease-like_protein	.	+	<|.	1386672,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1397633	1397634	membrane_fusion_protein_mtrC	.	-	<|.	1393416,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1397691	1397692	TetR/AcrR_family_transcriptional_regulator._acrAB_operon_repressor	.	+	<|.	1393474,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1398954	1398955	AbgT_transporter	.	+	<|.	1394737,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1400534	1400535	hypothetical_protein	.	-	<|.	1396317,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1403863	1403864	exodeoxyribonuclease_V._gamma_subunit	.	-	<|.	1399646,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1405382	1405383	hypothetical_protein	.	-	<|.	1401165,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1407964	1407965		.	+	<|.	1403747,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1409370	1409371	cytochrome_c_oxidase._cbb3-type._subunit_I	.	-	<|.	1405153,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1409544	1409545	M61_family_glycyl_aminopeptidase	.	+	<|.	1405327,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1411307	1411308	hypothetical_protein	.	+	<|.	1407090,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1413110	1413111		.	+	<|.	1408893,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1414308	1414309	M50_family_peptidase	.	+	<|.	1410091,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1414367	1414368	protein_tonB	.	-	<|.	1410150,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1414568	1414569	M50_family_peptidase	.	+	<|.	1410351,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1415997	1415998	GrxB_family_glutaredoxin	.	-	<|.	1411780,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1416086	1416087	GTP_pyrophosphokinase	.	+	<|.	1411869,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1421713	1421714		.	+	<|.	1417496,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1423274	1423275	hypothetical_protein	.	-	<|.	1419057,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1424837	1424838	hypothetical_protein	.	-	<|.	1420620,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1427115	1427116		.	+	<|.	1422898,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1427365	1427366	MafB_family_adhesin_protein	.	-	<|.	1423148,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1429939	1429940	adhesin_mafA_2/3	.	-	<|.	1425722,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1430732	1430733	bacteriocin_resistance_protein	.	+	<|.	1426515,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1430840	1430841	transposase	.	-	<|.	1426623,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1433810	1433811	NosL-like_lipoprotein	.	-	<|.	1429593,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1441538	1441539	FMN-binding_protein	.	-	<|.	1437321,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1443003	1443004	glutamyl-tRNA_reductase	.	-	<|.	1438786,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1445657	1445658	aminomethyltransferase	.	-	<|.	1441440,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1445802	1445803	lrp/AsnC_family_transcriptional_regulator._leucine-responsive_regulatory_protein	.	+	<|.	1441585,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1447433	1447434	citrate_transporter	.	+	<|.	1443216,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1449863	1449864	transposase	.	-	<|.	1445646,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1450004	1450005	Na(+)-translocating_NADH-quinone_reductase_subunit_A	.	+	<|.	1445787,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1456209	1456210		.	-	<|.	1451992,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1456395	1456396	thiamine_biosynthesis_lipoprotein	.	+	<|.	1452178,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1458462	1458463	protein_grpE	.	-	<|.	1454245,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1458571	1458572	serine_O-acetyltransferase	.	+	<|.	1454354,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1461691	1461692	hypothetical_protein	.	-	<|.	1457474,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1462152	1462153		.	+	<|.	1457935,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1462987	1462988	transcriptional_regulator	.	-	<|.	1458770,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1463045	1463046	hypothetical_protein	.	+	<|.	1458828,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1463548	1463549	chaperone_dnaK	.	+	<|.	1459331,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1464337	1464338		.	-	<|.	1460120,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1469018	1469019		.	-	<|.	1464801,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1469974	1469975	NitT/TauT_ABC_transporter_ATP-binding_protein	.	+	<|.	1465757,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1475307	1475308	thiol.disulfide_interchange_protein_DsbC	.	+	<|.	1471090,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1479435	1479436	efflux_transporter._RND_family._MFP_subunit	.	-	<|.	1475218,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1479595	1479596	prepilin-type_N-terminal_cleavage/methylation_domain-containing_protein	.	+	<|.	1475378,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1480232	1480233	alcohol_dehydrogenase._propanol-preferring	.	+	<|.	1476015,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1481454	1481455		.	-	<|.	1477237,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1485263	1485264	hypothetical_protein	.	+	<|.	1481046,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1485613	1485614	chromosome_segregation_protein_SMC	.	-	<|.	1481396,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1486797	1486798	UDP-2.3-diacylglucosamine_hydrolase	.	+	<|.	1482580,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1487697	1487698	lactate_permease_(LctP)_family_transporter	.	+	<|.	1483480,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1489797	1489798	hypothetical_protein	.	-	<|.	1485580,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1489870	1489871	hypothetical_protein	.	+	<|.	1485653,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1490429	1490430	aspartate_aminotransferase	.	+	<|.	1486212,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1491620	1491621		.	-	<|.	1487403,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1492640	1492641	hypothetical_protein	.	-	<|.	1488423,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1494290	1494291	lysyl-tRNA_synthetase	.	-	<|.	1490073,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1495893	1495894	hypothetical_protein	.	-	<|.	1491676,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1496018	1496019	xaa-Pro_aminopeptidase	.	+	<|.	1491801,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1500315	1500316	opacity_protein	.	-	<|.	1496098,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1500869	1500870		.	+	<|.	1496652,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1501301	1501302	hypothetical_protein	.	-	<|.	1497084,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1501567	1501568	hypothetical_protein	.	+	<|.	1497350,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1506002	1506003	NAD(P)(+)_transhydrogenase_(AB-specific)._alpha_subunit	.	+	<|.	1501785,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1506140	1506141	phosphoserine_phosphatase_SerB	.	-	<|.	1501923,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1510298	1510299	LysR_family_transcriptional_regulator	.	+	<|.	1506081,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1510322	1510323	hypothetical_protein	.	-	<|.	1506105,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1512026	1512027	tRNA-Asn	.	-	<|.	1507809,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1514109	1514110	hypothetical_protein	.	-	<|.	1509892,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1516327	1516328	hypothetical_protein	.	-	<|.	1512110,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1519198	1519199	hypothetical_protein	.	-	<|.	1514981,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1519246	1519247	hypothetical_protein	.	+	<|.	1515029,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1524420	1524421		.	+	<|.	1520203,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1525125	1525126	biosynthetic_arginine_decarboxylase	.	-	<|.	1520908,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1528292	1528293	hypothetical_protein	.	-	<|.	1524075,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1529562	1529563	phospholipase_A1	.	-	<|.	1525345,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1530011	1530012	30S_ribosomal_protein_S20	.	-	<|.	1525794,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1530202	1530203	spermidine/putrescine_ABC_transporter_substrate-binding_protein	.	+	<|.	1525985,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1532084	1532085		.	-	<|.	1527867,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1537219	1537220		.	+	<|.	1533002,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1538090	1538091	transferrin-binding_protein_B	.	-	<|.	1533873,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1538595	1538596	hypothetical_protein	.	+	<|.	1534378,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1542149	1542150	glutamate_racemase	.	-	<|.	1537932,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1542234	1542235	YjeE_family_ATPase	.	+	<|.	1538017,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1550559	1550560	chorismate_mutase	.	-	<|.	1546342,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1552835	1552836	integral_membrane_protein	.	-	<|.	1548618,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1553832	1553833	opacity_protein	.	+	<|.	1549615,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1554160	1554161		.	-	<|.	1549943,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1554756	1554757		.	+	<|.	1550539,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1555822	1555823	prephenate_dehydrogenase	.	+	<|.	1551605,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1555843	1555844	nitrilase	.	-	<|.	1551626,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1558365	1558366	Rrf2_family_protein	.	+	<|.	1554148,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1558413	1558414	hypothetical_protein	.	-	<|.	1554196,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1559768	1559769	tRNA_threonylcarbamoyladenosine_biosynthesis_protein	.	-	<|.	1555551,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1566541	1566542		.	+	<|.	1562324,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1566693	1566694	hypothetical_protein	.	-	<|.	1562476,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1568814	1568815	hypothetical_protein	.	-	<|.	1564597,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1569088	1569089		.	+	<|.	1564871,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1572104	1572105	cell_division_protein_ftsZ	.	-	<|.	1567887,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1573578	1573579	cell_division_protein_ftsA	.	-	<|.	1569361,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1576667	1576668		.	+	<|.	1572450,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1576692	1576693	UDP-N-acetylmuramate-L-alanine_ligase	.	-	<|.	1572475,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1579273	1579274	cell_division_protein_FtsW	.	-	<|.	1575056,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1589534	1589535		.	+	<|.	1585317,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1591000	1591001	protein_MraZ	.	-	<|.	1586783,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1592545	1592546	tRNA-Met	.	+	<|.	1588328,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1595313	1595314	cell_division_protein_FtsN	.	-	<|.	1591096,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1597232	1597233	hypothetical_protein	.	-	<|.	1593015,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1597328	1597329	sodium/proline_symporter	.	+	<|.	1593111,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1599405	1599406	delta-1-pyrroline-5-carboxylate_dehydrogenase	.	+	<|.	1595188,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1603281	1603282	opacity_protein	.	+	<|.	1599064,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1603649	1603650		.	-	<|.	1599432,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1604241	1604242		.	-	<|.	1600024,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1604263	1604264		.	+	<|.	1600046,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1605162	1605163		.	-	<|.	1600945,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1605476	1605477	hypothetical_protein	.	+	<|.	1601259,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1607671	1607672	ArsR_family_transcriptional_regulator	.	-	<|.	1603454,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1610301	1610302	hypothetical_protein	.	-	<|.	1606084,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1610336	1610337	quinolinate_synthase_A	.	+	<|.	1606119,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1619425	1619426	ABC_transporter_ATP-binding_protein	.	+	<|.	1615208,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1619429	1619430	major_facilitator_superfamily_sugar_transporter	.	-	<|.	1615212,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1619518	1619519	ABC_transporter_ATP-binding_protein	.	+	<|.	1615301,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1619561	1619562	major_facilitator_superfamily_sugar_transporter	.	-	<|.	1615344,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1622747	1622748	thiamine-monophosphate_kinase	.	-	<|.	1618530,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1623132	1623133		.	-	<|.	1618915,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1624384	1624385	outer_membrane_protein_P.III	.	-	<|.	1620167,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1624529	1624530	LysR_family_transcriptional_regulator._Cys_regulon_transcriptional_activator	.	+	<|.	1620312,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1626362	1626363	oxygen-independent_coproporphyrinogen_III_oxidase	.	+	<|.	1622145,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1626440	1626441	CRP/FNR_family_transcriptional_regulator._anaerobic_regulatory_protein	.	-	<|.	1622223,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1629929	1629930	PiT_family_inorganic_phosphate_transporter	.	-	<|.	1625712,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1630036	1630037	anhydro-N-acetylmuramic_acid_kinase	.	+	<|.	1625819,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1631255	1631256	MafA_family_adhesin_protein	.	+	<|.	1627038,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1637705	1637706	hypothetical_protein	.	+	<|.	1633488,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1638674	1638675	hypothetical_protein	.	+	<|.	1634457,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1638969	1638970		.	-	<|.	1634752,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1639854	1639855	hypothetical_protein	.	+	<|.	1635637,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1643092	1643093	MFS_transporter._PAT_family._beta-lactamase_induction_signal_transducer_AmpG	.	-	<|.	1638875,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1644752	1644753	glutamine_synthetase	.	-	<|.	1640535,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1644923	1644924	shikimate_dehydrogenase	.	+	<|.	1640706,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1646828	1646829	tRNA-Phe	.	-	<|.	1642611,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1649450	1649451	YrbI_family_3-deoxy-D-manno-octulosonate_8-phosphate_phosphatase	.	-	<|.	1645233,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1650532	1650533	transaldolase	.	+	<|.	1646315,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1650567	1650568	KpsF/GutQ_family_sugar_isomerase	.	-	<|.	1646350,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1654141	1654142	phage_integrase/recombinase	.	+	<|.	1649924,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1654207	1654208	tRNA_dihydrouridine_synthase_A	.	-	<|.	1649990,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1656459	1656460		.	+	<|.	1652242,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1662331	1662332	phage_protein	.	-	<|.	1658114,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1663239	1663240	phage_protein	.	-	<|.	1659022,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1665257	1665258	phage_repressor_protein	.	-	<|.	1661040,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1666116	1666117	phage_protein	.	-	<|.	1661899,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1671781	1671782	hypothetical_protein	.	-	<|.	1667564,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1672225	1672226		.	+	<|.	1668008,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1672352	1672353	phage_protein	.	-	<|.	1668135,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1672496	1672497		.	+	<|.	1668279,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1679396	1679397	phage_protein	.	+	<|.	1675179,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1679766	1679767		.	+	<|.	1675549,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1681032	1681033		.	-	<|.	1676815,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1681500	1681501	hypothetical_protein	.	-	<|.	1677283,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1685239	1685240	intracellular_septation_protein_A	.	-	<|.	1681022,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1685358	1685359	TspA_protein	.	+	<|.	1681141,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1688453	1688454	lactoylglutathione_lyase	.	-	<|.	1684236,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1689998	1689999	hypothetical_protein	.	-	<|.	1685781,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1690200	1690201	branched-chain_amino_acid_aminotransferase	.	+	<|.	1685983,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1692317	1692318	enoyl-[acyl-carrier-protein]_reductase_[NADH]	.	-	<|.	1688100,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1693330	1693331	2.3.4.5-tetrahydropyridine-2.6-dicarboxylate_N-succinyltransferase	.	-	<|.	1689113,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1695150	1695151	glucose-6-phosphate_isomerase_2	.	-	<|.	1690933,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1695159	1695160	type_IV_pilus_assembly_protein_PilC	.	+	<|.	1690942,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1695494	1695495	type_IV_pilus_assembly_protein_PilC	.	+	<|.	1691277,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1700483	1700484	type_IV_pilus_assembly_protein_pilF	.	-	<|.	1696266,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1700708	1700709	tRNA-Arg	.	-	<|.	1696491,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1702205	1702206	octaprenyl-diphosphate_synthase	.	-	<|.	1697988,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1702314	1702315	50S_ribosomal_protein_L21	.	+	<|.	1698097,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1703119	1703120	UbiH/UbiF/VisC/COQ6_family_ubiquinone_biosynthesis_hydroxylase	.	+	<|.	1698902,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1705148	1705149	50S_ribosomal_protein_L28	.	-	<|.	1700931,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1708002	1708003	multidrug_resistance_efflux_pump_membrane_protein_A	.	-	<|.	1703785,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1708193	1708194	NADPH-dependent_7-cyano-7-deazaguanine_reductase	.	+	<|.	1703976,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1711145	1711146	metallopeptidase	.	-	<|.	1706928,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1711163	1711164	hypothetical_protein	.	+	<|.	1706946,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1713836	1713837	outer_membrane_protein_OmpU	.	-	<|.	1709619,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1715143	1715144	autotransporter_A	.	-	<|.	1710926,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1715740	1715741	hypothetical_protein	.	-	<|.	1711523,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1715789	1715790	membrane_protein	.	+	<|.	1711572,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1717277	1717278	dihydrofolate_reductase	.	-	<|.	1713060,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1718395	1718396	3-deoxy-7-phosphoheptulonate_synthase	.	-	<|.	1714178,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1719305	1719306	hypothetical_protein	.	-	<|.	1715088,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1719802	1719803		.	+	<|.	1715585,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1720653	1720654	comEA_protein	.	-	<|.	1716436,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1724199	1724200		.	-	<|.	1719982,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1726046	1726047	16S ribosomal RNA	.	-	<|.	1721829,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1726264	1726265		.	+	<|.	1722047,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1726290	1726291	hypothetical_protein	.	-	<|.	1722073,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1727397	1727398	signal_recognition_particle_protein	.	+	<|.	1723180,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1727462	1727463	cytochrome_c_assembly_protein	.	-	<|.	1723245,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1728963	1728964	hypothetical_protein	.	+	<|.	1724746,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1729865	1729866	hypothetical_protein	.	-	<|.	1725648,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1731938	1731939	LysR_family_transcriptional_regulator	.	+	<|.	1727721,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1734324	1734325	ATP-dependent_DNA_helicase_DinG	.	+	<|.	1730107,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1740644	1740645	adenylosuccinate_lyase	.	-	<|.	1736427,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1741324	1741325	hypothetical_protein	.	-	<|.	1737107,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1741434	1741435	exoribonuclease_II	.	+	<|.	1737217,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1747361	1747362	LPS-assembly_protein_lptD	.	-	<|.	1743144,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1747366	1747367	phosphotransferase	.	+	<|.	1743149,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1749189	1749190	thiol.disulfide_interchange_protein_DsbA	.	-	<|.	1744972,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1749323	1749324	integral_membrane_virulence_factor_MviN	.	+	<|.	1745106,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1749542	1749543		.	-	<|.	1745325,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1752245	1752246	indole-3-glycerol_phosphate_synthase	.	+	<|.	1748028,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1758348	1758349		.	+	<|.	1754131,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1758558	1758559	comF_family_protein	.	+	<|.	1754341,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1758724	1758725	carboxylesterase_BioH	.	-	<|.	1754507,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1759442	1759443	tRNA_(cytidine(34)-2-O)-methyltransferase	.	+	<|.	1755225,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1760026	1760027	rare_lipoprotein_A	.	+	<|.	1755809,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1760772	1760773	hypothetical_protein	.	+	<|.	1756555,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1761889	1761890	hypothetical_protein	.	+	<|.	1757672,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1764831	1764832	exodeoxyribonuclease_7_small_subunit	.	+	<|.	1760614,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1766433	1766434	hypothetical_protein	.	-	<|.	1762216,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1770708	1770709		.	+	<|.	1766491,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1778242	1778243	NADH_dehydrogenase_(quinone)._G_subunit	.	-	<|.	1774025,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1783506	1783507	NADH-quinone_oxidoreductase_subunit_A	.	-	<|.	1779289,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1783839	1783840	NADH-quinone_oxidoreductase_subunit_A	.	-	<|.	1779622,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1785419	1785420	hypothetical_protein	.	+	<|.	1781202,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1786403	1786404	hypothetical_protein	.	-	<|.	1782186,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1786593	1786594	hypothetical_protein	.	-	<|.	1782376,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1786963	1786964		.	-	<|.	1782746,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1790356	1790357	DNA_helicase_II	.	-	<|.	1786139,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1793536	1793537	glutamate-ammonia-ligase_adenylyltransferase	.	-	<|.	1789319,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1795692	1795693	dihydroorotate_dehydrogenase	.	-	<|.	1791475,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1795807	1795808	acyl_carrier_protein	.	+	<|.	1791590,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1797771	1797772		.	-	<|.	1793554,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1799961	1799962		.	-	<|.	1795744,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1801948	1801949	RNA_polymerase_sigma-54_factor	.	-	<|.	1797731,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1802094	1802095	catalase	.	+	<|.	1797877,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1803898	1803899		.	-	<|.	1799681,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1804247	1804248	membrane_protein	.	+	<|.	1800030,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1804988	1804989	cytochrome_c_peroxidase	.	+	<|.	1800771,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1808956	1808957	oligopeptidase_A	.	-	<|.	1804739,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1809967	1809968	small_conductance_mechanosensitive_ion_channel_protein	.	-	<|.	1805750,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1809973	1809974	DNA_gyrase_subunit_B	.	+	<|.	1805756,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1814363	1814364	hypothetical_protein	.	+	<|.	1810146,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1815101	1815102	tRNA-Val	.	-	<|.	1810884,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1817183	1817184	monovalent_cation.proton_antiporter-2_(CPA2)_family_transporter	.	-	<|.	1812966,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1818280	1818281	glyceraldehyde-3-phosphate_dehydrogenase._type_I	.	+	<|.	1814063,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1820862	1820863	lipoprotein	.	+	<|.	1816645,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1820976	1820977	ferric_uptake_regulation_protein	.	-	<|.	1816759,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1822691	1822692		.	-	<|.	1818474,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1824161	1824162	lipid-A-disaccharide_synthase	.	-	<|.	1819944,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1825223	1825224	rne/Rng_family_ribonuclease	.	+	<|.	1821006,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1825278	1825279	RluA_family_pseudouridine_synthase	.	-	<|.	1821061,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1829703	1829704	4-hydroxythreonine-4-phosphate_dehydrogenase	.	-	<|.	1825486,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1829777	1829778	AGCS_family_alanine_or_glycine.cation_symporter	.	+	<|.	1825560,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1831362	1831363	tRNA_uridine_5-carboxymethylaminomethyl_modification_enzyme_MnmG	.	+	<|.	1827145,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1835580	1835581	chromosome_partitioning_protein_ParA	.	-	<|.	1831363,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1836250	1836251	ribosomal_RNA_small_subunit_methyltransferase_G	.	-	<|.	1832033,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1836827	1836828	hypothetical_protein	.	-	<|.	1832610,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1836904	1836905	tRNA-Thr	.	+	<|.	1832687,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1839232	1839233	site-specific_DNA_methyltransferase	.	+	<|.	1835015,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1840188	1840189	ribosome-recycling_factor	.	+	<|.	1835971,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1841000	1841001	undecaprenyl_pyrophosphate_synthase	.	+	<|.	1836783,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1849972	1849973		.	-	<|.	1845755,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1849995	1849996	hypothetical_protein	.	+	<|.	1845778,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1851728	1851729	sodium.alanine_symporter	.	+	<|.	1847511,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1854580	1854581	valyl-tRNA_synthetase	.	+	<|.	1850363,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1858816	1858817	tRNA_pseudouridine_synthase_A	.	+	<|.	1854599,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1859698	1859699		.	-	<|.	1855481,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1860062	1860063	major_outer_membrane_protein_P.IB	.	+	<|.	1855845,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1860906	1860907		.	-	<|.	1856689,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1864520	1864521	septum_site-determining_protein_MinC	.	-	<|.	1860303,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1867037	1867038		.	+	<|.	1862820,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1867498	1867499	30S_ribosomal_protein_S13	.	-	<|.	1863281,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1868982	1868983		.	+	<|.	1864765,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1869202	1869203	preprotein_translocase._SecY_subunit	.	-	<|.	1864985,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1870643	1870644	30S_ribosomal_protein_S5	.	-	<|.	1866426,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1871301	1871302		.	+	<|.	1867084,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1872898	1872899		.	+	<|.	1868681,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1873402	1873403	50S_ribosomal_protein_L14	.	-	<|.	1869185,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1878152	1878153	50S_ribosomal_protein_L3	.	-	<|.	1873935,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1878408	1878409		.	+	<|.	1874191,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1883586	1883587	30S_ribosomal_protein_S12	.	-	<|.	1879369,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1885050	1885051		.	+	<|.	1880833,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1895126	1895127	DNA-directed_RNA_polymerase_subunit_beta	.	-	<|.	1890909,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1895666	1895667	50S_ribosomal_protein_L7/L12	.	-	<|.	1891449,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1897210	1897211		.	+	<|.	1892993,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1897641	1897642	50S_ribosomal_protein_L11	.	-	<|.	1893424,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1900210	1900211	tRNA-Tyr	.	-	<|.	1895993,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1900588	1900589	ferredoxin	.	-	<|.	1896371,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1901263	1901264	RsmD_family_RNA_methyltransferase	.	-	<|.	1897046,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1901467	1901468		.	+	<|.	1897250,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1901606	1901607	hypothetical_protein	.	-	<|.	1897389,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1902646	1902647	opacity_protein	.	-	<|.	1898429,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1911997	1911998	ribosomal_RNA_small_subunit_methyltransferase_B	.	-	<|.	1907780,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1913284	1913285		.	+	<|.	1909067,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1914613	1914614		.	+	<|.	1910396,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1914718	1914719	peptide_deformylase	.	-	<|.	1910501,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1914841	1914842	LysM_protein	.	+	<|.	1910624,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1914946	1914947	peptide_deformylase	.	-	<|.	1910729,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1916470	1916471		.	-	<|.	1912253,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1918786	1918787	aspartate_carbamoyltransferase	.	-	<|.	1914569,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1918895	1918896	acetyltransferase	.	+	<|.	1914678,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1920381	1920382		.	+	<|.	1916164,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1921963	1921964	hypothetical_protein	.	-	<|.	1917746,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1922075	1922076	pyruvate_kinase	.	+	<|.	1917858,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1923807	1923808	long-chain_fatty_acid_transporter	.	+	<|.	1919590,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1927368	1927369	lipoprotein	.	-	<|.	1923151,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1928707	1928708	sodium/glutamate_symporter	.	-	<|.	1924490,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1928818	1928819	hypothetical_protein	.	+	<|.	1924601,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1932410	1932411	modification_methylase_HphIA	.	-	<|.	1928193,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1934789	1934790	UDP-glucose_4-epimerase	.	+	<|.	1930572,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1938063	1938064		.	-	<|.	1933846,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1940620	1940621	OPT_family_oligopeptide_transporter	.	-	<|.	1936403,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1941936	1941937	chaperone_dnaJ	.	-	<|.	1937719,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1941955	1941956	transposase	.	+	<|.	1937738,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1942568	1942569		.	+	<|.	1938351,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1943406	1943407	comEA_protein	.	-	<|.	1939189,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1946954	1946955	23S ribosomal RNA	.	-	<|.	1942737,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1949051	1949052	16S ribosomal RNA	.	-	<|.	1944834,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1949783	1949784	DnaK_suppressor_protein	.	-	<|.	1945566,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1950805	1950806	lipoprotein	.	-	<|.	1946588,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1951830	1951831	twitching_motility_protein	.	+	<|.	1947613,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1951853	1951854	YggS_family_pyridoxal_phosphate_enzyme	.	-	<|.	1947636,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1962333	1962334	type_IV_pilus_assembly_protein_PilC	.	-	<|.	1958116,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1963228	1963229	6-phosphogluconate_dehydrogenase._decarboxylating	.	+	<|.	1959011,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1967602	1967603	tRNA-Lys	.	+	<|.	1963385,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1967824	1967825	UDP-N-acetylglucosamine_1-carboxyvinyltransferase	.	+	<|.	1963607,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1970756	1970757	BolA-like_protein	.	-	<|.	1966539,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1972470	1972471	cell_division_ABC_transporter_ATP-binding_protein	.	-	<|.	1968253,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1973087	1973088	thioredoxin	.	-	<|.	1968870,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1973164	1973165	arsenate_reductase_(glutaredoxin)	.	+	<|.	1968947,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1974288	1974289	glutamyl-tRNA_synthetase	.	+	<|.	1970071,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1979509	1979510	DNA_mismatch_repair_protein_mutS	.	-	<|.	1975292,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1979883	1979884	glyceraldehyde-3-phosphate_dehydrogenase	.	+	<|.	1975666,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1981839	1981840	nicotinamidase/pyrazinamidase	.	+	<|.	1977622,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1981957	1981958	hypothetical_protein	.	-	<|.	1977740,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1983275	1983276	lipopolysaccharide_heptosyltransferase_I	.	+	<|.	1979058,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1984241	1984242		.	-	<|.	1980024,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1986598	1986599	hypothetical_protein	.	-	<|.	1982381,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1986929	1986930		.	-	<|.	1982712,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1990144	1990145	lipoprotein	.	-	<|.	1985927,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1993592	1993593	oxidoreductase	.	-	<|.	1989375,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1993736	1993737	phospholipase_patatin_family_protein	.	+	<|.	1989519,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1994865	1994866	peptide_chain_release_factor_2	.	+	<|.	1990648,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1996069	1996070		.	+	<|.	1991852,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	1996069	1996070		.	-	<|.	1991852,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	1998299	1998300	amino_acid/peptide_transporter_(Peptide.H+_symporter)	.	-	<|.	1994082,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2001269	2001270	serine/threonine_transporter_sstT	.	+	<|.	1997052,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2005084	2005085	outer_membrane_protein	.	-	<|.	2000867,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2005395	2005396	outer_membrane_protein	.	-	<|.	2001178,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2010611	2010612	argininosuccinate_synthase	.	-	<|.	2006394,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2010637	2010638	CinA-like_protein	.	+	<|.	2006420,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2011286	2011287	argininosuccinate_synthase	.	-	<|.	2007069,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2011513	2011514	signal_peptide_peptidase_SppA._36K_type	.	+	<|.	2007296,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2013154	2013155	transposase	.	+	<|.	2008937,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2014093	2014094		.	+	<|.	2009876,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2016006	2016007	MafB_family_adhesin_protein	.	-	<|.	2011789,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2017637	2017638		.	+	<|.	2013420,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2019159	2019160		.	+	<|.	2014942,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2024196	2024197	adhesin_mafA	.	-	<|.	2019979,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2024300	2024301		.	+	<|.	2020083,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2027144	2027145	30S_ribosomal_protein_S2	.	-	<|.	2022927,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2027457	2027458	hypothetical_protein	.	-	<|.	2023240,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2027464	2027465	5-formyltetrahydrofolate_cyclo-ligase	.	+	<|.	2023247,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2028934	2028935	malate_dehydrogenase_(acceptor)	.	+	<|.	2024717,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2031178	2031179	hypothetical_protein	.	-	<|.	2026961,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2034892	2034893	ribosomal_RNA_small_subunit_methyltransferase_I	.	+	<|.	2030675,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2034955	2034956	endonuclease	.	-	<|.	2030738,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2036415	2036416	cytochrome b561	.	-	<|.	2032198,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2036551	2036552	GTPase_obg	.	+	<|.	2032334,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2039528	2039529		.	-	<|.	2035311,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2044349	2044350	aspartate-semialdehyde_dehydrogenase	.	-	<|.	2040132,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2044449	2044450	integral_membrane_protein	.	+	<|.	2040232,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2046003	2046004	FolD_protein	.	-	<|.	2041786,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2046189	2046190	tRNA-Pro	.	+	<|.	2041972,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2046577	2046578	transferase	.	+	<|.	2042360,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2049997	2049998		.	-	<|.	2045780,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2051794	2051795	thiamine_biosynthesis_protein_ThiS	.	-	<|.	2047577,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2051955	2051956	thiamine_biosynthesis_protein_ThiS	.	-	<|.	2047738,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2055179	2055180	hydroxymethylpyrimidine_transporter_permease_CytX	.	-	<|.	2050962,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2055273	2055274	TldD_protein	.	+	<|.	2051056,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2056864	2056865	His/Glu/Gln/Arg/opine_family_amino_ABC_transporter._permease._3-TM_region	.	+	<|.	2052647,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2060030	2060031	protein-(glutamine-N5)_methyltransferase._release_factor-specific	.	+	<|.	2055813,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2060235	2060236	protein-(glutamine-N5)_methyltransferase._release_factor-specific	.	+	<|.	2056018,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2061186	2061187	membrane_protein	.	+	<|.	2056969,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2063124	2063125		.	-	<|.	2058907,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2064031	2064032	thiazole_biosynthesis_adenylyltransferase_ThiF	.	-	<|.	2059814,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2064148	2064149	phosphoenolpyruvate_carboxylase	.	+	<|.	2059931,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2066974	2066975	glycerol-3-phosphate_dehydrogenase_[NAD(P)+]	.	+	<|.	2062757,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2068638	2068639		.	+	<|.	2064421,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2069022	2069023	50S_ribosomal_protein_L13	.	+	<|.	2064805,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2070241	2070242		.	+	<|.	2066024,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2070833	2070834	hypothetical_protein	.	-	<|.	2066616,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2071905	2071906	LysR_family_transcriptional_regulator._regulator_for_metE_and_metH	.	-	<|.	2067688,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2071987	2071988	UPF0135_protein	.	+	<|.	2067770,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2072801	2072802		.	-	<|.	2068584,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2072839	2072840	ubiquinol-cytochrome_c_reductase._iron-sulfur_subunit	.	+	<|.	2068622,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2073620	2073621	cytochrome_b	.	+	<|.	2069403,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2075924	2075925	DNA_recombination_protein_RmuC	.	+	<|.	2071707,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2079419	2079420	hypoxanthine_phosphoribosyltransferase	.	+	<|.	2075202,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2084763	2084764	NUDIX_family_hydrolase	.	-	<|.	2080546,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2085008	2085009	tRNA-Met	.	-	<|.	2080791,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2085148	2085149	thiamine_biosynthesis_protein_ThiC	.	+	<|.	2080931,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2085302	2085303		.	-	<|.	2081085,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2088560	2088561	pilin pilS6c3	.	-	<|.	2084343,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2091034	2091035	methionyl-tRNA_synthetase	.	-	<|.	2086817,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2093024	2093025	glucosamine-fructose-6-phosphate_aminotransferase_[isomerizing]	.	-	<|.	2088807,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2095430	2095431	membrane-bound_lytic_murein_transglycosylase_A	.	-	<|.	2091213,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2102057	2102058	hypothetical_protein	.	-	<|.	2097840,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2102065	2102066	ABC_transporter_periplasmic_binding_protein._thiB_subfamily	.	+	<|.	2097848,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2106313	2106314	signal_recognition_particle-docking_protein_FtsY	.	+	<|.	2102096,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2107774	2107775		.	-	<|.	2103557,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2108699	2108700	opacity_protein	.	-	<|.	2104482,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2109776	2109777	pilin pilE	.	-	<|.	2105559,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2110029	2110030		.	+	<|.	2105812,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2112446	2112447	UDP-3-O-[3-hydroxymyristoyl]_N-acetylglucosamine_deacetylase	.	-	<|.	2108229,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2119356	2119357	TspB protein	.	-	<|.	2115139,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2124244	2124245	pilin pilS1c3	.	-	<|.	2120027,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2127935	2127936	D.D-heptose_1.7-bisphosphate_phosphatase	.	-	<|.	2123718,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2127994	2127995	integral_membrane_protein	.	+	<|.	2123777,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2132247	2132248	aromatic_amino_acid_transporter	.	-	<|.	2128030,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2132348	2132349	3-demethylubiquinone-9_3-methyltransferase	.	+	<|.	2128131,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2132502	2132503	aromatic_amino_acid_transporter	.	-	<|.	2128285,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2136220	2136221	gluconate.H+_symporter_(GntP)_family_transporter	.	-	<|.	2132003,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2136530	2136531	thiamine_ABC_transporter_permease	.	+	<|.	2132313,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2138103	2138104	carbonic_anhydrase	.	+	<|.	2133886,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2139361	2139362	iojap-like_ribosome-associated_protein	.	+	<|.	2135144,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2140337	2140338	Fe(2+)-trafficking_protein_family	.	+	<|.	2136120,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2140757	2140758	hypothetical_protein	.	+	<|.	2136540,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2141558	2141559	phosphopantetheine_adenylyltransferase	.	+	<|.	2137341,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2143527	2143528	cell_surface_protein	.	-	<|.	2139310,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2143698	2143699	transposase	.	+	<|.	2139481,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2144476	2144477		.	+	<|.	2140259,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2151386	2151387	chaperonin	.	+	<|.	2147169,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2151601	2151602	chaperonin	.	+	<|.	2147384,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2154292	2154293	NSS_family_neurotransmitter.Na+_symporter	.	+	<|.	2150075,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2158151	2158152	lipoprotein	.	-	<|.	2153934,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2158158	2158159	protein_CyaY	.	+	<|.	2153941,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2158220	2158221	lipoprotein	.	-	<|.	2154003,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2159558	2159559	DNA_polymerase_I	.	+	<|.	2155341,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2162952	2162953	hypothetical_protein	.	+	<|.	2158735,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2166604	2166605		.	+	<|.	2162387,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2168528	2168529	adhesion_and_penetration_protein	.	-	<|.	2164311,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2168731	2168732	tRNA_modification_GTPase_mnmE	.	+	<|.	2164514,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2174646	2174647	hypothetical_protein	.	+	<|.	2170429,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2178322	2178323	para-aminobenzoate_synthase_component	.	-	<|.	2174105,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2178428	2178429	polyphosphate_kinase_2	.	+	<|.	2174211,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2181960	2181961	AraC_family_transcriptional_regulator	.	-	<|.	2177743,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2182088	2182089	hypothetical_protein	.	+	<|.	2177871,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2188008	2188009	galactoside_O-acetyltransferase	.	-	<|.	2183791,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2188067	2188068	50S_ribosomal_protein_L31	.	+	<|.	2183850,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2189351	2189352	inner_membrane_protein	.	+	<|.	2185134,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2191097	2191098	stringent_starvation_protein_A	.	+	<|.	2186880,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2193508	2193509	30S_ribosomal_protein_S21	.	-	<|.	2189291,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2195077	2195078		.	+	<|.	2190860,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2195528	2195529	soluble_lytic_murein_transglycosylase	.	-	<|.	2191311,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2195711	2195712	D-methionine_ABC_transporter_ATP-binding_protein	.	+	<|.	2191494,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2197322	2197323	D-methionine_ABC_transporter_substrate-binding_protein	.	+	<|.	2193105,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2197351	2197352	D-methionine_ABC_transporter_substrate-binding_protein	.	+	<|.	2193134,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2198952	2198953	polyprenyl_P-hydroxybenzoate_and_phenylacrylic_acid_decarboxylase	.	-	<|.	2194735,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2199036	2199037	ParB-like_chromosome_partition_protein	.	+	<|.	2194819,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2200036	2200037		.	+	<|.	2195819,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2200477	2200478	ATP_synthase_I	.	+	<|.	2196260,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2200575	2200576	ATP_synthase_I	.	+	<|.	2196358,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2207661	2207662	glycyl-tRNA_synthetase_alpha_subunit	.	+	<|.	2203444,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2211610	2211611	lacto-N-neotetraose biosynthesis glycosyl transferase	.	+	<|.	2207393,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2212892	2212893	glycosyltransferase	.	+	<|.	2208675,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2215528	2215529		.	-	<|.	2211311,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2215587	2215588		.	+	<|.	2211370,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2217030	2217031	inositol-1-monophosphatase	.	+	<|.	2212813,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2217045	2217046	RsmE_family_RNA_methyltransferase	.	-	<|.	2212828,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2221100	2221101	GMP_synthase_[glutamine-hydrolyzing]	.	-	<|.	2216883,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2221646	2221647	lipid_A_export_ATP-binding/permease_MsbA	.	-	<|.	2217429,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2223048	2223049	lipid_A_export_ATP-binding/permease_MsbA	.	-	<|.	2218831,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2224224	2224225	integral_membrane_protein	.	-	<|.	2220007,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2225504	2225505	3-oxoacyl-[acyl-carrier-protein]_synthase_3	.	-	<|.	2221287,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2226581	2226582	hypothetical_protein	.	-	<|.	2222364,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2228410	2228411	hypothetical_protein	.	-	<|.	2224193,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2229263	2229264	hypothetical_protein	.	-	<|.	2225046,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2229285	2229286	maf-like_protein	.	+	<|.	2225068,inf	discordant	unassigned	WP_014580441.1|.
+NC_022243.1	2229354	2229355	hypothetical_protein	.	-	<|.	2225137,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2232593	2232594	preprotein_translocase_subunit_YidC	.	-	<|.	2228376,inf	concordant	unassigned	WP_014580441.1|.
+NC_022243.1	2233483	2233484	50S_ribosomal_protein_L34	.	-	<|.	2229266,inf	concordant	unassigned	WP_014580441.1|.

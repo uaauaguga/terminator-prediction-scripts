@@ -1,0 +1,1140 @@
+NZ_CP027858.1	894	895	GNAT family N-acetyltransferase	.	-	genic	0	
+NZ_CP027858.1	12796	12797	YbdD/YjiX family protein|lamin tail domain-containing protein	.	-	>|<	76,28	
+NZ_CP027858.1	25519	25520	-	.	-	-	273	
+NZ_CP027858.1	93378	93379	-	.	-	-	212	
+NZ_CP027858.1	164135	164136	-	.	+	-	259	
+NZ_CP027858.1	164324	164325	terpene synthase family protein	.	+	|<	70	conflict
+NZ_CP027858.1	170087	170088	nitroreductase family deazaflavin-dependent oxidoreductase	.	-	|<	49	
+NZ_CP027858.1	170101	170102	nitroreductase family deazaflavin-dependent oxidoreductase	.	+	|<	35	conflict
+NZ_CP027858.1	217763	217764	cytochrome P450	.	+	>|	107	
+NZ_CP027858.1	218841	218842	RICIN domain-containing protein	.	+	>|	60	
+NZ_CP027858.1	227199	227200	-	.	+	-	379	
+NZ_CP027858.1	227313	227314	hypothetical protein	.	+	>|	48	
+NZ_CP027858.1	259794	259795	-	.	-	-	550	
+NZ_CP027858.1	262017	262018	-	.	-	-	350	
+NZ_CP027858.1	262132	262133	-	.	-	-	465	
+NZ_CP027858.1	262734	262735	-	.	-	-	167	
+NZ_CP027858.1	263166	263167	-	.	-	-	47	
+NZ_CP027858.1	276491	276492	glyceraldehyde-3-phosphate dehydrogenase	.	-	|<	23	
+NZ_CP027858.1	314706	314707	-	.	-	-	574	
+NZ_CP027858.1	329099	329100	-	.	-	-	786	
+NZ_CP027858.1	334706	334707	hypothetical protein	.	+	>|	108	
+NZ_CP027858.1	356495	356496	-	.	+	-	852	
+NZ_CP027858.1	385116	385117	-	.	-	-	384	
+NZ_CP027858.1	407018	407019	DJ-1/PfpI family protein|pyrimidine utilization protein A	.	-	>|<	68,63	
+NZ_CP027858.1	430161	430162	-	.	-	-	455	
+NZ_CP027858.1	448274	448275	-	.	-	-	185	
+NZ_CP027858.1	501425	501426	-	.	+	-	213	
+NZ_CP027858.1	509578	509579	-	.	+	-	454	
+NZ_CP027858.1	509880	509881	-	.	+	-	152	
+NZ_CP027858.1	583950	583951	tyrosine-protein phosphatase|DUF6126 family protein	.	-	>|<	48,38	
+NZ_CP027858.1	604910	604911	cation diffusion facilitator family transporter	.	+	>|	13	
+NZ_CP027858.1	606845	606846	-	.	-	-	395	
+NZ_CP027858.1	634048	634049	-	.	+	-	3	
+NZ_CP027858.1	646663	646664	DUF1080 domain-containing protein	.	+	>|	67	
+NZ_CP027858.1	661318	661319	-	.	-	-	368	
+NZ_CP027858.1	664742	664743	hypothetical protein	.	-	|<	22	
+NZ_CP027858.1	665486	665487	-	.	-	-	87	
+NZ_CP027858.1	686003	686004	GDSL-type esterase/lipase family protein	.	-	|<	63	
+NZ_CP027858.1	690256	690257	hypothetical protein	.	-	|<	45	
+NZ_CP027858.1	693090	693091	-	.	+	-	1052	
+NZ_CP027858.1	694319	694320	helix-turn-helix domain-containing protein	.	-	|<	60	
+NZ_CP027858.1	696596	696597	-	.	-	-	227	
+NZ_CP027858.1	697314	697315	hypothetical protein	.	-	|<	42	
+NZ_CP027858.1	699890	699891	-	.	+	-	72	
+NZ_CP027858.1	726324	726325	-	.	-	-	268	
+NZ_CP027858.1	736782	736783	-	.	-	-	1634	
+NZ_CP027858.1	739273	739274	-	.	-	-	93	
+NZ_CP027858.1	763790	763791	pyrroloquinoline quinone precursor peptide PqqA	.	-	|<	95	
+NZ_CP027858.1	765606	765607	-	.	+	-	243	
+NZ_CP027858.1	806018	806019	-	.	+	-	211	
+NZ_CP027858.1	819227	819228	acyl-CoA dehydrogenase family protein	.	+	>|	75	
+NZ_CP027858.1	819622	819623	-	.	+	-	342	
+NZ_CP027858.1	834669	834670	-	.	-	-	306	
+NZ_CP027858.1	835375	835376	-	.	-	-	482	
+NZ_CP027858.1	849491	849492	-	.	-	-	158	
+NZ_CP027858.1	866629	866630	IclR family transcriptional regulator|alpha/beta hydrolase	.	-	>|<	34,51	
+NZ_CP027858.1	883027	883028	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase	.	-	|<	88	
+NZ_CP027858.1	896000	896001	-	.	+	-	789	
+NZ_CP027858.1	897615	897616	-	.	+	-	350	
+NZ_CP027858.1	897766	897767	-	.	+	-	395	
+NZ_CP027858.1	898611	898612	MmpS family transport accessory protein|S8 family serine peptidase	.	+	>|<	10,109	
+NZ_CP027858.1	935882	935883	SapB/AmfS family lanthipeptide	.	-	|<	45	
+NZ_CP027858.1	936294	936295	-	.	+	-	236	
+NZ_CP027858.1	965562	965563	-	.	+	-	594	
+NZ_CP027858.1	965995	965996	DUF2637 domain-containing protein	.	+	>|	123	
+NZ_CP027858.1	992971	992972	-	.	+	-	157	
+NZ_CP027858.1	1002534	1002535	-	.	+	-	721	
+NZ_CP027858.1	1006794	1006795	-	.	+	-	185	
+NZ_CP027858.1	1012977	1012978	-	.	-	-	10	
+NZ_CP027858.1	1026966	1026967	DUF1707 domain-containing protein	.	-	|<	63	
+NZ_CP027858.1	1044515	1044516	polysaccharide deacetylase family protein|AIM24 family protein	.	-	>|<	54,28	
+NZ_CP027858.1	1052464	1052465	-	.	-	-	330	
+NZ_CP027858.1	1077091	1077092	-	.	-	-	440	
+NZ_CP027858.1	1077539	1077540	N-acetylglucosamine/diacetylchitobiose ABC transporter substrate-binding protein	.	-	|<	115	
+NZ_CP027858.1	1078963	1078964	-	.	-	-	707	
+NZ_CP027858.1	1083612	1083613	aconitate hydratase AcnA	.	-	|<	14	
+NZ_CP027858.1	1116538	1116539	cell division protein SepF	.	-	|<	33	
+NZ_CP027858.1	1121548	1121549	-	.	+	-	251	
+NZ_CP027858.1	1131736	1131737	-	.	-	-	560	
+NZ_CP027858.1	1133754	1133755	-	.	-	-	133	
+NZ_CP027858.1	1137160	1137161	inositol monophosphatase|hypothetical protein	.	-	>|<	113,18	
+NZ_CP027858.1	1137345	1137346	-	.	-	-	6	
+NZ_CP027858.1	1137909	1137910	-	.	+	-	433	
+NZ_CP027858.1	1169125	1169126	-	.	-	-	342	
+NZ_CP027858.1	1171655	1171656	-	.	-	-	41	
+NZ_CP027858.1	1212086	1212087	hypothetical protein	.	-	>|	23	conflict
+NZ_CP027858.1	1212135	1212136	hypothetical protein	.	+	>|	72	
+NZ_CP027858.1	1222699	1222700	-	.	+	-	150	
+NZ_CP027858.1	1231123	1231124	hypothetical protein|DUF397 domain-containing protein	.	-	>|<	10,50	
+NZ_CP027858.1	1238643	1238644	BLIP family protein	.	-	|<	64	
+NZ_CP027858.1	1254317	1254318	-	.	-	-	12	
+NZ_CP027858.1	1270316	1270317	hypothetical protein	.	+	>|	78	
+NZ_CP027858.1	1271394	1271395	RNA polymerase sigma factor	.	-	|<	85	
+NZ_CP027858.1	1287779	1287780	TerD family protein|vitamin B12-dependent ribonucleotide reductase	.	+	>|<	64,64	
+NZ_CP027858.1	1289455	1289456	-	.	-	-	1496	
+NZ_CP027858.1	1290428	1290429	-	.	-	-	523	
+NZ_CP027858.1	1303641	1303642	-	.	-	-	389	
+NZ_CP027858.1	1318368	1318369	-	.	+	-	420	
+NZ_CP027858.1	1319658	1319659	glutamate ABC transporter substrate-binding protein	.	+	>|	49	
+NZ_CP027858.1	1320552	1320553	-	.	+	-	193	
+NZ_CP027858.1	1321294	1321295	amino acid ABC transporter permease	.	+	>|	60	
+NZ_CP027858.1	1321501	1321502	-	.	+	-	4	
+NZ_CP027858.1	1325395	1325396	-	.	-	-	183	
+NZ_CP027858.1	1340338	1340339	-	.	-	-	193	
+NZ_CP027858.1	1340423	1340424	-	.	-	-	160	
+NZ_CP027858.1	1344732	1344733	-	.	-	-	6	
+NZ_CP027858.1	1349071	1349072	-	.	-	-	308	
+NZ_CP027858.1	1353518	1353519	-	.	-	-	1195	
+NZ_CP027858.1	1354289	1354290	-	.	-	-	424	
+NZ_CP027858.1	1354772	1354773	-	.	+	-	330	
+NZ_CP027858.1	1357419	1357420	SpoIIE family protein phosphatase	.	-	>|	46	conflict
+NZ_CP027858.1	1363373	1363374	ribonuclease J	.	-	|<	76	
+NZ_CP027858.1	1371650	1371651	-	.	-	-	609	
+NZ_CP027858.1	1373576	1373577	30S ribosomal protein S15	.	-	|<	47	
+NZ_CP027858.1	1386682	1386683	-	.	+	-	602	
+NZ_CP027858.1	1393437	1393438	-	.	+	-	629	
+NZ_CP027858.1	1402657	1402658	30S ribosome-binding factor RbfA	.	-	|<	57	
+NZ_CP027858.1	1403309	1403310	-	.	-	-	152	
+NZ_CP027858.1	1403566	1403567	translation initiation factor IF-2	.	-	|<	117	
+NZ_CP027858.1	1405041	1405042	-	.	-	-	1553	
+NZ_CP027858.1	1406756	1406757	-	.	-	-	169	
+NZ_CP027858.1	1407041	1407042	-	.	-	-	263	
+NZ_CP027858.1	1408899	1408900	-	.	-	-	286	
+NZ_CP027858.1	1416911	1416912	-	.	-	-	266	
+NZ_CP027858.1	1417125	1417126	site-2 protease family protein	.	-	|<	52	
+NZ_CP027858.1	1446797	1446798	SAM-dependent methyltransferase|gamma-aminobutyraldehyde dehydrogenase	.	-	>|<	108,17	
+NZ_CP027858.1	1448076	1448077	-	.	-	-	357	
+NZ_CP027858.1	1448676	1448677	-	.	+	-	257	
+NZ_CP027858.1	1458007	1458008	-	.	-	-	679	
+NZ_CP027858.1	1459636	1459637	-	.	-	-	234	
+NZ_CP027858.1	1459945	1459946	-	.	-	-	75	
+NZ_CP027858.1	1460556	1460557	UMP kinase	.	-	|<	44	
+NZ_CP027858.1	1461416	1461417	-	.	-	-	22	
+NZ_CP027858.1	1463311	1463312	-	.	-	-	463	
+NZ_CP027858.1	1463551	1463552	-	.	-	-	39	
+NZ_CP027858.1	1474435	1474436	50S ribosomal protein L19	.	-	|<	67	
+NZ_CP027858.1	1474539	1474540	-	.	-	-	299	
+NZ_CP027858.1	1476572	1476573	RNA-binding protein	.	-	|<	61	
+NZ_CP027858.1	1476977	1476978	-	.	-	-	105	
+NZ_CP027858.1	1477339	1477340	-	.	-	-	27	
+NZ_CP027858.1	1482141	1482142	-	.	-	-	390	
+NZ_CP027858.1	1487601	1487602	-	.	+	-	147	
+NZ_CP027858.1	1499411	1499412	hypothetical protein	.	-	|<	57	
+NZ_CP027858.1	1499551	1499552	-	.	-	-	250	
+NZ_CP027858.1	1500029	1500030	acylphosphatase	.	-	|<	50	
+NZ_CP027858.1	1502850	1502851	-	.	-	-	464	
+NZ_CP027858.1	1503397	1503398	-	.	-	-	139	
+NZ_CP027858.1	1504039	1504040	-	.	-	-	330	
+NZ_CP027858.1	1504256	1504257	-	.	-	-	269	
+NZ_CP027858.1	1511701	1511702	50S ribosomal protein L28|bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase	.	+	>|<	78,122	
+NZ_CP027858.1	1523131	1523132	-	.	-	-	166	
+NZ_CP027858.1	1523317	1523318	-	.	-	-	352	
+NZ_CP027858.1	1523476	1523477	-	.	-	-	253	
+NZ_CP027858.1	1524308	1524309	-	.	-	-	244	
+NZ_CP027858.1	1526221	1526222	-	.	-	-	194	
+NZ_CP027858.1	1527555	1527556	-	.	+	-	341	
+NZ_CP027858.1	1538112	1538113	-	.	+	-	44	
+NZ_CP027858.1	1538236	1538237	DUF742 domain-containing protein	.	+	>|	61	
+NZ_CP027858.1	1540253	1540254	-	.	-	-	734	
+NZ_CP027858.1	1549515	1549516	-	.	-	-	108	
+NZ_CP027858.1	1567624	1567625	-	.	-	-	3996	
+NZ_CP027858.1	1578255	1578256	-	.	-	-	638	
+NZ_CP027858.1	1583604	1583605	-	.	-	-	541	
+NZ_CP027858.1	1590356	1590357	beta-lactamase inhibitory protein BLIP	.	-	|<	53	
+NZ_CP027858.1	1592015	1592016	hypothetical protein	.	+	>|	86	
+NZ_CP027858.1	1592069	1592070	-	.	+	-	140	
+NZ_CP027858.1	1600343	1600344	-	.	-	-	475	
+NZ_CP027858.1	1601975	1601976	ketol-acid reductoisomerase	.	-	|<	13	
+NZ_CP027858.1	1603335	1603336	-	.	-	-	335	
+NZ_CP027858.1	1605724	1605725	-	.	-	-	177	
+NZ_CP027858.1	1613497	1613498	-	.	+	-	351	
+NZ_CP027858.1	1641135	1641136	-	.	-	-	270	
+NZ_CP027858.1	1647518	1647519	-	.	-	-	728	
+NZ_CP027858.1	1651672	1651673	-	.	+	-	31	
+NZ_CP027858.1	1669200	1669201	FxLD family lanthipeptide	.	-	|<	48	
+NZ_CP027858.1	1672066	1672067	-	.	+	-	478	
+NZ_CP027858.1	1674132	1674133	HAD hydrolase-like protein	.	+	>|	124	
+NZ_CP027858.1	1683338	1683339	EF-hand domain-containing protein	.	-	|<	36	
+NZ_CP027858.1	1687604	1687605	-	.	-	-	39	
+NZ_CP027858.1	1738221	1738222	-	.	+	-	72	
+NZ_CP027858.1	1739507	1739508	-	.	+	-	218	
+NZ_CP027858.1	1749641	1749642	pyruvate kinase|hypothetical protein	.	+	>|<	46,99	
+NZ_CP027858.1	1751954	1751955	DUF6230 family protein	.	-	|<	49	
+NZ_CP027858.1	1752633	1752634	-	.	-	-	682	
+NZ_CP027858.1	1767637	1767638	methylmalonyl-CoA epimerase	.	+	>|	49	
+NZ_CP027858.1	1772760	1772761	-	.	+	-	733	
+NZ_CP027858.1	1785132	1785133	3-hydroxyacyl-CoA dehydrogenase family protein	.	-	|<	59	
+NZ_CP027858.1	1785280	1785281	-	.	-	-	353	
+NZ_CP027858.1	1785341	1785342	-	.	-	-	414	
+NZ_CP027858.1	1789633	1789634	response regulator transcription factor	.	-	>|	55	conflict
+NZ_CP027858.1	1805901	1805902	F0F1 ATP synthase subunit beta	.	-	|<	50	
+NZ_CP027858.1	1809805	1809806	-	.	-	-	285	
+NZ_CP027858.1	1813299	1813300	-	.	-	-	8	
+NZ_CP027858.1	1821073	1821074	-	.	-	-	733	
+NZ_CP027858.1	1823116	1823117	-	.	-	-	980	
+NZ_CP027858.1	1824080	1824081	transcription termination factor Rho	.	-	|<	16	
+NZ_CP027858.1	1824140	1824141	-	.	-	-	349	
+NZ_CP027858.1	1826208	1826209	-	.	-	-	94	
+NZ_CP027858.1	1830312	1830313	-	.	-	-	237	
+NZ_CP027858.1	1833184	1833185	-	.	-	-	226	
+NZ_CP027858.1	1833733	1833734	-	.	+	-	139	
+NZ_CP027858.1	1838416	1838417	hypothetical protein	.	+	|<	14	conflict
+NZ_CP027858.1	1846783	1846784	-	.	+	-	78	
+NZ_CP027858.1	1849292	1849293	-	.	+	-	163	
+NZ_CP027858.1	1858081	1858082	hypothetical protein	.	-	>|	12	conflict
+NZ_CP027858.1	1864136	1864137	-	.	-	-	96	
+NZ_CP027858.1	1866273	1866274	aldehyde dehydrogenase family protein	.	-	|<	20	
+NZ_CP027858.1	1867342	1867343	-	.	-	-	505	
+NZ_CP027858.1	1868570	1868571	-	.	-	-	291	
+NZ_CP027858.1	1870498	1870499	-	.	+	-	334	
+NZ_CP027858.1	1871807	1871808	-	.	+	-	265	
+NZ_CP027858.1	1872039	1872040	-	.	+	-	497	
+NZ_CP027858.1	1875306	1875307	3'-hydroxymethylcephem-O-carbamoyltransferase	.	+	>|	89	
+NZ_CP027858.1	1875593	1875594	-	.	+	-	376	
+NZ_CP027858.1	1875662	1875663	-	.	+	-	445	
+NZ_CP027858.1	1877019	1877020	AfsR/SARP family transcriptional regulator	.	+	>|	98	
+NZ_CP027858.1	1877265	1877266	-	.	+	-	344	
+NZ_CP027858.1	1879390	1879391	-	.	+	-	235	
+NZ_CP027858.1	1880361	1880362	-	.	+	-	983	
+NZ_CP027858.1	1880417	1880418	-	.	+	-	927	
+NZ_CP027858.1	1885506	1885507	-	.	+	-	4372	
+NZ_CP027858.1	1886321	1886322	-	.	+	-	5187	
+NZ_CP027858.1	1892342	1892343	-	.	+	-	322	
+NZ_CP027858.1	1893001	1893002	-	.	+	-	369	
+NZ_CP027858.1	1893736	1893737	isopenicillin N synthase family oxygenase|penicillin-binding transpeptidase domain-containing protein	.	+	>|<	83,26	
+NZ_CP027858.1	1897267	1897268	-	.	+	-	367	
+NZ_CP027858.1	1899130	1899131	-	.	+	-	218	
+NZ_CP027858.1	1900672	1900673	-	.	+	-	383	
+NZ_CP027858.1	1907396	1907397	-	.	+	-	67	
+NZ_CP027858.1	1907571	1907572	-	.	+	-	509	
+NZ_CP027858.1	1909076	1909077	-	.	+	-	62	
+NZ_CP027858.1	1909436	1909437	-	.	+	-	535	
+NZ_CP027858.1	1918557	1918558	-	.	-	-	5	
+NZ_CP027858.1	1918976	1918977	-	.	+	-	183	
+NZ_CP027858.1	1936207	1936208	-	.	+	-	266	
+NZ_CP027858.1	1940005	1940006	hypothetical protein|DUF397 domain-containing protein	.	-	>|<	7,53	
+NZ_CP027858.1	1948903	1948904	-	.	-	-	447	
+NZ_CP027858.1	1969961	1969962	ATP-binding protein	.	+	>|	126	
+NZ_CP027858.1	1973212	1973213	-	.	+	-	862	
+NZ_CP027858.1	1973852	1973853	-	.	+	-	222	
+NZ_CP027858.1	1974042	1974043	multifunctional oxoglutarate decarboxylase/oxoglutarate dehydrogenase thiamine pyrophosphate-binding subunit/dihydrolipoyllysine-residue succinyltransferase subunit|hypothetical protein	.	+	>|<	66,32	
+NZ_CP027858.1	1983977	1983978	helix-turn-helix transcriptional regulator|zinc-binding dehydrogenase	.	-	>|<	15,62	
+NZ_CP027858.1	1986617	1986618	-	.	-	-	79	
+NZ_CP027858.1	1986724	1986725	-	.	-	-	186	
+NZ_CP027858.1	1989963	1989964	amino acid ABC transporter ATP-binding protein|class I SAM-dependent methyltransferase	.	+	>|<	47,42	
+NZ_CP027858.1	1992147	1992148	-	.	+	-	239	
+NZ_CP027858.1	2005746	2005747	PAS domain-containing sensor histidine kinase	.	+	|<	79	conflict
+NZ_CP027858.1	2015919	2015920	-	.	+	-	108	
+NZ_CP027858.1	2019499	2019500	ribonucleotide-diphosphate reductase subunit beta|peptide deformylase	.	+	>|<	24,65	
+NZ_CP027858.1	2019538	2019539	ribonucleotide-diphosphate reductase subunit beta|peptide deformylase	.	-	>|<	63,26	
+NZ_CP027858.1	2024683	2024684	mycothiol system anti-sigma-R factor	.	-	|<	91	
+NZ_CP027858.1	2033809	2033810	-	.	+	-	260	
+NZ_CP027858.1	2034053	2034054	catalase	.	+	|<	16	conflict
+NZ_CP027858.1	2036133	2036134	transcriptional repressor	.	+	>|	66	
+NZ_CP027858.1	2036270	2036271	-	.	+	-	203	
+NZ_CP027858.1	2039261	2039262	-	.	-	-	161	
+NZ_CP027858.1	2040903	2040904	-	.	-	-	1709	
+NZ_CP027858.1	2053722	2053723	-	.	-	-	267	
+NZ_CP027858.1	2073785	2073786	-	.	+	-	790	
+NZ_CP027858.1	2074532	2074533	alpha/beta hydrolase|adenylyltransferase/sulfurtransferase MoeZ	.	-	>|<	94,43	
+NZ_CP027858.1	2075339	2075340	-	.	-	-	478	
+NZ_CP027858.1	2089673	2089674	hypothetical protein	.	+	>|	22	
+NZ_CP027858.1	2102506	2102507	-	.	+	-	191	
+NZ_CP027858.1	2102644	2102645	-	.	+	-	241	
+NZ_CP027858.1	2102837	2102838	-	.	+	-	48	
+NZ_CP027858.1	2114581	2114582	-	.	-	-	383	
+NZ_CP027858.1	2115131	2115132	-	.	-	-	164	
+NZ_CP027858.1	2115462	2115463	-	.	-	-	377	
+NZ_CP027858.1	2116708	2116709	DUF3117 domain-containing protein	.	-	|<	55	
+NZ_CP027858.1	2120888	2120889	-	.	-	-	200	
+NZ_CP027858.1	2124470	2124471	ferredoxin family protein	.	-	|<	71	
+NZ_CP027858.1	2131527	2131528	hypothetical protein	.	-	|<	42	
+NZ_CP027858.1	2143034	2143035	-	.	-	-	372	
+NZ_CP027858.1	2143384	2143385	-	.	-	-	364	
+NZ_CP027858.1	2144773	2144774	ABC transporter substrate-binding protein	.	-	|<	72	
+NZ_CP027858.1	2146466	2146467	-	.	-	-	272	
+NZ_CP027858.1	2154108	2154109	-	.	+	-	142	
+NZ_CP027858.1	2154335	2154336	-	.	+	-	369	
+NZ_CP027858.1	2166408	2166409	Uma2 family endonuclease|redox-regulated ATPase YchF	.	+	>|<	39,29	
+NZ_CP027858.1	2168632	2168633	-	.	-	-	280	
+NZ_CP027858.1	2170085	2170086	-	.	-	-	350	
+NZ_CP027858.1	2174703	2174704	-	.	-	-	423	
+NZ_CP027858.1	2176332	2176333	WhiB family transcriptional regulator	.	-	|<	44	
+NZ_CP027858.1	2196822	2196823	-	.	+	-	382	
+NZ_CP027858.1	2199223	2199224	transglycosylase SLT domain-containing protein	.	-	|<	68	
+NZ_CP027858.1	2199827	2199828	-	.	-	-	624	
+NZ_CP027858.1	2199899	2199900	-	.	-	-	552	
+NZ_CP027858.1	2200004	2200005	-	.	-	-	447	
+NZ_CP027858.1	2200363	2200364	PhoH family protein	.	-	|<	88	
+NZ_CP027858.1	2201584	2201585	-	.	-	-	542	
+NZ_CP027858.1	2280270	2280271	transcription elongation factor GreA|UTRA domain-containing protein	.	+	>|<	54,31	
+NZ_CP027858.1	2282357	2282358	hypothetical protein|ABC transporter permease	.	-	>|<	14,22	
+NZ_CP027858.1	2297941	2297942	-	.	-	-	306	
+NZ_CP027858.1	2298181	2298182	Ig-like domain-containing protein	.	-	|<	66	
+NZ_CP027858.1	2316385	2316386	-	.	-	-	428	
+NZ_CP027858.1	2328947	2328948	SigE family RNA polymerase sigma factor	.	-	|<	24	
+NZ_CP027858.1	2329084	2329085	-	.	-	-	367	
+NZ_CP027858.1	2329172	2329173	-	.	-	-	455	
+NZ_CP027858.1	2329428	2329429	-	.	-	-	498	
+NZ_CP027858.1	2330382	2330383	-	.	+	-	218	
+NZ_CP027858.1	2349649	2349650	BMP family ABC transporter substrate-binding protein	.	-	|<	56	
+NZ_CP027858.1	2349696	2349697	BMP family ABC transporter substrate-binding protein	.	+	|<	9	conflict
+NZ_CP027858.1	2367104	2367105	peptidoglycan-binding protein	.	-	>|	31	conflict
+NZ_CP027858.1	2370496	2370497	-	.	+	-	248	
+NZ_CP027858.1	2375180	2375181	-	.	+	-	362	
+NZ_CP027858.1	2377015	2377016	-	.	+	-	417	
+NZ_CP027858.1	2377423	2377424	succinate dehydrogenase iron-sulfur subunit	.	+	>|	67	
+NZ_CP027858.1	2395303	2395304	-	.	-	-	47	
+NZ_CP027858.1	2397259	2397260	hypothetical protein|DUF397 domain-containing protein	.	-	>|<	21,54	
+NZ_CP027858.1	2397306	2397307	hypothetical protein|DUF397 domain-containing protein	.	+	>|<	68,7	
+NZ_CP027858.1	2400211	2400212	isocitrate lyase/phosphoenolpyruvate mutase family protein|malate dehydrogenase	.	-	>|<	36,61	
+NZ_CP027858.1	2402785	2402786	DUF3017 domain-containing protein	.	-	|<	95	
+NZ_CP027858.1	2403978	2403979	-	.	-	-	178	
+NZ_CP027858.1	2405668	2405669	hypothetical protein	.	+	>|	43	
+NZ_CP027858.1	2406092	2406093	-	.	+	-	30	
+NZ_CP027858.1	2411424	2411425	hypothetical protein	.	+	>|	56	
+NZ_CP027858.1	2416819	2416820	-	.	-	-	231	
+NZ_CP027858.1	2417345	2417346	-	.	-	-	753	
+NZ_CP027858.1	2431183	2431184	M23 family metallopeptidase|DNA helicase PcrA	.	+	>|<	53,12	
+NZ_CP027858.1	2433531	2433532	-	.	-	-	290	
+NZ_CP027858.1	2434049	2434050	-	.	-	-	234	
+NZ_CP027858.1	2434311	2434312	-	.	-	-	137	
+NZ_CP027858.1	2434377	2434378	-	.	-	-	203	
+NZ_CP027858.1	2434747	2434748	response regulator transcription factor	.	-	|<	109	
+NZ_CP027858.1	2435109	2435110	-	.	-	-	445	
+NZ_CP027858.1	2439482	2439483	glutamine-hydrolyzing GMP synthase	.	-	|<	64	
+NZ_CP027858.1	2440944	2440945	-	.	-	-	493	
+NZ_CP027858.1	2452714	2452715	serine/threonine protein kinase	.	-	|<	116	
+NZ_CP027858.1	2458805	2458806	nucleotide sugar dehydrogenase|GuaB3 family IMP dehydrogenase-related protein	.	-	>|<	74,21	
+NZ_CP027858.1	2459601	2459602	-	.	-	-	588	
+NZ_CP027858.1	2463232	2463233	-	.	-	-	562	
+NZ_CP027858.1	2466489	2466490	-	.	+	-	430	
+NZ_CP027858.1	2468599	2468600	-	.	-	-	568	
+NZ_CP027858.1	2468672	2468673	-	.	-	-	641	
+NZ_CP027858.1	2469856	2469857	co-chaperone GroES	.	-	|<	73	
+NZ_CP027858.1	2474198	2474199	-	.	-	-	236	
+NZ_CP027858.1	2493019	2493020	30S ribosomal protein S9	.	-	|<	62	
+NZ_CP027858.1	2498060	2498061	50S ribosomal protein L17	.	-	|<	77	
+NZ_CP027858.1	2498197	2498198	-	.	-	-	197	
+NZ_CP027858.1	2498998	2498999	-	.	-	-	355	
+NZ_CP027858.1	2499475	2499476	-	.	-	-	607	
+NZ_CP027858.1	2499574	2499575	-	.	-	-	508	
+NZ_CP027858.1	2499892	2499893	-	.	-	-	59	
+NZ_CP027858.1	2500002	2500003	30S ribosomal protein S11	.	-	|<	80	
+NZ_CP027858.1	2500981	2500982	-	.	-	-	16	
+NZ_CP027858.1	2503337	2503338	-	.	-	-	192	
+NZ_CP027858.1	2503582	2503583	-	.	-	-	53	
+NZ_CP027858.1	2504308	2504309	-	.	-	-	779	
+NZ_CP027858.1	2505034	2505035	50S ribosomal protein L15	.	-	|<	72	
+NZ_CP027858.1	2505188	2505189	-	.	-	-	340	
+NZ_CP027858.1	2505506	2505507	50S ribosomal protein L30	.	-	|<	57	
+NZ_CP027858.1	2506097	2506098	-	.	-	-	320	
+NZ_CP027858.1	2507604	2507605	-	.	-	-	261	
+NZ_CP027858.1	2507870	2507871	type Z 30S ribosomal protein S14	.	-	|<	105	
+NZ_CP027858.1	2508278	2508279	-	.	-	-	118	
+NZ_CP027858.1	2508835	2508836	-	.	-	-	114	
+NZ_CP027858.1	2508977	2508978	50S ribosomal protein L14	.	-	|<	70	
+NZ_CP027858.1	2509044	2509045	50S ribosomal protein L14	.	-	|<	3	
+NZ_CP027858.1	2510879	2510880	-	.	-	-	400	
+NZ_CP027858.1	2511742	2511743	-	.	-	-	116	
+NZ_CP027858.1	2512027	2512028	-	.	-	-	68	
+NZ_CP027858.1	2512914	2512915	-	.	-	-	106	
+NZ_CP027858.1	2513662	2513663	-	.	-	-	171	
+NZ_CP027858.1	2513762	2513763	50S ribosomal protein L3	.	-	|<	71	
+NZ_CP027858.1	2514148	2514149	-	.	-	-	321	
+NZ_CP027858.1	2514845	2514846	-	.	-	-	45	
+NZ_CP027858.1	2514901	2514902	-	.	-	-	101	
+NZ_CP027858.1	2514991	2514992	-	.	-	-	191	
+NZ_CP027858.1	2517993	2517994	-	.	-	-	151	
+NZ_CP027858.1	2518536	2518537	-	.	-	-	694	
+NZ_CP027858.1	2518816	2518817	-	.	-	-	517	
+NZ_CP027858.1	2519525	2519526	-	.	-	-	347	
+NZ_CP027858.1	2520560	2520561	-	.	-	-	938	
+NZ_CP027858.1	2521111	2521112	-	.	-	-	387	
+NZ_CP027858.1	2521396	2521397	30S ribosomal protein S7	.	-	|<	102	
+NZ_CP027858.1	2522371	2522372	-	.	-	-	29	
+NZ_CP027858.1	2522424	2522425	-	.	-	-	82	
+NZ_CP027858.1	2522731	2522732	DNA-directed RNA polymerase subunit beta'	.	-	|<	49	
+NZ_CP027858.1	2525493	2525494	-	.	-	-	1291	
+NZ_CP027858.1	2527110	2527111	-	.	-	-	431	
+NZ_CP027858.1	2530741	2530742	50S ribosomal protein L7/L12	.	-	|<	124	
+NZ_CP027858.1	2530860	2530861	50S ribosomal protein L7/L12	.	-	|<	5	
+NZ_CP027858.1	2531677	2531678	-	.	-	-	426	
+NZ_CP027858.1	2531955	2531956	-	.	-	-	63	
+NZ_CP027858.1	2532307	2532308	50S ribosomal protein L1	.	-	|<	93	
+NZ_CP027858.1	2533330	2533331	-	.	-	-	208	
+NZ_CP027858.1	2533810	2533811	transcription termination/antitermination protein NusG	.	-	|<	35	
+NZ_CP027858.1	2535099	2535100	-	.	-	-	340	
+NZ_CP027858.1	2535231	2535232	-	.	-	-	105	
+NZ_CP027858.1	2536452	2536453	-	.	+	-	520	
+NZ_CP027858.1	2536506	2536507	-	.	+	-	466	
+NZ_CP027858.1	2536856	2536857	pyridoxal phosphate-dependent aminotransferase	.	+	>|	77	
+NZ_CP027858.1	2540527	2540528	-	.	-	-	97	
+NZ_CP027858.1	2540602	2540603	-	.	-	-	172	
+NZ_CP027858.1	2544438	2544439	-	.	-	-	332	
+NZ_CP027858.1	2544489	2544490	-	.	-	-	281	
+NZ_CP027858.1	2547970	2547971	-	.	-	-	334	
+NZ_CP027858.1	2558468	2558469	-	.	-	-	251	
+NZ_CP027858.1	2579778	2579779	-	.	-	-	586	
+NZ_CP027858.1	2584120	2584121	fumarylacetoacetase|NADH-quinone oxidoreductase subunit NuoN	.	-	>|<	50,72	
+NZ_CP027858.1	2587949	2587950	-	.	-	-	540	
+NZ_CP027858.1	2594508	2594509	-	.	-	-	538	
+NZ_CP027858.1	2608792	2608793	-	.	+	-	59	
+NZ_CP027858.1	2609018	2609019	-	.	+	-	412	
+NZ_CP027858.1	2609133	2609134	cold-shock protein	.	+	>|	79	
+NZ_CP027858.1	2610837	2610838	-	.	-	-	61	
+NZ_CP027858.1	2611340	2611341	Tat pathway signal sequence domain protein|DUF4229 domain-containing protein	.	-	>|<	17,62	
+NZ_CP027858.1	2613519	2613520	Lrp/AsnC family transcriptional regulator	.	-	|<	58	
+NZ_CP027858.1	2617871	2617872	PLD nuclease N-terminal domain-containing protein|c-type cytochrome biogenesis protein CcsB	.	-	>|<	55,63	
+NZ_CP027858.1	2624746	2624747	-	.	+	-	335	
+NZ_CP027858.1	2636477	2636478	-	.	-	-	308	
+NZ_CP027858.1	2637023	2637024	-	.	+	-	329	
+NZ_CP027858.1	2637160	2637161	-	.	+	-	466	
+NZ_CP027858.1	2655446	2655447	chitinase|porphobilinogen synthase	.	-	>|<	73,47	
+NZ_CP027858.1	2655748	2655749	-	.	-	-	375	
+NZ_CP027858.1	2656915	2656916	hypothetical protein	.	+	|<	26	conflict
+NZ_CP027858.1	2668455	2668456	-	.	-	-	665	
+NZ_CP027858.1	2691455	2691456	-	.	-	-	39	
+NZ_CP027858.1	2703716	2703717	hypothetical protein|DUF397 domain-containing protein	.	-	>|<	3,61	
+NZ_CP027858.1	2705874	2705875	hypothetical protein|GntR family transcriptional regulator	.	-	>|<	46,57	
+NZ_CP027858.1	2706306	2706307	-	.	-	-	71	
+NZ_CP027858.1	2707062	2707063	DUF397 domain-containing protein	.	-	|<	58	
+NZ_CP027858.1	2710289	2710290	-	.	-	-	24	
+NZ_CP027858.1	2710602	2710603	-	.	+	-	541	
+NZ_CP027858.1	2723085	2723086	-	.	-	-	281	
+NZ_CP027858.1	2777552	2777553	-	.	+	-	173	
+NZ_CP027858.1	2805278	2805279	-	.	-	-	194	
+NZ_CP027858.1	2805940	2805941	-	.	-	-	37	
+NZ_CP027858.1	2812604	2812605	-	.	-	-	548	
+NZ_CP027858.1	2832201	2832202	hypothetical protein	.	-	|<	88	
+NZ_CP027858.1	2836444	2836445	-	.	+	-	401	
+NZ_CP027858.1	2836926	2836927	ATP/GTP-binding protein	.	+	>|	53	
+NZ_CP027858.1	2838268	2838269	phosphoserine transaminase	.	+	>|	83	
+NZ_CP027858.1	2838631	2838632	-	.	+	-	393	
+NZ_CP027858.1	2838960	2838961	ABC transporter permease	.	+	|<	64	conflict
+NZ_CP027858.1	2844175	2844176	DUF6056 family protein	.	-	|<	61	
+NZ_CP027858.1	2845869	2845870	-	.	-	-	116	
+NZ_CP027858.1	2847373	2847374	hypothetical protein	.	-	|<	22	
+NZ_CP027858.1	2854208	2854209	DUF397 domain-containing protein	.	+	>|	48	
+NZ_CP027858.1	2854416	2854417	DUF397 domain-containing protein	.	+	>|	56	
+NZ_CP027858.1	2863897	2863898	-	.	-	-	251	
+NZ_CP027858.1	2892729	2892730	DEAD/DEAH box helicase|hypothetical protein	.	-	>|<	28,104	
+NZ_CP027858.1	2898298	2898299	DUF397 domain-containing protein	.	-	|<	47	
+NZ_CP027858.1	2898335	2898336	DUF397 domain-containing protein	.	+	|<	10	conflict
+NZ_CP027858.1	2915150	2915151	gamma subclass chorismate mutase AroQ	.	-	|<	4	
+NZ_CP027858.1	2927497	2927498	-	.	+	-	288	
+NZ_CP027858.1	2928409	2928410	carbohydrate-binding protein|class II fructose-bisphosphate aldolase	.	+	>|<	19,43	
+NZ_CP027858.1	2937210	2937211	-	.	-	-	509	
+NZ_CP027858.1	2938011	2938012	-	.	-	-	1040	
+NZ_CP027858.1	2940262	2940263	-	.	+	-	72	
+NZ_CP027858.1	2940328	2940329	-	.	+	-	6	
+NZ_CP027858.1	2942096	2942097	MoaD/ThiS family protein	.	+	>|	70	
+NZ_CP027858.1	2942639	2942640	-	.	+	-	613	
+NZ_CP027858.1	2942741	2942742	cold-shock protein	.	+	>|	64	
+NZ_CP027858.1	2942835	2942836	-	.	+	-	158	
+NZ_CP027858.1	2944359	2944360	-	.	+	-	890	
+NZ_CP027858.1	2944973	2944974	chaperonin GroEL	.	+	>|	69	
+NZ_CP027858.1	2948123	2948124	-	.	-	-	585	
+NZ_CP027858.1	2959288	2959289	-	.	-	-	99	
+NZ_CP027858.1	2959669	2959670	-	.	+	-	480	
+NZ_CP027858.1	2968932	2968933	-	.	-	-	120	
+NZ_CP027858.1	2968942	2968943	-	.	+	-	130	
+NZ_CP027858.1	2969004	2969005	CarD family transcriptional regulator	.	-	|<	82	
+NZ_CP027858.1	2969392	2969393	-	.	-	-	580	
+NZ_CP027858.1	2973898	2973899	-	.	+	-	340	
+NZ_CP027858.1	2989002	2989003	-	.	-	-	236	
+NZ_CP027858.1	2992016	2992017	-	.	-	-	480	
+NZ_CP027858.1	2996883	2996884	FABP family protein	.	-	|<	93	
+NZ_CP027858.1	2999746	2999747	-	.	-	-	562	
+NZ_CP027858.1	3000687	3000688	-	.	-	-	601	
+NZ_CP027858.1	3002032	3002033	-	.	-	-	371	
+NZ_CP027858.1	3018532	3018533	serine hydrolase	.	-	>|	64	conflict
+NZ_CP027858.1	3022387	3022388	-	.	+	-	843	
+NZ_CP027858.1	3025742	3025743	-	.	+	-	1042	
+NZ_CP027858.1	3026874	3026875	phosphate ABC transporter substrate-binding protein PstS	.	+	>|	93	
+NZ_CP027858.1	3028424	3028425	-	.	+	-	488	
+NZ_CP027858.1	3029653	3029654	-	.	+	-	597	
+NZ_CP027858.1	3029866	3029867	phosphate ABC transporter ATP-binding protein PstB	.	+	>|	52	
+NZ_CP027858.1	3029947	3029948	-	.	+	-	133	
+NZ_CP027858.1	3032292	3032293	-	.	-	-	277	
+NZ_CP027858.1	3032582	3032583	metal-sensitive transcriptional regulator	.	-	>|	91	conflict
+NZ_CP027858.1	3032712	3032713	-	.	-	-	211	
+NZ_CP027858.1	3037132	3037133	-	.	+	-	461	
+NZ_CP027858.1	3044249	3044250	-	.	+	-	1432	
+NZ_CP027858.1	3062760	3062761	-	.	-	-	385	
+NZ_CP027858.1	3063772	3063773	-	.	+	-	1397	
+NZ_CP027858.1	3069231	3069232	-	.	-	-	136	
+NZ_CP027858.1	3069329	3069330	M23 family metallopeptidase	.	-	|<	38	
+NZ_CP027858.1	3070292	3070293	-	.	-	-	629	
+NZ_CP027858.1	3070351	3070352	-	.	-	-	570	
+NZ_CP027858.1	3070435	3070436	-	.	-	-	10	
+NZ_CP027858.1	3072305	3072306	-	.	-	-	227	
+NZ_CP027858.1	3076187	3076188	-	.	-	-	212	
+NZ_CP027858.1	3081350	3081351	fumarylacetoacetate hydrolase family protein	.	-	>|	74	conflict
+NZ_CP027858.1	3081427	3081428	-	.	-	-	151	
+NZ_CP027858.1	3083917	3083918	-	.	-	-	246	
+NZ_CP027858.1	3088617	3088618	-	.	+	-	171	
+NZ_CP027858.1	3088733	3088734	-	.	+	-	196	
+NZ_CP027858.1	3088827	3088828	-	.	+	-	102	
+NZ_CP027858.1	3088880	3088881	-	.	+	-	49	
+NZ_CP027858.1	3097492	3097493	-	.	-	-	132	
+NZ_CP027858.1	3100638	3100639	-	.	+	-	57	
+NZ_CP027858.1	3100774	3100775	-	.	+	-	342	
+NZ_CP027858.1	3100996	3100997	DUF3073 domain-containing protein|phosphoribosylformylglycinamidine cyclo-ligase	.	+	>|<	53,120	
+NZ_CP027858.1	3103554	3103555	-	.	-	-	472	
+NZ_CP027858.1	3110454	3110455	phosphoribosylformylglycinamidine synthase subunit PurS	.	-	|<	115	
+NZ_CP027858.1	3111712	3111713	-	.	+	-	195	
+NZ_CP027858.1	3120938	3120939	-	.	-	-	665	
+NZ_CP027858.1	3122816	3122817	DNA polymerase III subunit gamma and tau	.	-	|<	96	
+NZ_CP027858.1	3125178	3125179	-	.	-	-	107	
+NZ_CP027858.1	3125214	3125215	-	.	+	-	143	
+NZ_CP027858.1	3129189	3129190	-	.	-	-	44	
+NZ_CP027858.1	3130503	3130504	hypothetical protein	.	+	>|	61	
+NZ_CP027858.1	3138537	3138538	-	.	-	-	215	
+NZ_CP027858.1	3173847	3173848	-	.	+	-	318	
+NZ_CP027858.1	3176219	3176220	type II toxin-antitoxin system VapB family antitoxin	.	+	>|	109	
+NZ_CP027858.1	3179405	3179406	-	.	+	-	178	
+NZ_CP027858.1	3182885	3182886	N-6 DNA methylase	.	-	>|	90	conflict
+NZ_CP027858.1	3183842	3183843	Dabb family protein	.	+	>|	120	
+NZ_CP027858.1	3186011	3186012	-	.	+	-	464	
+NZ_CP027858.1	3189835	3189836	-	.	+	-	193	
+NZ_CP027858.1	3191004	3191005	helix-turn-helix domain-containing protein	.	+	>|	42	
+NZ_CP027858.1	3195700	3195701	-	.	+	-	487	
+NZ_CP027858.1	3214348	3214349	acyl-CoA dehydrogenase|transcriptional regulator	.	-	>|<	42,65	
+NZ_CP027858.1	3214390	3214391	acyl-CoA dehydrogenase|transcriptional regulator	.	+	>|<	84,23	
+NZ_CP027858.1	3217487	3217488	M18 family aminopeptidase	.	+	>|	49	
+NZ_CP027858.1	3224527	3224528	serine hydrolase|2-oxo acid dehydrogenase subunit E2	.	+	>|<	35,57	
+NZ_CP027858.1	3228221	3228222	-	.	-	-	417	
+NZ_CP027858.1	3233575	3233576	-	.	+	-	584	
+NZ_CP027858.1	3259289	3259290	-	.	+	-	660	
+NZ_CP027858.1	3278293	3278294	ABC transporter permease	.	-	>|	70	conflict
+NZ_CP027858.1	3278364	3278365	-	.	-	-	141	
+NZ_CP027858.1	3279025	3279026	-	.	+	-	782	
+NZ_CP027858.1	3279131	3279132	-	.	+	-	676	
+NZ_CP027858.1	3292451	3292452	rhomboid family intramembrane serine protease	.	+	|<	73	conflict
+NZ_CP027858.1	3293304	3293305	-	.	-	-	231	
+NZ_CP027858.1	3316675	3316676	aspartate aminotransferase family protein	.	-	>|	106	conflict
+NZ_CP027858.1	3319330	3319331	serine/threonine protein kinase|DLW-39 family protein	.	-	>|<	109,56	
+NZ_CP027858.1	3319690	3319691	-	.	-	-	157	
+NZ_CP027858.1	3320437	3320438	DNA gyrase subunit A	.	-	|<	80	
+NZ_CP027858.1	3325087	3325088	-	.	-	-	535	
+NZ_CP027858.1	3327321	3327322	decarboxylating 6-phosphogluconate dehydrogenase	.	-	|<	113	
+NZ_CP027858.1	3328082	3328083	-	.	-	-	362	
+NZ_CP027858.1	3329720	3329721	-	.	-	-	146	
+NZ_CP027858.1	3332678	3332679	-	.	+	-	61	
+NZ_CP027858.1	3332941	3332942	50S ribosomal protein L34	.	+	>|	65	
+NZ_CP027858.1	3333060	3333061	-	.	+	-	184	
+NZ_CP027858.1	3335452	3335453	single-stranded DNA-binding protein	.	+	>|	52	
+NZ_CP027858.1	3336739	3336740	-	.	+	-	515	
+NZ_CP027858.1	3336846	3336847	-	.	+	-	622	
+NZ_CP027858.1	3337403	3337404	-	.	+	-	193	
+NZ_CP027858.1	3338683	3338684	-	.	+	-	189	
+NZ_CP027858.1	3339501	3339502	GNAT family N-acetyltransferase|thioredoxin	.	-	>|<	12,100	
+NZ_CP027858.1	3339780	3339781	-	.	-	-	187	
+NZ_CP027858.1	3340355	3340356	-	.	-	-	422	
+NZ_CP027858.1	3352481	3352482	-	.	-	-	21	
+NZ_CP027858.1	3352579	3352580	inositol-3-phosphate synthase	.	-	|<	60	
+NZ_CP027858.1	3353779	3353780	-	.	-	-	58	
+NZ_CP027858.1	3354210	3354211	-	.	-	-	489	
+NZ_CP027858.1	3354912	3354913	-	.	+	-	424	
+NZ_CP027858.1	3361624	3361625	-	.	-	-	318	
+NZ_CP027858.1	3361889	3361890	hypothetical protein	.	-	|<	53	
+NZ_CP027858.1	3362472	3362473	-	.	+	-	63	
+NZ_CP027858.1	3362684	3362685	-	.	+	-	216	
+NZ_CP027858.1	3364021	3364022	-	.	+	-	228	
+NZ_CP027858.1	3364328	3364329	50S ribosomal protein L9|MATE family efflux transporter	.	+	>|<	70,114	
+NZ_CP027858.1	3371747	3371748	NUDIX hydrolase	.	-	|<	46	
+NZ_CP027858.1	3371954	3371955	-	.	-	-	371	
+NZ_CP027858.1	3373398	3373399	cystathionine gamma-lyase	.	+	|<	33	conflict
+NZ_CP027858.1	3380254	3380255	phosphomethylpyrimidine synthase ThiC|hypothetical protein	.	-	>|<	47,82	
+NZ_CP027858.1	3381345	3381346	-	.	-	-	2	
+NZ_CP027858.1	3398272	3398273	-	.	+	-	560	
+NZ_CP027858.1	3401921	3401922	-	.	+	-	209	
+NZ_CP027858.1	3403530	3403531	DUF397 domain-containing protein	.	+	>|	60	
+NZ_CP027858.1	3403710	3403711	DUF397 domain-containing protein|Cof-type HAD-IIB family hydrolase	.	-	>|<	4,68	
+NZ_CP027858.1	3403758	3403759	DUF397 domain-containing protein|Cof-type HAD-IIB family hydrolase	.	+	>|<	52,20	
+NZ_CP027858.1	3403860	3403861	-	.	+	-	154	
+NZ_CP027858.1	3403966	3403967	-	.	+	-	260	
+NZ_CP027858.1	3419451	3419452	-	.	+	-	266	
+NZ_CP027858.1	3419591	3419592	-	.	+	-	126	
+NZ_CP027858.1	3421447	3421448	-	.	-	-	222	
+NZ_CP027858.1	3426607	3426608	-	.	+	-	163	
+NZ_CP027858.1	3446537	3446538	-	.	-	-	710	
+NZ_CP027858.1	3446954	3446955	-	.	+	-	388	
+NZ_CP027858.1	3447029	3447030	-	.	-	-	463	
+NZ_CP027858.1	3447310	3447311	-	.	+	-	341	
+NZ_CP027858.1	3460388	3460389	helix-turn-helix domain-containing protein|AAA family ATPase	.	+	>|<	58,29	
+NZ_CP027858.1	3468575	3468576	magnesium and cobalt transport protein CorA	.	-	|<	117	
+NZ_CP027858.1	3468809	3468810	-	.	-	-	138	
+NZ_CP027858.1	3472998	3472999	-	.	+	-	2	
+NZ_CP027858.1	3496661	3496662	-	.	+	-	71	
+NZ_CP027858.1	3498249	3498250	DUF397 domain-containing protein	.	+	>|	62	
+NZ_CP027858.1	3501195	3501196	DUF397 domain-containing protein|hypothetical protein	.	+	>|<	58,14	
+NZ_CP027858.1	3563600	3563601	DUF397 domain-containing protein	.	+	>|	50	
+NZ_CP027858.1	3563809	3563810	hypothetical protein	.	+	>|	81	
+NZ_CP027858.1	3564151	3564152	hypothetical protein	.	+	>|	43	
+NZ_CP027858.1	3590247	3590248	-	.	-	-	140	
+NZ_CP027858.1	3592990	3592991	-	.	+	-	131	
+NZ_CP027858.1	3595048	3595049	methionine--tRNA ligase	.	+	>|	126	
+NZ_CP027858.1	3605988	3605989	damage-control phosphatase ARMT1 family protein	.	+	>|	65	
+NZ_CP027858.1	3606567	3606568	-	.	-	-	179	
+NZ_CP027858.1	3606968	3606969	-	.	+	-	453	
+NZ_CP027858.1	3607977	3607978	phosphoribosyltransferase|YIP1 family protein	.	-	>|<	59,54	
+NZ_CP027858.1	3615089	3615090	-	.	+	-	291	
+NZ_CP027858.1	3615612	3615613	-	.	+	-	368	
+NZ_CP027858.1	3618634	3618635	-	.	+	-	353	
+NZ_CP027858.1	3626304	3626305	-	.	+	-	242	
+NZ_CP027858.1	3632760	3632761	-	.	+	-	436	
+NZ_CP027858.1	3636064	3636065	-	.	+	-	80	
+NZ_CP027858.1	3648958	3648959	XRE family transcriptional regulator	.	+	>|	66	
+NZ_CP027858.1	3649688	3649689	-	.	-	-	69	
+NZ_CP027858.1	3676821	3676822	-	.	+	-	59	
+NZ_CP027858.1	3677985	3677986	-	.	+	-	449	
+NZ_CP027858.1	3679209	3679210	-	.	+	-	156	
+NZ_CP027858.1	3682410	3682411	hypothetical protein	.	+	>|	54	
+NZ_CP027858.1	3688296	3688297	-	.	-	-	46	
+NZ_CP027858.1	3689002	3689003	-	.	-	-	513	
+NZ_CP027858.1	3730035	3730036	tyrosine-type recombinase/integrase	.	-	>|	78	conflict
+NZ_CP027858.1	3731837	3731838	GatB/YqeY domain-containing protein|penicillin-binding protein	.	-	>|<	32,61	
+NZ_CP027858.1	3733698	3733699	-	.	-	-	1018	
+NZ_CP027858.1	3734088	3734089	-	.	-	-	628	
+NZ_CP027858.1	3734680	3734681	-	.	+	-	36	
+NZ_CP027858.1	3735185	3735186	transcriptional regulator WblA	.	-	>|	125	conflict
+NZ_CP027858.1	3744847	3744848	-	.	-	-	515	
+NZ_CP027858.1	3746381	3746382	-	.	+	-	189	
+NZ_CP027858.1	3747070	3747071	CoA pyrophosphatase	.	+	>|	94	
+NZ_CP027858.1	3749734	3749735	-	.	-	-	174	
+NZ_CP027858.1	3749854	3749855	phage holin family protein	.	-	|<	54	
+NZ_CP027858.1	3750167	3750168	-	.	-	-	229	
+NZ_CP027858.1	3760789	3760790	hypothetical protein	.	-	>|	44	conflict
+NZ_CP027858.1	3760914	3760915	-	.	-	-	169	
+NZ_CP027858.1	3762146	3762147	-	.	+	-	163	
+NZ_CP027858.1	3770544	3770545	-	.	+	-	307	
+NZ_CP027858.1	3771391	3771392	-	.	+	-	598	
+NZ_CP027858.1	3771470	3771471	ATP-binding protein	.	+	>|	72	
+NZ_CP027858.1	3777775	3777776	-	.	+	-	375	
+NZ_CP027858.1	3789394	3789395	-	.	-	-	246	
+NZ_CP027858.1	3792224	3792225	-	.	+	-	498	
+NZ_CP027858.1	3792698	3792699	hypothetical protein|hypothetical protein	.	+	>|<	82,24	
+NZ_CP027858.1	3794497	3794498	phospholipase D family protein	.	-	|<	48	
+NZ_CP027858.1	3806116	3806117	phosphoadenosine phosphosulfate reductase family protein	.	-	>|	9	conflict
+NZ_CP027858.1	3806165	3806166	phosphoadenosine phosphosulfate reductase family protein	.	+	>|	58	
+NZ_CP027858.1	3808281	3808282	DGQHR domain-containing protein	.	+	>|	100	
+NZ_CP027858.1	3841022	3841023	-	.	+	-	487	
+NZ_CP027858.1	3849824	3849825	methyltransferase%2C FxLD system	.	-	|<	85	
+NZ_CP027858.1	3856892	3856893	-	.	-	-	168	
+NZ_CP027858.1	3857331	3857332	DUF397 domain-containing protein	.	+	>|	62	
+NZ_CP027858.1	3864477	3864478	-	.	-	-	132	
+NZ_CP027858.1	3881843	3881844	DUF397 domain-containing protein|ATP-binding protein	.	-	>|<	75,71	
+NZ_CP027858.1	3892296	3892297	inorganic diphosphatase	.	-	|<	36	
+NZ_CP027858.1	3897122	3897123	tRNA lysidine(34) synthetase TilS	.	+	>|	64	
+NZ_CP027858.1	3897339	3897340	-	.	+	-	281	
+NZ_CP027858.1	3897818	3897819	hypoxanthine phosphoribosyltransferase	.	+	>|	69	
+NZ_CP027858.1	3900094	3900095	ATP-dependent zinc metalloprotease FtsH	.	+	>|	85	
+NZ_CP027858.1	3909313	3909314	hypothetical protein|NADH-quinone oxidoreductase subunit D	.	-	>|<	68,71	
+NZ_CP027858.1	3921637	3921638	-	.	+	-	332	
+NZ_CP027858.1	3928264	3928265	D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase	.	+	|<	122	conflict
+NZ_CP027858.1	3928323	3928324	ATP-dependent Clp protease ATP-binding subunit|D-alanyl-D-alanine carboxypeptidase/D-alanyl-D-alanine-endopeptidase	.	+	>|<	33,63	
+NZ_CP027858.1	3935922	3935923	response regulator transcription factor	.	-	|<	75	
+NZ_CP027858.1	3969406	3969407	AURKAIP1/COX24 domain-containing protein	.	+	>|	58	
+NZ_CP027858.1	3976599	3976600	-	.	+	-	510	
+NZ_CP027858.1	3979888	3979889	hydroxymethylbilane synthase	.	-	>|	84	conflict
+NZ_CP027858.1	3982044	3982045	-	.	+	-	585	
+NZ_CP027858.1	3990466	3990467	-	.	+	-	700	
+NZ_CP027858.1	3994889	3994890	-	.	-	-	311	
+NZ_CP027858.1	3997756	3997757	-	.	-	-	218	
+NZ_CP027858.1	3999613	3999614	-	.	-	-	199	
+NZ_CP027858.1	3999884	3999885	S-methyl-5'-thioadenosine phosphorylase	.	-	|<	16	
+NZ_CP027858.1	4000800	4000801	FmdB family transcriptional regulator	.	-	|<	52	
+NZ_CP027858.1	4000836	4000837	FmdB family transcriptional regulator	.	+	|<	16	conflict
+NZ_CP027858.1	4001137	4001138	-	.	-	-	152	
+NZ_CP027858.1	4002599	4002600	-	.	-	-	6	
+NZ_CP027858.1	4011019	4011020	-	.	+	-	237	
+NZ_CP027858.1	4014266	4014267	-	.	+	-	182	
+NZ_CP027858.1	4031925	4031926	-	.	-	-	79	
+NZ_CP027858.1	4039310	4039311	alpha/beta hydrolase|DUF397 domain-containing protein	.	-	>|<	12,50	
+NZ_CP027858.1	4044777	4044778	-	.	-	-	134	
+NZ_CP027858.1	4045766	4045767	-	.	-	-	166	
+NZ_CP027858.1	4045825	4045826	-	.	-	-	143	
+NZ_CP027858.1	4047298	4047299	-	.	-	-	1352	
+NZ_CP027858.1	4048023	4048024	-	.	-	-	899	
+NZ_CP027858.1	4078127	4078128	-	.	+	-	16	
+NZ_CP027858.1	4086440	4086441	-	.	+	-	27	
+NZ_CP027858.1	4086575	4086576	-	.	+	-	411	
+NZ_CP027858.1	4093615	4093616	-	.	+	-	364	
+NZ_CP027858.1	4096683	4096684	-	.	-	-	531	
+NZ_CP027858.1	4098468	4098469	-	.	-	-	701	
+NZ_CP027858.1	4098764	4098765	-	.	-	-	105	
+NZ_CP027858.1	4105698	4105699	SUKH-4 family immunity protein	.	+	>|	96	
+NZ_CP027858.1	4108283	4108284	-	.	-	-	656	
+NZ_CP027858.1	4125225	4125226	serine/threonine protein kinase|FG-GAP and VCBS repeat-containing protein	.	-	>|<	21,56	
+NZ_CP027858.1	4132147	4132148	transglycosylase family protein	.	+	>|	78	
+NZ_CP027858.1	4132538	4132539	-	.	+	-	5	
+NZ_CP027858.1	4135557	4135558	-	.	+	-	170	
+NZ_CP027858.1	4138192	4138193	-	.	+	-	799	
+NZ_CP027858.1	4145274	4145275	-	.	+	-	433	
+NZ_CP027858.1	4146776	4146777	-	.	-	-	191	
+NZ_CP027858.1	4157493	4157494	DUF397 domain-containing protein|ASCH domain-containing protein	.	+	>|<	47,3	
+NZ_CP027858.1	4159849	4159850	DUF397 domain-containing protein|hypothetical protein	.	+	>|<	60,1	
+NZ_CP027858.1	4168028	4168029	-	.	+	-	113	
+NZ_CP027858.1	4182130	4182131	response regulator transcription factor	.	+	>|	117	
+NZ_CP027858.1	4199097	4199098	DUF3987 domain-containing protein|DUF397 domain-containing protein	.	-	>|<	50,14	
+NZ_CP027858.1	4199828	4199829	-	.	-	-	511	
+NZ_CP027858.1	4199883	4199884	-	.	-	-	566	
+NZ_CP027858.1	4201469	4201470	-	.	+	-	15	
+NZ_CP027858.1	4202734	4202735	DUF397 domain-containing protein	.	-	|<	82	
+NZ_CP027858.1	4239750	4239751	-	.	+	-	436	
+NZ_CP027858.1	4252214	4252215	-	.	+	-	288	
+NZ_CP027858.1	4252287	4252288	-	.	+	-	361	
+NZ_CP027858.1	4252519	4252520	-	.	+	-	475	
+NZ_CP027858.1	4258968	4258969	ribosome-associated translation inhibitor RaiA	.	+	>|	94	
+NZ_CP027858.1	4259881	4259882	response regulator transcription factor|winged helix DNA-binding domain-containing protein	.	+	>|<	30,49	
+NZ_CP027858.1	4264033	4264034	-	.	+	-	1701	
+NZ_CP027858.1	4274151	4274152	NAD-glutamate dehydrogenase|DUF2029 domain-containing protein	.	+	>|<	86,79	
+NZ_CP027858.1	4275421	4275422	carbohydrate ABC transporter permease	.	-	|<	106	
+NZ_CP027858.1	4294725	4294726	-	.	+	-	230	
+NZ_CP027858.1	4294834	4294835	MFS transporter	.	+	|<	121	conflict
+NZ_CP027858.1	4294907	4294908	MFS transporter	.	+	|<	48	conflict
+NZ_CP027858.1	4304242	4304243	-	.	+	-	216	
+NZ_CP027858.1	4304296	4304297	-	.	+	-	247	
+NZ_CP027858.1	4306844	4306845	HU family DNA-binding protein	.	+	>|	54	
+NZ_CP027858.1	4309533	4309534	DUF3039 domain-containing protein	.	+	>|	39	
+NZ_CP027858.1	4321480	4321481	-	.	-	-	254	
+NZ_CP027858.1	4323479	4323480	Arc family DNA-binding protein	.	+	>|	6	
+NZ_CP027858.1	4329406	4329407	-	.	+	-	461	
+NZ_CP027858.1	4329989	4329990	-	.	+	-	199	
+NZ_CP027858.1	4338164	4338165	FAD-binding protein	.	+	>|	74	
+NZ_CP027858.1	4338742	4338743	VOC family protein	.	+	>|	110	
+NZ_CP027858.1	4339232	4339233	-	.	+	-	69	
+NZ_CP027858.1	4344805	4344806	-	.	+	-	775	
+NZ_CP027858.1	4346744	4346745	-	.	+	-	169	
+NZ_CP027858.1	4346856	4346857	immune inhibitor A	.	+	>|	66	
+NZ_CP027858.1	4353200	4353201	-	.	+	-	44	
+NZ_CP027858.1	4356677	4356678	-	.	-	-	241	
+NZ_CP027858.1	4357150	4357151	-	.	+	-	238	
+NZ_CP027858.1	4364700	4364701	RdgB/HAM1 family non-canonical purine NTP pyrophosphatase	.	-	>|	49	conflict
+NZ_CP027858.1	4366239	4366240	thioredoxin-dependent thiol peroxidase	.	-	|<	100	
+NZ_CP027858.1	4395924	4395925	-	.	-	-	283	
+NZ_CP027858.1	4400088	4400089	-	.	-	-	166	
+NZ_CP027858.1	4400169	4400170	helix-turn-helix domain-containing protein	.	-	|<	107	
+NZ_CP027858.1	4414251	4414252	M6 family metalloprotease domain-containing protein|bifunctional DNA primase/polymerase	.	-	>|<	57,65	
+NZ_CP027858.1	4428746	4428747	-	.	-	-	187	
+NZ_CP027858.1	4428858	4428859	oligoribonuclease	.	-	|<	75	
+NZ_CP027858.1	4428927	4428928	oligoribonuclease	.	+	|<	6	conflict
+NZ_CP027858.1	4429329	4429330	-	.	-	-	216	
+NZ_CP027858.1	4432556	4432557	-	.	+	-	608	
+NZ_CP027858.1	4432852	4432853	-	.	+	-	312	
+NZ_CP027858.1	4433105	4433106	universal stress protein|glutamine--fructose-6-phosphate transaminase (isomerizing)	.	-	>|<	113,59	
+NZ_CP027858.1	4476577	4476578	-	.	+	-	149	
+NZ_CP027858.1	4476982	4476983	-	.	+	-	554	
+NZ_CP027858.1	4486754	4486755	tripeptidyl aminopeptidase|glycoside hydrolase family 3 C-terminal domain-containing protein	.	+	>|<	115,48	
+NZ_CP027858.1	4488853	4488854	-	.	-	-	201	
+NZ_CP027858.1	4491741	4491742	-	.	-	-	367	
+NZ_CP027858.1	4501316	4501317	-	.	+	-	495	
+NZ_CP027858.1	4502507	4502508	-	.	-	-	169	
+NZ_CP027858.1	4502625	4502626	-	.	-	-	287	
+NZ_CP027858.1	4507950	4507951	-	.	+	-	549	
+NZ_CP027858.1	4512226	4512227	CoA-acylating methylmalonate-semialdehyde dehydrogenase|DUF4287 domain-containing protein	.	-	>|<	57,5	
+NZ_CP027858.1	4556948	4556949	-	.	-	-	383	
+NZ_CP027858.1	4566449	4566450	acyl-CoA thioesterase	.	+	>|	76	
+NZ_CP027858.1	4600419	4600420	-	.	-	-	165	
+NZ_CP027858.1	4600645	4600646	-	.	-	-	42	
+NZ_CP027858.1	4604894	4604895	-	.	-	-	1509	
+NZ_CP027858.1	4616094	4616095	-	.	-	-	490	
+NZ_CP027858.1	4635567	4635568	-	.	-	-	210	
+NZ_CP027858.1	4637701	4637702	hypothetical protein	.	+	>|	56	
+NZ_CP027858.1	4637733	4637734	hypothetical protein	.	-	>|	88	conflict
+NZ_CP027858.1	4638097	4638098	-	.	+	-	208	
+NZ_CP027858.1	4638298	4638299	-	.	+	-	7	
+NZ_CP027858.1	4638611	4638612	-	.	+	-	966	
+NZ_CP027858.1	4639392	4639393	-	.	+	-	691	
+NZ_CP027858.1	4640234	4640235	-	.	+	-	529	
+NZ_CP027858.1	4641068	4641069	-	.	+	-	383	
+NZ_CP027858.1	4641496	4641497	ATP-dependent Clp protease proteolytic subunit	.	+	>|	56	
+NZ_CP027858.1	4645191	4645192	-	.	+	-	1075	
+NZ_CP027858.1	4661543	4661544	TIGR03960 family B12-binding radical SAM protein	.	+	>|	46	
+NZ_CP027858.1	4662787	4662788	TIGR03936 family radical SAM-associated protein	.	+	>|	38	
+NZ_CP027858.1	4662863	4662864	TIGR03936 family radical SAM-associated protein	.	+	>|	114	
+NZ_CP027858.1	4670061	4670062	-	.	+	-	217	
+NZ_CP027858.1	4670621	4670622	50S ribosomal protein L27	.	+	>|	86	
+NZ_CP027858.1	4673006	4673007	-	.	+	-	904	
+NZ_CP027858.1	4674930	4674931	-	.	+	-	580	
+NZ_CP027858.1	4676186	4676187	bifunctional cytidylyltransferase/SDR family oxidoreductase	.	+	>|	108	
+NZ_CP027858.1	4688939	4688940	-	.	+	-	273	
+NZ_CP027858.1	4690163	4690164	-	.	+	-	266	
+NZ_CP027858.1	4690532	4690533	-	.	+	-	664	
+NZ_CP027858.1	4690914	4690915	-	.	+	-	252	
+NZ_CP027858.1	4695142	4695143	hypothetical protein	.	+	>|	56	
+NZ_CP027858.1	4695341	4695342	-	.	+	-	255	
+NZ_CP027858.1	4703084	4703085	-	.	-	-	257	
+NZ_CP027858.1	4703162	4703163	-	.	-	-	179	
+NZ_CP027858.1	4703303	4703304	30S ribosomal protein S20	.	-	|<	38	
+NZ_CP027858.1	4703384	4703385	-	.	-	-	437	
+NZ_CP027858.1	4713304	4713305	molecular chaperone DnaJ	.	+	>|	87	
+NZ_CP027858.1	4724161	4724162	-	.	+	-	455	
+NZ_CP027858.1	4726077	4726078	-	.	+	-	518	
+NZ_CP027858.1	4737125	4737126	2-isopropylmalate synthase	.	+	>|	69	
+NZ_CP027858.1	4745584	4745585	-	.	+	-	408	
+NZ_CP027858.1	4746811	4746812	glycine--tRNA ligase	.	+	>|	50	
+NZ_CP027858.1	4747193	4747194	-	.	+	-	254	
+NZ_CP027858.1	4751037	4751038	-	.	-	-	42	
+NZ_CP027858.1	4760858	4760859	-	.	-	-	271	
+NZ_CP027858.1	4778341	4778342	-	.	+	-	92	
+NZ_CP027858.1	4778567	4778568	-	.	+	-	226	
+NZ_CP027858.1	4778645	4778646	-	.	+	-	304	
+NZ_CP027858.1	4781040	4781041	-	.	+	-	694	
+NZ_CP027858.1	4788009	4788010	-	.	+	-	256	
+NZ_CP027858.1	4788087	4788088	-	.	+	-	334	
+NZ_CP027858.1	4788340	4788341	-	.	+	-	587	
+NZ_CP027858.1	4793997	4793998	-	.	-	-	233	
+NZ_CP027858.1	4794020	4794021	-	.	+	-	210	
+NZ_CP027858.1	4809976	4809977	DUF397 domain-containing protein|hypothetical protein	.	-	>|<	67,8	
+NZ_CP027858.1	4821218	4821219	hypothetical protein	.	-	|<	54	
+NZ_CP027858.1	4824819	4824820	DUF3145 domain-containing protein|beta-ketoacyl-ACP synthase II	.	-	>|<	110,88	
+NZ_CP027858.1	4841645	4841646	-	.	-	-	1051	
+NZ_CP027858.1	4842889	4842890	-	.	+	-	494	
+NZ_CP027858.1	4843172	4843173	DUF3052 domain-containing protein	.	+	>|	54	
+NZ_CP027858.1	4843276	4843277	-	.	+	-	107	
+NZ_CP027858.1	4845951	4845952	-	.	+	-	464	
+NZ_CP027858.1	4847058	4847059	DUF475 domain-containing protein	.	+	>|	70	
+NZ_CP027858.1	4847732	4847733	-	.	-	-	205	
+NZ_CP027858.1	4854419	4854420	-	.	-	-	161	
+NZ_CP027858.1	4854840	4854841	-	.	-	-	582	
+NZ_CP027858.1	4858804	4858805	tyrosine-type recombinase/integrase	.	+	|<	68	conflict
+NZ_CP027858.1	4872212	4872213	-	.	+	-	225	
+NZ_CP027858.1	4878130	4878131	-	.	+	-	56	
+NZ_CP027858.1	4906034	4906035	serine protease	.	+	>|	34	
+NZ_CP027858.1	4906084	4906085	serine protease	.	-	>|	84	conflict
+NZ_CP027858.1	4906121	4906122	serine protease	.	+	>|	121	
+NZ_CP027858.1	4912745	4912746	-	.	+	-	186	
+NZ_CP027858.1	4927819	4927820	-	.	+	-	325	
+NZ_CP027858.1	4927984	4927985	-	.	+	-	371	
+NZ_CP027858.1	4931081	4931082	DeoR/GlpR family DNA-binding transcription regulator	.	+	>|	47	
+NZ_CP027858.1	4935735	4935736	-	.	+	-	274	
+NZ_CP027858.1	4938924	4938925	-	.	+	-	500	
+NZ_CP027858.1	4939590	4939591	-	.	+	-	36	
+NZ_CP027858.1	4940035	4940036	DUF397 domain-containing protein	.	+	>|	65	
+NZ_CP027858.1	4942373	4942374	-	.	-	-	519	
+NZ_CP027858.1	4942482	4942483	-	.	-	-	410	
+NZ_CP027858.1	5004025	5004026	-	.	-	-	459	
+NZ_CP027858.1	5004134	5004135	-	.	-	-	350	
+NZ_CP027858.1	5009284	5009285	-	.	-	-	43	
+NZ_CP027858.1	5018569	5018570	-	.	-	-	176	
+NZ_CP027858.1	5030875	5030876	-	.	+	-	212	
+NZ_CP027858.1	5043196	5043197	-	.	-	-	758	
+NZ_CP027858.1	5045416	5045417	-	.	+	-	184	
+NZ_CP027858.1	5049403	5049404	RDD family protein|DUF4191 domain-containing protein	.	-	>|<	105,15	
+NZ_CP027858.1	5051573	5051574	-	.	-	-	373	
+NZ_CP027858.1	5065485	5065486	2-oxoglutarate dehydrogenase%2C E2 component%2C dihydrolipoamide succinyltransferase	.	-	|<	30	
+NZ_CP027858.1	5065939	5065940	-	.	-	-	556	
+NZ_CP027858.1	5067519	5067520	-	.	-	-	220	
+NZ_CP027858.1	5075581	5075582	hypothetical protein	.	+	>|	40	
+NZ_CP027858.1	5109999	5110000	-	.	+	-	227	
+NZ_CP027858.1	5138654	5138655	-	.	-	-	402	
+NZ_CP027858.1	5148106	5148107	3-deoxy-7-phosphoheptulonate synthase class II	.	-	>|	44	conflict
+NZ_CP027858.1	5148147	5148148	3-deoxy-7-phosphoheptulonate synthase class II	.	+	>|	85	
+NZ_CP027858.1	5163932	5163933	-	.	+	-	180	
+NZ_CP027858.1	5169794	5169795	-	.	+	-	4	
+NZ_CP027858.1	5176175	5176176	carbonic anhydrase	.	-	|<	26	
+NZ_CP027858.1	5176269	5176270	-	.	-	-	520	
+NZ_CP027858.1	5184239	5184240	-	.	+	-	254	
+NZ_CP027858.1	5191534	5191535	cell division protein FtsZ	.	+	>|	84	
+NZ_CP027858.1	5193295	5193296	-	.	+	-	323	
+NZ_CP027858.1	5193864	5193865	-	.	+	-	135	
+NZ_CP027858.1	5194178	5194179	YggT family protein	.	+	>|	93	
+NZ_CP027858.1	5194355	5194356	-	.	+	-	270	
+NZ_CP027858.1	5195299	5195300	DivIVA domain-containing protein	.	+	>|	40	
+NZ_CP027858.1	5200597	5200598	-	.	+	-	282	
+NZ_CP027858.1	5212361	5212362	-	.	+	-	972	
+NZ_CP027858.1	5230223	5230224	bifunctional 1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase/phosphoribosylanthranilate isomerase PriA	.	+	>|	80	
+NZ_CP027858.1	5238154	5238155	-	.	+	-	142	
+NZ_CP027858.1	5244580	5244581	-	.	-	-	384	
+NZ_CP027858.1	5278279	5278280	serine protease	.	+	>|	94	
+NZ_CP027858.1	5293284	5293285	-	.	+	-	388	
+NZ_CP027858.1	5294522	5294523	pyruvate kinase	.	+	>|	39	
+NZ_CP027858.1	5294580	5294581	pyruvate kinase	.	+	>|	97	
+NZ_CP027858.1	5295412	5295413	response regulator|ABC transporter ATP-binding protein	.	-	>|<	43,90	
+NZ_CP027858.1	5299850	5299851	branched-chain amino acid ABC transporter substrate-binding protein	.	-	|<	70	
+NZ_CP027858.1	5316175	5316176	-	.	+	-	593	
+NZ_CP027858.1	5317905	5317906	-	.	+	-	199	
+NZ_CP027858.1	5319056	5319057	-	.	+	-	223	
+NZ_CP027858.1	5341046	5341047	-	.	+	-	285	
+NZ_CP027858.1	5343820	5343821	-	.	+	-	101	
+NZ_CP027858.1	5361351	5361352	M14 family metallopeptidase	.	+	>|	97	
+NZ_CP027858.1	5362593	5362594	type I glyceraldehyde-3-phosphate dehydrogenase	.	+	>|	111	
+NZ_CP027858.1	5364694	5364695	triose-phosphate isomerase	.	+	>|	71	
+NZ_CP027858.1	5364890	5364891	-	.	+	-	267	
+NZ_CP027858.1	5365497	5365498	RNA polymerase-binding protein RbpA	.	+	>|	44	
+NZ_CP027858.1	5373884	5373885	transaldolase	.	-	|<	86	
+NZ_CP027858.1	5385874	5385875	-	.	+	-	445	
+NZ_CP027858.1	5392693	5392694	2%2C3%2C4%2C5-tetrahydropyridine-2%2C6-dicarboxylate N-succinyltransferase|hypothetical protein	.	+	>|<	16,87	
+NZ_CP027858.1	5398465	5398466	hypothetical protein	.	-	|<	60	
+NZ_CP027858.1	5407470	5407471	DUF839 domain-containing protein	.	+	>|	71	
+NZ_CP027858.1	5416792	5416793	-	.	-	-	740	
+NZ_CP027858.1	5446421	5446422	hypothetical protein	.	-	|<	61	
+NZ_CP027858.1	5447589	5447590	-	.	-	-	672	
+NZ_CP027858.1	5455184	5455185	-	.	+	-	98	
+NZ_CP027858.1	5455260	5455261	-	.	+	-	22	
+NZ_CP027858.1	5455374	5455375	-	.	+	-	326	
+NZ_CP027858.1	5455743	5455744	-	.	+	-	695	
+NZ_CP027858.1	5467419	5467420	lysoplasmalogenase|S8 family serine peptidase	.	-	>|<	9,121	
+NZ_CP027858.1	5469789	5469790	DUF485 domain-containing protein	.	+	>|	61	
+NZ_CP027858.1	5472947	5472948	DUF3099 domain-containing protein	.	-	|<	91	
+NZ_CP027858.1	5473212	5473213	-	.	-	-	348	
+NZ_CP027858.1	5474540	5474541	-	.	-	-	653	
+NZ_CP027858.1	5478870	5478871	-	.	+	-	442	
+NZ_CP027858.1	5499026	5499027	YbhB/YbcL family Raf kinase inhibitor-like protein	.	-	|<	70	
+NZ_CP027858.1	5499529	5499530	-	.	-	-	196	
+NZ_CP027858.1	5499601	5499602	sporulation protein	.	-	|<	124	
+NZ_CP027858.1	5500383	5500384	-	.	-	-	200	
+NZ_CP027858.1	5501420	5501421	-	.	+	-	196	
+NZ_CP027858.1	5531353	5531354	-	.	+	-	286	
+NZ_CP027858.1	5534838	5534839	-	.	+	-	678	
+NZ_CP027858.1	5543458	5543459	ribosome biogenesis GTPase Der|hypothetical protein	.	+	>|<	19,69	
+NZ_CP027858.1	5566326	5566327	-	.	+	-	245	
+NZ_CP027858.1	5566484	5566485	-	.	+	-	403	
+NZ_CP027858.1	5580163	5580164	response regulator	.	+	|<	71	conflict
+NZ_CP027858.1	5584140	5584141	tripartite tricarboxylate transporter permease|DUF402 domain-containing protein	.	+	>|<	52,22	
+NZ_CP027858.1	5606935	5606936	-	.	+	-	241	
+NZ_CP027858.1	5618830	5618831	-	.	+	-	421	
+NZ_CP027858.1	5621329	5621330	-	.	-	-	62	
+NZ_CP027858.1	5623138	5623139	-	.	+	-	12	
+NZ_CP027858.1	5623468	5623469	chaplin	.	+	>|	85	
+NZ_CP027858.1	5633651	5633652	-	.	+	-	298	
+NZ_CP027858.1	5637983	5637984	-	.	-	-	652	
+NZ_CP027858.1	5651139	5651140	-	.	+	-	361	
+NZ_CP027858.1	5660027	5660028	ABC transporter substrate-binding protein|response regulator transcription factor	.	-	>|<	99,15	
+NZ_CP027858.1	5660571	5660572	-	.	-	-	219	
+NZ_CP027858.1	5664901	5664902	hypothetical protein|ferredoxin	.	-	>|<	44,65	
+NZ_CP027858.1	5667306	5667307	-	.	+	-	260	
+NZ_CP027858.1	5670287	5670288	-	.	+	-	361	
+NZ_CP027858.1	5671114	5671115	-	.	+	-	509	
+NZ_CP027858.1	5674732	5674733	-	.	+	-	558	
+NZ_CP027858.1	5674810	5674811	-	.	+	-	636	
+NZ_CP027858.1	5680734	5680735	Sec-independent protein translocase subunit TatA	.	+	>|	74	
+NZ_CP027858.1	5692635	5692636	-	.	+	-	412	
+NZ_CP027858.1	5692724	5692725	-	.	+	-	501	
+NZ_CP027858.1	5695309	5695310	-	.	-	-	266	
+NZ_CP027858.1	5695479	5695480	ABC transporter permease/substrate binding protein	.	+	>|	81	
+NZ_CP027858.1	5710917	5710918	-	.	+	-	15	
+NZ_CP027858.1	5711306	5711307	-	.	+	-	446	
+NZ_CP027858.1	5712047	5712048	50S ribosomal protein L35	.	+	>|	101	
+NZ_CP027858.1	5718786	5718787	phenylalanine--tRNA ligase subunit beta	.	-	>|	12	conflict
+NZ_CP027858.1	5718876	5718877	phenylalanine--tRNA ligase subunit beta	.	-	>|	102	conflict
+NZ_CP027858.1	5718942	5718943	-	.	-	-	168	
+NZ_CP027858.1	5723778	5723779	-	.	-	-	185	
+NZ_CP027858.1	5743083	5743084	-	.	+	-	47	
+NZ_CP027858.1	5745202	5745203	argininosuccinate synthase	.	+	>|	63	
+NZ_CP027858.1	5751196	5751197	glycerophosphodiester phosphodiesterase	.	-	>|	23	conflict
+NZ_CP027858.1	5751253	5751254	glycerophosphodiester phosphodiesterase	.	+	>|	80	
+NZ_CP027858.1	5758572	5758573	-	.	+	-	142	
+NZ_CP027858.1	5767577	5767578	hypothetical protein	.	+	>|	126	
+NZ_CP027858.1	5767675	5767676	-	.	-	-	224	
+NZ_CP027858.1	5767917	5767918	-	.	-	-	466	
+NZ_CP027858.1	5767991	5767992	-	.	-	-	403	
+NZ_CP027858.1	5768099	5768100	-	.	-	-	295	
+NZ_CP027858.1	5774790	5774791	TIGR02611 family protein	.	+	>|	55	
+NZ_CP027858.1	5774867	5774868	-	.	+	-	132	
+NZ_CP027858.1	5775696	5775697	exonuclease domain-containing protein	.	+	|<	58	conflict
+NZ_CP027858.1	5776985	5776986	-	.	+	-	506	
+NZ_CP027858.1	5781824	5781825	-	.	-	-	541	
+NZ_CP027858.1	5785649	5785650	-	.	+	-	122	
+NZ_CP027858.1	5791210	5791211	YebC/PmpR family DNA-binding transcriptional regulator	.	+	>|	66	
+NZ_CP027858.1	5791292	5791293	-	.	+	-	148	
+NZ_CP027858.1	5794111	5794112	-	.	+	-	340	
+NZ_CP027858.1	5794785	5794786	-	.	+	-	407	
+NZ_CP027858.1	5795464	5795465	-	.	+	-	865	
+NZ_CP027858.1	5797165	5797166	-	.	+	-	282	
+NZ_CP027858.1	5810460	5810461	-	.	+	-	65	
+NZ_CP027858.1	5810613	5810614	-	.	+	-	218	
+NZ_CP027858.1	5811273	5811274	30S ribosomal protein S4	.	+	>|	69	
+NZ_CP027858.1	5825216	5825217	transcription antitermination factor NusB	.	+	>|	32	
+NZ_CP027858.1	5837131	5837132	-	.	+	-	207	
+NZ_CP027858.1	5837411	5837412	integration host factor	.	+	>|	112	
+NZ_CP027858.1	5838084	5838085	-	.	+	-	174	
+NZ_CP027858.1	5838343	5838344	DNA-directed RNA polymerase subunit omega	.	+	>|	92	
+NZ_CP027858.1	5849776	5849777	-	.	-	-	253	
+NZ_CP027858.1	5856170	5856171	RNA polymerase sigma factor SigF	.	+	>|	28	
+NZ_CP027858.1	5856750	5856751	Lrp/AsnC family transcriptional regulator	.	+	>|	2	
+NZ_CP027858.1	5867909	5867910	-	.	+	-	74	
+NZ_CP027858.1	5872951	5872952	-	.	+	-	340	
+NZ_CP027858.1	5878987	5878988	-	.	-	-	140	
+NZ_CP027858.1	5882015	5882016	-	.	+	-	292	
+NZ_CP027858.1	5882857	5882858	-	.	+	-	26	
+NZ_CP027858.1	5883171	5883172	-	.	+	-	629	
+NZ_CP027858.1	5887411	5887412	-	.	+	-	230	
+NZ_CP027858.1	5889146	5889147	FxsA family protein|RNA polymerase-binding protein RbpA	.	-	>|<	88,27	
+NZ_CP027858.1	5889272	5889273	-	.	-	-	214	
+NZ_CP027858.1	5889332	5889333	-	.	-	-	274	
+NZ_CP027858.1	5918811	5918812	-	.	+	-	897	
+NZ_CP027858.1	5920190	5920191	-	.	-	-	1228	
+NZ_CP027858.1	5925145	5925146	-	.	-	-	396	
+NZ_CP027858.1	5943845	5943846	-	.	+	-	1198	
+NZ_CP027858.1	5945330	5945331	mannose-1-phosphate guanyltransferase	.	+	>|	76	
+NZ_CP027858.1	5947739	5947740	-	.	+	-	283	
+NZ_CP027858.1	5947847	5947848	-	.	+	-	391	
+NZ_CP027858.1	5948132	5948133	-	.	+	-	372	
+NZ_CP027858.1	5948607	5948608	zinc-ribbon and FHA domain-containing protein	.	+	>|	121	
+NZ_CP027858.1	5949864	5949865	bifunctional nuclease family protein	.	+	>|	51	
+NZ_CP027858.1	5954675	5954676	-	.	+	-	1252	
+NZ_CP027858.1	5955805	5955806	aminomethyl-transferring glycine dehydrogenase|DUF5999 family protein	.	-	>|<	26,122	
+NZ_CP027858.1	5957272	5957273	-	.	-	-	210	
+NZ_CP027858.1	5977983	5977984	-	.	+	-	402	
+NZ_CP027858.1	5997746	5997747	-	.	-	-	70	
+NZ_CP027858.1	6001957	6001958	acyltransferase	.	-	>|	87	conflict
+NZ_CP027858.1	6014876	6014877	-	.	-	-	1257	
+NZ_CP027858.1	6024758	6024759	-	.	+	-	588	
+NZ_CP027858.1	6024959	6024960	-	.	+	-	387	
+NZ_CP027858.1	6026196	6026197	GntR family transcriptional regulator|ROK family transcriptional regulator	.	+	>|<	83,122	
+NZ_CP027858.1	6027242	6027243	-	.	-	-	660	
+NZ_CP027858.1	6041445	6041446	-	.	-	-	568	
+NZ_CP027858.1	6041522	6041523	-	.	-	-	13	
+NZ_CP027858.1	6051411	6051412	alpha/beta hydrolase|1-acyl-sn-glycerol-3-phosphate acyltransferase	.	+	>|<	56,5	
+NZ_CP027858.1	6062295	6062296	-	.	-	-	193	
+NZ_CP027858.1	6154831	6154832	-	.	+	-	58	
+NZ_CP027858.1	6165407	6165408	-	.	+	-	665	
+NZ_CP027858.1	6227844	6227845	WXG100 family type VII secretion target	.	+	>|	38	
+NZ_CP027858.1	6238421	6238422	-	.	+	-	623	
+NZ_CP027858.1	6245429	6245430	cold-shock protein	.	-	|<	60	
+NZ_CP027858.1	6310018	6310019	winged helix-turn-helix domain-containing protein	.	+	|<	123	conflict
+NZ_CP027858.1	6310083	6310084	winged helix-turn-helix domain-containing protein	.	+	|<	58	conflict
+NZ_CP027858.1	6330638	6330639	-	.	+	-	554	
+NZ_CP027858.1	6330823	6330824	-	.	+	-	739	
+NZ_CP027858.1	6331771	6331772	-	.	+	-	134	
+NZ_CP027858.1	6332725	6332726	-	.	+	-	107	
+NZ_CP027858.1	6338641	6338642	-	.	+	-	924	
+NZ_CP027858.1	6339210	6339211	-	.	+	-	403	
+NZ_CP027858.1	6341979	6341980	-	.	-	-	544	
+NZ_CP027858.1	6364724	6364725	-	.	-	-	28	
+NZ_CP027858.1	6374060	6374061	-	.	-	-	142	
+NZ_CP027858.1	6447391	6447392	-	.	-	-	416	
+NZ_CP027858.1	6447727	6447728	-	.	-	-	266	
+NZ_CP027858.1	6475847	6475848	hydrogenase expression/formation protein HypE	.	+	|<	78	conflict
+NZ_CP027858.1	6479528	6479529	arginase family protein	.	+	>|	29	
+NZ_CP027858.1	6497250	6497251	-	.	+	-	288	
+NZ_CP027858.1	6517140	6517141	N-acetylmuramoyl-L-alanine amidase	.	-	|<	51	
+NZ_CP027858.1	6523181	6523182	hypothetical protein	.	+	>|	65	
+NZ_CP027858.1	6551998	6551999	SAM-dependent methyltransferase|helix-turn-helix domain-containing protein	.	+	>|<	28,125	
+NZ_CP027858.1	6574894	6574895	-	.	+	-	178	
+NZ_CP027858.1	6586647	6586648	-	.	+	-	265	
+NZ_CP027858.1	6586700	6586701	-	.	+	-	212	
+NZ_CP027858.1	6586771	6586772	-	.	+	-	141	
+NZ_CP027858.1	6588190	6588191	-	.	-	-	43	
+NZ_CP027858.1	6670923	6670924	-	.	+	-	688	
+NZ_CP027859.1	64574	64575	WXG100 family type VII secretion target	.	-	|<	73	
+NZ_CP027859.1	144028	144029	-	.	+	-	429	
+NZ_CP027859.1	175032	175033	-	.	-	-	1048	
+NZ_CP027859.1	202971	202972	-	.	+	-	132	
+NZ_CP027859.1	203426	203427	-	.	+	-	587	
+NZ_CP027859.1	204152	204153	-	.	-	-	436	
+NZ_CP027859.1	204230	204231	-	.	-	-	514	
+NZ_CP027859.1	232737	232738	hypothetical protein	.	-	|<	85	
+NZ_CP027859.1	236259	236260	GNAT family N-acetyltransferase	.	+	|<	19	conflict
+NZ_CP027859.1	236378	236379	-	.	+	-	457	
+NZ_CP027859.1	238194	238195	-	.	-	-	68	
+NZ_CP027859.1	342204	342205	RNA ligase family protein|peptidase inhibitor family I36 protein	.	-	>|<	112,123	
+NZ_CP027859.1	398222	398223	-	.	-	-	343	
+NZ_CP027859.1	403125	403126	-	.	-	-	608	
+NZ_CP027859.1	407936	407937	-	.	-	-	154	
+NZ_CP027859.1	408045	408046	-	.	-	-	180	
+NZ_CP027859.1	408342	408343	-	.	-	-	478	
+NZ_CP027859.1	416915	416916	SAM-dependent methyltransferase	.	+	>|	102	
+NZ_CP027859.1	419857	419858	-	.	+	-	146	
+NZ_CP027859.1	420514	420515	helix-turn-helix transcriptional regulator	.	+	|<	110	conflict
+NZ_CP027859.1	422260	422261	-	.	+	-	109	
+NZ_CP027859.1	425648	425649	-	.	+	-	510	
+NZ_CP027859.1	488425	488426	phospholipase	.	-	|<	72	
+NZ_CP027859.1	496186	496187	-	.	+	-	723	
+NZ_CP027859.1	498271	498272	-	.	+	-	219	
+NZ_CP027859.1	537809	537810	hypothetical protein	.	+	>|	59	
+NZ_CP027859.1	537971	537972	-	.	+	-	146	
+NZ_CP027859.1	538115	538116	-	.	+	-	2	
+NZ_CP027859.1	538293	538294	-	.	+	-	543	
+NZ_CP027859.1	538661	538662	-	.	+	-	911	
+NZ_CP027859.1	563188	563189	-	.	+	-	352	
+NZ_CP027859.1	563394	563395	hypothetical protein	.	+	>|	66	
+NZ_CP027859.1	583107	583108	-	.	-	-	91	
+NZ_CP027859.1	609942	609943	-	.	+	-	319	
+NZ_CP027859.1	626090	626091	hypothetical protein|tetratricopeptide repeat protein	.	+	>|<	47,2	
+NZ_CP027859.1	739416	739417	-	.	-	-	132	
+NZ_CP027859.1	741347	741348	hypothetical protein	.	+	|<	66	conflict
+NZ_CP027859.1	750046	750047	-	.	-	-	315	
+NZ_CP027859.1	764492	764493	-	.	+	-	146	
+NZ_CP027859.1	764602	764603	-	.	+	-	256	
+NZ_CP027859.1	809947	809948	-	.	+	-	562	
+NZ_CP027859.1	821208	821209	LLM class flavin-dependent oxidoreductase	.	+	>|	82	
+NZ_CP027859.1	835290	835291	helix-turn-helix domain-containing protein	.	+	|<	93	conflict
+NZ_CP027859.1	875436	875437	TerB family tellurite resistance protein	.	-	|<	117	
+NZ_CP027859.1	881196	881197	hypothetical protein	.	-	|<	56	
+NZ_CP027859.1	881488	881489	-	.	-	-	21	
+NZ_CP027859.1	881624	881625	-	.	-	-	157	
+NZ_CP027859.1	887713	887714	GNAT family N-acetyltransferase|hypothetical protein	.	-	>|<	4,74	
+NZ_CP027859.1	891968	891969	hypothetical protein|hydroxyurea phosphotransferase	.	+	>|<	52,100	
+NZ_CP027859.1	893253	893254	hypothetical protein	.	-	|<	24	
+NZ_CP027859.1	894319	894320	-	.	-	-	179	
+NZ_CP027859.1	925336	925337	sporulation protein|DUF397 domain-containing protein	.	-	>|<	9,46	
+NZ_CP027859.1	936241	936242	helix-turn-helix domain-containing protein	.	+	>|	67	
+NZ_CP027859.1	939435	939436	ParB/RepB/Spo0J family partition protein	.	-	|<	84	
+NZ_CP027859.1	945635	945636	-	.	-	-	121	
+NZ_CP027859.1	971075	971076	-	.	+	-	168	
+NZ_CP027859.1	978616	978617	hypothetical protein	.	-	|<	69	
+NZ_CP027859.1	991359	991360	-	.	+	-	203	
+NZ_CP027859.1	991413	991414	-	.	+	-	149	
+NZ_CP027859.1	996019	996020	-	.	-	-	481	
+NZ_CP027859.1	996702	996703	-	.	-	-	223	
+NZ_CP027859.1	1007146	1007147	-	.	+	-	287	
+NZ_CP027859.1	1009423	1009424	-	.	+	-	524	
+NZ_CP027859.1	1011002	1011003	SPFH domain-containing protein	.	-	>|	121	conflict
+NZ_CP027859.1	1014235	1014236	RICIN domain-containing protein	.	+	>|	70	
+NZ_CP027859.1	1050021	1050022	-	.	+	-	47	
+NZ_CP027859.1	1099903	1099904	-	.	+	-	393	
+NZ_CP027859.1	1099998	1099999	-	.	-	-	298	
+NZ_CP027859.1	1100015	1100016	-	.	+	-	281	
+NZ_CP027859.1	1100095	1100096	-	.	+	-	201	
+NZ_CP027859.1	1100117	1100118	-	.	-	-	179	
+NZ_CP027859.1	1132649	1132650	-	.	+	-	398	
+NZ_CP027859.1	1165943	1165944	transglycosylase family protein	.	+	|<	99	conflict
+NZ_CP027859.1	1179571	1179572	-	.	+	-	588	
+NZ_CP027859.1	1184826	1184827	-	.	-	-	222	
+NZ_CP027859.1	1184943	1184944	cytochrome P450	.	-	|<	105	
+NZ_CP027859.1	1198600	1198601	LuxR C-terminal-related transcriptional regulator	.	-	|<	45	
+NZ_CP027859.1	1224979	1224980	-	.	+	-	462	
+NZ_CP027859.1	1236736	1236737	-	.	-	-	19	
+NZ_CP027859.1	1268870	1268871	hypothetical protein	.	+	>|	59	
+NZ_CP027859.1	1273681	1273682	-	.	-	-	1528	
+NZ_CP027859.1	1284068	1284069	ATP-binding protein	.	+	|<	119	conflict
+NZ_CP027859.1	1305607	1305608	Antifungal protein	.	+	>|	46	
+NZ_CP027859.1	1347232	1347233	-	.	-	-	23	
+NZ_CP027859.1	1374377	1374378	hypothetical protein	.	-	|<	59	
+NZ_CP027859.1	1384014	1384015	-	.	+	-	437	
+NZ_CP027859.1	1406905	1406906	-	.	-	-	105	
+NZ_CP027859.1	1447050	1447051	-	.	+	-	1616	
+NZ_CP027859.1	1576613	1576614	hypothetical protein|peptidase inhibitor family I36 protein	.	+	>|<	49,22	
+NZ_CP027859.1	1582941	1582942	-	.	+	-	317	
+NZ_CP027859.1	1608658	1608659	hypothetical protein	.	+	|<	21	conflict
+NZ_CP027859.1	1654110	1654111	-	.	-	-	297	
+NZ_CP027859.1	1686661	1686662	-	.	-	-	37	
+NZ_CP027859.1	1719382	1719383	-	.	+	-	316	
+NZ_CP027859.1	1725538	1725539	-	.	-	-	186	
+NZ_CP027859.1	1783141	1783142	-	.	-	-	598	
